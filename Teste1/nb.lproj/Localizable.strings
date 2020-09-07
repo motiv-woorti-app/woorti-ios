@@ -1,0 +1,1186 @@
+
+/*Drawer titles*/
+"Drawer_Title_Home" = "Hjem";
+"Drawer_Title_Route_Planner" = "Ruteplanlegger";
+"Drawer_Title_My_Trips" = "Mine reiser";
+"Drawer_Title_Dashboard" = "Oversikt";
+"Drawer_Title_Mobility_Coach" = "Motivasjon";
+"Drawer_Title_Profile" = "Profil";
+"Drawer_Title_Settings" = "Profil og innstilling";
+"Drawer_Title_Report_Issue" = "Send tilbakemelding";
+"Drawer_Title_Finish_Log_Out" = "Logg ut";
+"login_what_is_email_address" = "Hva er e-postadressen din?";
+"login_enter_your_password" = "Fyll inn passord";
+
+/*Profile and settings options*/
+"Edit_Profile" = "Rediger profil";
+"Set_Home_And_Work" = "Fyll inn hjemsted og arbeidssted";
+"Demographic_Info" = "Demografisk informasjon";
+"Worthwhileness_Settings" = "Verdi-innstillinger";
+"Tutorials" = "Gjennomgang";
+"Transport_Preferences" = "Reiseønsker";
+
+/*<string name="APP_PERMISSIONS">App permissions</string>*/
+"App_Language" = "App-språk";
+"Change_Password" = "Endre passord";
+"Feedback" = "Tilbakemelding";
+"Log_Out" = "Logg ut";
+
+/*Education labels*/
+"Education_8th_Grade" = "Grunnskole";
+"Education_Some_Highschool" = "Noe videregående";
+
+/*Fuzzy*/
+"Education_Highschool" = "Vidergående";
+"Education_Some_College" = "Høyere utdanning uten grad";
+"Education_Training" = "Teknisk- eller yrkesudanning";
+"Education_Bachelor" = "Bachelorgrad eller tilsvarende";
+"Education_Master" = "Mastergrad eller tilsvarende";
+
+/*Maybe "professor"*/
+"Education_Professional" = "Profesjonell grad";
+"Education_Doctorate" = "Doktorgrad";
+
+/*Not familiar with that term*/
+"Education_Associate" = "Høyskolekandidat";
+"Education_No_Schooling" = "Ingen utdanning";
+
+/*Demographic option*/
+"Demographic_Option_General" = "Generelt";
+
+/*<string name="DEMOGRAPHIC_OPTION_HOUSEHOLD_DATA">Household data</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_CAPABILITIES">Mobility capabilities</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_PREFERENCES">Mobility preferences</string>
+ <string name="DEMOGRAPHIC_OPTION_EXPERIENCE_FACTORS">Experience factors</string>
+ General suboptions*/
+"Age" = "Alder";
+
+/*message: Gender*/
+"Gender" = "Kjønn";
+"Education" = "Utdanning";
+"Country" = "Land";
+"City" = "Kommune";
+
+/*Tutorial options*/
+"Tutorial_Option_What_Is_Worthwhileness" = "Hva er verdifullt";
+
+/*Productivity*/
+"Productivity_Percentage" = "Produktivitet %@";
+"Mind_Percentage" = "Fornøyelse %@";
+"Body_Percentage" = "Trening %@";
+
+/*Main menu options
+ <string name="NEW_INTERFACE_TEXT">New interface</string>
+ My trips module*/
+"My_Trips" = "Mine reiser";
+"Start_Trip" = "Start reise";
+"End_Trip" = "Avslutt reise";
+"Trip_Being_Recorded" = "En reise registeres nå";
+
+/*Edit trips*/
+"Select_Trips_To_Merge" = "Velg reiser du vil slå sammen";
+"Confirm_Trips_To_Merge" = "Bekreft å slå sammen valgte reiser";
+"Select_Trips_To_Split" = "Velg en reise du vil dele opp";
+"Move_The_Map_To_Split" = "Beveg kartet for å dele opp reise";
+"Select_Trips_To_Delete" = "Velg en reise du vil fjerne";
+"Split" = "Del opp";
+"Merge" = "Slå sammen";
+"Delete" = "Fjern";
+"Select_Legs_To_Split" = "Velg etapper og/eller overganger fra listen under for å dele";
+"Move_The_Map_To_Split_The_Leg" = "Beveg kartet og velg hvor du vil dele reisen";
+"Edited" = "Endret";
+"Select_Legs_To_Merge" = "Velg etapper og/eller overganger fra listen under for å slå sammen";
+"Confirm_The_Legs_To_Merge" = "Bekreft at du vil slå sammen etapper og/eller overganger";
+"Rate_Your_Edited_Trips" = "Vurder reisen du har endret";
+"Select_Legs_To_Delete" = "Velg etapper du vil fjerne";
+"Confirm_The_Legs_To_delete" = "Bekreft at du vil fjerne etapper og/eller overganger";
+
+/*Leg validation*/
+"Validated" = "Godkjennt";
+"How_Did_You_Travel" = "Hvordan reiste du?";
+
+/*message: Public Transport*/
+"Public_Transport" = "Kollektivt";
+"Active_Semi_Active" = "Mosjon";
+"Private_Motorised" = "Motorisert";
+"Not_Sure" = "Usikker";
+"Lousy" = "Dårlig";
+"Overall_Feel_About_Trip" = "Hva synes du om reisen i sin helhet?";
+"Great" = "Super";
+"Travel_Time_Wasted_Min_Text" = "All tid var bortkasta";
+"Travel_Time_Wasted_Question_Text" = "Fikk du noe verdifullt ut av reisetiden?";
+"Travel_Time_Wasted_Max_Text" = "All tid var verdifull";
+
+/*please update translation from new english text*/
+"Which_Factors_Most_Contributed" = "Velg faktorene som i størst grad påvirket kvaliteten på reisetiden";
+"Unfold_All_That_Apply" = "Velg (+) for positive opplevelser og (-) for negative";
+
+/*Factors*/
+"Infrastructure_And_Services" = "Infrastruktur og tjenester";
+"Comfort_And_Pleasantness" = "Komfort og hygge";
+"Getting_There" = "Navigering";
+"Tables" = "Bord";
+"Toilets" = "Toalett";
+"Food_Drink_Allowed" = "Kan nyte medbrakt";
+"Food_Drink_Available" = "Salg av mat og drikke";
+"Shopping_Retail" = "Mulighet å handle";
+"Entertainment" = "Underholdning";
+"Noise_Level" = "Støynivå";
+"Cleanliness" = "Renslighet";
+"Scenery" = "Omgivelsene";
+"Todays_Weather" = "Været";
+"Privacy" = "Privatliv";
+"Traffic_Signals_Crossings" = "Lyskryss/fotgjengerfelt";
+"Crowding_Congestion" = "Trengsel";
+"Traffic_Congestion_Delays" = "Køer/forsinkelser";
+"Others_Comments" = "Annet/kommentarer";
+
+/*Activities*/
+"What_Did_You_Do_And_Value" = "Hva spesifikt verdsatte du?";
+"Driving_Cycling_Walking" = "Kjøre/Sykle/Gå";
+"Relaxing_Sleeping" = "Slappe av eller sove";
+"Browsing_Social_Media" = "Nyheter eller sosiale medier";
+"Reading_Writing_Paper" = "Lese / skrive (analog)";
+"Reading_Writing_Device" = "Lese / skrive (digitalt)";
+"Listening_To_Audio" = "Bruke hodetelefoner";
+"Walking_Video_Gaming" = "Se video eller spille";
+"Talking_Including_Phone" = "Snakke (også i telefon)";
+"Accompanying_Someone" = "Reisefølge";
+"Eating_Drinking" = "Spise / drikke";
+"Personal_Caring" = "Personlig pleie";
+"Thinking" = "Fundere";
+
+/*Value this part of the trip*/
+"What_Value_Take_From_Part" = "Hvilken verdi fikk du ut av denne delen av turen?";
+"Paid_Work" = "Betalt arbeid";
+"Personal_Tasks" = "Personlige gjøremål";
+
+/*message: Enjoyment*/
+"Enjoyment" = "Hygge";
+
+/*message: Fitness*/
+"Fitness" = "Trening";
+"None" = "Ingen";
+"Some" = "Noe";
+"High" = "Mye";
+
+/*Thinking about trip as a whole*/
+"Thinking_About_Your_Trip_Title" = "Ville du helst brukt reisetiden til ... ?";
+
+/*message: Productivity*/
+"Productivity" = "Produktivitet";
+"Anything_Else_Like_To_Share" = "Vil du tilføye noe annet?";
+
+/*message: I would like to share...*/
+"Would_Like_To_Share" = "Jeg vil tilføye...";
+"Today" = "I dag";
+"Yesterday" = "I går";
+"Validate_Your_Trip" = "En ny tur er registrert! Godkjenn den og tjen %@ poeng!";
+"What_Was_Purpose" = "Hva var hensikten med turen?";
+"Mark_All_That_Apply" = "Marker de som passer";
+
+/*Trip purposes*/
+"Work" = "Arbeid";
+"School_Education" = "Skole/Utdanning";
+"Home" = "Hjem";
+"Everyday_Shopping" = "Handle dagligvarer";
+"Business_Trip" = "Tjenestereise";
+"Leisure_Hobby" = "Fritid/Hobby";
+"Pick_Up_Drop_Off" = "Hente/Levere noen";
+"Personal_Tasks_Errands" = "Personlig ærend";
+"Trip_Itself" = "Selve reisen";
+
+/*message: Other*/
+"Other" = "Annen";
+"Arrive_At_Fixed_Time" = "Måtte du komme fram til et bestemt tidspunkt?";
+"How_Often_Make_This_Trip" = "Hvor ofte tar du denne reisen?";
+"Regularly" = "Jevnlig";
+"Occasionally" = "Innimellom";
+"First_Time" = "Første gang";
+"Select_Part_Of_Trip_Feedback" = "Velg en del av turen og gi videre tilbakemelding";
+
+/*<string name="objective_other_hint">Where you travelled and why</string>*/
+"Confirm_Modes_Of_Your_Trips" = "Bekreft reisemåte";
+
+/*message: Transfer*/
+"Transfer" = "Overgang";
+"Auto_Detected" = "Automatisk gjenkjenning";
+
+/*message: were you %@ ?*/
+"Were_You_Walking_Or_Running" = "%@ du?";
+
+/*message: Did you go by %@ ?*/
+"Did_You_Go_The_Mode" = "Reiste du med %@?";
+
+/*modes of transport*/
+"Walking" = "Gikk";
+"Jogging_Running" = "Jogge/Løpe";
+"Bicycle" = "Sykkel / Vanlig sykkel";
+"Car_Driver" = "Bil (Sjåfør)";
+"Bus_Trolley_Bus" = "Buss";
+"Tram" = "Trikk";
+"Metro" = "T-bane";
+"Urban_Train" = "Lokaltog";
+"Regional_Intercity_Train" = "Regiontog";
+"Ferry_Boat" = "Ferge/Båt";
+"Motorcycle" = "Motorsykkel";
+"Moped" = "Moped";
+"Electric_Bike" = "Elektrisk sykkel";
+"Bike_Sharing" = "Sykkeldeling";
+"Car_Passenger" = "Bil (Passasjer)";
+"Taxi_Ride_Hailing" = "Taxi/bestilt reise";
+"Car_Sharing_Rental_Driver" = "Bildeling/Leiebil (sjåfør)";
+"Car_Sharing_Rental_Passenger" = "Bildeling/Leiebil (passasjer)";
+"car_pooling" = "Samkjøring";
+"Plane" = "Fly";
+"high_speed_train" = "Hurtigtog";
+"Coach_Long_Distance_Bus" = "Turbuss";
+"Micro_Scooter" = "Løpehjul";
+"Skate" = "Rullebrett";
+"Electric_Wheelchair_Cart" = "Elektrisk rullestol";
+"Wheelchair" = "Rullestol";
+"Cargo_Bike" = "Lastesykkel";
+"Other_Public_Transport" = "Annen offentlig transport";
+
+/*Fuzzy*/
+"Other_Active_Semi_Active" = "Annen mosjon";
+"Other_Private_Motorised" = "Annen motorisert";
+
+/*Misc*/
+"Yes" = "Ja";
+"No" = "Nei";
+"Save" = "Lagre";
+"Confirm_All" = "Bekreft alt";
+
+/*message text of \"Next\" button message: Next*/
+"Next" = "Neste";
+"Done" = "Ferdig";
+"End" = "Slutt";
+
+/*Factors Wasted Time*/
+"Skip" = "Hopp over";
+
+/*title for the info pages message: A Little About You*/
+"A_Little_About_You" = "Litt om deg";
+
+/*message: Active/Semi-active*/
+/*Fuzzy*/
+"Active_Semi_active" = "Mosjon";
+
+/*message: Thanks! To record your trips we need your permission to let Woorti access to your location at all times.
+ 
+ It should not excessively consume your battery.*/
+"Ask_location_permission_String" = "Takk. For å kunne registerer turene dine må du gi Woorti tilgang til posisjonene din til enhver tid.\n\nVi ønsker ikke spesifikt å spise av batteriet.";
+
+/*message: Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.*/
+"Ask_location_permission_String_when_user_has_denied" = "Beklager! For at Woorti skal fungere skikkelig trenger vi at du gir tillatelse til å se posisjonen \"Alltid\".";
+
+/*message: Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us!
+ 
+ To do this we need to be able to send you notifications*/
+"Ask_notification_permission_String" = "Til slutt vil vi stille noen spørsmål om opplevelsene dine mens du reiser. Dine erfaringer er viktig for oss. For at vi skal kunne samarbeide, må du tillate oss å sende deg varsler.";
+
+/*message: BACK TO LOGIN*/
+"Back_To_Login" = "Tilbake til innlogging";
+
+/*change language screen title message: Change Language*/
+"Change_Language" = "Endre språk";
+
+/*message: Correct exams*/
+"Correct_Exams" = "Korrekt_Eksamen";
+
+/*title for the first onboarding pages message: Data Protection*/
+"Data_Protection" = "Personvern og datasikkerhet";
+
+/*placeholder for password when registering only*/
+"Didnt_sign_up_yet" = "Glemt passordet?";
+
+/*rating prefered modes of transport message: Doesn't improve my fitness*/
+"Doesnt_Improve_My_Fitness" = "Jeg blir ikke sprekere";
+
+/*email message*/
+"Email" = "Epost";
+
+/*message shown when clcicking to reset a password message: If %@ has an account with Woorti, you will be receiving an email to reset your password*/
+"Email_Has_Been_Sent" = "Vi har sendt deg en epost";
+
+/*rating prefered modes of transport message: Enjoying*/
+"Enjoying" = "Hygge";
+
+/*message: Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…*/
+"Enjoyment_Worthwhile_Description_Score" = "Slappe av eller more seg; Høre på musikk, hvile eller meditere; engasjere seg i sosiale medier; følge med på omgivelsene";
+
+/*message: When I travel,
+ I chill*/
+"Enjoyment_Worthwhile_High_Score" = "Når jeg reiser\nslapper jeg av";
+
+/*placeholder for email in login/register*/
+"Enter_Your_Email_Address" = "Fyll inn epostadresse";
+
+/*name Placeholder message: Enter your name*/
+"Enter_Your_Name" = "Fyll inn navn";
+
+/*placeholder for password in login/register*/
+"Enter_Your_Password" = "Velg passord (minst 6 tegn)";
+
+/*placeholder for password when registering only*/
+"Enter_Your_Password_Again" = "Gjenta passord";
+
+/*error shown to the user when log in failed*/
+"Error_Log_In" = "Feil ved pålogging. Prøv igjen, eller \"Endre passord\"";
+
+/*message: Female*/
+"Female" = "Kvinne";
+
+/*message: Did you know that a person spends about 2 years of her whole life commuting?
+ 
+ Woorti will help you explore your travel time!*/
+/*Fuzzy*/
+"First_Onboarding_Screen_Welcome_Description_Text" = "Visste du at en person bruker to år av livet sitt på pendling?\n\nWoorti hjelper deg å finne ut av DIN reisetid!";
+
+/*message: Your travel time is an important part of your life!*/
+"First_Onboarding_Screen_Welcome_Title" = "Tiden du bruker på pendling er en viktig del av livet ditt!";
+
+/*message: message: Travelling is not at all relaxing*/
+"FitnesEnjoyment_Worthwhile_Low_Scores" = "Pendling er overhode ikke avslappende";
+
+/*message: When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.*/
+"Fitness_Worthwhile_Description_Score" = "Når du går, sykler eller løper når du pendler, får du bedre holdning og ser bedre ut.";
+
+/*message: Travel time is a great way to feel the burn*/
+"Fitness_Worthwhile_High_Score" = "Pendling er en fin måte å øke pulsen";
+
+/*message: Exercise is in the gym/field*/
+"Fitness_Worthwhile_Low_Score" = "Trening gjør man på treningsstudio";
+
+/*Forgot Password*/
+"Forgot_Password" = "Glemt passord";
+
+/*placeholder for password when registering only*/
+"Forgot_Your_Password" = "Har du glemt passordet?";
+
+/*message: Everyone defines what is a worthwhile travel time in his or her different way.
+ 
+ Let's see what that means to you!*/
+"Fourth_Onboarding_Screen_Description" = "Alle har sin definisjon av \"verdifull\" pendling.\n\nHva er din definisjon?";
+
+/*message: I accept MoTiV data protection conditions*/
+"GRPD_Accept" = "Jeg er enig med MoTiVs datalagringsbetingelser.";
+
+/*message: For the European MoTiV project research on travel time, this app collects anonymised data on:
+ 1. Your trips (time, location and transport used)
+ 2. Your expressed preferences and searches within the app*/
+"GRPD_Description" = "For Det europeiske MoTiV forskningsprosjektet om pendling, samler denne appen anonyme data om:\n\n1. Dine reiser (tid, sted og reisemåte)\n2. Dine vanlige valg og søk i appen";
+
+/*message: MoTiV privacy policy is compliant with EU GDPR. Read More*/
+"GRPD_Read_Policy" = "MoTiVs personvernregler er kompatibelt med EUs GDPR. Les mer";
+
+/*rating prefered modes of transport message: Improves my fitness*/
+"Improves_My_Fitness" = "Jeg blir sprekere";
+
+/*splash screen start now button message*/
+/*Fuzzy*/
+"Log_In" = "Returnerende bruker";
+
+/*login with google button message*/
+"Log_In_With_Google" = "Logg inn med Google";
+
+/*message: Male*/
+"Male" = "Mann";
+
+/*message: No worries! Enter your email address below and we will send you a email to reset your password.*/
+"No_Worries_Message" = "Alt i orden! Fyll inn epostadressen din i feltet under og vi sender en epost slik at du kan endre passordet.";
+
+/*rating prefered modes of transport message: Not Enjoying*/
+"Not_Enjoying" = "Liker ikke";
+
+/*%@ not filled*/
+"Not_Filled" = "%@ ikke utfyllt";
+
+/*rating prefered modes of transport message: Not Productive*/
+"Not_Productive" = "Ikke produsiv";
+
+/*message: NOW YOU!*/
+"Now_You" = "Over til DEG!";
+
+/*message: Ok cool*/
+"Ok_Cool" = "Ok";
+
+/*password message*/
+"Password" = "passord";
+
+/*register button message*/
+"Passwords_Dont_Match" = "Registrer";
+
+/*title for the first onboarding pages message: Permissions*/
+"Permissions" = "Tillatelser";
+
+/*message: Private Motirized*/
+"Private_Motirized" = "Motorisert";
+
+/*message: Proceed to Enjoyment*/
+"Proceed_To_Enjoyment" = "Fortsett til Hygge";
+
+/*message: Proceed to Fitness*/
+"Proceed_To_Fitness" = "Forstsett til Mosjon";
+
+/*proceed to productivity button message: Proceed to Productivity*/
+"Proceed_To_Productivity" = "Fortsett til Produktivitet";
+
+/*rating prefered modes of transport message: Productive*/
+"Productive" = "Produktiv";
+
+/*message: Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…*/
+"Productivity_Worthwhile_Description_Score" = "Bruke pendling til å få ting unna, ikke bare jobb eller studier, men også personlige ting som å planlegge hverdagen..";
+
+/*message: I used my  trip to get stuff done!*/
+"Productivity_Worthwhile_High_Score" = "Jeg brukte tiden til å få ting unna!";
+
+/*message: I don’t work when I travel*/
+"Productivity_Worthwhile_Low_Score" = "Jeg jobber ikke mens jeg pendler";
+
+/*message: How important are the travel time worthwhileness elements for you, when you travel?*/
+"Rate_Worthwhileness_Screen_Title" = "Hvor verdifulle er følgende påstander for deg når du pendler?";
+
+/*message: How much enjoyment do you get from your your travel time by:*/
+"Rating_Prefered_Mot_Enj_Title" = "Hvor mye glede fikk du fra reisetiden av å:";
+
+/*message: How does your travel time contribute to your fitness when you travel by:*/
+"Rating_Prefered_Mot_Fit_Title" = "Hvordan påvirker reisetiden din opplevelse av helse og velvære?";
+
+/*message: How productive are you when you travel by:*/
+"Rating_Prefered_Mot_Prod_Title" = "Hvor produktiv er du når du reiser med:";
+
+/*register button message*/
+"Register" = "Registrer";
+
+/*message: Which modes of transport do you use regularly?*/
+"Regualr_Modes_Of_Transport_Title" = "Hvilke transportmåter bruker du jevnlig?";
+
+/*Reset Password*/
+"Reset_Password" = "Endre passord";
+
+/*message: Check out $@ for more information*/
+"Second_Onboarding_Screen_Help_Reseach_Check_Out_Site" = "Les %@ for mer informasjon";
+
+/*message: With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.*/
+"Second_Onboarding_Screen_Help_Reseach_Description" = "Woorti samler kunnskap for bedre transportløsninger ved å bruke informasjonen du gir. Dette deler vi med forskere, transportoperatører og lokale myndigheter i Europa";
+
+/*The message for this text was incorrect, the real message in English is: Help research for better transport
+ When possible please retranslate this message.*/
+"Second_Onboarding_Screen_Help_Reseach_Title" = "Hjelp forskningen for bedre fremkommelighet";
+
+/*sign in button message*/
+"Sign_In" = "Lag bruker";
+
+/*splash screen start now button message*/
+"Start_Now" = "Start nå";
+
+/*message: While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.*/
+"Third_Onboarding_Screen_Description" = "Noen forbereder seg til jobb eller studier mens de pendler, andre lukker øynenen og kobler av. Noen benytter anledningen til å trene, mens andre digger sin favorittmusikk.";
+
+/*error shown to the user when registering with a already signed in email account*/
+"User_Already_Signed_In" = "%@ er allerede registrert som bruker. Vil du logge inn?";
+
+/*title that appears on the top of the login page*/
+"Welcome_Back" = "Velkommen tilbake";
+
+/*title for the first onboarding page message: What is a worthwhile trip*/
+"What_Is_A_Worthwhile_Trip" = "Hva gjør en tur verdifull?";
+
+/*message: What is your age?*/
+"What_Is_Your_Age" = "Hvor gammel er du?";
+
+/*message: What is your name?*/
+"What_Is_Your_Name" = "Hva heter du?";
+
+/*message: Where do you live?*/
+"Where_Do_You_Live" = "Hvor bor du?";
+
+/*you've got mail!*/
+"Youve_Got_Mail" = "Du har fått en epost!";
+"No_Ongoing_Trip_To_Show" = "Ingen pågående reiser å vise";
+"Your_Trip" = "Din reise";
+"Click_On_The_Marker_To_Split_The_Trip" = "Trykk på linjen for å dele reisen";
+"Security_Boarding_Process" = "Sikkerhets- og ombordstigingsproblem";
+"Other_Activity" = "Annen aktivitet";
+"Cycling" = "Sykle";
+"Riding" = "Selve turen";
+"Skating" = "Selve skatingen";
+"Driving" = "Selve kjøringen";
+"Running" = "Selve løpeturen";
+
+/*message: Please wait while Woorti searches for local studies*/
+"Wait_While_Searching_Local_Studies" = "Vennligst vent mens Woorti leter etter lokale undersøkelser";
+
+/*message: There are these studies going near you. Which one(s) do you want to contribute with data to?*/
+"Studies_Title" = "Disse undersøkelsene foregår i nærheten av deg. Hvilke(n) vil du dele data med?";
+"Menu" = "Meny";
+"Set_Home" = "Velg hjemsted";
+"Set_Work" = "Velg arbeidssted";
+"Change_Photo" = "Endre bilde";
+"Name" = "Navn";
+"Define_Home_Location" = "Velg hvor du bor\n";
+"Define_Work_Location" = "Velg hvor du jobber";
+"Edit" = "Endre";
+"Educational_Background" = "Studiebakgrunn";
+"Activities" = "Aktiviteter";
+"While_You_Ride" = "Mens du reiser";
+
+/*Fuzzy*/
+"Ability_To_Do_What_I_Wanted" = "Mulighet til å gjøre hva jeg vil mens jeg reiser";
+"Simplicity_Difficulty_Of_The_Route" = "Rutens kompleksitet";
+"Schedule_Reliability" = "Pålitelig ruteplan";
+"Security_And_Safety" = "Sikkerhet og trygghet";
+"Space_Onboard_For_Lugagge_Pram_Bicycle" = "Plass til bagasje/barnevogn/sykkel o.l.";
+"Ability_To_Take_Pets_Along" = "Mulighet å ta med kjæledyr";
+"Payment_And_Tickets" = "Betaling og billetter";
+"Convenient_Access_Lifts_Boarding" = "Behagelig på-/avstiging (heis, ombordstigning, osv.)";
+"Route_Planning_Navigation_Tools" = "Planleggings- og navigeringsverktøy";
+"Information_And_Signs" = "Informasjon og skilter";
+"Checkin_Security_And_Boarding" = "Innsjekk, sikkerhet og ombordstiging";
+"Crowdedness_Seating" = "Plass/ledige seter";
+"Internet_Connectivity" = "Internettilgang";
+"Ability_To_Do_The_Things_I_Want" = "Mulighet å gjøre ting jeg liker";
+"Charging_Opportunity" = "Lademuligheter";
+"Car_Bike_Parking_At_Transfer_Point" = "Bil-/sykkeparkering på overgangsstedet";
+"Vehicle_Ride_Smoothness" = "Sømløs kjøring";
+"Seating_Quality_Personal_Space" = "Sitter behagelig/intimsfære";
+"Other_People" = "Andre mennesker";
+"Air_Quality_Temperature" = "Luftkvalitet/temperatur";
+"General_Atmosphere_Design" = "Bylandskap og -miljø";
+"Road_Path_Availability_And_Safety" = "Trygge og tilgjengelige veier/stier";
+"Accessibility_Escalators_Lifts_Ramps_Stairs_Etc" = "God tilgjegelighet (rulletrapp, heis, ramper, trapper osv)";
+"Ability_To_Carry_Bags_Luggage_Etc" = "Mulighet å ta med vesker, bagasje osv";
+"Ability_To_Take_Kids_Or_Pets_Along" = "Mulighet til å ta med barn eller kjæledyr";
+"Benches_Toilets_Etc" = "Benker/toalett osv";
+"Facilities_Shower_Lockers" = "Fasiliteter (dusj, skap)";
+"Parking_At_End_Points" = "Parkering på endestoppet";
+"Road_Path_Quality" = "Veikvalitet";
+"Road_Path_Directness" = "Få omveier";
+"Air_Quality" = "Luftkvalitet";
+"Lighting_Visibility" = "Veilys/synlighet";
+"Cars_Other_Vehicles" = "Biler/andre kjøretøy";
+"Space_For_Luggage_Pram_Bicycle_Etc" = "Plass til bagasje/barnevogn/sykkel o.l.";
+"Road_Quality_Vehicle_Ride_Smoothness" = "Veikvalitet/behagelig kjøretøy";
+"Vehicle_Quality" = "Kjøretøyets kvalitet";
+"Seat_Comfort" = "Behagelig sete";
+"Other_Passengers" = "Andre passasjerer";
+"Other_Cars_Vehicles" = "Andre biler/kjøretøy";
+
+/*Button text on second onboarding page*/
+"Lets_Get_Started" = "La oss begynne";
+
+/*Report issue*/
+"Thank_You_For_Submitting_This_Issue" = "Takk for at du gjorde oss oppmerksom. Bekreft innlevering eller fortsett til et annet problem";
+"Confirm_And_Leave" = "Bekreft og avslutt";
+"Confirm_And_Submit_More" = "Bekreft og send inn mer";
+"Where_City" = "Hvor i %@?";
+"OtherCountry" = "Annet land";
+"OtherCity" = "Anne by";
+"Sign_Up_Error" = "Feil ved registering";
+"Sign_Up" = "Registrer";
+"How_Important_Are_The_Following_Factors" = "Hvor viktig er følgende påstander for deg relatert til tiden du bruker på pendling?";
+"Modes_Of_Transport" = "Måter å reise";
+"Help_Research_For_Better_Transport" = "Hjelp forskningen for bedre transportopplevelser";
+"Already_Signed_Up_Log_In_Here" = "Allerede registert? Logg in her";
+"Welcome" = "Velkommen";
+"Refresh_Surveys" = "oppdater underøskelser";
+
+/*This string has the text for the data regarding Activities (e.g., for the walk itself) and *not* the walking mode of transport*/
+"The_Walk_Itself" = "Selve spaseringen";
+"Education_Highshool" = "Videregående skole";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Education_Basic" = "Grunnskole";
+"Education_University" = "Universitet";
+
+/*Ocupation options*/
+"Occupation" = "Arbeid";
+"Ocupation_Student" = "Student";
+"Ocupation_Schedule_Worker" = "Skiftarbeider";
+"Ocupation_Flexible_worker" = "Deltidsansatt";
+"Ocupation_Selfemployed" = "Selvstending næringsdrivende";
+"Ocupation_Seeking_Work" = "Jobbsøker";
+"Ocupation_Inactive" = "Pensjonist";
+"Ocupation_Maternity" = "Foreldrepermisjon";
+"Ocupation_Military" = "Militær-/silviltjeneste";
+
+/*Marital status*/
+"Marital_Status" = "Sivilstand";
+"Marital_Single" = "Enslig";
+"Marital_Married" = "Gift";
+"Matital_Significant_Other" = "Annet forhold";
+"Marital_Divorced" = "Sklit";
+"Marital_Widowed" = "Enke/-mann";
+"Driver_License" = "Førerkort";
+"Household_Yearly_Income" = "Husholdningens nettoinntekt";
+"Number_People_Household" = "Antall personer i husholdningen";
+"Number_Children_household" = "Antall barn i husholdingen";
+"Number_Cars_Household" = "Antall biler i husholdningen";
+"Nationality" = "Nasjonalietet";
+
+/*TODO NEW STRING*/
+/*Fuzzy*/
+"No_Trips_Text" = "På denne siden/skjermen finner du reisene dine og du kan også registrere dem her. Kom tilbake etter at du har tatt deg en tur... \\n\nWoorti gjør sitt beste for å få med seg alle reiser, men om du vil være helt sikker på at de blir registrert kan du trykke på knappen over her ved starten av turen... \\n\nHusk å sjekke at du satt på GPS.";
+
+/*Dashboard*/
+/*you have spent %@ travelling a distance of %@ in %@.*/
+"You_Have_Spent_Complete" = "har du brukt %@ på å reise %@ i %@.";
+"In_Total_You_Spent_Calories" = "Du her brukt tilsammen %@.";
+"And_This_Counted_Carbon_Footprint" = "Og dette tilsvarer %@ av ditt bærekraftige karbonavtrykk.";
+"Your_Trips_Overall_Percentage_Worthwhile" = "Dine reiser har vært %@ verdifulle";
+
+/*What does %@ refer to here? Could someone show me the context where you see this sentence?*/
+"While_Traveling_Activities" = "Mens du reiste brukte du %@ på å %@.";
+"Do_You_Want_To_Set_This_Location_Home" = "Er dette din hjemmeadresse?";
+"Do_You_Want_To_Set_This_Location_Work" = "Er dette din jobbadresse?";
+"Privacy_Policy" = "Personvern";
+
+/*day*/
+"Day" = "Dag";
+
+/*3 days*/
+"Days_3" = "3 dager";
+
+/*week*/
+"Week" = "Uke";
+
+/*month*/
+"Month" = "Måned";
+
+/*year*/
+"Year" = "År";
+
+/*era*/
+"Era" = "Tidsalder";
+
+/*worthwhile*/
+"Worthwhile" = "Verdifull";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Other_Activities" = "Andre aktiviteter";
+
+/*Marital status*/
+"Household_Marital" = "Sivilstand";
+"Household_Years_Residence" = "Antall år bosatt i landet";
+"Household_Labour_Status" = "Arbeidsforhold";
+"Labour_Student" = "Student";
+"Labour_Employed_Full_Time" = "Heltidsansatt";
+"Labour_Employed_Part_Time" = "Deltidsansatt";
+"Labour_Unemployed" = "Arbeidsledig";
+"Years_Residence_Less_Than_One" = "Mindre enn 1";
+"Years_Residence_One_To_Five" = "1 til 5";
+"Years_Residence_More_Than_Five" = "Mer enn 5";
+"Walk_For_Distance" = "Gå i %@";
+"Household" = "Husholdning";
+"Total_Points" = "Antall poeng";
+"Todays_Travel_Report" = "Dagens reiserapport";
+
+/*link to page with privacy policy specific to each language*/
+"Url_Privacy_Policy" = "https://motivproject.eu/data-collection/data-protection/norway.html";
+
+/*%@ questions*/
+"N_Questions" = "%@ spørsmål";
+
+/*New survey*/
+"New_Survey" = "Ny måling";
+
+/*Minutes more*/
+"Minutes_More" = "Flere minutter";
+
+/*Minutes less*/
+"Minutes_Less" = "færre minutter";
+
+/*Kilometers more*/
+"Km_More" = "Flere km";
+
+/*Kilometers less*/
+"Km_Less" = "færre km";
+
+/*Trip validation*/
+"Trip_Validation" = "Godkjenn reise";
+
+/*Latest story*/
+"Latest_Story" = "Fortellinger";
+"Household_Data" = "Informasjon om husholdet";
+
+/*new text for battery warning pop up in mytrips (so that people are remembered to disable battery optimizations that undermine the app working in background)*/
+/*battery warning popup text*/
+"Alert_Battery_Content" = "Woorti samler inn reisedata i bakgrunnen. Pass på at telefonens batterisparingsfunksjon ikke gjelder Woorti, slik at appen ikke blir skrudd av.";
+
+/*"In the last" start message of DashBoard, Please use sentence that fits any number of days*/
+/*Dashboard*/
+"In_The_Last" = "I løpet av de siste";
+
+/*stories*/
+"story_1_title_chiaras_new_train_ride" = "Chiaras nye togtur";
+"story_1_text_chiaras_train_ride" = "Chiara, hennes mann og to barn flyttet nylig fra sentrum av Brüssel til utkanten av byen. Hun leverte barna til barnehagen og skolen med en lastesykkel, som hun så syklet videre med til togstasjonen. Herfra var det en 25 minutters togtur til jobben hennes i sentrum. Dette medførte store endringer i hennes pendling, og Chiara var ikke tilfreds med å bruke mer tid til og fra jobb. Men etterhvert satte hun pris på tiden på toget, hvor hun kunne sitte for seg selv og slappe av eller gjøre ting hun ellers ikke fikk gjort.\n\nChiara begynte å lese bok på toget. Hun skjønte fort at 25 minutter lesing var for kort tid å komme inn i historien.\n\nSå leste hun blader. Siden hun helst leser lange dybdeartikler, følte hun at dette heller ikke passet.\n\nDeretter tok hun frem Facebook. Siden hun ble så engasjert i det hun leste, hendte det at hun nesten glemte å gå av toget på riktig stasjon. Charia fant ut at hun ikke ville starte dagen med noe som tok såpass av hennes oppmerksomhet.\n\nTilslutt fant hun noe hun syntes fungerte. Siden familien hadde flyttet til et nederlandstalende område, ønsket hun å lære spåket. Hun lastet ned en app for å lære språk, og hver togtur var nok til to eller tre økter. Dette er også den anbefalte måten å lære språk: litt øving hver dag la grunnlaget for at hun fikk bedre kontakt med de nye naboene sine.\n\nCharia fikk best utbytte av å bruke tiden hun hadde til rådighet til noe som passet hennes fase i livet.\n\nHva med deg? Hvordan får du mest ut av pendletiden?";
+"story_2_title_the_best_way_to_get_great_ideas_while_moving_p1" = "Den beste måten å få nye idèer mens man reiser";
+"story_2_text_the_best_way_to_get_great_ideas_while_moving_p1" = "La du merke til noen aktiviteter som gjør at nye, interressante idèer blomstrer opp? Da Elon Musk ble intervjuet om hva som var den mest produktive delen av dagen hans, svarte han: \"når jeg tar en dusj\". Han er ikke alene; en hel haug av mennesker rapporterer at de får de beste ideene sine mens de står i dusjen!\n\n\nHva med når vi beveger oss? Er det noen øyeblikk som ofte påvirker oss til å bli mer produktive?\n\n\nFaktisk er det en måte å bevege seg på fra et sted til et annet som ser ut til å fungere ekstra godt om du leter etter nye idèer. Mange store tenkere later til å ha oppdaget denne fordelen og har brukt denne bevegelsesmetoden bevisst når de grublet på noe.\n\n\nHint: noen av dem, som Beethoven, Dickens og Darwin, levde før det fantes motoriserte kjøretøy...\n\n\nHint 2: Det er en form for bevgelse som aktiviserer hjernen.\n\n\nHva tror du det er? Sjekk det ut i morgen i vår neste historie... :)";
+"story_3_title_the_best_way_to_get_great_ideas_while_moving_p2" = "Den beste måten å få nye idèer mens man reiser - del 2";
+
+/*Fuzzy*/
+"story_3_text_the_best_way_to_get_great_ideas_while_moving_p2" = "Så, hvilken form for bevegelse brukte alle de store tenkerne, som vi nevnte i forrige historie, for å få bedre idèer?\n\n\nVandring!\n\n\nNyere tids tenkere, som Steve Jobs, gikk ensomme turer rundt Apples kontor i Palo Alto bare for å kunne tenke bedre. Han foretok også møtene sine på denne måten. I stedet for å møtes på kontoret, tok han partene med på en spasertur.\n\n\nSå er spørsmålet: er det egentlig noe vitenskapelig grunnlag for dette, eller er det bare et tilfeldig fenomen?\n\n\nVel, det finnes studier som viser at deler av hjernen blir mer aktiv mens vi går.  En studie utført som en morgentest på skolebarn, viste tydelig at barn som ankom skolen til fots hadde en mye mer aktiv hjerne enn barn som ankom med bil.\n\n\nDet ser også ut til å være viktig at det ikke er store, oppmerksomhetskrevende  forstyrrelser i miljøet vi går i, som trafikk, hindrer og mye støy, for at hjernen skal kunne være fri til å skape idèer mens vi går. Byer bygd for et bedre gå-miljø er byer som bygger opp nye, gode idèer.\n\n\nFor å fremheve produktive vandre-møter fikk noen en lys idè (kanskje hun gikk en tur eller dusja, vi vet egentlig ikke!): Å bygge en app som definerer ruter i byen som egner seg spesielt godt til vandrende møter. Denne appen heter \"Weeting\" og har gode ruter for vandre-møter til mange av byene i Nederland.\n\n\nHvor gode er vandrerutene dine for grubling?";
+"story_4_title_the_7_shades_of_pedros_cycling_time" = "Pedros sykkelerfaring i 7 trinn";
+
+/*Fuzzy*/
+"story_4_text_the_7_shades_of_pedros_cycling_time" = "1. Pedro gjorde det som en deklarasjon. Han begynte å sykle på en tid der det i Lisbon fremdeles ble sett på som veldig merkelig. Når han passerte gamle menn skrek de etter ham \"heia, sykkelmann, kjør på\" som om han var med i en turnè. Bilister tutet \"KOM DEG UT AV VEGEN\".\n\n\nHan syntes at folk burde kunne bruke sykkelen sin til å navigere byen og følte seg som en pioner, en helt som går forran som et eksempel på fremtidens sykkelpendlere.\n\n\nHan ville også bevise at det går raskt å sykle, derfor begynte han å ta de raskeste rutene, selv om de hadde mye traffikk, bare for å kunne spare fem minutter.\n\n\n2. Ettersom deklarasjonseffekten bleknet begynte han å legge mer merke til stressfaktorene og den midletidige svetten. Han bestemte seg for å skru ned tempoet, men han var så vant til å sykle på at det tok ham et helt år å bli vant til et mer rolig tempo. Han begynte å sette pris på den nederlanske, avslappede sykkelstilen. Han gikk tilbake til de rolige, mindretraffikerte rutene.\n\n\n3. Etter å ha fått barn tok han hver av dem med til barnehagen før han startet på den 35 minutter lange turen til jobb. Det eneste gode alternativet til sykkel var bil, noe som ikke var aktuelt for Pedro, så han begynte å gå lei av å ikke ha noen valgmuligheter. \"Jeg savner tiden jeg kunne ta T-banen og slappe av\". Så han startet å ta T-banen de dagene han ikke trengte å levere barna.\n\n\n4. Da kona hans igjen kunne ta ungene på noen av dagene, fikk fraværet av forpliktelser ham til å gjenoppdage noen av gledene ved sykling. Men, det føltes fremdeles som om det spiste tiden hans på en uproduktiv måte, spesielt etter at han var blitt så vant til å kunne bruke reisetiden på å lese og tenke.\n\n\n5. En dag, mens han lagde middag, bestemte Pedro seg for å høre på en podcast. Det likte han svært godt og han tenkte på hvor mye kjekkere det var å lage mat mens han lærte ting og hørte historier fra andre mennesker. Plutselig ble matlaging en fornøyelig tid av dagen.\n\n\nEtter det tok det ham enda et år før han skjønte at han jo kunne gjøre det samme med tiden på sykkelsetet. Med podcastene på øret gikk tempoet ned samtidig som rutene ble enda lengre enn de hadde vært før. Hvert minutt ekstra betydde mer podcast-morro.\n\n\n6. Pedro skiftet etterhvert jobb og begynte å jobbe hjemmefra. Magen økte plutselig i omfang ettersom han nå hadde sluttet med den 45 minutter lange sykkeløkten til jobb. Mens han studerte den voksende magen innså han hvor mye sykkelturen til jobb hadde bidrat med for kroppen og helsen hans. Han grep så enhver anledningen han kunne, som å dra på møter, til å sykle.\n\n\n7. Sykkeltiden hans var i ferd med å øke enda mer. I det barna hans ble eldre innså han at sykkelturene med dem til og fra skolen var blant de beste minnene han hadde. Barna viste at de gledet seg over å dra sammen med ham, spurte hundrevis av spørsmål og fortalte ham om det siste som skjedde på skolen. Det gav sykkelturene mer glede enn noe annet.";
+"story_5_title_stopping_or_not_stopping_in_a_moving_walkway" = "Gå eller stå på et rullebånd?";
+
+/*Fuzzy*/
+"story_5_text_stopping_or_not_stopping_in_a_moving_walkway" = "Har du lagt merke til at noen folk stopper opp i rulletrapper og på rullebaner, mens andre fortsetter å gå?\n\nHva tror du er årsaken til denne markante oppførselen?\n\n\nForetrekker du at andre går eller står stille?\n\n\nHvis det første svaret du tenkte på virker åpenbart, tenk igjen. Det er kanskje ikke så enkelt.\n\n\nPrøv å observere folk som blir stående neste gang du går i en rulletrapp. Bare ved å se på dem vil du antakelig få en idè om hvorfor. Om du fortsetter å fantasere vil du kanskje også få en reise inn hva som kanskje er personenes livshistorie. Det er gøy!\n\n\nÅ stoppe eller ikke stoppe i rulletrappa? Les vår fulle historie her (Kun på Engelsk):\n\nhttps://motivproject.eu/news/detail/stopping-or-not-stopping-in-a-moving-walkway.html";
+"story_6_title_virtual_travel_time" = "Virtuell reisetid";
+
+/*Fuzzy*/
+"story_6_text_virtual_travel_time" = "Har du hørt om den \"virtuelle reisetiden\"?\n\n\nNei, det handler ikke om å reise i en virtuell virkelighet, men om noe som er litt mer håndfast.\n\n\nHvor mye tid bruker du egentlig på å reise fra punkt A til punkt B? Du svarer antakelig noe sånt som: tida det tar å reise såklart!\n\n\nVel, fra et visst synspunkt så stemmer ikke det helt. Det kan faktisk være mer, mye mer, enn det...\n\n\nTenk på det: \n\nIKKE FERDIG";
+
+/*new string in mobility coach*/
+/*mobility coach*/
+"Your_Mobility_Journey" = "Fortellinger";
+
+/*new string to translate in home module*/
+/*home module*/
+"You_have_trips_to_validate" = "Godkjenn reiser nå!";
+
+/*(story) Coming tomorrow*/
+"Coming_Tomorrow" = "Kommer i morgen";
+
+/*Story (1, 2, 3, 4...)*/
+"Story" = "Fortelling %@";
+
+/*profile and settings*/
+"Marital_Partnership" = "Partnerskap";
+
+/*profile and settings */
+"Labour_Pensioner" = "Pensionist";
+
+/*Notification shown when a trip has started */
+"Trip_Has_Started_At" = "Turen har startet på %@";
+
+/*Notification shown when a trip has ended*/
+"Trip_Has_Ended_At" = "Turen endte på %@";
+"Trip_Has_Ended" = "Turen er avsluttet!";
+"engagement_notification_1_title" = "Woorti har registrert din første tur.";
+"engagement_notification_1_content" = "\"Åpne appen og fortell ham om den!\"";
+"engagement_notification_2_title" = "Du har en historie å lese.";
+"engagement_notification_2_content" = "Hvis du leser den i dag vil en ny historie bli låst opp i morgen.";
+"engagement_notification_3_title" = "En ny historie er ute!";
+"engagement_notification_3_content" = "Og husk å rapportere din siste tur";
+"Language_Changed_Popup_Content" = "Vennligst omstart appen for å fullføre prosessen";
+"Language_Changed_Popup_Title" = "Språk endret!";
+
+/*Predictability of travel time*/
+"Predictability_Of_Travel_Time" = "Forutsigbar reisetid";
+"Urban_Scenery_Atmosphere" = "Urbant landskap og atmosfære";
+"While_You_Are_There" = "Mens du venter";
+"Begin" = "Begynn";
+"engagement_notification_4_title" = "Har du sett reisetids-statistikken din?";
+"engagement_notification_4_content" = "Klikk for å se ditt Dashbord";
+
+/*Fuzzy*/
+"engagement_notification_5_title" = "Din reisetidsverdi så langt er %@.";
+"engagement_notification_5_content" = "Har du merket hvordan det varierer med turene dine?";
+"engagement_notification_6_title" = "Registrer din nyeste tur.";
+"engagement_notification_6_content" = "Send inn data og sjekk statistikken din.";
+"engagement_notification_7_title" = "%@ minutter";
+"engagement_notification_7_content" = "er tiden du brukte på å reise sist uke";
+"engagement_notification_8_title" = "Fortsett å hjelpe med reisetid-undersøkelsen.";
+"engagement_notification_8_content" = "Takk for at du registrerer turene dine. Trykk her.";
+
+/*Fuzzy*/
+"engagement_notification_9_title" = "Registrer din nyeste reise.";
+
+/*Fuzzy*/
+"engagement_notification_9_content" = "Send inn dine data og sjekk statistikken din.";
+
+/*when referencing campaigns*/
+"Campaigns" = "Kampanjer";
+
+/*Welcome to your trips board, %NAME_USER%@ !*/
+/*Fuzzy*/
+"Welcome_To_Your_Trips_Board_Username" = "Velkommen til oppslagstavlen for reisene dine, %@!";
+
+/*You have X trips left to report in the last 3 days*/
+/*Fuzzy*/
+"You_Have_X_Trips_Left_3_Days" = "Du har %@ turer igjen å registrere de 3 siste dagene";
+
+/*These are the trips you have made! Reporting on them helps our research, and allows you to monitor your travel time. After reporting each trip, find out your travel time worthwhileness statistics in the Dashboard! Press the ‘!’ mark to report.*/
+/*Fuzzy*/
+"These_Are_The_Trips_You_Have_Made" = "Dette er turene du har tatt! Å registrere dem hjelper undersøkelsen vår og gir deg muligheten til å følge med på/overvåke reisetiden din.";
+
+/*Now that you have a reported trip, you can check your first travel time statistics in the Dashboard.*/
+/*Fuzzy*/
+"Now_That_You_Have_A_Reported_Trip_Popup_Text" = "Nå som du har en registrert reise kan du også sjekke statistikken over tiden du har brukt på dashbordet.";
+
+/*Go to dashboard*/
+/*Fuzzy*/
+"Go_To_Dashboard" = "Gå til dashbord";
+
+/*Report trips*/
+/*Fuzzy*/
+"Report_Trips" = "Registrer reise";
+
+/*This is your Dashboard. It shows how worthwhile your travel time is.  For your trip stats to appear here, report your trips*/
+/*Fuzzy*/
+"This_Is_Your_Dashboard_Popup_Text" = "Dette er ditt dashbord. Det viser deg hva du får ut av reisetiden din.\n\\n\nFor å se statistikk over reisene dine her må du registrere reisene";
+
+/*See dashboard*/
+/*Fuzzy*/
+"See_Dashboard" = "Se dashbord";
+
+/*profile and settings*/
+/*Fuzzy*/
+"Campaign_Scores" = "Kampanjeresultater";
+
+/*when iOS user is redirected and asked to authorize GPS in phone settings after denying permissions in On-boarding*/
+"GPS_Link_Phone_Settings" = "Innstillinger";
+
+/*when iOS user is asked to authorize GPS in phone settings and selects back to dismiss this dialogue*/
+"GPS_Go_Back" = "Tilbake";
+
+/*Days*/
+"Days" = "Dager";
+
+/*trips*/
+"Trips" = "Turer";
+
+/*Issue form*/
+"Issue_Form" = "Issue form";
+
+/*Thank you for reporting an issue*/
+"Thank_You_For_Reporting_An_Issue" = "Takk for at du rapporterte et problem";
+
+/*Submit log*/
+"Submit_Log" = "Send logg";
+
+/*Send log*/
+"Send_Log" = "Send logg";
+
+/*No log needed for this issue. Skip.*/
+"No_Log_Needed_For_This_Issue_Skip" = "Vi trenger ikke en logg. Hopp over.";
+
+/*Targets & Rewards*/
+"Targets_And_Rewards" = "Mål & Premier";
+
+/*Tasks*/
+"Tasks" = "Oppgaver";
+
+/*To analise the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.*/
+"To_Analyse_This_Issue" = "To analyse the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.";
+
+/*points*/
+"Points" = "Poeng";
+
+/*Progress (Reward progress)*/
+"Progress" = "Framdrift";
+
+/*%@ days left*/
+"days_left_reward" = "%@ dager igjen";
+
+/*user registration*/
+"Password_Length_Message" = "Vennligst velg et passord mellom 6 og 16 karakterer.";
+
+/*Onboarding*/
+"How_Productive_Are_You" = "Hvor produktiv er du";
+
+/*Woorti is running in the background*/
+"Woorti_Is_Running" = "Woorti jobber i bakgrunnen";
+
+/*Continue*/
+"Continue" = "Fortsett";
+
+/*Hurray!!!*/
+"Hurray" = "Hurra!";
+
+/*You have completed your target for NAME_REWARD!*/
+"You_Have_Completed_Your_Target" = "Du har nådd ditt mål for %@ !";
+
+/*Keep reporting your trips to monitor your stats to see your evolution and help this research */
+"Keep_Reporting_Your_Trips_Reward_Completed_Popup" = "Keep reporting your trips to monitor your stats to see your evolution and help this research";
+
+/*Woorti just detected that you started a trip*/
+"Woorti_Just_Detected_Start_Trip" = "Woorti registrer at du har startet en reise";
+
+/*Your  trip has ended.\nYou can now report about it in Woorti*/
+"Your_Trip_As_Ended" = "Turen din er over";
+
+/*Onboarding*/
+"Onboarding_Successful" = "Registrerings-prosessen er fullført";
+
+/*Trip validation tutorial*/
+"Trip_Validation_Tutorial" = "Trip validation tutorial";
+
+/*Onboarding*/
+"Onboarding_Duplicated" = "Registrerings-prosessen fullført tidligere. Logger inn.";
+
+/*Onboarding*/
+"Onboarding_Error" = "An error has occurred during Onboarding. Please try completing Onboarding again.";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Attempt" = "Forsøker å sende inn info om turen";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Successful" = "Info om turen sendt inn";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Not_Submitted" = "Reise ikke registrert – Prøver igjen senere";
+
+/*You can now report about it in Woorti*/
+"You_Can_Now_Report_About_It_In_Woorti" = "You can now report about it in Woorti";
+
+/*Complete until dd/mm/yyyy*/
+"Complete_Until" = "Complete until %@";
+
+/*You have a new survey (notification)*/
+"You_Have_A_New_Survey" = "You have a new survey.";
+
+/*Fill it in and earn %@ points. (notification -> fill survey)*/
+"Fill_It_And_Earn_XX_Points" = "Fill it in and earn %@ points";
+
+/*Is your phone blocking trip detection?*/
+"Is_Your_Phone_Blocking_Trip_Detection" = "Blokkerer telefonen din registrering av reiser?";
+
+/*Woorti gives you 25 points for each additional information item you fill in your profile.*/
+"Woorti_Gives_You_Points_For_Each_Info" = "Woorti gives you 25 points for each additional information item you fill in your profile.";
+
+/*If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.*/
+"If_Thats_The_Case_Fortunately_There_Is_Solution" = "If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.";
+
+/*Enable app activity*/
+"Enable_App_Activity" = "Enable app activity";
+
+/*Do not show again*/
+"Do_Not_Show_Again" = "Ikke vis dette igjen";
+
+/*If your trips are frequently not being recorded, your phone might be blocking this app’s activity.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded" = "Vis dine turer stadig ikke blir registrert kan det være at telefonen din blokkerer denne appens aktiviteter";
+
+/*Tell us more about yourself*/
+"Tell_Us_More_About_Yourself" = "Fortell oss mer om deg selv";
+
+/*Your data is anonymised.*/
+"Your_Data_Is_Anonymised" = "Dine data anonymiseres";
+
+/*Fill in profile*/
+"Fill_In_Profile" = "Fyll ut profil";
+
+/*Later*/
+"Later" = "Senere";
+
+/*Point all time*/
+"Points_All_Time" = "Poeng, tilsammen";
+
+/*Days with trips all time*/
+"Days_All_Time" = "Dager med reiser, tilsammen";
+
+/*Trips all time*/
+"Trips_All_Time" = "Turer tilsammen";
+
+/*temporary text without link to battery optimization site not endorsed by motiv.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded_No_Link_To_Site" = "Hvis Woorti ofte ikke merker at du reiser kan det være at telefonen blokkerer denne appen sine aktiviteter. Sjekk batteri-innstillingene i Android.";
+
+/*Dashboard_You*/
+"Dashboard_You" = "Du";
+
+/*Dashboard_Community*/
+"Dashboard_Community" = "Fellesskap";
+
+/*Dashboard_Citizens*/
+"Dashboard_Citizens" = "Borgere";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Onboarding" = "These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Leg_Info_Recorded" = "These results reflect the worthwhileness assessment of the legs of the trip that you’ve chosen to report in your trip reports.";
+
+/*Dashboard*/
+"Dashboard_Your_Whole_Trips" = "Your whole trips";
+
+/*Dashboard*/
+"Dashboard_Your_Reported_Legs" = "Dine rapporterte etapper";
+
+/*Dashboard*/
+"Time_Spent_In_Travel" = "Tid brukt på reise";
+
+/*Dashboard*/
+"Travelled_Distance" = "Avstand du har reist";
+
+/*Dashboard*/
+"CO2_Emissions" = "CO2-utslipp";
+
+/*Dashboard*/
+"Calories" = "Kalorier";
+
+/*Dashboard*/
+"The_Community_Trips" = "Turene til fellesskapet";
+
+/*Dashboard*/
+"The_Community_Validated_Legs" = "Fellesskapets godkjente turer";
+
+/*Dashboard*/
+"Compared_To_Your_Scores" = "(sammenlignet med dine poeng)";
+
+/*Dashboard*/
+"Worthwhileness" = "Worthwhileness";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Title" = "Hei, du!";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_1" = "Rapporter dine %@ registrerte reiser de siste ";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_2" = "to see your complete real stats in the dashboard.";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Report_Trips" = "RAPPORTER TURER";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_See_Dashboard" = "SEE DASHBOARD";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Text" = "Innimellom kan reiser bli registrert feil. For å redigere strukturen på reisen klikk ikonet over for å splitte, slå sammen eller slette reiser eller etapper av en reise.";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Button" = "DEN ER GREI!";
+
+/*Home module travel report*/
+"Seven_Day_Travel_Report" = "Siste 7 dager";
+
+/*Home (travel report link to Dashboard)*/
+"Learn_More" = "Lær mer";
+
+/*please retranslate to make clear statistics are average calories per day. thank you. LV.*/
+/*Dashboard*/
+"In_Total_Users_Spent_Calories" = "Gjennomsnittlig har hver bruker i fellesskapet forbrent %@ kalorier hver dag.";
+
+/*Dashboard*/
+"And_This_Counted_Carbon_Footprint_Users" = "On average, the community spent %@ of their sustainable carbon footprint.";
+
+/*People from "campaign/city/country" on average have spent "3 min more/less" travelling a distance of "3km more/less" than you per day.*/
+"People_From_Place_Have_Spent_On_Average" = "People from %@ on average have spent %@ travelling a distance of %@ than you, per day.";
+
+/*"3 km more"*/
+"Number_Km_More" = "%@ flere km";
+
+/*"3 km less"*/
+"Number_Km_Less" = "%@ færre km";
+
+/*"3 min more"*/
+"Number_Min_More" = "%@ flere min";
+
+/*"3 min less"*/
+"Number_Min_Less" = "%@ færre min";
+
+/*Dashboard*/
+"Community_Trips_Overall_Percentage_Worthwhile" = "The community's trips worthwhileness (compared to your scores)";
+
+/*These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.*/
+"Dashboard_Worthwhileness_Popup_Text" = "These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.";
+
+/*What is the carbon budget?*/
+"What_Is_The_Carbon_Budget" = "Hva er karbonbudsjettet?";
+
+/*The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle.  A person’s yearly mobility carbon budget is 500kg*/
+"The_Carbon_Budget_Is" = "The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle. \\n \\n A person’s yearly mobility carbon budget is 500kg";
+
+/*City/Region*/
+"City_Region" = "By/region";
+
+/*You*/
+"You" = "Du";
+
+/*should translate according to "Min per user per day"*/
+/*Average minutes*/
+"Avg_Minutes" = "Min pr bruker pr dag";
+
+/*please retranslate following "Km per user per day", because we are showing daily averages per individual (average) user of the community.*/
+/*Average kilometers*/
+"Avg_Kilometers" = "Km pr bruker pr dag";
+
+/*need to translate according to "Kg CO2 per user per day"*/
+/*Average kilograms*/
+"Avg_Kilograms" = "Kg CO2 pr bruker pr dag";
+
+/*need to retranslate for "Calories per user per day"*/
+/*Average calories*/
+"Avg_Calories" = "Kalorier pr bruker pr dag";
+
+/*Hours*/
+"Hours" = "Timer";
+
+/*Dashboard - unable to show some global stats (e.g. always disconnected)*/
+"Unable_Show_Stats" = "Klarer ikke få tak i statistikk fra fellesskapet";
+
+/*CO2 budget popu*/
+"CO2_Budget_Example" = "500 kg tilsvarer en flytur mellom Brüssel og Madrid, eller å kjøre en bil 1500 km.";
+
+/*CO2 budget popup - no need to translate*/
+"CO2_Budget_Link_URL" = "https://motivproject.eu/data-collection/woorti-app-faqs.html";
+
+/*CO2 budget popup*/
+"CO2_Budget_Link_Text" = "Lær mer";
+
+/*worthwhileness - travel wasted rating of trip*/
+"Travel_Time_Wasted_Question_Text_Second_Paragraph" = "Refer to your journey, not to your activities at your destination.";
+
+/*Onboarding and login*/
+"Failed_To_Connect_Check_Connectivity_Error" = "Failed to connect. Please check your internet connection.";
+
+/*"Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding."*/
+"Onboarding_Warning_Permissions_Denied_Retry" = "Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding.";
+
+/*"In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information."*/
+"Onboarding_Dialog_Box_Ask_Location_Storage_Permissions" = "In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information.";
+
+/*You have no trips*/
+"You_Have_No_Trips" = "Du har ingen reiser";
+
+/*You must choose at least one trip to delete*/
+"You_Must_Choose_One_Trip_To_Delete" = "Du må velge minst én reise å slette";
+
+/*Trip/s deleted successfully!*/
+"Trips_Deleted_Successfuly" = "Reise(r) slettet!";
+
+/*You must choose at least one leg to delete*/
+"You_Must_Choose_One_Leg_To_Delete" = "Du må velge minst én del å slette";
+
+/*You cannot delete all the trip's legs*/
+"You_Cannot_Delete_All_Trips_Legs" = "Du kan ikke slette alle delene av reisen";
+
+/*You must choose consecutive legs to delete*/
+"You_Must_Choose_Consecutive_Legs_To_Delete" = "Du må velge deler etterhverandre å slette";
+
+/*You must choose at least two legs to merge*/
+"You_Must_Choose_Two_Legs_To_Merge" = "Du må velge minst to deler å slå sammen";
+
+/*You must choose consecutive legs to merge*/
+"You_Must_Choose_Consecutive_Legs_To_Merge" = "Du må slå sammen deler som er etterhverandre";
+
+/*The leg you are trying to split is too small to be split*/
+"The_Leg_Is_Too_Small_To_Be_Split" = "Delen du prøver å splitte er for liten til å splittes";
+
+/*Error splitting leg*/
+"Error_Splitting_Leg" = "Det skjedde en feil";
+
+/*Trips_Merged_Successfully*/
+"Trips_Merged_Successfully" = "Reisene ble slått sammen!";
+
+/*Trip splitted successfully!*/
+"Trip_Splitted_Successfully" = "Reisen ble splittet!";
+
+/*"Please choose another leg/transfer other than the last"*/
+"Please_Choose_Other_Leg_Transfer_Not_Last" = "Vennligst velg en annen del/overgang enn den siste";
+
+/*"Please choose a leg/transfer to split"*/
+"Please_Choose_Leg_Transfer_To_Split" = "Vennligst velg en del/overgang å splitte";
+
+/*"You must choose consecutive trips to merge"*/
+"You_Must_Choose_Consecutive_Trips_To_Merge" = "Du må velge reiser etterhverandre å slå sammen";
+
+/*"You must choose at least two legs to merge"*/
+"You_Must_Choose_Two_Trips_To_Merge" = "Du må velge minst to deler å slå sammen";

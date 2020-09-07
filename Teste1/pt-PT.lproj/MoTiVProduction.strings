@@ -1,0 +1,360 @@
+
+/* Class = "UIButton"; normalTitle = "Confirm All"; ObjectID = "0Kn-HX-qKq"; */
+"0Kn-HX-qKq.normalTitle" = "Confirm All";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Ts-yD-NfR"; */
+"0Ts-yD-NfR.text" = "Label";
+
+/* Class = "UILabel"; text = "Move The map to split leg"; ObjectID = "0oD-76-5ZY"; */
+"0oD-76-5ZY.text" = "Move The map to split leg";
+
+/* Class = "UILabel"; text = "Validated"; ObjectID = "1Qb-wo-7up"; */
+"1Qb-wo-7up.text" = "Validated";
+
+/* Class = "UIViewController"; title = "List Possible Routes page"; ObjectID = "2FC-px-mlI"; */
+"2FC-px-mlI.title" = "List Possible Routes page";
+
+/* Class = "UIViewController"; title = "Rate Trip View controller"; ObjectID = "3WQ-ba-9li"; */
+"3WQ-ba-9li.title" = "Rate Trip View controller";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "42w-LQ-rf3"; */
+"42w-LQ-rf3.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Going To Work"; ObjectID = "4In-Cd-Pq2"; */
+"4In-Cd-Pq2.text" = "Going To Work";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4xZ-iN-efj"; */
+"4xZ-iN-efj.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Active Trips"; ObjectID = "6jR-bY-J9a"; */
+"6jR-bY-J9a.normalTitle" = "Active Trips";
+
+/* Class = "UILabel"; text = "Party"; ObjectID = "6oN-vP-Mqs"; */
+"6oN-vP-Mqs.text" = "Party";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7AY-5H-NVb"; */
+"7AY-5H-NVb.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7N4-ba-gA8"; */
+"7N4-ba-gA8.text" = "Label";
+
+/* Class = "UILabel"; text = "Woorti"; ObjectID = "95T-93-iVm"; */
+"95T-93-iVm.text" = "Woorti(PT)";
+
+/* Class = "UIViewController"; title = "Route Description page"; ObjectID = "AYo-xs-3Li"; */
+"AYo-xs-3Li.title" = "Route Description page";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AvI-FE-kIx"; */
+"AvI-FE-kIx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "BGH-yj-zOy"; */
+"BGH-yj-zOy.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "points"; ObjectID = "CTL-b7-PtN"; */
+"CTL-b7-PtN.text" = "points";
+
+/* Class = "UIButton"; normalTitle = "Search Routes"; ObjectID = "Ctd-4n-Cwa"; */
+"Ctd-4n-Cwa.normalTitle" = "Search Routes";
+
+/* Class = "UILabel"; text = "SORT RESULTS BY"; ObjectID = "E8T-9r-d22"; */
+"E8T-9r-d22.text" = "SORT RESULTS BY";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Eb8-MN-kdc"; */
+"Eb8-MN-kdc.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Split"; ObjectID = "FZs-Bs-hv0"; */
+"FZs-Bs-hv0.normalTitle" = "Split";
+
+/* Class = "UIButton"; normalTitle = "Merge"; ObjectID = "FoA-UO-on2"; */
+"FoA-UO-on2.normalTitle" = "Merge";
+
+/* Class = "UIButton"; normalTitle = "Confirm All"; ObjectID = "G1U-HE-XfP"; */
+"G1U-HE-XfP.normalTitle" = "Confirm All";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G8x-wG-oo1"; */
+"G8x-wG-oo1.text" = "Label";
+
+/* Class = "UILabel"; text = "🛍️"; ObjectID = "H3D-RY-19g"; */
+"H3D-RY-19g.text" = "🛍️";
+
+/* Class = "UILabel"; text = "Mall/Shopping"; ObjectID = "Hgx-ya-Pr9"; */
+"Hgx-ya-Pr9.text" = "Mall/Shopping";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hjr-N0-bXX"; */
+"Hjr-N0-bXX.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Relaxing Trips"; ObjectID = "I8r-PU-C9g"; */
+"I8r-PU-C9g.normalTitle" = "Relaxing Trips";
+
+/* Class = "UILabel"; text = "🏠"; ObjectID = "IaZ-hl-SMA"; */
+"IaZ-hl-SMA.text" = "🏠";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "J6H-Jy-BDf"; */
+"J6H-Jy-BDf.text" = "Dashboard";
+
+/* Class = "UILabel"; text = "Sleeping / Napping"; ObjectID = "KI4-Wm-DbD"; */
+"KI4-Wm-DbD.text" = "Sleeping / Napping";
+
+/* Class = "UILabel"; text = "Groceries"; ObjectID = "KJf-Gq-N5J"; */
+"KJf-Gq-N5J.text" = "Groceries";
+
+/* Class = "UILabel"; text = "Route Planner"; ObjectID = "KPF-Dt-nix"; */
+"KPF-Dt-nix.text" = "Route Planner";
+
+/* Class = "UITextField"; placeholder = "Current Location"; ObjectID = "KWK-Cp-eKy"; */
+"KWK-Cp-eKy.placeholder" = "Current Location";
+
+/* Class = "UILabel"; text = "🍴"; ObjectID = "KnA-Gi-YjY"; */
+"KnA-Gi-YjY.text" = "🍴";
+
+/* Class = "UILabel"; text = "start"; ObjectID = "Kyn-SX-7TB"; */
+"Kyn-SX-7TB.text" = "start";
+
+/* Class = "UILabel"; text = "Rate your trip on productivity and relaxing"; ObjectID = "Lr3-0b-epo"; */
+"Lr3-0b-epo.text" = "Rate your trip on productivity and relaxing";
+
+/* Class = "UISegmentedControl"; NZ7-ey-dO8.segmentTitles[0] = "time"; ObjectID = "NZ7-ey-dO8"; */
+"NZ7-ey-dO8.segmentTitles[0]" = "time";
+
+/* Class = "UISegmentedControl"; NZ7-ey-dO8.segmentTitles[1] = "cost"; ObjectID = "NZ7-ey-dO8"; */
+"NZ7-ey-dO8.segmentTitles[1]" = "cost";
+
+/* Class = "UIButton"; normalTitle = "Productive Trips"; ObjectID = "Nyj-fn-265"; */
+"Nyj-fn-265.normalTitle" = "Productive Trips";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O8u-rs-ER0"; */
+"O8u-rs-ER0.text" = "Label";
+
+/* Class = "UILabel"; text = "Confirm the modes of your trips"; ObjectID = "Ok2-2Q-d2h"; */
+"Ok2-2Q-d2h.text" = "Confirm the modes of your trips";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "OzZ-oU-Lu5"; */
+"OzZ-oU-Lu5.normalTitle" = "+";
+
+/* Class = "UIViewController"; title = "search page"; ObjectID = "P9e-kk-tXQ"; */
+"P9e-kk-tXQ.title" = "search page";
+
+/* Class = "UILabel"; text = "What was the objective of your trip?"; ObjectID = "PKS-Cd-zt2"; */
+"PKS-Cd-zt2.text" = "What was the objective of your trip?";
+
+/* Class = "UILabel"; text = "Select from the list below to merge"; ObjectID = "Q3B-CA-Jdc"; */
+"Q3B-CA-Jdc.text" = "Select from the list below to merge";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QEb-yU-i4m"; */
+"QEb-yU-i4m.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qdu-qZ-R8m"; */
+"Qdu-qZ-R8m.text" = "Label";
+
+/* Class = "UILabel"; text = "How did you travel"; ObjectID = "R2L-9A-O0h"; */
+"R2L-9A-O0h.text" = "How did you travel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Rdp-cY-Fwu"; */
+"Rdp-cY-Fwu.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "T9t-7d-Tjk"; */
+"T9t-7d-Tjk.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ve4-0Z-2Uy"; */
+"Ve4-0Z-2Uy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XQY-4g-oVE"; */
+"XQY-4g-oVE.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Xhb-Aj-A21"; */
+"Xhb-Aj-A21.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xkb-kH-UvH"; */
+"Xkb-kH-UvH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "Y0L-73-gIJ"; */
+"Y0L-73-gIJ.normalTitle" = "Yes";
+
+/* Class = "UIViewController"; title = "Map view"; ObjectID = "Y5y-vD-HAr"; */
+"Y5y-vD-HAr.title" = "Map view";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YVq-7g-Sbr"; */
+"YVq-7g-Sbr.text" = "Label";
+
+/* Class = "UILabel"; text = "My Trips"; ObjectID = "Yu3-zR-0Nu"; */
+"Yu3-zR-0Nu.text" = "My Trips";
+
+/* Class = "UILabel"; text = "Mobility Coach"; ObjectID = "YyD-hS-e2Y"; */
+"YyD-hS-e2Y.text" = "Mobility Coach";
+
+/* Class = "UILabel"; text = "☕"; ObjectID = "Zzb-Jm-cWk"; */
+"Zzb-Jm-cWk.text" = "☕";
+
+/* Class = "UILabel"; text = "SELECT ALL THAT APPLY"; ObjectID = "a0a-vX-ERD"; */
+"a0a-vX-ERD.text" = "SELECT ALL THAT APPLY";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "bEq-K3-YKi"; */
+"bEq-K3-YKi.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "Going Home"; ObjectID = "bZ0-sL-TLu"; */
+"bZ0-sL-TLu.text" = "Going Home";
+
+/* Class = "UILabel"; text = "Select from the list below to split"; ObjectID = "baL-68-Wbb"; */
+"baL-68-Wbb.text" = "Select from the list below to split";
+
+/* Class = "UILabel"; text = "Trip Details"; ObjectID = "baY-4d-5uI"; */
+"baY-4d-5uI.text" = "Trip Details";
+
+/* Class = "UIViewController"; title = "Route planner menu"; ObjectID = "bkA-zo-EsC"; */
+"bkA-zo-EsC.title" = "Route planner menu";
+
+/* Class = "UIButton"; normalTitle = "Now"; ObjectID = "cIU-H9-aXQ"; */
+"cIU-H9-aXQ.normalTitle" = "Now";
+
+/* Class = "UILabel"; text = "Arrival"; ObjectID = "cLc-s1-Jlc"; */
+"cLc-s1-Jlc.text" = "Arrival";
+
+/* Class = "UILabel"; text = "🍸"; ObjectID = "cMn-mg-feR"; */
+"cMn-mg-feR.text" = "🍸";
+
+/* Class = "UILabel"; text = "end"; ObjectID = "d8R-mg-Z7c"; */
+"d8R-mg-Z7c.text" = "end";
+
+/* Class = "UILabel"; text = "Going To School"; ObjectID = "dZd-mk-Y8x"; */
+"dZd-mk-Y8x.text" = "Going To School";
+
+/* Class = "UILabel"; text = "Finishing location"; ObjectID = "dhb-T7-dhZ"; */
+"dhb-T7-dhZ.text" = "Finishing location";
+
+/* Class = "UILabel"; text = "💼"; ObjectID = "dk1-dV-WKf"; */
+"dk1-dV-WKf.text" = "💼";
+
+/* Class = "UILabel"; text = "Relaxing / Day dreaming / Doing Nothing"; ObjectID = "fO6-zg-2yx"; */
+"fO6-zg-2yx.text" = "Relaxing / Day dreaming / Doing Nothing";
+
+/* Class = "UILabel"; text = "Select from the list below to delete"; ObjectID = "fZa-d8-T2u"; */
+"fZa-d8-T2u.text" = "Select from the list below to delete";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fg1-Fd-4gC"; */
+"fg1-Fd-4gC.text" = "Label";
+
+/* Class = "UILabel"; text = "Cafes"; ObjectID = "g4G-a2-fhI"; */
+"g4G-a2-fhI.text" = "Cafes";
+
+/* Class = "UIButton"; normalTitle = "Today"; ObjectID = "gZN-Rx-ugZ"; */
+"gZN-Rx-ugZ.normalTitle" = "Today";
+
+/* Class = "UILabel"; text = "PLAN TRIP"; ObjectID = "gcI-Ld-uqT"; */
+"gcI-Ld-uqT.text" = "PLAN TRIP";
+
+/* Class = "UIViewController"; title = "My Trips"; ObjectID = "h2r-i0-PRV"; */
+"h2r-i0-PRV.title" = "My Trips";
+
+/* Class = "UILabel"; text = "Default Home Screen"; ObjectID = "hlR-Ca-X0Z"; */
+"hlR-Ca-X0Z.text" = "Default Home Screen";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "iH7-wF-2bP"; */
+"iH7-wF-2bP.text" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "k7e-PR-IG6"; */
+"k7e-PR-IG6.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kE0-QJ-Y3V"; */
+"kE0-QJ-Y3V.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kTi-55-QZ8"; */
+"kTi-55-QZ8.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kls-ZN-h1q"; */
+"kls-ZN-h1q.text" = "Label";
+
+/* Class = "UILabel"; text = "Current Location"; ObjectID = "mHk-Y1-yvB"; */
+"mHk-Y1-yvB.text" = "Current Location";
+
+/* Class = "UITextField"; placeholder = "Enter Destination"; ObjectID = "mct-Jd-1vs"; */
+"mct-Jd-1vs.placeholder" = "Enter Destination";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mfq-aP-JWi"; */
+"mfq-aP-JWi.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Split"; ObjectID = "mvp-Ev-QMp"; */
+"mvp-Ev-QMp.normalTitle" = "Split";
+
+/* Class = "UILabel"; text = "Trip time budget"; ObjectID = "n6l-j4-s1Q"; */
+"n6l-j4-s1Q.text" = "Trip time budget";
+
+/* Class = "UILabel"; text = "OTHER"; ObjectID = "ndK-Jf-LIW"; */
+"ndK-Jf-LIW.text" = "OTHER";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "oDS-xm-U06"; */
+"oDS-xm-U06.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "Add activities to win more points!"; ObjectID = "osm-wo-CIw"; */
+"osm-wo-CIw.text" = "Add activities to win more points!";
+
+/* Class = "UIButton"; normalTitle = "View Map"; ObjectID = "p65-P9-yuK"; */
+"p65-P9-yuK.normalTitle" = "View Map";
+
+/* Class = "UILabel"; text = "walking"; ObjectID = "pac-NX-tmb"; */
+"pac-NX-tmb.text" = "walking";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qeE-Cq-d4m"; */
+"qeE-Cq-d4m.text" = "Label";
+
+/* Class = "UILabel"; text = "🎒"; ObjectID = "rBj-MG-EYn"; */
+"rBj-MG-EYn.text" = "🎒";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sSi-eE-emg"; */
+"sSi-eE-emg.text" = "Label";
+
+/* Class = "UIViewController"; title = "defaultScreen"; ObjectID = "twO-sO-zuL"; */
+"twO-sO-zuL.title" = "defaultScreen";
+
+/* Class = "UILabel"; text = "How did you travel"; ObjectID = "u3n-DW-0nC"; */
+"u3n-DW-0nC.text" = "How did you travel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u6h-SA-LKk"; */
+"u6h-SA-LKk.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "minutes"; ObjectID = "uHX-8t-gV5"; */
+"uHX-8t-gV5.placeholder" = "minutes";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "uda-iD-Axw"; */
+"uda-iD-Axw.text" = "Settings";
+
+/* Class = "UILabel"; text = "MY TRIPS"; ObjectID = "umn-ox-4I8"; */
+"umn-ox-4I8.text" = "MY TRIPS";
+
+/* Class = "UILabel"; text = "What were you doing on your trip?"; ObjectID = "vUQ-Sn-V6b"; */
+"vUQ-Sn-V6b.text" = "What were you doing on your trip?";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "vdl-ce-68G"; */
+"vdl-ce-68G.normalTitle" = "No";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wLb-Xb-oeV"; */
+"wLb-Xb-oeV.text" = "Label";
+
+/* Class = "UILabel"; text = "🛒"; ObjectID = "wQU-E6-VyG"; */
+"wQU-E6-VyG.text" = "🛒";
+
+/* Class = "UILabel"; text = "Movies/Theatre"; ObjectID = "wot-8f-yj1"; */
+"wot-8f-yj1.text" = "Movies/Theatre";
+
+/* Class = "UILabel"; text = "Eating out"; ObjectID = "x29-2E-SHp"; */
+"x29-2E-SHp.text" = "Eating out";
+
+/* Class = "UIViewController"; title = "routeplanner"; ObjectID = "x8H-CB-UMF"; */
+"x8H-CB-UMF.title" = "routeplanner";
+
+/* Class = "UILabel"; text = "Productivity = work done"; ObjectID = "xGs-gf-Czb"; */
+"xGs-gf-Czb.text" = "Productivity = work done";
+
+/* Class = "UILabel"; text = "Validated"; ObjectID = "xfT-kU-h23"; */
+"xfT-kU-h23.text" = "Validated";
+
+/* Class = "UIButton"; normalTitle = "Merge"; ObjectID = "yDJ-l7-lOs"; */
+"yDJ-l7-lOs.normalTitle" = "Merge";
+
+/* Class = "UILabel"; text = "Trip Breakdown"; ObjectID = "yW6-8L-A3j"; */
+"yW6-8L-A3j.text" = "Trip Breakdown";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "zGY-Bz-vWi"; */
+"zGY-Bz-vWi.text" = "Home";
+
+/* Class = "UILabel"; text = "🍿"; ObjectID = "zUO-Fo-3Ch"; */
+"zUO-Fo-3Ch.text" = "🍿";

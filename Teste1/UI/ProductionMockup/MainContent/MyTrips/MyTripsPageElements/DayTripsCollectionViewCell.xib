@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="DayTripsCollectionViewCell" id="gTV-IL-0wX" customClass="DayTripsCollectionViewCell" customModule="MoTiV" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="170" height="162"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="170" height="162"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="U02-3h-NMw">
+                        <rect key="frame" x="0.0" y="0.0" width="170" height="162"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Day of trips" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PLq-Yn-yfh">
+                                <rect key="frame" x="5" y="0.0" width="165" height="21"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                <color key="textColor" red="0.8666666666666667" green="0.51372549019607838" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="S09-pv-WiG">
+                                <rect key="frame" x="0.0" y="21" width="170" height="112"/>
+                                <subviews>
+                                    <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" bouncesZoom="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="3jq-A5-GkB">
+                                        <rect key="frame" x="0.0" y="3" width="170" height="109"/>
+                                        <color key="backgroundColor" red="0.96862745098039216" green="0.90196078431372551" blue="0.81568627450980391" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="109" id="M5G-h6-Miv"/>
+                                        </constraints>
+                                        <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="X2O-YN-RTb">
+                                            <size key="itemSize" width="50" height="109"/>
+                                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                            <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                        </collectionViewFlowLayout>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="dividerThickness">
+                                                <real key="value" value="0.0"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                    </collectionView>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="3jq-A5-GkB" firstAttribute="top" secondItem="S09-pv-WiG" secondAttribute="top" constant="3" id="AIK-a5-i0O"/>
+                                    <constraint firstAttribute="bottom" secondItem="3jq-A5-GkB" secondAttribute="bottom" id="AhR-Vw-MYX"/>
+                                    <constraint firstAttribute="trailing" secondItem="3jq-A5-GkB" secondAttribute="trailing" id="hhO-Mc-5zD"/>
+                                    <constraint firstItem="3jq-A5-GkB" firstAttribute="leading" secondItem="S09-pv-WiG" secondAttribute="leading" id="qF2-jO-LWZ"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="170" id="2CY-3g-ISf"/>
+                            <constraint firstAttribute="trailing" secondItem="S09-pv-WiG" secondAttribute="trailing" id="2k0-WY-6mL"/>
+                            <constraint firstItem="PLq-Yn-yfh" firstAttribute="top" secondItem="U02-3h-NMw" secondAttribute="top" id="9z8-Kd-0aa"/>
+                            <constraint firstItem="S09-pv-WiG" firstAttribute="leading" secondItem="U02-3h-NMw" secondAttribute="leading" id="LQU-OD-BA5"/>
+                            <constraint firstAttribute="trailing" secondItem="PLq-Yn-yfh" secondAttribute="trailing" id="Mf7-G0-EIn"/>
+                            <constraint firstItem="PLq-Yn-yfh" firstAttribute="leading" secondItem="U02-3h-NMw" secondAttribute="leading" constant="5" id="psg-Hs-eDg"/>
+                            <constraint firstItem="S09-pv-WiG" firstAttribute="top" secondItem="PLq-Yn-yfh" secondAttribute="bottom" id="yFN-P9-Q6i"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="U02-3h-NMw" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="0EL-HG-teH"/>
+                <constraint firstAttribute="bottom" secondItem="U02-3h-NMw" secondAttribute="bottom" id="0uC-sn-cLt"/>
+                <constraint firstAttribute="trailing" secondItem="U02-3h-NMw" secondAttribute="trailing" id="Y9v-7b-Ebo"/>
+                <constraint firstItem="U02-3h-NMw" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="pzb-Y5-K4d"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="211" height="162"/>
+            <connections>
+                <outlet property="DayTipsLabel" destination="PLq-Yn-yfh" id="vrk-Cd-rxA"/>
+                <outlet property="TripsCollectionView" destination="3jq-A5-GkB" id="wJ3-Q3-T9h"/>
+                <outlet property="collectionViewHeight" destination="M5G-h6-Miv" id="mAz-U4-cHH"/>
+                <outlet property="containertView" destination="S09-pv-WiG" id="mrf-x0-agk"/>
+                <outlet property="topViewWidth" destination="2CY-3g-ISf" id="Zf4-Nk-lPf"/>
+            </connections>
+            <point key="canvasLocation" x="5" y="109"/>
+        </collectionViewCell>
+    </objects>
+</document>

@@ -1,0 +1,1149 @@
+
+/*Drawer titles*/
+"Drawer_Title_Home" = "Domov";
+"Drawer_Title_Route_Planner" = "Plánovač ciest";
+"Drawer_Title_My_Trips" = "Moje cesty";
+"Drawer_Title_Dashboard" = "Štatistiky";
+"Drawer_Title_Mobility_Coach" = "Tréner";
+"Drawer_Title_Profile" = "Profil";
+"Drawer_Title_Settings" = "Nastavenia & profil";
+"Drawer_Title_Report_Issue" = "Nahlásiť problém";
+"Drawer_Title_Finish_Log_Out" = "Odhlásiť sa";
+"login_what_is_email_address" = "Aká je tvoja e-mailová adresa?";
+"login_enter_your_password" = "Zadajte heslo";
+
+/*Profile and settings options*/
+"Edit_Profile" = "Upraviť profil";
+"Set_Home_And_Work" = "Nastavenie adresy bydliska a zamestnania";
+"Demographic_Info" = "Demografické informácie";
+"Worthwhileness_Settings" = "Cestovné preferencie";
+"Tutorials" = "Návody";
+"Transport_Preferences" = "Dopravné preferencie";
+
+/*<string name="APP_PERMISSIONS">App permissions</string>*/
+"App_Language" = "Jazyk";
+"Change_Password" = "Zmeniť heslo";
+"Feedback" = "Spätná väzba";
+"Log_Out" = "Odhlásenie";
+
+/*Education labels*/
+"Education_8th_Grade" = "Up to 8th grade";
+"Education_Some_Highschool" = "9th to 11th grade";
+"Education_Highschool" = "Stredoškolské";
+"Education_Some_College" = "Some college credit, no degree";
+"Education_Training" = "Technical/vocational training";
+"Education_Bachelor" = "Bachelor’s degree";
+"Education_Master" = "Master’s degree";
+"Education_Professional" = "Professional degree";
+"Education_Doctorate" = "Doctorate degree";
+"Education_Associate" = "Associate degree";
+"Education_No_Schooling" = "Žiadne";
+
+/*Demographic option*/
+"Demographic_Option_General" = "Všeobecné";
+
+/*<string name="DEMOGRAPHIC_OPTION_HOUSEHOLD_DATA">Household data</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_CAPABILITIES">Mobility capabilities</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_PREFERENCES">Mobility preferences</string>
+ <string name="DEMOGRAPHIC_OPTION_EXPERIENCE_FACTORS">Experience factors</string>
+ General suboptions*/
+"Age" = "Vek";
+
+/*message: Gender*/
+"Gender" = "Pohlavie";
+"Education" = "Vzdelanie";
+"Country" = "Štát";
+"City" = "Mesto";
+
+/*Tutorial options*/
+"Tutorial_Option_What_Is_Worthwhileness" = "Ako môžeš využiť svoj čas?";
+
+/*Productivity*/
+"Productivity_Percentage" = "Produktivita %@";
+"Mind_Percentage" = "Zábava a relax %@";
+"Body_Percentage" = "Zdravie %@";
+
+/*Main menu options
+ <string name="NEW_INTERFACE_TEXT">New interface</string>
+ My trips module*/
+"My_Trips" = "Moje cesty";
+"Start_Trip" = "Začať cestu";
+"End_Trip" = "Ukončiť cestu";
+"Trip_Being_Recorded" = "Cesta sa zaznamenáva";
+
+/*Edit trips*/
+"Select_Trips_To_Merge" = "Označ cesty, ktoré chceš zlúčiť";
+"Confirm_Trips_To_Merge" = "Potvrď vybraté cesty na zlúčenie";
+"Select_Trips_To_Split" = "Označ cesty, ktoré chceš rozdeliť";
+"Move_The_Map_To_Split" = "Posuň mapu pre rozdelenie ciest";
+"Select_Trips_To_Delete" = "Označ cesty, ktoré chceš vymazať";
+"Split" = "Rozdeliť";
+"Merge" = "Zlúčiť";
+"Delete" = "Vymazať";
+"Select_Legs_To_Split" = "Vyber zo zoznamu časti ciest a/alebo prestupy, ktoré chceš rozdeliť";
+"Move_The_Map_To_Split_The_Leg" = "Posuň mapu pre vyber bod rozdelenia";
+"Edited" = "Upravené";
+"Select_Legs_To_Merge" = "Vyber zo zoznamu časti ciest a/alebo prestupy, ktoré chceš zlúčiť";
+"Confirm_The_Legs_To_Merge" = "Potvrď vybraté časti ciest/prestupov na zlúčenie";
+"Rate_Your_Edited_Trips" = "Ohodnoť svoje upravené cesty";
+"Select_Legs_To_Delete" = "Vyber časti cesty, ktoré chceš zmazať";
+"Confirm_The_Legs_To_delete" = "Potvrď vybraté cesty a/alebo prestupy, ktoré chceš zmazať";
+
+/*Leg validation*/
+"Validated" = "Potvrdené";
+"How_Did_You_Travel" = "Ako si cestoval?";
+
+/*message: Public Transport*/
+"Public_Transport" = "Verejná doprava";
+"Active_Semi_Active" = "Aktívne/Poloaktívne";
+"Private_Motorised" = "Súkromné motorizované";
+"Not_Sure" = "Nie som si istý";
+"Lousy" = "Zlé";
+"Overall_Feel_About_Trip" = "Aké sú tvoje celkové pocity z cesty?";
+"Great" = "Skvelé";
+"Travel_Time_Wasted_Min_Text" = "Všetok čas bol premrhaný";
+"Travel_Time_Wasted_Question_Text" = "Bol tvoj cestovný čas premrhaný alebo využitý naplno?";
+"Travel_Time_Wasted_Max_Text" = "Všetok čas bol využitý naplno";
+
+/*please update translation from new english text*/
+"Which_Factors_Most_Contributed" = "Ktoré faktory ovplyvnili využitie tvojho času?";
+"Unfold_All_That_Apply" = "Rozbaľ a označ všetky, ktoré platia";
+
+/*Factors*/
+"Infrastructure_And_Services" = "Infraštruktúra a služby";
+"Comfort_And_Pleasantness" = "Komfort a pohodlie";
+"Getting_There" = "Infraštruktúra";
+"Tables" = "Stôl";
+"Toilets" = "Toalety";
+"Food_Drink_Allowed" = "Povolené jedlá a nápoje";
+"Food_Drink_Available" = "Dostupnosť jedál a nápojov";
+"Shopping_Retail" = "Možnosť nakupovania";
+"Entertainment" = "Zábava";
+"Noise_Level" = "Hlasitosť zvuku";
+"Cleanliness" = "Čistota";
+"Scenery" = "Scenéria";
+"Todays_Weather" = "Dnešné počasie";
+"Privacy" = "Súkromie";
+"Traffic_Signals_Crossings" = "Dopravné značenie";
+"Crowding_Congestion" = "Preľudnenie";
+"Traffic_Congestion_Delays" = "Dopravné zápchy/meškania";
+"Others_Comments" = "Iné/Poznámky";
+
+/*Activities*/
+"What_Did_You_Do_And_Value" = "Čo prispelo k využitiu tvojho cestovného času?";
+"Driving_Cycling_Walking" = "Šoférovanie/Bicyklovanie/Chôdza";
+"Relaxing_Sleeping" = "Relax alebo spánok";
+"Browsing_Social_Media" = "Internet/sociálne siete";
+"Reading_Writing_Paper" = "Čítanie/písanie";
+"Reading_Writing_Device" = "Čítanie/písanie (elektr. zariadenie)";
+"Listening_To_Audio" = "Počúvanie hudby a iné";
+"Walking_Video_Gaming" = "Pozeranie videá alebo sa hral";
+"Talking_Including_Phone" = "Rozprávanie sa (vrátane telefonovania)";
+"Accompanying_Someone" = "Sprevádzanie niekoho";
+"Eating_Drinking" = "Jedenie / pitie";
+"Personal_Caring" = "Osobná starostlivosť";
+"Thinking" = "Rozmýšľanie";
+
+/*Value this part of the trip*/
+"What_Value_Take_From_Part" = "Akú hodnotu má pre teba táto časť cesty?";
+"Paid_Work" = "Platená práca";
+"Personal_Tasks" = "Súkromné veci";
+
+/*message: Enjoyment*/
+"Enjoyment" = "Zábava a relax";
+
+/*message: Fitness*/
+"Fitness" = "Zdravie";
+"None" = "Žiadnu";
+"Some" = "Čiastočnú";
+"High" = "Veľkú";
+
+/*Thinking about trip as a whole*/
+"Thinking_About_Your_Trip_Title" = "Keby si sa mohol rozhodnúť inak, využil by si viac času na:";
+
+/*message: Productivity*/
+"Productivity" = "Produktivita";
+"Anything_Else_Like_To_Share" = "Je ešte niečo čo by ste chceli zdieľať?";
+
+/*message: I would like to share...*/
+"Would_Like_To_Share" = "Chcel by som zdieľať...";
+"Today" = "Dnes";
+"Yesterday" = "Včera";
+"Validate_Your_Trip" = "Nová cesta zaznamenaná! Potvrď tvoju cestu a získaj %@ bodov!";
+"What_Was_Purpose" = "Aký bol dôvod tvojej cesty?";
+"Mark_All_That_Apply" = "Označ všetky, ktoré platia";
+
+/*Trip purposes*/
+"Work" = "Práca";
+"School_Education" = "Škola/vzdelanie";
+"Home" = "Domov";
+"Everyday_Shopping" = "Každodenné nakupovanie";
+"Business_Trip" = "Pracovná cesta";
+"Leisure_Hobby" = "Voľný čas/Hobby";
+"Pick_Up_Drop_Off" = "Priviesť alebo vyzdvihnúť niekoho";
+"Personal_Tasks_Errands" = "Osobné úlohy/záležitosti";
+"Trip_Itself" = "Samotná cesta";
+
+/*message: Other*/
+"Other" = "Iné";
+"Arrive_At_Fixed_Time" = "Musel si prísť v stanovenom čase?";
+"How_Often_Make_This_Trip" = "Ako často cestuješ po tejto trase?";
+"Regularly" = "Pravidelne";
+"Occasionally" = "Príležitostne";
+"First_Time" = "Prvýkrát";
+"Select_Part_Of_Trip_Feedback" = "Vyber jednu časť z tvojej cesty pre ďalšie hodnotenie";
+
+/*<string name="objective_other_hint">Where you travelled and why</string>*/
+"Confirm_Modes_Of_Your_Trips" = "Potvrď typy dopravy počas tvojej cesty";
+
+/*message: Transfer*/
+"Transfer" = "Prestup";
+"Auto_Detected" = "Automaticky detekované";
+
+/*message: were you %@ ?*/
+"Were_You_Walking_Or_Running" = "Bol tvoj spôsob dopravy: %@ ?";
+
+/*message: Did you go by %@ ?*/
+"Did_You_Go_The_Mode" = "Bol tvoj spôsob dopravy: %@ ?";
+
+/*modes of transport*/
+"Walking" = "Chôdza";
+"Jogging_Running" = "Beh";
+"Bicycle" = "Bicykel";
+"Car_Driver" = "Auto (šofér)";
+"Bus_Trolley_Bus" = "Autobus/Trolejbus";
+"Tram" = "Električka";
+"Metro" = "Metro";
+"Urban_Train" = "Mestský vlak";
+"Regional_Intercity_Train" = "Regionálny/medzimestský vlak";
+"Ferry_Boat" = "Trajekt/loď";
+"Motorcycle" = "Motorka";
+"Moped" = "Moped";
+"Electric_Bike" = "Elektrický bicykel";
+"Bike_Sharing" = "Bikesharing";
+"Car_Passenger" = "Autor (pasažier)";
+"Taxi_Ride_Hailing" = "Taxík";
+"Car_Sharing_Rental_Driver" = "Prenájom/zdieľanie auta (šofér)";
+"Car_Sharing_Rental_Passenger" = "Prenájom/zdieľanie auta (pasažier)";
+"car_pooling" = "Carpooling";
+"Plane" = "Lietadlo";
+"high_speed_train" = "Rýchlovlak";
+"Coach_Long_Distance_Bus" = "Diaľkový autobus";
+"Micro_Scooter" = "Kolobežka";
+"Skate" = "Korčule";
+"Electric_Wheelchair_Cart" = "Elektrický vozík";
+"Wheelchair" = "Invalidný vozík";
+"Cargo_Bike" = "Nákladný bicykel";
+"Other_Public_Transport" = "Iná verejná doprava";
+"Other_Active_Semi_Active" = "Iné aktívne/poloaktívne";
+"Other_Private_Motorised" = "Iné súkromné motorizované prostriedky";
+
+/*Misc*/
+"Yes" = "Áno";
+"No" = "Nie";
+"Save" = "Uložiť";
+"Confirm_All" = "Potvrdiť všetky";
+
+/*message text of \"Next\" button message: Next*/
+"Next" = "Ďalej";
+"Done" = "Hotovo";
+"End" = "Koniec";
+
+/*Factors Wasted Time*/
+"Skip" = "Preskočiť";
+
+/*title for the info pages message: A Little About You*/
+"A_Little_About_You" = "Niečo o tebe";
+
+/*message: Active/Semi-active*/
+"Active_Semi_active" = "Aktívne/Poloaktívne ";
+
+/*message: Thanks! To record your trips we need your permission to let Woorti access to your location at all times.
+ 
+ It should not excessively consume your battery.*/
+"Ask_location_permission_String" = "Ďakujeme! Pre zaznamenávanie tvojich ciest potrebujeme tvoj súhlas, aby Woorti mohla neustále pristupovať k tvojej polohe.\n\n\nVytvorili sme ju tak, aby príliš nemíňala tvoju batériu.";
+
+/*message: Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.*/
+"Ask_location_permission_String_when_user_has_denied" = "Prepáč! Pre správne fungovanie aplikácie Woorti potrebujeme, aby si jej vždy umožnil prístup k tvojej polohe.";
+
+/*message: Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us!
+ 
+ To do this we need to be able to send you notifications*/
+"Ask_notification_permission_String" = "Budú nás zaujímať aj tvoje skúsenosti z cestovania, preto by sme ti chceli posielať notifikácie. Na tvojom názore nám naozaj záleží!";
+
+/*message: BACK TO LOGIN*/
+"Back_To_Login" = "Späť na prihlásenie";
+
+/*change language screen title message: Change Language*/
+"Change_Language" = "Zmeniť jazyk";
+
+/*message: Correct exams*/
+"Correct_Exams" = "Correct_Exams";
+
+/*title for the first onboarding pages message: Data Protection*/
+"Data_Protection" = "Súkromie a ochrana osobných údajov";
+
+/*placeholder for password when registering only*/
+"Didnt_sign_up_yet" = "Zabudol si heslo?";
+
+/*rating prefered modes of transport message: Doesn't improve my fitness*/
+"Doesnt_Improve_My_Fitness" = "Nezlepšuje moju kondíciu";
+
+/*email message*/
+"Email" = "e-mail";
+
+/*message shown when clcicking to reset a password message: If %@ has an account with Woorti, you will be receiving an email to reset your password*/
+"Email_Has_Been_Sent" = "E-mail bol odoslaný";
+
+/*rating prefered modes of transport message: Enjoying*/
+"Enjoying" = "Užívam si";
+
+/*message: Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…*/
+"Enjoyment_Worthwhile_Description_Score" = "Počas cestovania môžeš: počúvať hudbu, oddychovať alebo meditovať, využívať sociálne siete, pozorovať okolie...";
+
+/*message: When I travel,
+ I chill*/
+"Enjoyment_Worthwhile_High_Score" = "Cestovanie si užívam";
+
+/*placeholder for email in login/register*/
+"Enter_Your_Email_Address" = "Zadaj tvoju e-mailovú adresu";
+
+/*name Placeholder message: Enter your name*/
+"Enter_Your_Name" = "Zadaj svoje meno";
+
+/*placeholder for password in login/register*/
+"Enter_Your_Password" = "Zadaj svoje heslo";
+
+/*placeholder for password when registering only*/
+"Enter_Your_Password_Again" = "Znovu zadaj svoje heslo";
+
+/*error shown to the user when log in failed*/
+"Error_Log_In" = "Nastala chyba pri prihlasovaní. Skús to ešte raz alebo si nanovo nastav svoje heslo.";
+
+/*message: Female*/
+"Female" = "Žena";
+
+/*message: Did you know that a person spends about 2 years of her whole life commuting?
+ 
+ Woorti will help you explore your travel time!*/
+/*Fuzzy*/
+"First_Onboarding_Screen_Welcome_Description_Text" = "Vedel si, že človek strávi cestovaním priemerne až dva roky zo svojho života?\n\nWoorti ti pomôže spoznať tvoj cestovný čas!";
+
+/*message: Your travel time is an important part of your life!*/
+"First_Onboarding_Screen_Welcome_Title" = "Čas strávený cestovaním je dôležitou súčasťou tvojho života.";
+
+/*message: message: Travelling is not at all relaxing*/
+"FitnesEnjoyment_Worthwhile_Low_Scores" = "Cestovanie si vôbec neužívam";
+
+/*message: When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.*/
+"Fitness_Worthwhile_Description_Score" = "Chôdzou, jazdou na bicykli alebo aj behaním sa udržiavaš fit a v kondícii.";
+
+/*message: Travel time is a great way to feel the burn*/
+"Fitness_Worthwhile_High_Score" = "Cestovanie je skvelý spôsob spaľovania kalórií";
+
+/*message: Exercise is in the gym/field*/
+"Fitness_Worthwhile_Low_Score" = "Cvičiť sa má vo fitku";
+
+/*Forgot Password*/
+"Forgot_Password" = "Zabudnuté heslo";
+
+/*placeholder for password when registering only*/
+"Forgot_Your_Password" = "Zabudol si heslo?";
+
+/*message: Everyone defines what is a worthwhile travel time in his or her different way.
+ 
+ Let's see what that means to you!*/
+"Fourth_Onboarding_Screen_Description" = "Každý vníma hodnotu cestovného času odlišne.\n\nPozrime sa, ako ju vnímaš ty!";
+
+/*message: I accept MoTiV data protection conditions*/
+"GRPD_Accept" = "Súhlasím s MoTiV podmienkami ochrany údajov";
+
+/*message: For the European MoTiV project research on travel time, this app collects anonymised data on:
+ 1. Your trips (time, location and transport used)
+ 2. Your expressed preferences and searches within the app*/
+"GRPD_Description" = "Pre potreby európskeho výskumného projektu hodnoty cestovného času zhromažďuje aplikácia anonymizované údaje o: \n\n1. Vašich cestách (čas, miesto a typ dopravy) \n\n2. Vašich preferenciách a vyhľadávaniach";
+
+/*message: MoTiV privacy policy is compliant with EU GDPR. Read More*/
+"GRPD_Read_Policy" = "MoTiV zásady ochrany osobných údajov sú v súlade s EÚ GDPR.";
+
+/*rating prefered modes of transport message: Improves my fitness*/
+"Improves_My_Fitness" = "Zlepšuje moju kondíciu";
+
+/*splash screen start now button message*/
+"Log_In" = "Prihlásenie";
+
+/*login with google button message*/
+"Log_In_With_Google" = "Prihlásenie cez Google";
+
+/*message: Male*/
+"Male" = "Muž";
+
+/*message: No worries! Enter your email address below and we will send you a email to reset your password.*/
+"No_Worries_Message" = "Zadaj svoj e-mail, na ktorý ti pošleme správu o zmene hesla.";
+
+/*rating prefered modes of transport message: Not Enjoying*/
+"Not_Enjoying" = "Neužívam si";
+
+/*%@ not filled*/
+"Not_Filled" = "%@ nevyplnené";
+
+/*rating prefered modes of transport message: Not Productive*/
+"Not_Productive" = "Neproduktívny";
+
+/*message: NOW YOU!*/
+"Now_You" = "TERAZ TY!";
+
+/*message: Ok cool*/
+"Ok_Cool" = "Ok super";
+
+/*password message*/
+"Password" = "Heslo";
+
+/*register button message*/
+"Passwords_Dont_Match" = "Zaregistrovať sa";
+
+/*title for the first onboarding pages message: Permissions*/
+"Permissions" = "Povolenia";
+
+/*message: Private Motirized*/
+"Private_Motirized" = "Súkromné motorizované";
+
+/*message: Proceed to Enjoyment*/
+"Proceed_To_Enjoyment" = "Pokračovať k Zábave a relaxu";
+
+/*message: Proceed to Fitness*/
+"Proceed_To_Fitness" = "Pokračovať k Zdraviu";
+
+/*proceed to productivity button message: Proceed to Productivity*/
+"Proceed_To_Productivity" = "Pokračovať k Produktivite";
+
+/*rating prefered modes of transport message: Productive*/
+"Productive" = "Produktívny";
+
+/*message: Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…*/
+"Productivity_Worthwhile_Description_Score" = "Počas cestovania môžeš využiť svoj čas nielen na prácu, štúdium, ale taktiež na osobné záujmy.";
+
+/*message: I used my  trip to get stuff done!*/
+"Productivity_Worthwhile_High_Score" = "Počas cestovania riešim súkromné alebo pracovné záležitosti";
+
+/*message: I don’t work when I travel*/
+"Productivity_Worthwhile_Low_Score" = "Počas cestovania nepracujem";
+
+/*message: How important are the travel time worthwhileness elements for you, when you travel?*/
+"Rate_Worthwhileness_Screen_Title" = "Ako dôležité sú pre teba nasledujúce faktory počas cestovania?";
+
+/*message: How much enjoyment do you get from your your travel time by:*/
+"Rating_Prefered_Mot_Enj_Title" = "Ako veľmi si užívaš cestovanie týmito dopravnými prostriedkami:";
+
+/*message: How does your travel time contribute to your fitness when you travel by:*/
+"Rating_Prefered_Mot_Fit_Title" = "Ako veľmi prispieva cestovanie týmito dopravnými prostriedkami k tvojej kondícii:";
+
+/*message: How productive are you when you travel by:*/
+"Rating_Prefered_Mot_Prod_Title" = "Ako veľmi si produktívny počas cestovania týmito dopravnými prostriedkami:";
+
+/*register button message*/
+"Register" = "Zaregistruj sa";
+
+/*message: Which modes of transport do you use regularly?*/
+"Regualr_Modes_Of_Transport_Title" = "Ktoré typy dopravy využívaš obvykle?";
+
+/*Reset Password*/
+"Reset_Password" = "Znovu nastaviť heslo";
+
+/*message: Check out $@ for more information*/
+"Second_Onboarding_Screen_Help_Reseach_Check_Out_Site" = "Pre ďalšie informácie klikni na %@ .";
+
+/*message: With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.*/
+"Second_Onboarding_Screen_Help_Reseach_Description" = "Informácie o tvojom cestovaní pomôžu výskumným tímom a dopravným inžinierom v budúcnosti zlepšiť dopravu v tvojom okolí.";
+
+/*The message for this text was incorrect, the real message in English is: Help research for better transport
+ When possible please retranslate this message.*/
+"Second_Onboarding_Screen_Help_Reseach_Title" = "Zapoj sa do výskumu pre zlepšenie dopravy";
+
+/*sign in button message*/
+"Sign_In" = "Prihlásiť sa";
+
+/*splash screen start now button message*/
+"Start_Now" = "Začať teraz";
+
+/*message: While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.*/
+"Third_Onboarding_Screen_Description" = "Niektorí ľudia počas cestovania radi pracujú alebo študujú a iní zase najradšej relaxujú. Niektorí preferujú aktívny pohyb, iní zase naštartujú svoj deň počas cestovania počúvaním hudby.";
+
+/*error shown to the user when registering with a already signed in email account*/
+"User_Already_Signed_In" = "Užívateľské meno %@ už bolo zaregistrované. Chceš sa prihlásiť?";
+
+/*title that appears on the top of the login page*/
+"Welcome_Back" = "Vitaj späť";
+
+/*title for the first onboarding page message: What is a worthwhile trip*/
+"What_Is_A_Worthwhile_Trip" = "Ako využiť cestovný čas naplno?";
+
+/*message: What is your age?*/
+"What_Is_Your_Age" = "Koľko máš rokov?";
+
+/*message: What is your name?*/
+"What_Is_Your_Name" = "Aké je tvoje meno?";
+
+/*message: Where do you live?*/
+"Where_Do_You_Live" = "Kde bývaš?";
+
+/*you've got mail!*/
+"Youve_Got_Mail" = "Máš novú správu!";
+"No_Ongoing_Trip_To_Show" = "Žiadne prebiehajúce cesty na zobrazenie";
+"Your_Trip" = "Tvoja cesta";
+"Click_On_The_Marker_To_Split_The_Trip" = "Klikni na značku pre rozdelenie cesty";
+"Security_Boarding_Process" = "Bezpečnostná kontrola a boarding";
+"Other_Activity" = "Iná aktivita";
+"Cycling" = "Bicyklovanie";
+"Riding" = "Jazdenie samotné";
+"Skating" = "Korčuľovanie samotné";
+"Driving" = "Šoférovanie samotné";
+"Running" = "Bežanie samotné";
+
+/*message: Please wait while Woorti searches for local studies*/
+"Wait_While_Searching_Local_Studies" = "Prosím počkaj, kým Woorti nájde miestne štúdie";
+
+/*message: There are these studies going near you. Which one(s) do you want to contribute with data to?*/
+"Studies_Title" = "V tvojom okolí prebiehajú tieto štúdie. Ku ktorým chceš prispieť svojimi údajmi?";
+"Menu" = "Menu";
+"Set_Home" = "Nastaviť adresu domov";
+"Set_Work" = "Nastaviť adresu zamestnania";
+"Change_Photo" = "Zmeniť foto";
+"Name" = "Meno";
+"Define_Home_Location" = "Nastav adresu bydliska";
+"Define_Work_Location" = "Nastav adresu zamestnania";
+"Edit" = "Uložiť";
+"Educational_Background" = "Dosiahnuté vzdelanie";
+"Activities" = "Aktivity";
+"While_You_Ride" = "Okolie";
+"Ability_To_Do_What_I_Wanted" = "Možnosť robiť to, čo som chcel";
+"Simplicity_Difficulty_Of_The_Route" = "Jednoduchosť/obtiažnosť trasy";
+"Schedule_Reliability" = "Spoľahlivosť cestovného poriadku";
+"Security_And_Safety" = "Bezpečnosť";
+"Space_Onboard_For_Lugagge_Pram_Bicycle" = "Priestor pre batožinu/kočík/bicykel";
+"Ability_To_Take_Pets_Along" = "Možnosť zobrať so sebou domáce zvieratá";
+"Payment_And_Tickets" = "Platba a lístky";
+"Convenient_Access_Lifts_Boarding" = "Pohodlný prístup (výťahy, boarding)";
+"Route_Planning_Navigation_Tools" = "Plánovanie trasy a navigácia";
+"Information_And_Signs" = "Informácie a značenie";
+"Checkin_Security_And_Boarding" = "Check-in, bezpečnostná kontrola a boarding";
+"Crowdedness_Seating" = "Preplnenosť/Dostupnosť sedenia";
+"Internet_Connectivity" = "Internetové pripojenie";
+"Ability_To_Do_The_Things_I_Want" = "Možnosť robiť veci, ktoré chcem";
+"Charging_Opportunity" = "Možnosť nabíjania";
+"Car_Bike_Parking_At_Transfer_Point" = "Parkovanie auta/bicykla ";
+"Vehicle_Ride_Smoothness" = "Plynulosť jazdy dopravným prostriedkom";
+"Seating_Quality_Personal_Space" = "Kvalita sedenia/osobný priestor";
+"Other_People" = "Iní ľudia";
+"Air_Quality_Temperature" = "Kvalita vzduchu/teplota";
+"General_Atmosphere_Design" = "Všeobecná atmosféra/dizajn";
+"Road_Path_Availability_And_Safety" = "Dostupnosť a bezpečnosť cesty/chodníka";
+"Accessibility_Escalators_Lifts_Ramps_Stairs_Etc" = "Prístupnosť (eskalátor, výťah, rampa, schody atď.)";
+"Ability_To_Carry_Bags_Luggage_Etc" = "Možnosť niesť so sebou tašky, batožinu atď.";
+"Ability_To_Take_Kids_Or_Pets_Along" = "Možnosť vziať so sebou deti alebo domáce zvieratá";
+"Benches_Toilets_Etc" = "Lavičky/toalety atď.";
+"Facilities_Shower_Lockers" = "Zariadenie (sprchy, skrinky)";
+"Parking_At_End_Points" = "Parkovanie v cieľových bodoch";
+"Road_Path_Quality" = "Kvalita cesty/chodníka";
+"Road_Path_Directness" = "Priamosť cesty/chodníka";
+"Air_Quality" = "Kvalita vzduchu";
+"Lighting_Visibility" = "Osvetlenie/viditeľnosť";
+"Cars_Other_Vehicles" = "Autá/iné vozidlá";
+"Space_For_Luggage_Pram_Bicycle_Etc" = "Priestor pre batožinu/kočík/bicykel atď.";
+"Road_Quality_Vehicle_Ride_Smoothness" = "Kvalita cesty/plynulosť jazdy vozidla";
+"Vehicle_Quality" = "Kvalita vozidla";
+"Seat_Comfort" = "Pohodlnosť sedadiel";
+"Other_Passengers" = "Iní pasažieri";
+"Other_Cars_Vehicles" = "Iné autá/vozidlá";
+
+/*Button text on second onboarding page*/
+"Lets_Get_Started" = "Tak poďme na to";
+
+/*Report issue*/
+"Thank_You_For_Submitting_This_Issue" = "Ďakujeme za nahlásenie problému. Potvrď zaslanie alebo nahlás ďalší";
+"Confirm_And_Leave" = "Potvrdiť a odísť";
+"Confirm_And_Submit_More" = "Potvrdiť a odoslať ďalší";
+"Where_City" = "Kde %@?";
+"OtherCountry" = "Iná krajina";
+"OtherCity" = "Iné mesto";
+"Sign_Up_Error" = "Chyba registrácie";
+"Sign_Up" = "Registrácia";
+"How_Important_Are_The_Following_Factors" = "Ako dôležité sú pre teba nasledujúce faktory s ohľadom na čas strávený cestovaním?";
+"Modes_Of_Transport" = "Typy dopravy";
+"Help_Research_For_Better_Transport" = "Pomôž výskumu pre lepšiu dopravu";
+"Already_Signed_Up_Log_In_Here" = "Už si sa registroval? Prihlás sa tu.";
+"Welcome" = "Vitaj";
+"Refresh_Surveys" = "Obnoviť prieskumy";
+
+/*This string has the text for the data regarding Activities (e.g., for the walk itself) and *not* the walking mode of transport*/
+"The_Walk_Itself" = "Samotná chôdza";
+"Education_Highshool" = "Stredoškolské";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Education_Basic" = "Základné";
+"Education_University" = "Vysokoškolské";
+
+/*Ocupation options*/
+"Occupation" = "Zamestnanie";
+"Ocupation_Student" = "Študent";
+"Ocupation_Schedule_Worker" = "Zamestnanec";
+"Ocupation_Flexible_worker" = "Dohodár";
+"Ocupation_Selfemployed" = "Živnostník/Free lancer";
+"Ocupation_Seeking_Work" = "Nezamestnaný/á";
+"Ocupation_Inactive" = "Dôchodca";
+"Ocupation_Maternity" = "Materská/Rodičovská dovolenka";
+"Ocupation_Military" = "Vojenská služba";
+
+/*Marital status*/
+"Marital_Status" = "Rodinný stav";
+"Marital_Single" = "Slobodný/á";
+"Marital_Married" = "Ženatý/vydatá";
+"Matital_Significant_Other" = "Druh/družka";
+"Marital_Divorced" = "Rozvedený/á";
+"Marital_Widowed" = "Vdovec/vdova";
+"Driver_License" = "Vodičský preukaz";
+"Household_Yearly_Income" = "Čistý ročný príjem domácnosti";
+"Number_People_Household" = "Počet osôb v domácnosti";
+"Number_Children_household" = "Počet detí v domácnosti";
+"Number_Cars_Household" = "Počet áut v domácnosti";
+"Nationality" = "Národnosť";
+
+/*TODO NEW STRING*/
+"No_Trips_Text" = "Na tejto obrazovke sa zobrazia tvoje cesty, ktoré budeš môcť potvrdiť. Vráť sa sem po zaznamenaní tvojej cesty... \\n\nWoorti by mal nahrávať všetky tvoje cesty, ale ak sa chceš uistiť, že ich naozaj nahrá, stlač tlačidlo Začať cestu pred tvojím cestovaním...... \\n\nUisti sa, že máš GPS zapnuté.";
+
+/*Dashboard*/
+/*you have spent %@ travelling a distance of %@ in %@.*/
+"You_Have_Spent_Complete" = "Cestovaním si strávil %@ a precestoval si %@ v %@.";
+"In_Total_You_Spent_Calories" = "Celkovo si spálil %@.";
+"And_This_Counted_Carbon_Footprint" = "To zodpovedá %@ tvojho denného limitu uhlíkovej stopy.";
+"Your_Trips_Overall_Percentage_Worthwhile" = "Tvoje cesty boli využité na %@.";
+"While_Traveling_Activities" = "Počas cestovania si %@ z tvojho času strávil aktivitou %@.";
+"Do_You_Want_To_Set_This_Location_Home" = "Chceš nastaviť toto miesto ako tvoju domácu adresu?";
+"Do_You_Want_To_Set_This_Location_Work" = "Chceš nastaviť toto miesto ako tvoju pracovnú adresu?";
+"Privacy_Policy" = "Zásady ochrany osobných údajov";
+
+/*day*/
+"Day" = "Deň";
+
+/*3 days*/
+"Days_3" = "3 dni";
+
+/*week*/
+"Week" = "Týždeň";
+
+/*month*/
+"Month" = "Mesiac";
+
+/*year*/
+"Year" = "Rok";
+
+/*era*/
+"Era" = "Éra";
+
+/*worthwhile*/
+"Worthwhile" = "využité";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Other_Activities" = "Iné aktivity";
+
+/*Marital status*/
+"Household_Marital" = "Rodinný stav";
+"Household_Years_Residence" = "Dĺžka pobytu v tejto krajine";
+"Household_Labour_Status" = "Zamestnanecký status";
+"Labour_Student" = "Študent";
+"Labour_Employed_Full_Time" = "Zamestnanec na plný úväzok";
+"Labour_Employed_Part_Time" = "Zamestnanec na čiastočný úväzok/na dohodu";
+"Labour_Unemployed" = "Nezamestnaný";
+"Years_Residence_Less_Than_One" = "Menej ako 1";
+"Years_Residence_One_To_Five" = "Od 1 do 5";
+"Years_Residence_More_Than_Five" = "Viac ako 5";
+"Walk_For_Distance" = "%@ chôdze";
+"Household" = "Domácnosť";
+"Total_Points" = "Body";
+"Todays_Travel_Report" = "Tvoje cesty dnes";
+
+/*link to page with privacy policy specific to each language*/
+/*Fuzzy*/
+"Url_Privacy_Policy" = "https://motivproject.eu/data-collection/data-protection/slovakia.html";
+
+/*%@ questions*/
+"N_Questions" = "%@ otázok";
+
+/*New survey*/
+"New_Survey" = "Nový dotazník";
+
+/*Minutes more*/
+"Minutes_More" = "minút viac";
+
+/*Minutes less*/
+"Minutes_Less" = "minút menej";
+
+/*Kilometers more*/
+"Km_More" = "km viac";
+
+/*Kilometers less*/
+"Km_Less" = "km menej";
+
+/*Trip validation*/
+"Trip_Validation" = "Potvrdenie cesty";
+
+/*Latest story*/
+"Latest_Story" = "Najnovší príbeh";
+"Household_Data" = "Údaje o domácnosti";
+
+/*new text for battery warning pop up in mytrips (so that people are remembered to disable battery optimizations that undermine the app working in background)*/
+/*battery warning popup text*/
+"Alert_Battery_Content" = "Počas nahrávania ciest vykonáva aplikácia Woorti prácu na pozadí. Nezabudnite vypnúť v telefóne všetky nastavenia optimalizácie batérie alebo režimu nízkej spotreby týkajúce sa aplikácie Woorti, aby sa zabránilo vypnutiu aplikácie.";
+
+/*"In the last" start message of DashBoard, Please use sentence that fits any number of days*/
+/*Dashboard*/
+"In_The_Last" = "V posledných";
+
+/*stories*/
+"story_1_title_chiaras_new_train_ride" = "Chiara a jej nové cestovanie vlakom";
+"story_1_text_chiaras_train_ride" = "Chiara, jej manžel a ich dve deti sa nedávno presťahovali z centra na okraj Bruselu. Každý deň Chiara vozí svoje deti do škôlky a školy nákladným bicyklom a potom ide na vlakovú stanicu odkiaľ dochádza do svojej práce v centre mesta 25 minút. Na začiatku nebola Chiara veľmi šťastná, pretože si musela zvyknúť, že veľmi veľa času trávi dochádzaním do práce. Po krátkej dobe si však začala cestovanie vlakom užívať. Keď sedela sama mohla oddychovať alebo robiť veci, ktoré by inak nerobila.\n \n\nChiara začala tento čas využívať na čítanie knihy. Po nejakom čase však zistila, že 25 minút nie je dostatočný čas na to, aby sa poriadne začítala do príbehu.\n \nPotom sa snažila čítať časopisy, ale pretože uprednostňuje dlhé, hlboké články, stalo sa jej to isté čo počas čítania kníh.\n \nTak začala sledovať, čo sa deje na Facebooku. Niekedy sa tak začítala do príspevkov, že takmer zabudla vystúpiť na svojej zastávke. Rozhodla sa, že takéto zvýšenie tlaku ráno jej za to nestojí a skúsi nájsť iný spôsob trávenia času počas dochádzania do práce. \n\n \n\nNakoniec vyskúšala niečo, čo zafungovalo. Keďže sa presťahovali do holandsky hovoriacej časti, začala sa počas cestovania učiť holandčinu. Počas cesty vo vlaku zvládala prejsť dve až tri lekcie, čo jej dávalo možnosť každý deň sa aspoň trošku venovať novému jazyku. To jej uľahčilo vytvárať si nové priateľstvá s ľuďmi v jej susedstve. \n \n \n\nChiarina najlepšia voľba bola funkciou množstva času, ktorý mala k dispozícii počas cestovania a jej pocitov v tejto fáze života. \n \n \n A čo vy? Čo je najlepšie pre vás počas cestovania?";
+"story_2_title_the_best_way_to_get_great_ideas_while_moving_p1" = "Najlepší spôsob ako získať skvelé nápady počas pohybu";
+"story_2_text_the_best_way_to_get_great_ideas_while_moving_p1" = "Všimli ste si niekedy, že počas niektorých aktivít sa vám môžu generovať nové nápady ľahšie? Elon Musk pri rozhovore o tom, čo je najproduktívnejšou časťou jeho dňa, odpovedal: „keď sa sprchujem“. Nie je jediný. Veľa ľudí tvrdí, že mnohé z ich najlepších nápadov prichádzajú práve počas sprchovania!\n \n\nA čo počas cestovania? Existuje nejaká situácia, aktivita alebo cestovanie špecifickým dopravným prostriedkom, ktoré významne vplývajú na produktivitu ľudí?  \n \n\nFaktom je, že existuje jeden spôsob dopravy, ktorý sa zdá byť najlepší na generovanie nových myšlienok.  Niekoľko mysliteľov objavilo túto výhodu a zakomponovali tento druh dopravy do svojho každodenného života vždy keď chceli prísť s novými nápadmi a myšlienkami.\n \n\nTip: niektorí z nich ako Beethoven, Dickens a Darwin, žili vo svete bez motorizovaných dopravných prostriedkov...\n \n\nTip 2: je to forma pohybu, ktorá aktivuje mozog\n \n\nViete o akom type dopravy hovoríme? Pozrite sa, čo to je v zajtrajšom príbehu… :)";
+"story_3_title_the_best_way_to_get_great_ideas_while_moving_p2" = "Najlepší spôsob ako získať skvelé nápady počas pohybu - časť 2";
+"story_3_text_the_best_way_to_get_great_ideas_while_moving_p2" = "Takže, ktorý spôsob dopravy pomáhal mysliteľom z predchádzajúceho príbehu prichádzať na nové myšlienky a nápady?\n \nChôdza! \n \nÁno, napríklad Steve Jobs chodil na prechádzky okolo kancelárie spoločnosti Apple v Palo Alto s cieľom prichádzať na nové a lepšie nápady. Takýmto spôsobom taktiež prebiehali aj jeho stretnutia. Namiesto využívania kancelárskych priestorov sa s ľuďmi radšej prechádzal.\n\n \n\nExistuje vedecké vysvetlenie  alebo je to len náhoda?\n \nExistujú štúdie, ktoré dokazujú, že počas chôdze sú niektoré časti mozgu viac aktivované ako ostatné. Štúdia s deťmi v školách ukázala, že deti, ktoré prišli ráno do školy pešo napísali test lepšie ako tie, ktoré do školy doviezli rodičia autom.\n\nSamozrejme, že na generovanie nápadov počas prechádzok je dôležité, \naby sa v okolí nenachádzalo veľa rušivých faktorov, ktoré odpútavajú tvoju pozornosť, ako napríklad hlučné prostredie, doprava a iné prekážky. Mestá s vybudovanou infraštruktúrou a chodníkmi sú mestá, ktoré pomáhajú generovať skvelé nápady. \n \nZa účelom podpory \"stretnutí v pohybe\" bola vytvorená aplikácia, ktorá sa zrodila možno práve počas chôdze alebo sprchovania. Aplikácia zobrazuje trasy pre chodcov, ktoré sú vhodné práve na takéto stretnutia za chôzde. \nTáto aplikácia sa nazýva Weeting a obsahuje trasy z viacerých miest v Holandsku.\n\n \nA čo vaše trasy? Prinášajú vám dostatok nových myšlienok?";
+"story_4_title_the_7_shades_of_pedros_cycling_time" = "7 odtieňov Pedrovho času na bicykli";
+"story_4_text_the_7_shades_of_pedros_cycling_time" = "1. Takto to Pedro nazval. Začal cestovať do práce na bicykli v čase, keď to bolo v Lisabone ešte niečo nezvyčajné. Popri ceste naňho starí ľudia kričali \"Poď, cyklista, poď\", ako keby bol na pretekoch. Šoféri naňho trúbili \"Zmizni z cesty\".\n\nVeril, že ľudia by mali byť schopní využívať bicykel na prepravu po meste a cítil sa ako pioniersky hrdina, že bol príkladom pre budúce generácie ľudí dochádzajúcich za prácou či do školy na bicykli.\n\nPedro chcel tiež dokázať, že cesta bicyklom je rýchlejšia a tak si začal vyberať rýchlejšie cestičky aj keď na nich bola hustá premávka, len aby ušetril 5 minút. Čím kratšie to trvalo, tým lepšie.\n\n2. Ako sa efekt jeho prehlásenia vytratil, začal si viac uvedomovať stresujúcu časť jeho skúsenosti a príležitostnú záťaž. Tak sa rozhodol zvoľniť tempo. Prišiel na čaro pokojného holandského štýlu bicyklovania. Opäť si vyberal pokojnejšie cestičky.\n\n3. Keď mal Pedro deti, každé odprevadil do škôlky či školy pred tým, ako začal svoju 35-minútovú jazdu do práce. Jedinou alternatívou bicykla bolo auto. Túto možnosť však odmietal a začal byť unavený z toho, že nemá na výber.  \"Chýbajú mi časy, keď som mohol ísť metrom a relaxovať.\" A tak Pedro začal využívať metro vždy, keď nemusel brať deti.\n\n4. Keď mohla ísť s deťmi jeho žena, oslobodenie od povinnosti ísť bicyklom mu opäť prinieslo radosť z jazdy na ňom. Ale stále cítil, že ho to oberá o jeho produktívny čas. Bol zvyknutý využívať čas v mestskej doprave na premýšľanie a čítanie.\n\n5.Jedného dňa, keď pripravoval večeru, sa rozhodol pustiť si podcasty. Tak sa mu to zapáčilo, že mu to hneď spríjemnilo čas varenia. Mohol sa naučiť nové veci a počuť príbehy iných ľudí. Začal si varenie užívať.\n\nNásledne mu trvalo ďalší rok pochopiť, že to isté môže urobiť aj pri jazde na bicykli. S podcastami sa jeho cesty ešte viac spomalili a predĺžili. Každých 5 minút jazdy bolo 5 minút radosti z počúvania.\n\n6. Neskôr Pedro zmenil prácu a začal robiť z domu. Ako skončili jeho 45-minútové cesty na bicykli, začal priberať. Ako tak sledoval svoje rastúce brucho, uvedomil si, že to cestovanie do práce na bicykli v uplynulých rokoch mu pomáhalo udržiavať sa vo forme. Začal využívať každú príležitosť, napríklad, keď išiel na stretnutie, na to, aby mohol ísť na bicykli.\n\n7. Ale jeho čas strávený takouto jazdou sa ešte zlepšoval. Keď jeho deti vyrástli, uvedomil si, že čas, ktorý s nimi strávil cestou do školy, boli tie najlepšie chvíle v jeho živote. Deti mu dávali najavo, ako veľmi sa im tie cesty s ním páčili, pýtali sa tucty otázok a rozprávali, čo sa najnovšie udialo v škole. Toto prispelo k naplneniu jeho času stráveného na bicykli viac ako čokoľvek iné.\n\n";
+"story_5_title_stopping_or_not_stopping_in_a_moving_walkway" = "Zastaviť alebo nezastaviť v prúde kráčajúceho davu?";
+"story_5_text_stopping_or_not_stopping_in_a_moving_walkway" = "Všimol si si, že niektorí ľudia sa zastavia v prúde kráčajúceho davu alebo na schodoch, zatiaľ čo iní kráčajú ďalej?\n\nČo myslíš, že je dôvodom takéhoto správania?\n\nSi radšej, keď iní ľudia pokračujú v ceste alebo keď stoja?\n\nAk odpoveď, ktorá ti napadne, sa zdá byť úplne jednoznačná, zamysli sa znova. Nemusí to byť také jednoduché.\n\nKeď nabudúce pôjdeš v kráčajúcom dave, skús pozorovať ľudí, ktorí sa hýbu, aj tých, ktorí stoja. Len ich pozorovanie ti možno napovie, prečo. Keď budeš pokračovať v predstavách, tiež by si mohol odhaliť, aký je ich príbeh. Je to zábava!\n\nZastaviť alebo nezastaviť v kráčajúcom dave? Prečítaj si celý príbeh tu (len v angličtine): https://motivproject.eu/news/detail/stopping-or-not-stopping-in-a-moving-walkway.html. ";
+"story_6_title_virtual_travel_time" = "Virtuálny cestovný čas";
+"story_6_text_virtual_travel_time" = "Už si počul o \"virtuálnom cestovnom čase\"?\n\nNie, nie je to o cestovaní vo virtuálnej realite. Je to niečo komplexnejšie.\n\nKoľko času presne venuješ presunom z bodu A do bodu B? Pravdepodobne odpovieš: \"veď toľko, koľko mi zaberie cesta, predsa!\"\n\nNuž, z určitej perspektívy to tak nie je. Môže to byť viac, než len to.\n\nZamysli sa: aby si prešiel z bodu A do bodu B, musel si minúť nejaké peniaze. Ak cestuješ autom, je to všetko, čo súvisí s použitím auta a aj jeho vlastnením. Ak ideš verejnou dopravou, je to cena tvojho lístka. Dokonca aj keď ideš pešo, máš na sebe minimálne topánky a tie o to skôr zničíš a budeš musieť vymeniť.\n\nAle čo majú peniaze spoločné s cestovným časom?\n\nAby si získal peniaze, musíš ty, alebo niekto za teba, pracovať, a práca zaberá čas. Takže, čas tvojej cesty nie je len čas, ktorý stráviš samotným cestovaním, ale tiež čas, ktorý potrebuješ na to, aby si zarobil peniaze na toto cestovanie.\n\nZober si napríklad auto. Hodnota auta, so všetkými výdavkami, je v priemere 350 EUR na mesiac. Množstvo práce, ktoré musíš mesačne vynaložiť, aby si utiahol auto, pridáva tvojmu cestovnému času tvojich jázd za ten mesiac. To je tvoj virtuálny cestovný čas.\n\nAk si štastlivec, mohol by si povedať, že práca nie je stratou času, pretože pracuješ rád. A to isté by si mohol povedať aj o cestovaní do práce. Možno. A to celú vec ešte viac komplikuje.\n\nAko to vnímaš ty? Podeľ sa s nami o svoje myšlienky :)\n\nhttps://www.facebook.com/MotivProject.eu/ \n\nhttps://twitter.com/MoTiV_Project";
+
+/*new string in mobility coach*/
+/*mobility coach*/
+"Your_Mobility_Journey" = "Tvoje príbehy";
+
+/*new string to translate in home module*/
+/*home module*/
+"You_have_trips_to_validate" = "Potvrď svoje cesty.";
+
+/*(story) Coming tomorrow*/
+"Coming_Tomorrow" = "Pozri zajtra";
+
+/*Story (1, 2, 3, 4...)*/
+"Story" = "Príbeh %@";
+
+/*profile and settings*/
+"Marital_Partnership" = "Registrované partnerstvo";
+
+/*profile and settings */
+"Labour_Pensioner" = "Dôchodca";
+
+/*Notification shown when a trip has started */
+"Trip_Has_Started_At" = "Cesta začala o %@";
+
+/*Notification shown when a trip has ended*/
+"Trip_Has_Ended_At" = "Cesta skončila o %@";
+"Trip_Has_Ended" = "Cesta skončila!";
+"engagement_notification_1_title" = "\"Woorti práve nahrala tvoju prvú cestu.\"";
+"engagement_notification_1_content" = "\"Otvor aplikáciu a povedz o tom viac!\"";
+"engagement_notification_2_title" = "Máš nový príbeh.";
+"engagement_notification_2_content" = "Ak si ho dnes prečítaš, zajtra príde ďalší.";
+"engagement_notification_3_title" = "Prečítaj si nový príbeh!";
+"engagement_notification_3_content" = "\"A nezabudni potvrdiť tvoju poslednú cestu.\"";
+"Language_Changed_Popup_Content" = "Prosím reštartuj aplikáciu pre potvrdenie zmeny";
+"Language_Changed_Popup_Title" = "Jazyk bol zmenený.";
+
+/*Predictability of travel time*/
+"Predictability_Of_Travel_Time" = "Odhad cestovného času";
+"Urban_Scenery_Atmosphere" = "Scenéria mesta a atmosféra";
+"While_You_Are_There" = "Kým si tam";
+"Begin" = "Začať";
+"engagement_notification_4_title" = "Pozrel si si už svoje cestovné štatistiky?";
+"engagement_notification_4_content" = "Klikni pre zobrazenie štatistík";
+"engagement_notification_5_title" = "Tvoj cestovný čas bol využitý užitočne na %@.";
+"engagement_notification_5_content" = "Všimol si si, ako sa to líši od tvojich ciest";
+"engagement_notification_6_title" = "Potvrď tvoju poslednú cestu";
+"engagement_notification_6_content" = "Potvrď údaje a pozri si štatistiky.";
+"engagement_notification_7_title" = "%@ minút";
+"engagement_notification_7_content" = "je čas, ktorý si strávil cestovaním minulý týždeň";
+"engagement_notification_8_title" = "Prispej k výskumu cestovného času.";
+"engagement_notification_8_content" = "Ďakujem za potvrdenie tvojich ciest. Klikni sem.";
+"engagement_notification_9_title" = "Potvrď tvoju poslednú cestu.";
+"engagement_notification_9_content" = "Potvrď svoje údaje a pozri si štatistiky.";
+
+/*when referencing campaigns*/
+"Campaigns" = "Kampane";
+
+/*Welcome to your trips board, %NAME_USER%@ !*/
+"Welcome_To_Your_Trips_Board_Username" = "Vitaj %@, tu sa zobrazia tvoje cesty!";
+
+/*You have X trips left to report in the last 3 days*/
+"You_Have_X_Trips_Left_3_Days" = "Máš %@ nepotvrdených ciest za posledné 3 dni";
+
+/*These are the trips you have made! Reporting on them helps our research, and allows you to monitor your travel time. After reporting each trip, find out your travel time worthwhileness statistics in the Dashboard! Press the ‘!’ mark to report.*/
+"These_Are_The_Trips_You_Have_Made" = "Toto sú tvoje cesty! Ich potvrdenie prispeje k výskumu a pomôže ti sledovať tvoj cestovný čas. Po potvrdení každej cesty si môžeš zobraziť prehľad tvojich ciest v časti Štatistiky.";
+
+/*Now that you have a reported trip, you can check your first travel time statistics in the Dashboard.*/
+"Now_That_You_Have_A_Reported_Trip_Popup_Text" = "Ďakujeme za potvrdenie tvojej prvej cesty. Teraz si môžeš zobraziť tvoje štatistiky.";
+
+/*Go to dashboard*/
+"Go_To_Dashboard" = "Prejsť na štatistiky";
+
+/*Report trips*/
+"Report_Trips" = "Potvrdiť cesty";
+
+/*This is your Dashboard. It shows how worthwhile your travel time is.  For your trip stats to appear here, report your trips*/
+"This_Is_Your_Dashboard_Popup_Text" = "Toto sú tvoje štatistiky. Zobrazujú ako využívaš svoje cestovný čas.\n\\n\nŠtatistiky sa zobrazia až po potvrdení ciest.";
+
+/*See dashboard*/
+"See_Dashboard" = "Pozrieť štatistiky";
+
+/*profile and settings*/
+"Campaign_Scores" = "Body kampane";
+
+/*when iOS user is redirected and asked to authorize GPS in phone settings after denying permissions in On-boarding*/
+"GPS_Link_Phone_Settings" = "Nastavenia";
+
+/*when iOS user is asked to authorize GPS in phone settings and selects back to dismiss this dialogue*/
+"GPS_Go_Back" = "Späť";
+
+/*Days*/
+"Days" = "Dni";
+
+/*trips*/
+"Trips" = "Cesty";
+
+/*Issue form*/
+"Issue_Form" = "Nahlásenie chyby";
+
+/*Thank you for reporting an issue*/
+"Thank_You_For_Reporting_An_Issue" = "Ďakujeme za nahlásenie chyby";
+
+/*Submit log*/
+"Submit_Log" = "Nahrať záznam";
+
+/*Send log*/
+"Send_Log" = "Odoslať záznam";
+
+/*No log needed for this issue. Skip.*/
+"No_Log_Needed_For_This_Issue_Skip" = "Pre tento problém nie je potrebný žiaden záznam. Preskočiť.";
+
+/*Targets & Rewards*/
+"Targets_And_Rewards" = "Odmeny";
+
+/*Tasks*/
+"Tasks" = "Úlohy";
+
+/*To analise the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.*/
+"To_Analyse_This_Issue" = "Aby sme boli schopní vyriešiť tvoj problém, potrebujeme, aby si nám zaslal informáciu o aktivite tvojej aplikácie. Po vygenerovaní e-mailu nám ho prosím pošli. Môžeš taktiež pridať aj printscreen tvojho problému.";
+
+/*points*/
+"Points" = "Body";
+
+/*Progress (Reward progress)*/
+"Progress" = "Pokrok";
+
+/*%@ days left*/
+"days_left_reward" = "ostáva %@ dní";
+
+/*user registration*/
+"Password_Length_Message" = "Prosím zadaj heslo s dĺžkou 6 až 16 znakov.";
+
+/*Onboarding*/
+"How_Productive_Are_You" = "Ako produktívny si";
+
+/*Woorti is running in the background*/
+"Woorti_Is_Running" = "Woorti aplikácia beží na pozadí";
+
+/*Continue*/
+"Continue" = "Pokračovať";
+
+/*Hurray!!!*/
+"Hurray" = "Hurá!!!";
+
+/*You have completed your target for NAME_REWARD!*/
+"You_Have_Completed_Your_Target" = "Splnil si podmienky pre súťaž o %@ !";
+
+/*Keep reporting your trips to monitor your stats to see your evolution and help this research */
+"Keep_Reporting_Your_Trips_Reward_Completed_Popup" = "Pokračuj v potvrdzovaní svojich ciest, aby si mohol sledovať svoj cestovný čas a pomôcť výskumu.";
+
+/*Woorti just detected that you started a trip*/
+"Woorti_Just_Detected_Start_Trip" = "Woorti práve detekoval začiatok tvojej cesty";
+
+/*Your  trip has ended.\nYou can now report about it in Woorti*/
+"Your_Trip_As_Ended" = "Tvoja cesta sa skončila";
+
+/*Onboarding*/
+"Onboarding_Successful" = "Registrácia úspešne dokončená";
+
+/*Trip validation tutorial*/
+"Trip_Validation_Tutorial" = "Návod ako potvrdiť cestu";
+
+/*Onboarding*/
+"Onboarding_Duplicated" = "Registrácia už prebehla. Prihlás sa.";
+
+/*Onboarding*/
+"Onboarding_Error" = "Počas registrácie nastala chyba. Prosím skús to znova.";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Attempt" = "Pokúšam sa odoslať informácie o ceste";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Successful" = "Cesta bola úspešne potvrdená";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Not_Submitted" = "Cesta nebola potvrdená - skús neskôr";
+
+/*You can now report about it in Woorti*/
+"You_Can_Now_Report_About_It_In_Woorti" = "Povedz nám o nej viac v appke.";
+
+/*Complete until dd/mm/yyyy*/
+"Complete_Until" = "Súťaž skončí %@";
+
+/*You have a new survey (notification)*/
+"You_Have_A_New_Survey" = "Máš nový dotazník.";
+
+/*Fill it in and earn %@ points. (notification -> fill survey)*/
+"Fill_It_And_Earn_XX_Points" = "Vyplň dotazník a získaj %@ bodov";
+
+/*Is your phone blocking trip detection?*/
+"Is_Your_Phone_Blocking_Trip_Detection" = "Blokuje tvoj telefón zaznamenávanie ciest?";
+
+/*Woorti gives you 25 points for each additional information item you fill in your profile.*/
+"Woorti_Gives_You_Points_For_Each_Info" = "Woorti ti dá 25 bodov za každú informáciu, ktorú vyplníš v profile.";
+
+/*If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.*/
+"If_Thats_The_Case_Fortunately_There_Is_Solution" = "Ak to je tvoj prípad, našťastie máme riešenie. Klikni na tlačidlo nižšie a zobrazia sa ti inštrukcie ako na to.";
+
+/*Enable app activity*/
+"Enable_App_Activity" = "Povoliť aktivitu";
+
+/*Do not show again*/
+"Do_Not_Show_Again" = "Nezobrazovať opäť";
+
+/*If your trips are frequently not being recorded, your phone might be blocking this app’s activity.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded" = "Ak viacero tvojich ciest nebolo zaznamenaných, je možné, že tvoj telefón blokuje túto aplikáciu.";
+
+/*Tell us more about yourself*/
+"Tell_Us_More_About_Yourself" = "Povedz nám o sebe viac.";
+
+/*Your data is anonymised.*/
+"Your_Data_Is_Anonymised" = "Tvoje dáta sú anonymizované.";
+
+/*Fill in profile*/
+"Fill_In_Profile" = "Vyplň profil";
+
+/*Later*/
+"Later" = "Neskôr";
+
+/*Point all time*/
+"Points_All_Time" = "Celkové body";
+
+/*Days with trips all time*/
+"Days_All_Time" = "Celkový počet dní s cestami";
+
+/*Trips all time*/
+"Trips_All_Time" = "Celkový počet ciest";
+
+/*temporary text without link to battery optimization site not endorsed by motiv.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded_No_Link_To_Site" = "Ak sa tvoje cesty často nezaznamenávajú, tvoj telefón pravdepodobne blokuje aktivitu tejto aplikácie. Skontroluj prosím nastavenia optimalizácie batérie v systéme Android a odblokuj Woorti.";
+
+/*Dashboard_You*/
+"Dashboard_You" = "Ty";
+
+/*Dashboard_Community*/
+"Dashboard_Community" = "Komunita";
+
+/*Dashboard_Citizens*/
+"Dashboard_Citizens" = "Občania";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Onboarding" = "Tieto výsledky odrážajú predvolené hodnoty alebo hodnoty, ktoré ste uviedli počas registrácie pri jednotlivých druhoch dopravy. Príslušné hodnoty môžete kedykoľvek zmeniť v nastaveniach aplikácie.";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Leg_Info_Recorded" = "Tieto výsledky odrážajú hodnotenie užitočnosti jednotivých častí ciest, ktoré si vybral a ohodnotil.";
+
+/*Dashboard*/
+"Dashboard_Your_Whole_Trips" = "Tvoje všetky cesty";
+
+/*Dashboard*/
+"Dashboard_Your_Reported_Legs" = "Tvoje ohodnotené časti ciest";
+
+/*Dashboard*/
+"Time_Spent_In_Travel" = "Čas strávený cestovaním";
+
+/*Dashboard*/
+"Travelled_Distance" = "Prejdená vzdialenosť";
+
+/*Dashboard*/
+"CO2_Emissions" = "CO2 emisie";
+
+/*Dashboard*/
+"Calories" = "Kalórie";
+
+/*Dashboard*/
+"The_Community_Trips" = "Cesty komunity";
+
+/*Dashboard*/
+"The_Community_Validated_Legs" = "Ohodnotené časti ciest komunitou";
+
+/*Dashboard*/
+"Compared_To_Your_Scores" = "(v porovnaní s tvojimi výsledkami)";
+
+/*Dashboard*/
+"Worthwhileness" = "Užitočnosť";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Title" = "\"Ahoj!\"";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_1" = "Ohodnoť tvoje %@ zaznamenané cesty za posledné ";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_2" = ",aby si mohol vidieť svoje skutočné štatistiky.";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Report_Trips" = "OHODNOŤ CESTY";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_See_Dashboard" = "POZRI ŠTATISTIKY";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Text" = "Cesty môžu byť niekedy zaznamenané zle. Ak chceš upraviť svoju cestu, stlač vyššie uvedenú ikonu, ktorá slúži na rozdelenie, zlúčenie alebo odstránenie cesty alebo jej časti.";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Button" = "MÁŠ TO!";
+
+/*Home module travel report*/
+"Seven_Day_Travel_Report" = "7-dňový záznam";
+
+/*Home (travel report link to Dashboard)*/
+"Learn_More" = "Nauč sa viac";
+
+/*please retranslate to make clear statistics are average calories per day. thank you. LV.*/
+/*Dashboard*/
+"In_Total_Users_Spent_Calories" = "V priemere spálili užívatelia v komunite %@.";
+
+/*Dashboard*/
+"And_This_Counted_Carbon_Footprint_Users" = "Komunita v priemere minula %@ svojej udržateľnej uhlíkovej stopy.";
+
+/*People from "campaign/city/country" on average have spent "3 min more/less" travelling a distance of "3km more/less" than you per day.*/
+"People_From_Place_Have_Spent_On_Average" = "Ľudia zo %@ priemerne strávili %@ cestovaním so vzdialenosťou o %@ ako ty, za jeden deň.";
+
+/*"3 km more"*/
+"Number_Km_More" = "%@ km viac";
+
+/*"3 km less"*/
+"Number_Km_Less" = "%@ km menej";
+
+/*"3 min more"*/
+"Number_Min_More" = "%@ min viac";
+
+/*"3 min less"*/
+"Number_Min_Less" = "%@ min menej";
+
+/*Dashboard*/
+"Community_Trips_Overall_Percentage_Worthwhile" = "Užitočnosť ciest v komunite (v porovnaní s tvojimi hodnotami)";
+
+/*These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.*/
+"Dashboard_Worthwhileness_Popup_Text" = "Tieto výsledky odrážajú predvolené hodnoty alebo hodnoty, ktoré ste uviedli počas registrácie pri jednotlivých druhoch dopravy. Príslušné hodnoty môžete kedykoľvek zmeniť v nastaveniach aplikácie.";
+
+/*What is the carbon budget?*/
+"What_Is_The_Carbon_Budget" = "Čo je uhlíkový rozpočet?";
+
+/*The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle.  A person’s yearly mobility carbon budget is 500kg*/
+"The_Carbon_Budget_Is" = "Uhlíkový rozpočet je množstvo CO2, ktoré môže byť vyčerpané jedným človekom pre udržateľný životný štýl. \\n \\n Ročný úhlíkový rozpočet na dopravu jedného človeka je 500 kg. ";
+
+/*City/Region*/
+"City_Region" = "Mesto/Región";
+
+/*You*/
+"You" = "Ty";
+
+/*should translate according to "Min per user per day"*/
+/*Average minutes*/
+"Avg_Minutes" = "Priemerne min";
+
+/*please retranslate following "Km per user per day", because we are showing daily averages per individual (average) user of the community.*/
+/*Average kilometers*/
+"Avg_Kilometers" = "Priemerne Km";
+
+/*need to translate according to "Kg CO2 per user per day"*/
+/*Average kilograms*/
+"Avg_Kilograms" = "Priemerne Kg";
+
+/*need to retranslate for "Calories per user per day"*/
+/*Average calories*/
+"Avg_Calories" = "Priemerné kalórie";
+
+/*Hours*/
+"Hours" = "Hodiny";
+
+/*Dashboard - unable to show some global stats (e.g. always disconnected)*/
+"Unable_Show_Stats" = "Nie je možné načítať štatistiky komunity.";
+
+/*CO2 budget popu*/
+"CO2_Budget_Example" = "500 kg sa rovná spiatočnému letu z Bruselu do Madridu alebo 1500 km precestovaných autom.";
+
+/*CO2 budget popup - no need to translate*/
+"CO2_Budget_Link_URL" = "https://motivproject.eu/data-collection/woorti-app-faqs.html";
+
+/*CO2 budget popup*/
+"CO2_Budget_Link_Text" = "Viac";
+
+/*worthwhileness - travel wasted rating of trip*/
+"Travel_Time_Wasted_Question_Text_Second_Paragraph" = "Vzťahuje sa na čas strávený cestovaním, nie na čas v destinácii.";
+
+/*Onboarding and login*/
+"Failed_To_Connect_Check_Connectivity_Error" = "Nepodarilo sa pripojiť. Skontrolujte prosím pripojenie k internetu.";
+
+/*"Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding."*/
+"Onboarding_Warning_Permissions_Denied_Retry" = "Požadované povolenia boli používateľom zamietnuté. Aplikácia vyžaduje tieto povolenia a sieťové pripojenie pre dokončenie onboarding-u. Prosíme skús to znova a dokonči onboarding.";
+
+/*"In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information."*/
+"Onboarding_Dialog_Box_Ask_Location_Storage_Permissions" = "Pre správne fungovanie aplikácie a spravovanie informácií o cestách musíš aplikácii povoliť prístup k informáciám o lokalit a čítanie a zapisovanie súborov z/do externého úložiska.";
+
+/*You have no trips*/
+"You_Have_No_Trips" = "Nemáš žiadne cesty";
+
+/*You must choose at least one trip to delete*/
+"You_Must_Choose_One_Trip_To_Delete" = "Pre výmaz musíš vybrať aspoň jednu cestu";
+
+/*Trip/s deleted successfully!*/
+"Trips_Deleted_Successfuly" = "Cesta bola úspešne vymazaná.";
+
+/*You must choose at least one leg to delete*/
+"You_Must_Choose_One_Leg_To_Delete" = "Pre výmaz musíš vybrať aspoň jednu časť cesty";
+
+/*You cannot delete all the trip's legs*/
+"You_Cannot_Delete_All_Trips_Legs" = "Nemôžeš vymazať všetky časti cesty";
+
+/*You must choose consecutive legs to delete*/
+"You_Must_Choose_Consecutive_Legs_To_Delete" = "Pre výmaz musíš vybrať po sebe nasledujúce časti cesty";
+
+/*You must choose at least two legs to merge*/
+"You_Must_Choose_Two_Legs_To_Merge" = "Pre zlúčenie musíš vybrať najmenej dve časti cesty";
+
+/*You must choose consecutive legs to merge*/
+"You_Must_Choose_Consecutive_Legs_To_Merge" = "Pre zlúčenie musíš vybrať po sebe nasledujúce časti cesty";
+
+/*The leg you are trying to split is too small to be split*/
+"The_Leg_Is_Too_Small_To_Be_Split" = "Časť cesty, ktorú chceš rozdeliť je veľmi malá";
+
+/*Error splitting leg*/
+"Error_Splitting_Leg" = "Chyba pri rozdeľovaní časti cesty";
+
+/*Trips_Merged_Successfully*/
+"Trips_Merged_Successfully" = "Cesta bola zlúčená!";
+
+/*Trip splitted successfully!*/
+"Trip_Splitted_Successfully" = "Cesta bola rozdelená!";
+
+/*"Please choose another leg/transfer other than the last"*/
+"Please_Choose_Other_Leg_Transfer_Not_Last" = "Prosím vyber ďalšiu časť cesty/transfer";
+
+/*"Please choose a leg/transfer to split"*/
+"Please_Choose_Leg_Transfer_To_Split" = "Pre rozdelenie vyber časť cesty alebo transfer";
+
+/*"You must choose consecutive trips to merge"*/
+"You_Must_Choose_Consecutive_Trips_To_Merge" = "Pre zlúčenie musíš vybrať po sebe nasledujúce cesty";
+
+/*"You must choose at least two legs to merge"*/
+"You_Must_Choose_Two_Trips_To_Merge" = "Pre zlúčenie musíš vybrať minimálne dve časti cesty";

@@ -1,0 +1,1162 @@
+
+/*Drawer titles*/
+"Drawer_Title_Home" = "Home";
+"Drawer_Title_Route_Planner" = "Route Planner";
+"Drawer_Title_My_Trips" = "My trips";
+"Drawer_Title_Dashboard" = "Dashboard";
+"Drawer_Title_Mobility_Coach" = "Mobility Coach";
+"Drawer_Title_Profile" = "Profile";
+"Drawer_Title_Settings" = "Profile & Settings";
+"Drawer_Title_Report_Issue" = "Report issue";
+"Drawer_Title_Finish_Log_Out" = "Logout";
+"login_what_is_email_address" = "What is you email address?";
+"login_enter_your_password" = "Enter your password";
+
+/*Profile and settings options*/
+"Edit_Profile" = "Edit profile";
+"Set_Home_And_Work" = "Set home and work places";
+"Demographic_Info" = "Demographic information";
+"Worthwhileness_Settings" = "Worthwhileness settings";
+"Tutorials" = "Tutorials";
+"Transport_Preferences" = "Transport preferences";
+
+/*<string name="APP_PERMISSIONS">App permissions</string>*/
+"App_Language" = "App language";
+"Change_Password" = "Change password";
+"Feedback" = "Feedback";
+"Log_Out" = "Log out";
+
+/*Education labels*/
+"Education_8th_Grade" = "Up to 8th grade";
+"Education_Some_Highschool" = "9th to 11th grade";
+
+/*Fuzzy*/
+"Education_Highschool" = "High school (12th grade)";
+"Education_Some_College" = "Some college credit, no degree";
+"Education_Training" = "Technical/vocational training";
+"Education_Bachelor" = "Bachelor’s degree";
+"Education_Master" = "Master’s degree";
+"Education_Professional" = "Professional degree";
+"Education_Doctorate" = "Doctorate degree";
+"Education_Associate" = "Associate degree";
+"Education_No_Schooling" = "No Institutional Schooling";
+
+/*Demographic option*/
+"Demographic_Option_General" = "General";
+
+/*<string name="DEMOGRAPHIC_OPTION_HOUSEHOLD_DATA">Household data</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_CAPABILITIES">Mobility capabilities</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_PREFERENCES">Mobility preferences</string>
+ <string name="DEMOGRAPHIC_OPTION_EXPERIENCE_FACTORS">Experience factors</string>
+ General suboptions*/
+"Age" = "Age";
+
+/*message: Gender*/
+"Gender" = "Gender";
+"Education" = "Education";
+"Country" = "Country";
+"City" = "City";
+
+/*Tutorial options*/
+"Tutorial_Option_What_Is_Worthwhileness" = "What is worthwhileness";
+
+/*Productivity*/
+"Productivity_Percentage" = "Productivity %@";
+"Mind_Percentage" = "Enjoyment %@";
+"Body_Percentage" = "Fitness %@";
+
+/*Main menu options
+ <string name="NEW_INTERFACE_TEXT">New interface</string>
+ My trips module*/
+"My_Trips" = "My Trips";
+"Start_Trip" = "Start trip";
+"End_Trip" = "End trip";
+"Trip_Being_Recorded" = "A trip is being recorded now";
+
+/*Edit trips*/
+"Select_Trips_To_Merge" = "Select trips from the list below to merge";
+"Confirm_Trips_To_Merge" = "Confirm the selected trips to merge";
+"Select_Trips_To_Split" = "Select trips from the list below to split";
+"Move_The_Map_To_Split" = "Move the map to split trip";
+"Select_Trips_To_Delete" = "Select trips from the list below to delete";
+"Split" = "Split";
+"Merge" = "Merge";
+"Delete" = "Delete";
+"Select_Legs_To_Split" = "Select legs and/or transfers from the list below to split";
+"Move_The_Map_To_Split_The_Leg" = "Move the map to define the split point";
+"Edited" = "Edited";
+"Select_Legs_To_Merge" = "Select legs and/or transfers from the list below to merge";
+"Confirm_The_Legs_To_Merge" = "Confirm the selected legs and/or transfers to merge";
+"Rate_Your_Edited_Trips" = "Rate your edited trips";
+"Select_Legs_To_Delete" = "Select legs to delete";
+"Confirm_The_Legs_To_delete" = "Confirm the selected legs and/or transfers to delete";
+
+/*Leg validation*/
+"Validated" = "Validated";
+"How_Did_You_Travel" = "How did you travel?";
+
+/*message: Public Transport*/
+"Public_Transport" = "Public Transport";
+"Active_Semi_Active" = "Active/Semi-active";
+"Private_Motorised" = "Private Motorised";
+"Not_Sure" = "Not Sure";
+"Lousy" = "Lousy";
+"Overall_Feel_About_Trip" = "Overall, how did you feel about this trip?";
+"Great" = "Great";
+"Travel_Time_Wasted_Min_Text" = "All time was wasted";
+"Travel_Time_Wasted_Question_Text" = "Was your travel time wasted or worthwhile?";
+"Travel_Time_Wasted_Max_Text" = "All time was worthwhile";
+
+/*please update translation from new english text*/
+"Which_Factors_Most_Contributed" = "Select the most important factors for the quality of your travel time";
+"Unfold_All_That_Apply" = " Mark (+) for a positive experience or (-) for a negative experience";
+
+/*Factors*/
+"Infrastructure_And_Services" = "Infrastructure and services";
+"Comfort_And_Pleasantness" = "Comfort and pleasantness";
+"Getting_There" = "Getting there";
+"Tables" = "Tables";
+"Toilets" = "Toilets";
+"Food_Drink_Allowed" = "Food/drink allowed";
+"Food_Drink_Available" = "Food/drink available";
+"Shopping_Retail" = "Shopping/retail";
+"Entertainment" = "Entertainment";
+"Noise_Level" = "Noise level";
+"Cleanliness" = "Cleanliness";
+"Scenery" = "Nature and scenery";
+
+/*This string was changed from "Today’s weather" to just "Weather", as it seemed strange when one was not responding in the same day of the trip. Please adjust to your language.*/
+"Todays_Weather" = "Weather";
+"Privacy" = "Privacy";
+"Traffic_Signals_Crossings" = "Traffic signals/crossings";
+"Crowding_Congestion" = "Crowding/congestion";
+"Traffic_Congestion_Delays" = "Traffic congestion/delays";
+"Others_Comments" = "Others/comments";
+
+/*Activities*/
+"What_Did_You_Do_And_Value" = "What exactly did you value doing?";
+"Driving_Cycling_Walking" = "Driving/Cycling/Walking";
+"Relaxing_Sleeping" = "Relaxing or sleeping";
+"Browsing_Social_Media" = "Browsing or social media";
+"Reading_Writing_Paper" = "Reading / writing (paper)";
+"Reading_Writing_Device" = "Reading / writing (device)";
+"Listening_To_Audio" = "Listening to audio";
+"Walking_Video_Gaming" = "Watching video or gaming";
+"Talking_Including_Phone" = "Talking (including phone)";
+"Accompanying_Someone" = "Accompanying someone";
+"Eating_Drinking" = "Eating / drinking";
+"Personal_Caring" = "Personal care";
+"Thinking" = "Thinking";
+
+/*Value this part of the trip*/
+"What_Value_Take_From_Part" = "What value did you take from your time on this part of the trip?";
+"Paid_Work" = "Paid work";
+"Personal_Tasks" = "Personal tasks";
+
+/*message: Enjoyment*/
+"Enjoyment" = "Enjoyment";
+
+/*message: Fitness*/
+"Fitness" = "Fitness";
+"None" = "None";
+"Some" = "Some";
+"High" = "High";
+
+/*Thinking about trip as a whole*/
+"Thinking_About_Your_Trip_Title" = "Would you have liked to use your travel time more for ... ?";
+
+/*message: Productivity*/
+"Productivity" = "Productivity";
+"Anything_Else_Like_To_Share" = "Anything else you'd like to share?";
+
+/*message: I would like to share...*/
+"Would_Like_To_Share" = "I would like to share...";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Validate_Your_Trip" = "New trip detected! Validate your trip to earn %@ points!";
+"What_Was_Purpose" = "What was the purpose of your trip?";
+"Mark_All_That_Apply" = "Mark all that apply";
+
+/*Trip purposes*/
+"Work" = "Work";
+"School_Education" = "School/Education";
+"Home" = "Home";
+"Everyday_Shopping" = "Everyday Shopping";
+"Business_Trip" = "Business Trip";
+"Leisure_Hobby" = "Leisure/Hobby";
+"Pick_Up_Drop_Off" = "Pick-up/Drop-off Someone";
+"Personal_Tasks_Errands" = "Personal Tasks/Errand";
+"Trip_Itself" = "Trip Itself";
+
+/*message: Other*/
+"Other" = "Other";
+"Arrive_At_Fixed_Time" = "Did you have to arrive at a fixed time?";
+"How_Often_Make_This_Trip" = "How often do you make this trip?";
+"Regularly" = "Regularly";
+"Occasionally" = "Occasionally";
+"First_Time" = "First Time";
+"Select_Part_Of_Trip_Feedback" = "Select one part of your trip to provide further feedback";
+
+/*<string name="objective_other_hint">Where you travelled and why</string>*/
+"Confirm_Modes_Of_Your_Trips" = "Confirm the modes of your trip";
+
+/*message: Transfer*/
+"Transfer" = "Transfer";
+"Auto_Detected" = "Auto-detected";
+
+/*message: were you %@ ?*/
+"Were_You_Walking_Or_Running" = "Were you %@ ?";
+
+/*message: Did you go by %@ ?*/
+"Did_You_Go_The_Mode" = "Did you go by %@ ?";
+
+/*modes of transport*/
+"Walking" = "Walking";
+"Jogging_Running" = "Jogging/Running";
+"Bicycle" = "Bicycle - conventional";
+"Car_Driver" = "Car (Driver)";
+"Bus_Trolley_Bus" = "Bus/Trolley Bus";
+"Tram" = "Tram";
+"Metro" = "Metro";
+
+/*@all that have already translated: by mistake this text was only "train" and it should be "urban train". Please update to your language. Use the Find feature to easily find the string urban_train.*/
+"Urban_Train" = "Urban Train";
+"Regional_Intercity_Train" = "Regional/Intercity Train";
+"Ferry_Boat" = "Ferry/Boat";
+"Motorcycle" = "Motorcycle";
+"Moped" = "Moped";
+"Electric_Bike" = "Electric Bike";
+"Bike_Sharing" = "Bike Sharing";
+"Car_Passenger" = "Car (Passenger)";
+"Taxi_Ride_Hailing" = "Taxi/Ride Hailing";
+"Car_Sharing_Rental_Driver" = "Car Sharing/Rental\n(Driver)";
+"Car_Sharing_Rental_Passenger" = "Car Sharing/Rental\n(Passenger)";
+"car_pooling" = "Car Pooling";
+"Plane" = "Airplane";
+"high_speed_train" = "High-Speed Train";
+"Coach_Long_Distance_Bus" = "Coach\nLong-distance Bus";
+"Micro_Scooter" = "Micro Scooter";
+"Skate" = "Skate";
+"Electric_Wheelchair_Cart" = "Electric Wheelchair/Cart";
+"Wheelchair" = "Wheelchair";
+"Cargo_Bike" = "Cargo Bike";
+"Other_Public_Transport" = "Other Public Transport";
+"Other_Active_Semi_Active" = "Other Active/Semi-active";
+"Other_Private_Motorised" = "Other Private Motorised";
+
+/*Misc*/
+"Yes" = "Yes";
+"No" = "No";
+"Save" = "Save";
+"Confirm_All" = "Confirm all";
+
+/*message text of \"Next\" button message: Next*/
+"Next" = "Next";
+"Done" = "Done";
+"End" = "End";
+
+/*Factors Wasted Time*/
+"Skip" = "Skip";
+
+/*title for the info pages message: A Little About You*/
+"A_Little_About_You" = "A Little About You";
+
+/*message: Active/Semi-active*/
+"Active_Semi_active" = "Active/Semi-active";
+
+/*message: Thanks! To record your trips we need your permission to let Woorti access to your location at all times.
+ 
+ It should not excessively consume your battery.*/
+"Ask_location_permission_String" = "Thanks! To record your trips we need your permission to allow Woorti to access your location at all times.\n\n \n\nWe built it not to excessively consume your battery.";
+
+/*message: Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.*/
+"Ask_location_permission_String_when_user_has_denied" = "Sorry! For Woorti to function properly we really need that you allow it to access your location always.";
+
+/*message: Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us!
+ 
+ To do this we need to be able to send you notifications*/
+"Ask_notification_permission_String" = "Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us! To do this we need to be able to send you notifications.";
+
+/*message: BACK TO LOGIN*/
+"Back_To_Login" = "BACK TO LOGIN";
+
+/*change language screen title message: Change Language*/
+"Change_Language" = "Change Language";
+
+/*message: Correct exams*/
+"Correct_Exams" = "Correct_Exams";
+
+/*title for the first onboarding pages message: Data Protection*/
+"Data_Protection" = "Privacy and data protection";
+
+/*placeholder for password when registering only*/
+"Didnt_sign_up_yet" = "Forgot your Password?";
+
+/*rating prefered modes of transport message: Doesn't improve my fitness*/
+"Doesnt_Improve_My_Fitness" = "Doesn't improve my fitness";
+
+/*email message*/
+"Email" = "email";
+
+/*message shown when clcicking to reset a password message: If %@ has an account with Woorti, you will be receiving an email to reset your password*/
+"Email_Has_Been_Sent" = "Email Has Been Sent";
+
+/*rating prefered modes of transport message: Enjoying*/
+"Enjoying" = "Enjoying";
+
+/*message: Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…*/
+"Enjoyment_Worthwhile_Description_Score" = "Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…";
+
+/*message: When I travel,
+ I chill*/
+"Enjoyment_Worthwhile_High_Score" = "When I travel,\nI chill";
+
+/*placeholder for email in login/register*/
+"Enter_Your_Email_Address" = "Enter your email address";
+
+/*name Placeholder message: Enter your name*/
+"Enter_Your_Name" = "Enter your name";
+
+/*placeholder for password in login/register*/
+"Enter_Your_Password" = "Enter your password";
+
+/*placeholder for password when registering only*/
+"Enter_Your_Password_Again" = "Enter your password Again";
+
+/*error shown to the user when log in failed*/
+"Error_Log_In" = "There was an error logging in. Please try again or reset your password.";
+
+/*message: Female*/
+"Female" = "Female";
+
+/*message: Did you know that a person spends about 2 years of her whole life commuting?
+ 
+ Woorti will help you explore your travel time!*/
+/*Fuzzy*/
+"First_Onboarding_Screen_Welcome_Description_Text" = "Did you know that a person spends about 2 years of her whole life commuting?\n\nWoorti will help you explore your travel time!";
+
+/*message: Your travel time is an important part of your life!*/
+"First_Onboarding_Screen_Welcome_Title" = "Your travel time is an important part of your life!";
+
+/*message: message: Travelling is not at all relaxing*/
+"FitnesEnjoyment_Worthwhile_Low_Scores" = "Travelling is not at all relaxing";
+
+/*message: When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.*/
+"Fitness_Worthwhile_Description_Score" = "When you walk, cycle, or even run on your travels, you’re getting exercise and keeping in shape.";
+
+/*message: Travel time is a great way to feel the burn*/
+"Fitness_Worthwhile_High_Score" = "Travel time is a great way to feel the burn";
+
+/*message: Exercise is in the gym/field*/
+"Fitness_Worthwhile_Low_Score" = "Exercise is in the gym/field";
+
+/*Forgot Password*/
+"Forgot_Password" = "Forgot password";
+
+/*placeholder for password when registering only*/
+"Forgot_Your_Password" = "Forgot your Password?";
+
+/*message: Everyone defines what is a worthwhile travel time in his or her different way.
+ 
+ Let's see what that means to you!*/
+"Fourth_Onboarding_Screen_Description" = "Everyone defines \"worthwhile\" travel time in his or her own way.\n\nLet's see what that means to you!";
+
+/*message: I accept MoTiV data protection conditions*/
+"GRPD_Accept" = "I accept MoTiV data protection conditions";
+
+/*message: For the European MoTiV project research on travel time, this app collects anonymised data on:
+ 1. Your trips (time, location and transport used)
+ 2. Your expressed preferences and searches within the app*/
+"GRPD_Description" = "For the European MoTiV project research on travel time, this app collects anonymised data on: \n\n1. Your trips (time, location and transport used) \n\n2. Your expressed preferences and searches within the app";
+
+/*message: MoTiV privacy policy is compliant with EU GDPR. Read More*/
+"GRPD_Read_Policy" = "MoTiV privacy policy is compliant with EU GDPR. Read More";
+
+/*rating prefered modes of transport message: Improves my fitness*/
+"Improves_My_Fitness" = "Improves my fitness";
+
+/*splash screen start now button message*/
+"Log_In" = "Returning user";
+
+/*login with google button message*/
+"Log_In_With_Google" = "Log in with Google";
+
+/*message: Male*/
+"Male" = "Male";
+
+/*message: No worries! Enter your email address below and we will send you a email to reset your password.*/
+"No_Worries_Message" = "No worries! Enter your email address below and we will send you a email to reset your password.";
+
+/*rating prefered modes of transport message: Not Enjoying*/
+"Not_Enjoying" = "Not Enjoying";
+
+/*%@ not filled*/
+"Not_Filled" = "%@ not filled";
+
+/*rating prefered modes of transport message: Not Productive*/
+"Not_Productive" = "Not Productive";
+
+/*message: NOW YOU!*/
+"Now_You" = "NOW YOU!";
+
+/*message: Ok cool*/
+"Ok_Cool" = "Ok cool";
+
+/*password message*/
+"Password" = "password";
+
+/*register button message*/
+"Passwords_Dont_Match" = "Register";
+
+/*title for the first onboarding pages message: Permissions*/
+"Permissions" = "Permissions";
+
+/*message: Private Motirized*/
+"Private_Motirized" = "Private Motirized";
+
+/*message: Proceed to Enjoyment*/
+"Proceed_To_Enjoyment" = "Proceed to Enjoyment";
+
+/*message: Proceed to Fitness*/
+"Proceed_To_Fitness" = "Proceed to Fitness";
+
+/*proceed to productivity button message: Proceed to Productivity*/
+"Proceed_To_Productivity" = "Proceed to Productivity";
+
+/*rating prefered modes of transport message: Productive*/
+"Productive" = "Productive";
+
+/*message: Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…*/
+"Productivity_Worthwhile_Description_Score" = "Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…";
+
+/*message: I used my  trip to get stuff done!*/
+"Productivity_Worthwhile_High_Score" = "I use my trips to get stuff done!";
+
+/*message: I don’t work when I travel*/
+"Productivity_Worthwhile_Low_Score" = "I don’t work when I travel";
+
+/*message: How important are the travel time worthwhileness elements for you, when you travel?*/
+"Rate_Worthwhileness_Screen_Title" = "How important are the travel time worthwhileness elements for you, when you travel?";
+
+/*message: How much enjoyment do you get from your your travel time by:*/
+"Rating_Prefered_Mot_Enj_Title" = "How much enjoyment do you get from your travel time by:";
+
+/*message: How does your travel time contribute to your fitness when you travel by:*/
+"Rating_Prefered_Mot_Fit_Title" = "How does your travel time contribute to your fitness when you travel by:";
+
+/*message: How productive are you when you travel by:*/
+"Rating_Prefered_Mot_Prod_Title" = "How productive are you when you travel by:";
+
+/*register button message*/
+"Register" = "Register";
+
+/*message: Which modes of transport do you use regularly?*/
+"Regualr_Modes_Of_Transport_Title" = "Which modes of transport do you use regularly?";
+
+/*Reset Password*/
+"Reset_Password" = "Reset Password";
+
+/*message: Check out $@ for more information*/
+"Second_Onboarding_Screen_Help_Reseach_Check_Out_Site" = "Check out %@ for more information.";
+
+/*message: With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.*/
+"Second_Onboarding_Screen_Help_Reseach_Description" = "With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.";
+
+/*The message for this text was incorrect, the real message in English is: Help research for better transport
+ When possible please retranslate this message.*/
+"Second_Onboarding_Screen_Help_Reseach_Title" = "Help research for better transport";
+
+/*sign in button message*/
+"Sign_In" = "Sign In";
+
+/*splash screen start now button message*/
+"Start_Now" = "Start Now";
+
+/*message: While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.*/
+"Third_Onboarding_Screen_Description" = "While some like to work or study when they travel, others like to relax and disconnect. Still others take the opportunity to exercise. Some jumpstart their day with music.";
+
+/*error shown to the user when registering with a already signed in email account*/
+"User_Already_Signed_In" = "It seems that %@ has already signed-in. Shall we log you in?";
+
+/*title that appears on the top of the login page*/
+"Welcome_Back" = "Welcome Back";
+
+/*title for the first onboarding page message: What is a worthwhile trip*/
+"What_Is_A_Worthwhile_Trip" = "What is a worthwhile trip";
+
+/*message: What is your age?*/
+"What_Is_Your_Age" = "What is your age?";
+
+/*message: What is your name?*/
+"What_Is_Your_Name" = "What is your name?";
+
+/*message: Where do you live?*/
+"Where_Do_You_Live" = "Where do you live?";
+
+/*you've got mail!*/
+"Youve_Got_Mail" = "you've got mail!";
+"No_Ongoing_Trip_To_Show" = "No ongoing trip to show";
+"Your_Trip" = "Your trip";
+"Click_On_The_Marker_To_Split_The_Trip" = "Click on the marker to split the trip";
+"Security_Boarding_Process" = "Security and boarding process";
+"Other_Activity" = "Other activity";
+"Cycling" = "The cycling itself";
+"Riding" = "The riding itself";
+"Skating" = "The skating itself";
+"Driving" = "The driving itself";
+"Running" = "The running itself";
+
+/*message: Please wait while Woorti searches for local studies*/
+"Wait_While_Searching_Local_Studies" = "Please wait while Woorti searches for local studies";
+
+/*message: There are these studies going near you. Which one(s) do you want to contribute with data to?*/
+"Studies_Title" = "There are these studies going near you. Which one(s) do you want to contribute with data to?";
+"Menu" = "Menu\n";
+"Set_Home" = "Set home";
+"Set_Work" = "Set work";
+"Change_Photo" = "Change Photo";
+"Name" = "Name";
+"Define_Home_Location" = "Define the location of your home";
+"Define_Work_Location" = "Define the location of your work";
+"Edit" = "Edit";
+"Educational_Background" = "Educational Background";
+"Activities" = "Activities";
+"While_You_Ride" = "While you move";
+"Ability_To_Do_What_I_Wanted" = "Ability to do what I want while I travel";
+"Simplicity_Difficulty_Of_The_Route" = "Simplicity/difficulty of the route";
+"Schedule_Reliability" = "Reliability of travel time";
+"Security_And_Safety" = "Security and safety";
+"Space_Onboard_For_Lugagge_Pram_Bicycle" = "Space for luggage/pram/bicycle etc.";
+"Ability_To_Take_Pets_Along" = "Ability to take pets along";
+"Payment_And_Tickets" = "Payment and tickets";
+"Convenient_Access_Lifts_Boarding" = "Good accessibility (lifts, boarding, etc.)";
+"Route_Planning_Navigation_Tools" = "Route planning/navigation tools";
+"Information_And_Signs" = "Information and signs";
+"Checkin_Security_And_Boarding" = "Check-in, security and boarding";
+
+/*Fuzzy*/
+"Crowdedness_Seating" = "Crowdedness/seating availability";
+"Internet_Connectivity" = "Internet connectivity";
+"Ability_To_Do_The_Things_I_Want" = "Ability to do the things I want";
+"Charging_Opportunity" = "Charging opportunity";
+"Car_Bike_Parking_At_Transfer_Point" = "Car/bike parking at transfer point";
+"Vehicle_Ride_Smoothness" = "Vehicle ride smoothness";
+"Seating_Quality_Personal_Space" = "Seating quality/personal space";
+"Other_People" = "Other people";
+"Air_Quality_Temperature" = "Air quality/temperature";
+"General_Atmosphere_Design" = "General atmosphere/design";
+"Road_Path_Availability_And_Safety" = "Road/path availability and safety";
+"Accessibility_Escalators_Lifts_Ramps_Stairs_Etc" = "Good accessibility (lifts, ramps, etc.)";
+"Ability_To_Carry_Bags_Luggage_Etc" = "Ability to carry bags, luggage etc.";
+"Ability_To_Take_Kids_Or_Pets_Along" = "Ability to take kids or pets along";
+"Benches_Toilets_Etc" = "Benches/toilets etc.";
+"Facilities_Shower_Lockers" = "Facilities (shower, lockers)";
+"Parking_At_End_Points" = "Parking at end points";
+"Road_Path_Quality" = "Road/path quality";
+"Road_Path_Directness" = "Road/path directness";
+"Air_Quality" = "Air quality";
+"Lighting_Visibility" = "Lighting/visibility";
+"Cars_Other_Vehicles" = "Cars/other vehicles";
+"Space_For_Luggage_Pram_Bicycle_Etc" = "Space for luggage/pram/bicycle etc.";
+"Road_Quality_Vehicle_Ride_Smoothness" = "Road quality/vehicle ride smoothness";
+"Vehicle_Quality" = "Vehicle quality";
+"Seat_Comfort" = "Seat comfort";
+"Other_Passengers" = "Other passengers";
+"Other_Cars_Vehicles" = "Other cars/vehicles";
+
+/*Button text on second onboarding page*/
+"Lets_Get_Started" = "Lets get started";
+
+/*Report issue*/
+"Thank_You_For_Submitting_This_Issue" = "Thank you for submitting this issue. Confirm submission or proceed to another issue";
+"Confirm_And_Leave" = "Confirm and leave";
+"Confirm_And_Submit_More" = "Confirm and submit more";
+"Where_City" = "Where in %@?";
+"OtherCountry" = "Other country";
+"OtherCity" = "Other city";
+"Sign_Up_Error" = "Sign-up error";
+"Sign_Up" = "Sign up";
+"How_Important_Are_The_Following_Factors" = "How important are the travel time worthwhileness elements for you, when you travel?";
+"Modes_Of_Transport" = "Modes of transport";
+"Help_Research_For_Better_Transport" = "Help research for better transport";
+"Already_Signed_Up_Log_In_Here" = "Already signed-up? Log in here";
+"Welcome" = "Welcome";
+"Refresh_Surveys" = "refresh surveys";
+
+/*This string has the text for the data regarding Activities (e.g., for the walk itself) and *not* the walking mode of transport*/
+"The_Walk_Itself" = "The walk itself";
+"Education_Highshool" = "High school";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Education_Basic" = "Basic (up to 10th grade)";
+"Education_University" = "University";
+
+/*Ocupation options*/
+"Occupation" = "Occupation";
+"Ocupation_Student" = "Student";
+"Ocupation_Schedule_Worker" = "Schedule worker";
+"Ocupation_Flexible_worker" = "Flexible worker (part-time working)";
+"Ocupation_Selfemployed" = "Self-employed / free lancer";
+"Ocupation_Seeking_Work" = "Seeking work";
+"Ocupation_Inactive" = "Inactive/retired (pensioner)";
+"Ocupation_Maternity" = "Maternity/Paternity leave";
+"Ocupation_Military" = "Military / civil service";
+
+/*Marital status*/
+"Marital_Status" = "Marital Status";
+"Marital_Single" = "Single";
+"Marital_Married" = "Married";
+"Matital_Significant_Other" = "Significant other";
+"Marital_Divorced" = "Divorced";
+"Marital_Widowed" = "Widowed";
+"Driver_License" = "Car driver's licence";
+"Household_Yearly_Income" = "Household yearly net income";
+"Number_People_Household" = "Number of people in household";
+"Number_Children_household" = "Number of children in household";
+"Number_Cars_Household" = "Number of cars in household";
+"Nationality" = "Nationality";
+
+/*TODO NEW STRING*/
+"No_Trips_Text" = "This screen is where your trips will appear, and where you’ll be able to  report on them. Come back after making a  trip... \\n\nWoorti tries not to miss any of your trips, but if you want to be sure they are recorded, just press the button above at the start of your trip... \\n\nBe sure to have your GPS on.";
+
+/*Dashboard*/
+/*you have spent %@ travelling a distance of %@ in %@.*/
+"You_Have_Spent_Complete" = "you have spent %@ travelling a total distance of %@ in %@.";
+"In_Total_You_Spent_Calories" = "In total you have burned %@.";
+"And_This_Counted_Carbon_Footprint" = "And this counted for %@ of your sustainable carbon footprint.";
+"Your_Trips_Overall_Percentage_Worthwhile" = "Your trips overall have been %@ worthwhile.";
+"While_Traveling_Activities" = "While travelling, %@ of your time was occupied in %@.";
+"Do_You_Want_To_Set_This_Location_Home" = "Do you wish to set the location of the destination of this trip as your home address?";
+"Do_You_Want_To_Set_This_Location_Work" = "Do you wish to set the location of the destination of this trip as your work address?";
+"Privacy_Policy" = "Privacy policy";
+
+/*day*/
+"Day" = "Day";
+
+/*3 days*/
+"Days_3" = "3 Days";
+
+/*week*/
+"Week" = "Week";
+
+/*month*/
+"Month" = "Month";
+
+/*year*/
+"Year" = "Year";
+
+/*era*/
+"Era" = "Era";
+
+/*worthwhile*/
+"Worthwhile" = "Worthwhile";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Other_Activities" = "Other Activities";
+
+/*Marital status*/
+"Household_Marital" = "Marital Status";
+"Household_Years_Residence" = "Years of residence in this country";
+"Household_Labour_Status" = "Labour Status";
+"Labour_Student" = "Student";
+"Labour_Employed_Full_Time" = "Employed full Time";
+"Labour_Employed_Part_Time" = "Employed part-time";
+"Labour_Unemployed" = "Unemployed";
+"Years_Residence_Less_Than_One" = "Less than 1";
+"Years_Residence_One_To_Five" = "1 to 5";
+"Years_Residence_More_Than_Five" = "More than 5";
+"Walk_For_Distance" = "Walk for %@";
+"Household" = "Household";
+"Total_Points" = "Total Points";
+"Todays_Travel_Report" = "Today’s Travel Report";
+
+/*link to page with privacy policy specific to each language*/
+/*Fuzzy*/
+"Url_Privacy_Policy" = "https://motivproject.eu/data-collection/data-protection.html";
+
+/*%@ questions*/
+"N_Questions" = "%@ questions";
+
+/*New survey*/
+"New_Survey" = "New survey";
+
+/*Minutes more*/
+"Minutes_More" = "Minutes more";
+
+/*Minutes less*/
+"Minutes_Less" = "minutes less";
+
+/*Kilometers more*/
+"Km_More" = "km more";
+
+/*Kilometers less*/
+"Km_Less" = "km less";
+
+/*Trip validation*/
+"Trip_Validation" = "Trip validation";
+
+/*Latest story*/
+"Latest_Story" = "Latest Story";
+"Household_Data" = "Household data";
+
+/*new text for battery warning pop up in mytrips (so that people are remembered to disable battery optimizations that undermine the app working in background)*/
+/*battery warning popup text*/
+"Alert_Battery_Content" = "Woorti performs work in the background while recording trips. Be sure to disable in your phone any Battery Optimization or Low Power mode settings, regarding the Woorti app, in order to avoid the app being shut down.";
+
+/*"In the last" start message of DashBoard, Please use sentence that fits any number of days*/
+/*Dashboard*/
+"In_The_Last" = "In the last";
+
+/*stories*/
+"story_1_title_chiaras_new_train_ride" = "Chiara's new train ride";
+"story_1_text_chiaras_train_ride" = "Chiara, her husband and their two kids moved recently from the center to the outskirts of Brussels. She takes her children to the kindergarten and school by cargo bike and then rides to the train station, where she gets a 25 minute ride to work at the center of the city. This was a big change in her commute, and Chiara wasn't too happy about spending more time of her day commuting, but she started enjoying the time at the train. Sitting by herself, she could relax and do something that she would not otherwise do.  \n \n\nChiara started to take this time to read a book. But after some time, she felt that 25 minutes each time were not enough to really get into the story. \n \n She then tried reading a magazine, but because she prefers long, in-depth, articles, the same problem happened. \n \n\nSo, she just started checking what was happening on Facebook. It got her so much drawn into the contents that sometimes she almost forgot to leave at the right station. Chiara decided that accelerating her brain and heart so much wasn't the best way to start a day. \n \n\nSo, she finally tried something that worked. Because they moved to a Dutch speaking area, she felt like learning the language. Using a language learning app, the time at the train was enough for two or three lessons each ride. It also gives the right cadency for language learning: a little bit each day, steadily leading her to a better connection to the people in her new neighborhood. \n \n \n\nChiara's best fit was a function of the amount of time she had and what she felt doing in this phase of her life. \n \n \n What about you? What is the best fit for your travel time?\n ";
+"story_2_title_the_best_way_to_get_great_ideas_while_moving_p1" = "The best way of getting great ideas while moving";
+"story_2_text_the_best_way_to_get_great_ideas_while_moving_p1" = "Did you notice any activities where new interesting ideas pop-up in your head more easily? When interviewed about what was the most productive part of his day, Elon Musk replied: “when I'm taking the shower”. He's not the only one; loads of people report that many of their best ideas appear to them when they're showering! \n \n\nWhat about when we're moving? Is there any moment which tends to be especially productive for people? \n \n\nAs a matter a fact, there is one way of moving from one place to another that seems to be particularly good if you want to wander into new ideas. Several bright thinkers seemed to have discovered this advantage and purposefully moved in that form of moving when they wanted to have better thoughts about something. \n \n\nHint: some of them, like Beethoven, Dickens and Darwin, lived when there were no motorized vehicles around… \n \n\nHint 2: It is a form of moving that activates the brain. \n \n\nWhat's your guess? Check out what it is on tomorrow's story… :)";
+"story_3_title_the_best_way_to_get_great_ideas_while_moving_p2" = "The best way of getting great ideas while moving - part 2";
+"story_3_text_the_best_way_to_get_great_ideas_while_moving_p2" = "So, what is the form of moving that all the thinkers mentioned in the previous story did to make them have better ideas? \n \n\nWalking! \n \n\nYes, Steve Jobs for example went for lonely walks around Apple's office in Palo Alto just to think better. He also did meetings with people in that way. Instead of an office room, he brought them for a walk. \n \n\nBut is there any scientific explanation for this, or were these just random phenomena? \n \n\nWell, there are studies that show that when humans walk, there are parts of their brain  which become more activated. A study with school children showed that children that arrived in the morning to perform a test, had their brain much more active if they had arrived walking than if they had arrived by car. \n \n\nOf course, for the brain to be free for ideas while walking, it seems to be important that there are no major environmental disturbances that oblige you to pay attention to where your going, like obstacles, traffic or too much noise. Cities designed with better conditions for walking are better cities for generating great ideas! \n \n\nTo promote productive walking meetings, someone had a bright idea (maybe she was walking or showering, we don't really know!): To build an APP which would define paths in the city that were particularly good for walking meetings. This app is called Weeting and has meeting walking routes for several cities in The Netherlands. \n \n\nHow good are your walking paths for thinking?\n";
+"story_4_title_the_7_shades_of_pedros_cycling_time" = "The 7 shades of Pedro's cycling time";
+"story_4_text_the_7_shades_of_pedros_cycling_time" = "\n1. Pedro did it as a statement. He started cycling to work at a time when it was still something truly odd in Lisbon. As he passed, old men in the street yelled to him “GO, CYCLIST, GO” as if he were in the Tour. Car drivers honked “GET OUT OF THE ROAD”. \n \n\nHe believed that people should be able to use their bike to move around in the city, and he felt as that pioneer hero that gave the example to the future generations of bike commuters. \n \n\nHe also wanted to prove that cycling was fast, and so he started to choose the quicker paths even if they had heavy traffic, just to save 5 minutes. The less time it took, the better. \n \n\n2. As the statement effect faded, he started noticing more the stressful part of the experience, and the occasional sweat. So, he decided to slow down his pace. But he was so used to pedal hard, that it took him a year to get used to ride at a slower pace. He came to appreciate the Dutch style, relaxed, way of cycling. He chose again the calmer routes. \n \n\n3. After having children, he took each of them to kindergarten and school before starting the 35 minute ride to work. The only alternative to the bicycle was the car, which wasn't an option he wanted to take, so he started getting fed up of having no choices. “I miss it when I could go by metro and relax”. And so Pedro started taking the metro whenever he didn't have to take the kids. \n \n\n4. When his wife could again take the kids on some days, the release of the obligation to cycle made him recover part of the pleasure of cycling. But he still felt it to be consuming his time unproductively. He had got used to taking his public transport time to think and read. \n \n\n5. One day, as he was cooking dinner, Pedro decided to hear a podcast. He loved it and thought how much better this made his cooking time. He would learn things and hear stories from other people. He started enjoying cooking time. \n \n\nAfter that, he took him another year to understand that he could do the same in his cycling time routine. With podcasts, his cycling routes became even more slow and long. Each 5 more minutes riding were 5 minutes of podcast pleasure. \n \n\n6. Later, Pedro changed job and started working from home. His belly suddenly increased size, as he stopped doing the now 45 minute ride to work. Looking at his augmented belly, Pedro realized that the cycling to work over the past years had kept him fit. He started seizing every opportunity, like going to meetings, to go by bike. \n \n\n7. But his cycling time was about to improve even more. As his children grew up, he realized that the travel time to school with them were part of the best moments of his live. His children showed that they loved going with him, asked dozens of questions and told him about the latest news at the school. This made his cycling time more worthwhile than anything else. \n \n\n";
+"story_5_title_stopping_or_not_stopping_in_a_moving_walkway" = "Stopping, or not stopping, in a moving walkway?";
+"story_5_text_stopping_or_not_stopping_in_a_moving_walkway" = "Have you noticed that some people stop in moving walkways or stairways, while others keep walking?  \n \n\nWhat do you think is the reason for this distinct behaviour? \n \n\nDo you prefer when other people walk, or when they stand? \n \n\nIf the answer that came into your head seems straight obvious, think again. It might not be that simple. \n \n\nNext time you go on a moving walkway, try observing people that either walk or stand. Just by looking at them, you might get pretty good hints about the why. If you keep imagining, you might also have a journey into what might be their whole story. It’s fun! \n \n\nStopping, or not stopping, in a moving walkway? Read our full story here (English only):\n\nhttps://motivproject.eu/news/detail/stopping-or-not-stopping-in-a-moving-walkway.html\n";
+"story_6_title_virtual_travel_time" = "Virtual travel time";
+"story_6_text_virtual_travel_time" = "Have you heard of the “virtual travel time”? \n \n\nNo, it’s not about travelling in virtual reality. It’s something more concrete. \n \n\nHow much time do you exactly take travelling from point A to point B? You’ll probably say: well it’s my journey time, of course! \n \n\nWell, from a certain perspective, it isn’t. It might even actually be much more than that… \n \n\nThink about it: to travel from point A to point B, you probably had to spend some money. If you’re travelling by car, that is all the costs associated to riding and possessing a car. If you’re going by public transport, that’s the cost of your ticket. Even if you’re walking, you’re at least wearing your shoes, and you’ll end up having to replace them more quickly. \n \n\nBut what does money have to do with travel time? \n \n\nTo obtain money, you (or someone else for you) has to work to gain it, and working takes time. So, the time of your travel is not only the time you spend travelling, it’s also the time you spend earning the money necessary for travelling. \n \n\nFor example, take a car. On average a car costs, all expenses included, 350 euros a month. The amount of work that you have to put in monthly to pay that car, add it to your travel time of the trips for that month. That’s your virtual travel time. \n \n\nIf you're fortunate, you might say that working is not loss of time, because you love working. And you might also say the same about travelling to work, maybe. Yes, that makes the issue even more complicated. \n \n\nHow fo you see it? Share your thoughts with us :-)\n \nhttps://www.facebook.com/MotivProject.eu/ \n\nhttps://twitter.com/MoTiV_Project\n";
+
+/*new string in mobility coach*/
+/*mobility coach*/
+"Your_Mobility_Journey" = "Stories and lessons";
+
+/*new string to translate in home module*/
+/*home module*/
+"You_have_trips_to_validate" = "You have trips to validate.";
+
+/*(story) Coming tomorrow*/
+"Coming_Tomorrow" = "Coming tomorrow";
+
+/*Story (1, 2, 3, 4...)*/
+"Story" = "Story %@";
+
+/*profile and settings*/
+"Marital_Partnership" = "Registered partnership";
+
+/*profile and settings */
+"Labour_Pensioner" = "Pensioner";
+
+/*Notification shown when a trip has started */
+"Trip_Has_Started_At" = "Trip has started at %@";
+
+/*Notification shown when a trip has ended*/
+"Trip_Has_Ended_At" = "Trip has ended at %@";
+"Trip_Has_Ended" = "Trip has ended!";
+"engagement_notification_1_title" = "\"Woorti just recorded your first trip.\"";
+"engagement_notification_1_content" = "\"Open the app and tell him about it!\"";
+"engagement_notification_2_title" = "You have a story to read.";
+"engagement_notification_2_content" = "If you read it today, another story will be unlocked tomorrow.";
+"engagement_notification_3_title" = "Another story is out!";
+"engagement_notification_3_content" = "\"And remember to report on your last trip.\"";
+"Language_Changed_Popup_Content" = "Please restart the app to complete this process";
+"Language_Changed_Popup_Title" = "Language changed! ";
+
+/*Predictability of travel time*/
+"Predictability_Of_Travel_Time" = "Predictability of travel time";
+"Urban_Scenery_Atmosphere" = "Urban scenery and atmosphere";
+"While_You_Are_There" = "While you are there";
+"Begin" = "Begin";
+"engagement_notification_4_title" = "Have you checked your travel time stats?";
+"engagement_notification_4_content" = "Tap to see your Dashboard";
+"engagement_notification_5_title" = "Your travel time worthwhileness so far is %@.";
+"engagement_notification_5_content" = "Have you noticed how it varies with the trips you make";
+"engagement_notification_6_title" = "Report your last trip.";
+"engagement_notification_6_content" = "Submit your data and check your stats.";
+"engagement_notification_7_title" = "%@ minutes";
+"engagement_notification_7_content" = "is the time you spent traveling last week";
+"engagement_notification_8_title" = "Keep helping travel time research.";
+"engagement_notification_8_content" = "Thank you for reporting your trips. Tap here.";
+"engagement_notification_9_title" = "Report your last trip.";
+"engagement_notification_9_content" = "Submit your data and check your stats.";
+
+/*when referencing campaigns*/
+"Campaigns" = "Campaigns";
+
+/*Welcome to your trips board, %NAME_USER%@ !*/
+"Welcome_To_Your_Trips_Board_Username" = "Welcome to your trips board, %@ !";
+
+/*You have X trips left to report in the last 3 days*/
+"You_Have_X_Trips_Left_3_Days" = "You have %@ trips left to report in the last 3 days";
+
+/*These are the trips you have made! Reporting on them helps our research, and allows you to monitor your travel time. After reporting each trip, find out your travel time worthwhileness statistics in the Dashboard! Press the ‘!’ mark to report.*/
+"These_Are_The_Trips_You_Have_Made" = "These are the trips you have made! Reporting on them helps our research, and allows you to monitor your travel time. After reporting each trip, find out your travel time worthwhileness statistics in the Dashboard! Press the ‘!’ mark to report.";
+
+/*Now that you have a reported trip, you can check your first travel time statistics in the Dashboard.*/
+/*Fuzzy*/
+"Now_That_You_Have_A_Reported_Trip_Popup_Text" = "Now that you have a reported trip, you can check your first travel time statistics in the Dashboard.";
+
+/*Go to dashboard*/
+"Go_To_Dashboard" = "Go to dashboard";
+
+/*Report trips*/
+/*Fuzzy*/
+"Report_Trips" = "Report trips";
+
+/*This is your Dashboard. It shows how worthwhile your travel time is.  For your trip stats to appear here, report your trips*/
+"This_Is_Your_Dashboard_Popup_Text" = "This is your Dashboard. It shows how worthwhile your travel time is. \\n\nFor your trip stats to appear here, report your trips";
+
+/*See dashboard*/
+"See_Dashboard" = "See dashboard";
+
+/*profile and settings*/
+"Campaign_Scores" = "Campaign Scores";
+
+/*when iOS user is redirected and asked to authorize GPS in phone settings after denying permissions in On-boarding*/
+"GPS_Link_Phone_Settings" = "Settings";
+
+/*when iOS user is asked to authorize GPS in phone settings and selects back to dismiss this dialogue*/
+"GPS_Go_Back" = "Back";
+
+/*Days*/
+"Days" = "Days";
+
+/*trips*/
+"Trips" = "Trips";
+
+/*Issue form*/
+"Issue_Form" = "Issue form";
+
+/*Thank you for reporting an issue*/
+"Thank_You_For_Reporting_An_Issue" = "Thank you for reporting an issue";
+
+/*Submit log*/
+"Submit_Log" = "Submit log";
+
+/*Send log*/
+"Send_Log" = "Send log";
+
+/*No log needed for this issue. Skip.*/
+"No_Log_Needed_For_This_Issue_Skip" = "No log needed for this issue. Skip.";
+
+/*Targets & Rewards*/
+"Targets_And_Rewards" = "Targets & Rewards";
+
+/*Tasks*/
+"Tasks" = "Tasks";
+
+/*To analise the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.*/
+"To_Analyse_This_Issue" = "To analyse the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.";
+
+/*points*/
+"Points" = "Points";
+
+/*Progress (Reward progress)*/
+"Progress" = "Progress";
+
+/*%@ days left*/
+"days_left_reward" = "%@ days left";
+
+/*user registration*/
+"Password_Length_Message" = "Please set a password with between 6 and 16 characters.";
+
+/*Onboarding*/
+"How_Productive_Are_You" = "How productive are you";
+
+/*Woorti is running in the background*/
+"Woorti_Is_Running" = "Woorti is running in the background";
+
+/*Continue*/
+"Continue" = "Continue";
+
+/*Hurray!!!*/
+"Hurray" = "Hurray!!!";
+
+/*You have completed your target for NAME_REWARD!*/
+"You_Have_Completed_Your_Target" = "You have completed your target for %@ !";
+
+/*Keep reporting your trips to monitor your stats to see your evolution and help this research */
+"Keep_Reporting_Your_Trips_Reward_Completed_Popup" = "Keep reporting your trips to monitor your stats to see your evolution and help this research";
+
+/*Woorti just detected that you started a trip*/
+"Woorti_Just_Detected_Start_Trip" = "Woorti just detected that you started a trip";
+
+/*Your  trip has ended.\nYou can now report about it in Woorti*/
+"Your_Trip_As_Ended" = "Your trip has ended";
+
+/*Onboarding*/
+"Onboarding_Successful" = "Onboarding Successfully Completed";
+
+/*Trip validation tutorial*/
+"Trip_Validation_Tutorial" = "Trip validation tutorial";
+
+/*Onboarding*/
+"Onboarding_Duplicated" = "Onboarding was already completed before. Logging in.";
+
+/*Onboarding*/
+"Onboarding_Error" = "An error has occurred during Onboarding. Please try completing Onboarding again.";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Attempt" = "Attempting to submit trip information";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Successful" = "Trip information submitted successfully";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Not_Submitted" = "Trip not submitted - reconnect later";
+
+/*You can now report about it in Woorti*/
+"You_Can_Now_Report_About_It_In_Woorti" = "You can now report about it in Woorti";
+
+/*Complete until dd/mm/yyyy*/
+"Complete_Until" = "Complete until %@";
+
+/*You have a new survey (notification)*/
+"You_Have_A_New_Survey" = "You have a new survey.";
+
+/*Fill it in and earn %@ points. (notification -> fill survey)*/
+"Fill_It_And_Earn_XX_Points" = "Fill it in and earn %@ points";
+
+/*Is your phone blocking trip detection?*/
+"Is_Your_Phone_Blocking_Trip_Detection" = "Is your phone blocking trip detection?";
+
+/*Woorti gives you 25 points for each additional information item you fill in your profile.*/
+"Woorti_Gives_You_Points_For_Each_Info" = "Woorti gives you 25 points for each additional information item you fill in your profile.";
+
+/*If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.*/
+"If_Thats_The_Case_Fortunately_There_Is_Solution" = "If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.";
+
+/*Enable app activity*/
+"Enable_App_Activity" = "Enable app activity";
+
+/*Do not show again*/
+"Do_Not_Show_Again" = "Do not show again";
+
+/*If your trips are frequently not being recorded, your phone might be blocking this app’s activity.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded" = "If your trips are frequently not being recorded, your phone might be blocking this app’s activity.";
+
+/*Tell us more about yourself*/
+"Tell_Us_More_About_Yourself" = "Tell us more about yourself";
+
+/*Your data is anonymised.*/
+"Your_Data_Is_Anonymised" = "Your data is anonymised.";
+
+/*Fill in profile*/
+"Fill_In_Profile" = "Fill in profile";
+
+/*Later*/
+"Later" = "Later";
+
+/*Point all time*/
+"Points_All_Time" = "Points all time";
+
+/*Days with trips all time*/
+"Days_All_Time" = "Days with trips all time";
+
+/*Trips all time*/
+"Trips_All_Time" = "Trips all time";
+
+/*temporary text without link to battery optimization site not endorsed by motiv.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded_No_Link_To_Site" = "If your trips are frequently not being recorded, your phone might be blocking this app’s activity. Check your battery optimization settings in Android to unblock Woorti.";
+
+/*Dashboard_You*/
+"Dashboard_You" = "You";
+
+/*Dashboard_Community*/
+"Dashboard_Community" = "Community";
+
+/*Dashboard_Citizens*/
+"Dashboard_Citizens" = "Citizens";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Onboarding" = "These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Leg_Info_Recorded" = "These results reflect the worthwhileness assessment of the legs of the trip that you’ve chosen to report in your trip reports.";
+
+/*Dashboard*/
+"Dashboard_Your_Whole_Trips" = "Your whole trips";
+
+/*Dashboard*/
+"Dashboard_Your_Reported_Legs" = "You reported legs";
+
+/*Dashboard*/
+"Time_Spent_In_Travel" = "Time Spent in Travel";
+
+/*Dashboard*/
+"Travelled_Distance" = "Travelled Distance";
+
+/*Dashboard*/
+"CO2_Emissions" = "CO2 Emissions";
+
+/*Dashboard*/
+"Calories" = "Calories";
+
+/*Dashboard*/
+"The_Community_Trips" = "The community's trips";
+
+/*Dashboard*/
+"The_Community_Validated_Legs" = "The community's validated legs";
+
+/*Dashboard*/
+"Compared_To_Your_Scores" = "(compared to your scores)";
+
+/*Dashboard*/
+"Worthwhileness" = "Worthwhileness";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Title" = "\"Hey there!\"";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_1" = "Report your %@ detected trips in the last ";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_2" = "to see your complete real stats in the dashboard.";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Report_Trips" = "REPORT TRIPS";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_See_Dashboard" = "SEE DASHBOARD";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Text" = "Occasionally, trips might be imperfectly detected. To edit your trip structure, press the icon represented above for splitting, merging or deleting trips or legs of a trip.";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Button" = "GOT IT!";
+
+/*Home module travel report*/
+"Seven_Day_Travel_Report" = "7-day travel report";
+
+/*Home (travel report link to Dashboard)*/
+"Learn_More" = "Learn more";
+
+/*please retranslate to make clear statistics are average calories per day. thank you. LV.*/
+/*Dashboard*/
+"In_Total_Users_Spent_Calories" = "On average, per day, each user in the community have burned %@.";
+
+/*Dashboard*/
+"And_This_Counted_Carbon_Footprint_Users" = "On average, the community spent %@ of their sustainable carbon footprint.";
+
+/*People from "campaign/city/country" on average have spent "3 min more/less" travelling a distance of "3km more/less" than you per day.*/
+/*Fuzzy*/
+"People_From_Place_Have_Spent_On_Average" = "People from %@ on average have spent %@ travelling a distance of %@ than you, per day.";
+
+/*"3 km more"*/
+"Number_Km_More" = "%@ km more";
+
+/*"3 km less"*/
+"Number_Km_Less" = "%@ km less";
+
+/*"3 min more"*/
+"Number_Min_More" = "%@ min more";
+
+/*"3 min less"*/
+"Number_Min_Less" = "%@ min less";
+
+/*Dashboard*/
+"Community_Trips_Overall_Percentage_Worthwhile" = "The community's trips worthwhileness (compared to your scores)";
+
+/*These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.*/
+"Dashboard_Worthwhileness_Popup_Text" = "These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.";
+
+/*What is the carbon budget?*/
+"What_Is_The_Carbon_Budget" = "What is the carbon budget?";
+
+/*The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle.  A person’s yearly mobility carbon budget is 500kg*/
+/*Fuzzy*/
+"The_Carbon_Budget_Is" = "The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle. \\n \\n A person’s yearly mobility carbon budget is 500kg";
+
+/*City/Region*/
+"City_Region" = "City/Region";
+
+/*You*/
+"You" = "You";
+
+/*should translate according to "Min per user per day"*/
+/*Average minutes*/
+"Avg_Minutes" = "Min per user per day";
+
+/*please retranslate following "Km per user per day", because we are showing daily averages per individual (average) user of the community.*/
+/*Average kilometers*/
+"Avg_Kilometers" = "Km per user per day";
+
+/*need to translate according to "Kg CO2 per user per day"*/
+/*Average kilograms*/
+"Avg_Kilograms" = "Kg CO2 per user per day";
+
+/*need to retranslate for "Calories per user per day"*/
+/*Average calories*/
+"Avg_Calories" = "Calories per user per day";
+
+/*Hours*/
+"Hours" = "Hours";
+
+/*Dashboard - unable to show some global stats (e.g. always disconnected)*/
+"Unable_Show_Stats" = "Unable to retrieve community statistics.";
+
+/*CO2 budget popu*/
+"CO2_Budget_Example" = "500kg is equivalent to a return flight between Brussels and Madrid, or 1500 km travelled by car.";
+
+/*CO2 budget popup - no need to translate*/
+"CO2_Budget_Link_URL" = "https://motivproject.eu/data-collection/woorti-app-faqs.html";
+
+/*CO2 budget popup*/
+"CO2_Budget_Link_Text" = "See more";
+
+/*worthwhileness - travel wasted rating of trip*/
+"Travel_Time_Wasted_Question_Text_Second_Paragraph" = "Refer to your journey, not to your activities at your destination.";
+
+/*Onboarding and login*/
+"Failed_To_Connect_Check_Connectivity_Error" = "Failed to connect. Please check your internet connection.";
+
+/*"Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding."*/
+"Onboarding_Warning_Permissions_Denied_Retry" = "Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding.";
+
+/*"In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information."*/
+"Onboarding_Dialog_Box_Ask_Location_Storage_Permissions" = "In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information.";
+
+/*You have no trips*/
+"You_Have_No_Trips" = "You have no trips";
+
+/*You must choose at least one trip to delete*/
+"You_Must_Choose_One_Trip_To_Delete" = "You must choose at least one trip to delete";
+
+/*Trip/s deleted successfully!*/
+"Trips_Deleted_Successfuly" = "Trip/s deleted successfully!";
+
+/*You must choose at least one leg to delete*/
+"You_Must_Choose_One_Leg_To_Delete" = "You must choose at least one leg to delete";
+
+/*You cannot delete all the trip's legs*/
+"You_Cannot_Delete_All_Trips_Legs" = "You cannot delete all the trip's legs";
+
+/*You must choose consecutive legs to delete*/
+"You_Must_Choose_Consecutive_Legs_To_Delete" = "You must choose consecutive legs to delete";
+
+/*You must choose at least two legs to merge*/
+"You_Must_Choose_Two_Legs_To_Merge" = "You must choose at least two legs to merge";
+
+/*You must choose consecutive legs to merge*/
+"You_Must_Choose_Consecutive_Legs_To_Merge" = "You must choose consecutive legs to merge";
+
+/*The leg you are trying to split is too small to be split*/
+"The_Leg_Is_Too_Small_To_Be_Split" = "The leg you are trying to split is too small to be split";
+
+/*Error splitting leg*/
+"Error_Splitting_Leg" = "Error splitting leg";
+
+/*Trips_Merged_Successfully*/
+/*Fuzzy*/
+"Trips_Merged_Successfully" = "Trips merged successfully!";
+
+/*Trip splitted successfully!*/
+"Trip_Splitted_Successfully" = "Trip split successfully!";
+
+/*"Please choose another leg/transfer other than the last"*/
+"Please_Choose_Other_Leg_Transfer_Not_Last" = "Please choose another leg/transfer other than the last";
+
+/*"Please choose a leg/transfer to split"*/
+"Please_Choose_Leg_Transfer_To_Split" = "Please choose a leg/transfer to split";
+
+/*"You must choose consecutive trips to merge"*/
+"You_Must_Choose_Consecutive_Trips_To_Merge" = "You must choose consecutive trips to merge";
+
+/*"You must choose at least two legs to merge"*/
+"You_Must_Choose_Two_Trips_To_Merge" = "You must choose at least two legs to merge";

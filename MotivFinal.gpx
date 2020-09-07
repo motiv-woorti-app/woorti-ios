@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Track Editor" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gte="http://www.gpstrackeditor.com/xmlschemas/General/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" targetNamespace="http://www.topografix.com/GPX/1/1" elementFormDefault="qualified" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    
+    <wpt lat="38.736610" lon="-9.140220">
+        <ele>97.00</ele>
+        <time>2010-01-01T00:00:00Z</time>
+        <hdop>100</hdop>
+    </wpt>
+    <wpt lat="38.737110" lon="-9.140540">
+        <ele>95.00</ele>
+        <time>2010-01-01T00:00:01Z</time>
+    </wpt>
+    <wpt lat="38.737690" lon="-9.140790">
+        <ele>96.00</ele>
+        <time>2010-01-01T00:00:02Z</time>
+    </wpt>
+    <wpt lat="38.737900" lon="-9.140710">
+        <ele>96.00</ele>
+        <time>2010-01-01T00:00:03Z</time>
+    </wpt>
+    <wpt lat="38.738050" lon="-9.139740">
+        <ele>95.00</ele>
+        <time>2010-01-01T00:00:04Z</time>
+    </wpt>
+    <wpt lat="38.738150" lon="-9.138920">
+        <ele>97.00</ele>
+        <time>2010-01-01T00:00:05Z</time>
+    </wpt>
+    <wpt lat="38.738150" lon="-9.138330">
+        <ele>93.00</ele>
+        <time>2010-01-01T00:00:06Z</time>
+    </wpt>
+    <wpt lat="38.737910" lon="-9.137440">
+        <ele>91.00</ele>
+        <time>2010-01-01T00:00:07Z</time>
+    </wpt>
+    <wpt lat="38.737630" lon="-9.136890">
+        <ele>89.00</ele>
+        <time>2010-01-01T00:00:08Z</time>
+    </wpt>
+    <wpt lat="38.737370" lon="-9.136390">
+        <ele>89.00</ele>
+        <time>2010-01-01T00:00:09Z</time>
+    </wpt>
+    <wpt lat="38.737470" lon="-9.134700">
+        <ele>76.00</ele>
+        <time>2010-01-01T00:00:11Z</time>
+    </wpt>
+    <wpt lat="38.737520" lon="-9.133890">
+        <ele>76.00</ele>
+        <time>2010-01-01T00:00:12Z</time>
+        <hdop>100</hdop>
+    </wpt>
+    <wpt lat="38.737550" lon="-9.133400">
+        <ele>78.00</ele>
+        <time>2010-01-01T00:00:13Z</time>
+    </wpt>
+    <wpt lat="38.737580" lon="-9.132930">
+        <ele>79.00</ele>
+        <time>2010-01-01T00:00:14Z</time>
+    </wpt>
+    <wpt lat="38.737650" lon="-9.131830">
+        <ele>75.00</ele>
+        <time>2010-01-01T00:00:35Z</time>
+    </wpt>
+    <wpt lat="38.737700" lon="-9.131010">
+        <ele>76.00</ele>
+        <time>2010-01-01T00:00:36Z</time>
+    </wpt>
+    <wpt lat="38.737750" lon="-9.130120">
+        <ele>76.00</ele>
+        <time>2010-01-01T00:00:37Z</time>
+    </wpt>
+    <wpt lat="38.737650" lon="-9.129330">
+        <ele>96.00</ele>
+        <time>2010-01-01T00:00:38Z</time>
+    </wpt>
+    <wpt lat="38.737240" lon="-9.129360">
+        <ele>101.00</ele>
+        <time>2010-01-01T00:00:39Z</time>
+    </wpt>
+    <wpt lat="38.737140" lon="-9.129940">
+        <ele>77.00</ele>
+        <time>2010-01-01T00:00:40Z</time>
+    </wpt>
+    <wpt lat="38.736860" lon="-9.130030">
+        <ele>81.00</ele>
+        <time>2010-01-01T00:00:41Z</time>
+    </wpt>
+    <wpt lat="38.736780" lon="-9.130330">
+        <ele>80.00</ele>
+        <time>2010-01-01T00:00:42Z</time>
+    </wpt>
+    <wpt lat="38.735140" lon="-9.130390">
+        <ele>76.00</ele>
+        <time>2010-01-01T00:00:44Z</time>
+    </wpt>
+    <wpt lat="38.734120" lon="-9.130410">
+        <ele>80.00</ele>
+        <time>2010-01-01T00:00:46Z</time>
+    </wpt>
+    <wpt lat="38.733400" lon="-9.130430">
+        <ele>79.00</ele>
+        <time>2010-01-01T00:00:47Z</time>
+    </wpt>
+    <wpt lat="38.732940" lon="-9.130990">
+        <ele>73.00</ele>
+        <time>2010-01-01T00:00:48Z</time>
+    </wpt>
+    <wpt lat="38.732840" lon="-9.131130">
+        <ele>73.00</ele>
+        <time>2010-01-01T00:00:49Z</time>
+    </wpt>
+    <wpt lat="38.733080" lon="-9.132050">
+        <ele>70.00</ele>
+        <time>2010-01-01T00:00:50Z</time>
+    </wpt>
+    <wpt lat="38.733260" lon="-9.132740">
+        <ele>66.00</ele>
+        <time>2010-01-01T00:00:51Z</time>
+    </wpt>
+    <wpt lat="38.733450" lon="-9.133480">
+        <ele>64.00</ele>
+        <time>2010-01-01T00:00:52Z</time>
+    </wpt>
+    <wpt lat="38.733730" lon="-9.134370">
+        <ele>65.00</ele>
+        <time>2010-01-01T00:00:53Z</time>
+    </wpt>
+    <wpt lat="38.733900" lon="-9.135090">
+        <ele>68.00</ele>
+        <time>2010-01-01T00:00:54Z</time>
+    </wpt>
+    <wpt lat="38.733910" lon="-9.135310">
+        <ele>69.00</ele>
+        <time>2010-01-01T00:00:55Z</time>
+    </wpt>
+    <wpt lat="38.734220" lon="-9.136180">
+        <ele>80.00</ele>
+        <time>2010-01-01T00:00:56Z</time>
+    </wpt>
+    <wpt lat="38.734550" lon="-9.137170">
+        <ele>84.00</ele>
+        <time>2010-01-01T00:00:57Z</time>
+    </wpt>
+    <wpt lat="38.734780" lon="-9.137710">
+        <ele>88.00</ele>
+        <time>2010-01-01T00:00:58Z</time>
+    </wpt>
+    <wpt lat="38.734610" lon="-9.139070">
+        <ele>96.00</ele>
+        <time>2010-01-01T00:01:00Z</time>
+    </wpt>
+    <wpt lat="38.734820" lon="-9.139560">
+        <ele>96.00</ele>
+        <time>2010-01-01T00:01:01Z</time>
+    </wpt>
+    <wpt lat="38.735210" lon="-9.140680">
+        <ele>97.00</ele>
+        <time>2010-01-01T00:01:02Z</time>
+    </wpt>
+    <wpt lat="38.735190" lon="-9.141590">
+        <ele>98.00</ele>
+        <time>2010-01-01T00:01:03Z</time>
+    </wpt>
+    <wpt lat="38.735020" lon="-9.141560">
+        <ele>98.00</ele>
+        <time>2010-01-01T00:01:04Z</time>
+    </wpt>
+    <wpt lat="38.734130" lon="-9.141370">
+        <ele>84.00</ele>
+        <time>2010-01-01T00:01:05Z</time>
+    </wpt>
+    <wpt lat="38.732830" lon="-9.141110">
+        <ele>80.00</ele>
+        <time>2010-01-01T00:01:07Z</time>
+    </wpt>
+    <wpt lat="38.732290" lon="-9.141000">
+        <ele>82.00</ele>
+        <time>2010-01-01T00:01:08Z</time>
+    </wpt>
+    <wpt lat="38.731710" lon="-9.140680">
+        <ele>78.00</ele>
+        <time>2010-01-01T00:01:09Z</time>
+    </wpt>
+    <wpt lat="38.731370" lon="-9.140820">
+        <ele>77.00</ele>
+        <time>2010-01-01T00:01:10Z</time>
+    </wpt>
+    <wpt lat="38.730570" lon="-9.140640">
+        <ele>81.00</ele>
+        <time>2010-01-01T00:01:11Z</time>
+    </wpt>
+    <wpt lat="38.729930" lon="-9.140520">
+        <ele>79.00</ele>
+        <time>2010-01-01T00:01:12Z</time>
+    </wpt>
+    <wpt lat="38.729490" lon="-9.140410">
+        <ele>79.00</ele>
+        <time>2010-01-01T00:01:13Z</time>
+    </wpt>
+    <wpt lat="38.729200" lon="-9.140350">
+        <ele>79.00</ele>
+        <time>2010-01-01T00:01:14Z</time>
+    </wpt>
+    <wpt lat="38.728350" lon="-9.140450">
+        <ele>82.00</ele>
+        <time>2010-01-01T00:01:15Z</time>
+    </wpt>
+    <wpt lat="38.727720" lon="-9.140550">
+        <ele>80.00</ele>
+        <time>2010-01-01T00:01:16Z</time>
+    </wpt>
+    <wpt lat="38.727120" lon="-9.140630">
+        <ele>89.00</ele>
+        <time>2010-01-01T00:01:17Z</time>
+    </wpt>
+    <wpt lat="38.726530" lon="-9.140720">
+        <ele>91.00</ele>
+        <time>2010-01-01T00:01:18Z</time>
+    </wpt>
+    <wpt lat="38.725890" lon="-9.140700">
+        <ele>76.00</ele>
+        <time>2010-01-01T00:01:19Z</time>
+    </wpt>
+    <wpt lat="38.725600" lon="-9.140660">
+        <ele>75.00</ele>
+        <time>2010-01-01T00:01:20Z</time>
+    </wpt>
+    <wpt lat="38.724860" lon="-9.140290">
+        <ele>82.00</ele>
+        <time>2010-01-01T00:01:21Z</time>
+    </wpt>
+    <wpt lat="38.724180" lon="-9.139970">
+        <ele>76.00</ele>
+        <time>2010-01-01T00:01:22Z</time>
+    </wpt>
+    <wpt lat="38.723630" lon="-9.139760">
+        <ele>80.00</ele>
+        <time>2010-01-01T00:01:23Z</time>
+    </wpt>
+    <wpt lat="38.723110" lon="-9.139920">
+        <ele>76.00</ele>
+        <time>2010-01-01T00:01:24Z</time>
+    </wpt>
+    <wpt lat="38.722710" lon="-9.140330">
+        <ele>72.00</ele>
+        <time>2010-01-01T00:01:25Z</time>
+    </wpt>
+    <wpt lat="38.722240" lon="-9.140450">
+        <ele>69.00</ele>
+        <time>2010-01-01T00:01:26Z</time>
+    </wpt>
+    <wpt lat="38.721890" lon="-9.140380">
+        <ele>66.00</ele>
+        <time>2010-01-01T00:01:27Z</time>
+    </wpt>
+    <wpt lat="38.721050" lon="-9.140570">
+        <ele>69.00</ele>
+        <time>2010-01-01T00:01:28Z</time>
+    </wpt>
+    <wpt lat="38.720430" lon="-9.140290">
+        <ele>69.00</ele>
+        <time>2010-01-01T00:01:29Z</time>
+    </wpt>
+    <wpt lat="38.720290" lon="-9.140210">
+        <ele>69.00</ele>
+        <time>2010-01-01T00:01:30Z</time>
+    </wpt>
+    <wpt lat="38.719530" lon="-9.139780">
+        <ele>71.00</ele>
+        <time>2010-01-01T00:01:31Z</time>
+    </wpt>
+    <wpt lat="38.718860" lon="-9.139450">
+        <ele>63.00</ele>
+        <time>2010-01-01T00:01:32Z</time>
+    </wpt>
+    <wpt lat="38.718250" lon="-9.139350">
+        <ele>67.00</ele>
+        <time>2010-01-01T00:01:33Z</time>
+    </wpt>
+    <wpt lat="38.717890" lon="-9.139150">
+        <ele>69.00</ele>
+        <time>2010-01-01T00:01:34Z</time>
+    </wpt>
+    <wpt lat="38.717560" lon="-9.138960">
+        <ele>67.00</ele>
+        <time>2010-01-01T00:01:35Z</time>
+    </wpt>
+    <wpt lat="38.717040" lon="-9.138270">
+        <ele>54.00</ele>
+        <time>2010-01-01T00:01:36Z</time>
+    </wpt>
+    <wpt lat="38.716350" lon="-9.137840">
+        <ele>47.00</ele>
+        <time>2010-01-01T00:01:37Z</time>
+    </wpt>
+    <wpt lat="38.716030" lon="-9.137490">
+        <ele>33.00</ele>
+        <time>2010-01-01T00:01:38Z</time>
+    </wpt>
+    <wpt lat="38.715820" lon="-9.136830">
+        <ele>20.00</ele>
+        <time>2010-01-01T00:01:39Z</time>
+    </wpt>
+    <wpt lat="38.715180" lon="-9.137090">
+        <ele>20.00</ele>
+        <time>2010-01-01T00:01:40Z</time>
+    </wpt>
+    <wpt lat="38.714800" lon="-9.137480">
+        <ele>27.00</ele>
+        <time>2010-01-01T00:01:41Z</time>
+    </wpt>
+    <wpt lat="38.714450" lon="-9.137450">
+        <ele>30.00</ele>
+        <time>2010-01-01T00:01:42Z</time>
+    </wpt>
+    <wpt lat="38.713990" lon="-9.138550">
+        <ele>20.00</ele>
+        <time>2010-01-01T00:01:44Z</time>
+    </wpt>
+    <wpt lat="38.713150" lon="-9.138230">
+        <ele>21.00</ele>
+        <time>2010-01-01T00:01:45Z</time>
+    </wpt>
+    <wpt lat="38.712450" lon="-9.137950">
+        <ele>29.00</ele>
+        <time>2010-01-01T00:01:47Z</time>
+    </wpt>
+    <wpt lat="38.711750" lon="-9.137670">
+        <ele>26.00</ele>
+        <time>2010-01-01T00:01:48Z</time>
+    </wpt>
+    <wpt lat="38.711080" lon="-9.137410">
+        <ele>26.00</ele>
+        <time>2010-01-01T00:01:49Z</time>
+    </wpt>
+    <wpt lat="38.710980" lon="-9.137820">
+        <ele>23.00</ele>
+        <time>2010-01-01T00:01:50Z</time>
+    </wpt>
+    <wpt lat="38.710290" lon="-9.137540">
+        <ele>23.00</ele>
+        <time>2010-01-01T00:01:51Z</time>
+    </wpt>
+    <wpt lat="38.709580" lon="-9.137260">
+        <ele>23.00</ele>
+        <time>2010-01-01T00:01:52Z</time>
+    </wpt>
+    <wpt lat="38.708830" lon="-9.136960">
+        <ele>20.00</ele>
+        <time>2010-01-01T00:01:53Z</time>
+    </wpt>
+    <wpt lat="38.708220" lon="-9.136800">
+        <ele>11.00</ele>
+        <time>2010-01-01T00:01:54Z</time>
+    </wpt>
+    <wpt lat="38.708110" lon="-9.137550">
+        <ele>16.00</ele>
+        <time>2010-01-01T00:01:55Z</time>
+    </wpt>
+    <wpt lat="38.708020" lon="-9.138140">
+        <ele>18.00</ele>
+        <time>2010-01-01T00:01:56Z</time>
+    </wpt>
+    <wpt lat="38.707830" lon="-9.139010">
+        <ele>17.00</ele>
+        <time>2010-01-01T00:01:57Z</time>
+    </wpt>
+    <wpt lat="38.707630" lon="-9.139810">
+        <ele>19.00</ele>
+        <time>2010-01-01T00:01:58Z</time>
+    </wpt>
+    <wpt lat="38.707570" lon="-9.139950">
+        <ele>19.00</ele>
+        <time>2010-01-01T00:01:59Z</time>
+    </wpt>
+    <wpt lat="38.707300" lon="-9.141050">
+        <ele>18.00</ele>
+        <time>2010-01-01T00:02:00Z</time>
+    </wpt>
+    <wpt lat="38.707120" lon="-9.141790">
+        <ele>18.00</ele>
+        <time>2010-01-01T00:02:01Z</time>
+    </wpt>
+    <wpt lat="38.706900" lon="-9.142710">
+        <ele>19.00</ele>
+        <time>2010-01-01T00:02:02Z</time>
+    </wpt>
+    <wpt lat="38.706750" lon="-9.143500">
+        <ele>18.00</ele>
+        <time>2010-01-01T00:02:03Z</time>
+    </wpt>
+    <wpt lat="38.706350" lon="-9.143890">
+        <ele>13.00</ele>
+        <time>2010-01-01T00:02:04Z</time>
+    </wpt>
+    <wpt lat="38.706480" lon="-9.144510">
+        <ele>11.00</ele>
+        <time>2010-01-01T00:02:05Z</time>
+    </wpt>
+    <wpt lat="38.706610" lon="-9.145150">
+        <ele>10.00</ele>
+        <time>2010-01-01T00:02:06Z</time>
+    </wpt>
+    <wpt lat="38.706400" lon="-9.146510">
+        <ele>6.00</ele>
+        <time>2010-01-01T00:02:08Z</time>
+    </wpt>
+    <wpt lat="38.706420" lon="-9.147310">
+        <ele>7.00</ele>
+        <time>2010-01-01T00:02:09Z</time>
+    </wpt>
+    <wpt lat="38.706320" lon="-9.147310">
+        <ele>7.00</ele>
+        <time>2010-01-01T00:02:10Z</time>
+    </wpt>
+    <wpt lat="38.706340" lon="-9.148780">
+        <ele>4.00</ele>
+        <time>2010-01-01T00:02:11Z</time>
+    </wpt>
+    <wpt lat="38.706360" lon="-9.149760">
+        <ele>8.00</ele>
+        <time>2010-01-01T00:02:13Z</time>
+    </wpt>
+    <wpt lat="38.706570" lon="-9.154030">
+        <ele>12.00</ele>
+        <time>2010-01-01T00:02:18Z</time>
+    </wpt>
+    <wpt lat="38.706560" lon="-9.154660">
+        <ele>10.00</ele>
+        <time>2010-01-01T00:02:19Z</time>
+    </wpt>
+    <wpt lat="38.706561" lon="-9.154661">
+        <ele>10.00</ele>
+        <time>2010-01-01T00:02:23Z</time>
+    </wpt>
+    <wpt lat="38.706560" lon="-9.154661">
+        <ele>10.00</ele>
+        <time>2010-01-01T00:02:27Z</time>
+    </wpt>
+    <wpt lat="38.706561" lon="-9.154661">
+        <ele>10.00</ele>
+        <time>2010-01-01T00:02:34Z</time>
+    </wpt>
+    <wpt lat="38.706561" lon="-9.154660">
+        <ele>10.00</ele>
+        <time>2010-01-01T00:02:39Z</time>
+    </wpt>
+    <wpt lat="38.706560" lon="-9.154660">
+        <ele>10.00</ele>
+        <time>2010-01-01T00:03:39Z</time>
+    </wpt>
+</gpx>

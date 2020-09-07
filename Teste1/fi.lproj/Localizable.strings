@@ -1,0 +1,1244 @@
+
+/*Drawer titles*/
+"Drawer_Title_Home" = "Etusivu";
+"Drawer_Title_Route_Planner" = "Reittiopas";
+"Drawer_Title_My_Trips" = "Matkat";
+
+/*Translated as "Mobility data" because I assume that user cannot really modify settings through Dashboard (as they are in Profile), and the direct translation is very technical (Hallintapaneeli)*/
+"Drawer_Title_Dashboard" = "Liikkumistiedot";
+
+/*Translated as "Mobility advice" since meaning of direct translation of "coach" is very much related to sports*/
+"Drawer_Title_Mobility_Coach" = "Liikkumisvinkit";
+"Drawer_Title_Profile" = "Käyttäjätiedot";
+"Drawer_Title_Settings" = "Käyttäjätiedot";
+
+/*Translated as "Report on problems", since direct translation of "issue" is a too abstract and vague term*/
+"Drawer_Title_Report_Issue" = "Ilmoita ongelmista";
+"Drawer_Title_Finish_Log_Out" = "Kirjaudu ulos";
+"login_what_is_email_address" = "Sähköpostiosoitteesi?";
+"login_enter_your_password" = "Anna salasanasi";
+
+/*Profile and settings options*/
+"Edit_Profile" = "Muokkaa käyttäjätietoja";
+"Set_Home_And_Work" = "Aseta koti- ja työosoite";
+
+/*Translated as "Background information" since direct translation of "demograhic" is a too technical term*/
+"Demographic_Info" = "Taustatietoja";
+
+/*Translated as "Mobility objectives" or "Mobility targets" since "worthwhileness" is not directly translatable into Finnish and using that with settings makes the meaning into something very different*/
+"Worthwhileness_Settings" = "Liikkumistavoitteet";
+"Tutorials" = "Mitä on hyödyllinen matka-aika";
+
+/*Translated as "Mobility settings" since direct translation of "preferences" is too much like "wishes" and is not so well suited here*/
+"Transport_Preferences" = "Liikkumisasetukset";
+
+/*<string name="APP_PERMISSIONS">App permissions</string>*/
+"App_Language" = "Sovelluksen kieli";
+"Change_Password" = "Muuta salasana";
+"Feedback" = "Palaute";
+
+/*Translated as "End" or "Stop" since direct translation of "Log out" would be a too long word*/
+"Log_Out" = "Lopeta";
+
+/*Education labels*/
+"Education_8th_Grade" = "Peruskoulu";
+"Education_Some_Highschool" = "Toisen asteen opintoja";
+
+/*Fuzzy*/
+"Education_Highschool" = "Lukio";
+"Education_Some_College" = "Korkeakouluopintoja";
+"Education_Training" = "Ammattitutkinto";
+"Education_Bachelor" = "Alempi korkeakoulututkinto";
+"Education_Master" = "Ylempi korkeakoulututkinto";
+"Education_Professional" = "Professional degree";
+"Education_Doctorate" = "Tohtorin tutkinto";
+"Education_Associate" = "Associate degree";
+"Education_No_Schooling" = "Ei virallista koulutusta";
+
+/*Demographic option*/
+"Demographic_Option_General" = "Yleistä";
+
+/*<string name="DEMOGRAPHIC_OPTION_HOUSEHOLD_DATA">Household data</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_CAPABILITIES">Mobility capabilities</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_PREFERENCES">Mobility preferences</string>
+ <string name="DEMOGRAPHIC_OPTION_EXPERIENCE_FACTORS">Experience factors</string>
+ General suboptions*/
+"Age" = "Ikä";
+
+/*message: Gender*/
+"Gender" = "Sukupuoli";
+"Education" = "Koulutus";
+"Country" = "Maa";
+"City" = "Kaupunki";
+
+/*Tutorial options*/
+"Tutorial_Option_What_Is_Worthwhileness" = "Mitä on hyödyllinen matka-aika";
+
+/*Productivity*/
+"Productivity_Percentage" = "Tehokkuus %@";
+
+/*Translated as "Comfort" because direct translation of "Enjoyment" is closer to "Pleasure", with its other connotations that we don't want to use here*/
+"Mind_Percentage" = "Mukavuus %@";
+
+/*Translated with a word that is used to describe physical activity as in physical sports class at school or any leisurely sports hobby like jogging or even walking around (a broadly positive image), since "Fitness" is translated as "Fitness" and means the fitness sports that you see on TV or in gyms*/
+"Body_Percentage" = "Liikunta %@";
+
+/*Main menu options
+ <string name="NEW_INTERFACE_TEXT">New interface</string>
+ My trips module*/
+/*Fuzzy*/
+"My_Trips" = "Matkat";
+"Start_Trip" = "Aloita matka";
+"End_Trip" = "Lopeta matka";
+"Trip_Being_Recorded" = "Matkaa tallennetaan";
+
+/*Edit trips*/
+"Select_Trips_To_Merge" = "Valitse listalta yhdistettävät matkat";
+"Confirm_Trips_To_Merge" = "Vahvista valitsemasi yhdistettävät matkat";
+"Select_Trips_To_Split" = "Valitse listalta jaettava matka";
+"Move_The_Map_To_Split" = "Siirrä karttaa jakautumiskohtaan";
+"Select_Trips_To_Delete" = "Valitse listalta poistettavat matkat";
+"Split" = "Jaa";
+"Merge" = "Yhdistä";
+"Delete" = "Poista";
+
+/*Both legs and transfers translated together as "trip parts"*/
+"Select_Legs_To_Split" = "Valitse listalta jaettava matkan osa";
+"Move_The_Map_To_Split_The_Leg" = "Siirrä kartta jakautumiskohtaan";
+"Edited" = "Muokattu";
+
+/*Both legs and transfers translated together as "trip parts"*/
+"Select_Legs_To_Merge" = "Valitse listalta yhdistettävät matkan osat";
+
+/*Both legs and transfers translated together as "trip parts"*/
+"Confirm_The_Legs_To_Merge" = "Vahvista yhdistettävät matkan osat";
+"Rate_Your_Edited_Trips" = "Arvioi muokkaamasi matkat";
+"Select_Legs_To_Delete" = "Valitse poistettavat matkan osat";
+
+/*Both legs and transfers translated together as "trip parts"*/
+"Confirm_The_Legs_To_delete" = "Vahvista valitsemasi poistettavat matkan osat";
+
+/*Leg validation*/
+"Validated" = "Vahvistettu";
+"How_Did_You_Travel" = "Millä tavalla liikuit?";
+
+/*message: Public Transport*/
+"Public_Transport" = "Bussi jne.";
+
+/*Translated with the same generic word as in "Fitness" which has broad meaning describing any kind of physical exercise or movement (from light to heavy)*/
+"Active_Semi_Active" = "Liikunta";
+
+/*Translated as "Car or similar" with the "or similar" abbreviated as  "yms."*/
+"Private_Motorised" = "Auto jne.";
+"Not_Sure" = "En tiedä";
+"Lousy" = "Surkea";
+
+/*Translated as "What was your generic feeling when you made the trip?"*/
+"Overall_Feel_About_Trip" = "Mikä oli yleistunnelmasi matkaa tehdessäsi?";
+"Great" = "Mahtava";
+"Travel_Time_Wasted_Min_Text" = "Koko aika meni hukkaan";
+"Travel_Time_Wasted_Question_Text" = "Menikö matka-aikasi hukkaan vai oliko se hyödyllistä?";
+"Travel_Time_Wasted_Max_Text" = "Koko aika oli hyödyllistä";
+
+/*please update translation from new english text*/
+"Which_Factors_Most_Contributed" = "Valitse tärkeimmät asiat, jotka vaikuttivat matka-aikasi laatuun";
+"Unfold_All_That_Apply" = " Merkitse (+) myönteisestä kokemuksesta tai (-) kielteisestä kokemuksesta";
+
+/*Factors*/
+"Infrastructure_And_Services" = "Infrastruktuuri ja palvelut";
+"Comfort_And_Pleasantness" = "Mukavuus ja viihtyisyys";
+
+/*Translated as "Travelling" since direct translation of "Getting there" means being able to reach the destination (slightly different connotation)*/
+"Getting_There" = "Matkan puitteet";
+"Tables" = "Pöytä";
+"Toilets" = "WC-tilat";
+"Food_Drink_Allowed" = "Ruoka/juoma sallittu";
+"Food_Drink_Available" = "Ruokaa/juomaa tarjolla";
+
+/*Translated as "Opportunity to shop" where "shop" has a broader meaning and is used in similar contexts as a generic word*/
+"Shopping_Retail" = "Ostosmahdollisuudet";
+"Entertainment" = "Viihde";
+
+/*Translated as "Sound volume" because "noise" has only a negative meaning*/
+"Noise_Level" = "Äänitaso";
+"Cleanliness" = "Siisteys";
+"Scenery" = "Luonto ja maisemat";
+"Todays_Weather" = "Päivän sää";
+"Privacy" = "Yksityisyys";
+"Traffic_Signals_Crossings" = "Liikennevalot/risteykset";
+"Crowding_Congestion" = "Tungos/väenpaljous";
+"Traffic_Congestion_Delays" = "Liikenneruuhkat/viiveet";
+"Others_Comments" = "Muuta/kommentteja";
+
+/*Activities*/
+"What_Did_You_Do_And_Value" = "Teitkö jotain hyödyllistä matkan osan aikana?";
+"Driving_Cycling_Walking" = "Ajaminen/pyöräily/kävely";
+"Relaxing_Sleeping" = "Rentoutu- minen tai nukkuminen";
+
+/*Translated "Browsing" as "Internet" because direct translation of "browsing" is these days more associated with physical papers (maybe in early days of internet websites and pages it was more neutral)*/
+"Browsing_Social_Media" = "Internet tai sosiaalinen media";
+"Reading_Writing_Paper" = "Lukeminen / kirjoitus (paperilla)";
+"Reading_Writing_Device" = "Lukeminen / kirjoitus (laitteella)";
+
+/*Translated as "Listening to music etc."*/
+"Listening_To_Audio" = "Musiikin tms. kuuntelu";
+"Walking_Video_Gaming" = "Videon katselu tai pelaaminen";
+"Talking_Including_Phone" = "Puhuminen (myös puhelimella)";
+"Accompanying_Someone" = "Jonkun saattaminen";
+"Eating_Drinking" = "Syöminen / juominen";
+"Personal_Caring" = "Itsestä huolehtiminen";
+"Thinking" = "Ajattelu";
+
+/*Value this part of the trip*/
+"What_Value_Take_From_Part" = "Teitkö tämän matkan osan aikana jotain hyödyllistä?";
+
+/*Translated as "Work tasks"*/
+"Paid_Work" = "Työtehtävät";
+
+/*Translated as "My tasks"*/
+"Personal_Tasks" = "Omat asiat";
+
+/*message: Enjoyment*/
+"Enjoyment" = "Mukavaa";
+
+/*message: Fitness*/
+"Fitness" = "Liikuntaa";
+"None" = "Ei yhtään";
+"Some" = "Vähän";
+"High" = "Paljon";
+
+/*Thinking about trip as a whole*/
+"Thinking_About_Your_Trip_Title" = "Olisitko halunnut käyttää koko matkaan käyttämääsi aikaa johonkin muuhun hyödylliseen?";
+
+/*message: Productivity*/
+"Productivity" = "Tehokkuus";
+"Anything_Else_Like_To_Share" = "Haluatko ilmoittaa ongelmista tai kertoa lisää matkastasi?";
+
+/*message: I would like to share...*/
+"Would_Like_To_Share" = "Kirjoita tähän palautteesi\n";
+"Today" = "Tänään";
+"Yesterday" = "Eilen";
+"Validate_Your_Trip" = "Uusi matka tunnistettu! Vahvista ansaitaksesi %@ pistettä!";
+"What_Was_Purpose" = "Mikä oli matkan tarkoitus?";
+"Mark_All_That_Apply" = "Valitse kaikki sopivat";
+
+/*Trip purposes*/
+"Work" = "Työ";
+"School_Education" = "Koulu/opinnot";
+"Home" = "Koti";
+"Everyday_Shopping" = "Päivittäisostokset";
+"Business_Trip" = "Työmatka";
+"Leisure_Hobby" = "Vapaa-aika/harrastus";
+
+/*Translated as "Escorting" or "Accompanying"*/
+"Pick_Up_Drop_Off" = "Hakeminen/vieminen";
+"Personal_Tasks_Errands" = "Omat tehtävät/asiointi";
+"Trip_Itself" = "Matka sinänsä";
+
+/*message: Other*/
+"Other" = "Muu";
+"Arrive_At_Fixed_Time" = "Pitikö sinun saapua tiettyyn aikaan?";
+"How_Often_Make_This_Trip" = "Kuinka usein teet suunnilleen tämän matkan?";
+"Regularly" = "Säännöllisesti";
+"Occasionally" = "Satunnaisesti";
+
+/*Translated as "Once"*/
+"First_Time" = "Kerran";
+"Select_Part_Of_Trip_Feedback" = "Valitse matkan osa, josta voit kertoa lisää";
+
+/*<string name="objective_other_hint">Where you travelled and why</string>*/
+"Confirm_Modes_Of_Your_Trips" = "Vahvista matkan kulkumuodot";
+
+/*message: Transfer*/
+"Transfer" = "Siirtyminen";
+"Auto_Detected" = "Tunnistettu";
+
+/*message: were you %@ ?*/
+"Were_You_Walking_Or_Running" = "Oliko kyseessä %@ ?";
+
+/*message: Did you go by %@ ?*/
+"Did_You_Go_The_Mode" = "Oliko kulkuneuvosi %@ ?";
+
+/*modes of transport*/
+"Walking" = "Kävely";
+"Jogging_Running" = "Hölkkä/juoksu";
+"Bicycle" = "Polkupyörä";
+"Car_Driver" = "Auto (kuljettaja)";
+"Bus_Trolley_Bus" = "Bussi";
+"Tram" = "Raitiovaunu";
+"Metro" = "Metro";
+"Urban_Train" = "Paikallisjuna";
+"Regional_Intercity_Train" = "Pikajuna";
+"Ferry_Boat" = "Lautta/vene";
+"Motorcycle" = "Moottoripyörä";
+"Moped" = "Skootteri";
+"Electric_Bike" = "Sähköpyörä";
+"Bike_Sharing" = "Kaupunkipyörä";
+"Car_Passenger" = "Auto (matkustaja)";
+
+/*Translated as "Taxi etc." since translation of "ride-hailing" is a long sequence of words and also very technical*/
+"Taxi_Ride_Hailing" = "Taxi tms.";
+
+/*Translated as "Rental car" since words used for car sharing services are "Yhteiskäyttöauto" (very long word) or for P2P case translated as "Peer rental"*/
+"Car_Sharing_Rental_Driver" = "Vuokra-auto (kuljettaja)";
+"Car_Sharing_Rental_Passenger" = "Vuokra-auto (matkustaja)";
+"car_pooling" = "Kimppakyyti";
+"Plane" = "Lentokone";
+"high_speed_train" = "Suurnopeusjuna";
+"Coach_Long_Distance_Bus" = "Pitkän matkan bussi";
+"Micro_Scooter" = "Potkulauta";
+
+/*Translated as "skateboard" (didn't see this used in the UI)*/
+"Skate" = "Rullalauta";
+"Electric_Wheelchair_Cart" = "Sähköpyörätuoli";
+"Wheelchair" = "Pyörätuoli";
+"Cargo_Bike" = "Tavarapyörä";
+"Other_Public_Transport" = "Muu joukkoliikenne";
+
+/*See earlier translation for Active/Semi-Active*/
+"Other_Active_Semi_Active" = "Muu liikunta";
+
+/*Translated as "Other vehicle"*/
+"Other_Private_Motorised" = "Muu ajoneuvo";
+
+/*Misc*/
+"Yes" = "Kyllä";
+"No" = "Ei";
+"Save" = "Tallenna";
+"Confirm_All" = "Vahvista kaikki";
+
+/*message text of \"Next\" button message: Next*/
+"Next" = "Seuraava";
+"Done" = "Valmis";
+
+/*Translated as "Completed" since this is at the end of the MyTrips validation and details entry process, and when user presses this button the data entry is completed*/
+"End" = "Valmis";
+
+/*Factors Wasted Time*/
+"Skip" = "Ohita";
+
+/*title for the info pages message: A Little About You*/
+"A_Little_About_You" = "Kerro itsestäsi";
+
+/*message: Active/Semi-active*/
+"Active_Semi_active" = "Liikunta";
+
+/*message: Thanks! To record your trips we need your permission to let Woorti access to your location at all times.
+ 
+ It should not excessively consume your battery.*/
+/*Fuzzy*/
+"Ask_location_permission_String" = "Kiitos! Tallentaakseen matkasi Woorti tarvitsee luvan sijaintitietosi jatkuvaan keräämiseen. Olemme yrittäneet tehdä tämän akkuasi säästäen.";
+
+/*message: Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.*/
+"Ask_location_permission_String_when_user_has_denied" = "Anteeksi! Toimiakseen Woorti oikeasti tarvitsee lupasi sijaintitiedon keräämiseen.";
+
+/*message: Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us!
+ 
+ To do this we need to be able to send you notifications*/
+/*Fuzzy*/
+"Ask_notification_permission_String" = "Tulemme myös kysymään sinulta, mitä kokemuksia matkoihisi liittyy. Tätä varten tarvitsemme sinulta vielä luvan ilmoitusten esittämiseen.";
+
+/*message: BACK TO LOGIN*/
+"Back_To_Login" = "TAKAISIN KIRJAUTUMISEEN";
+
+/*change language screen title message: Change Language*/
+"Change_Language" = "Vaihda kieli";
+
+/*message: Correct exams*/
+"Correct_Exams" = "Oikeat kyselyt";
+
+/*title for the first onboarding pages message: Data Protection*/
+"Data_Protection" = "Tietosuoja";
+
+/*placeholder for password when registering only*/
+"Didnt_sign_up_yet" = "Unohtuiko salasana?";
+
+/*rating prefered modes of transport message: Doesn't improve my fitness*/
+"Doesnt_Improve_My_Fitness" = "Ei edistä kuntoa";
+
+/*email message*/
+"Email" = "Sähköposti";
+
+/*message shown when clcicking to reset a password message: If %@ has an account with Woorti, you will be receiving an email to reset your password*/
+"Email_Has_Been_Sent" = "Sähköposti on lähetetty";
+
+/*rating prefered modes of transport message: Enjoying*/
+"Enjoying" = "Mukavaa";
+
+/*message: Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…*/
+"Enjoyment_Worthwhile_Description_Score" = "Rentoudu tai pidä hauskaa; käytä aikaa musiikin kuunteluun tai somettamiseen; tarkkaile ympäristöäsi...";
+
+/*message: When I travel,
+ I chill*/
+/*Fuzzy*/
+"Enjoyment_Worthwhile_High_Score" = "Rentoudun matkalla";
+
+/*placeholder for email in login/register*/
+"Enter_Your_Email_Address" = "Anna sähköpostiosoite";
+
+/*name Placeholder message: Enter your name*/
+"Enter_Your_Name" = "Anna nimi";
+
+/*placeholder for password in login/register*/
+"Enter_Your_Password" = "Anna salasana";
+
+/*placeholder for password when registering only*/
+"Enter_Your_Password_Again" = "Anna salasana uudestaan";
+
+/*error shown to the user when log in failed*/
+"Error_Log_In" = "Virhe sisäänkirjautumisessa. Yritä uudelleen tai vaihda salasanasi.";
+
+/*message: Female*/
+"Female" = "Nainen";
+
+/*message: Did you know that a person spends about 2 years of her whole life commuting?
+ 
+ Woorti will help you explore your travel time!*/
+/*Fuzzy*/
+"First_Onboarding_Screen_Welcome_Description_Text" = "Tiesitkö, että työmatkoihin käytetään 2 vuotta elämästä?\n\nWoorti auttaa sinua tutkimaan matka-aikaasi!";
+
+/*message: Your travel time is an important part of your life!*/
+"First_Onboarding_Screen_Welcome_Title" = "Matka-aikasi on tärkeä osa elämääsi!";
+
+/*message: message: Travelling is not at all relaxing*/
+/*Fuzzy*/
+"FitnesEnjoyment_Worthwhile_Low_Scores" = "Matkustus ei rentouta";
+
+/*message: When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.*/
+"Fitness_Worthwhile_Description_Score" = "Kun matkaat kävellen, pyöräillen tai vaikka juosten, saat samalla liikuntaa ja pysyt kunnossa.";
+
+/*message: Travel time is a great way to feel the burn*/
+/*Fuzzy*/
+"Fitness_Worthwhile_High_Score" = "Matkalla saa hien pintaan";
+
+/*message: Exercise is in the gym/field*/
+"Fitness_Worthwhile_Low_Score" = "Liikunta kuuluu salille/kentälle";
+
+/*Forgot Password*/
+/*Fuzzy*/
+"Forgot_Password" = "Salasana unohtunut";
+
+/*placeholder for password when registering only*/
+"Forgot_Your_Password" = "Unohtuiko salasana?";
+
+/*message: Everyone defines what is a worthwhile travel time in his or her different way.
+ 
+ Let's see what that means to you!*/
+"Fourth_Onboarding_Screen_Description" = "Jokainen meistä arvioi matka-ajan hyödyllisyyden omalla tavallaan.\n\nKatsotaan mitä sinä ajattelet!";
+
+/*message: I accept MoTiV data protection conditions*/
+"GRPD_Accept" = "Hyväksyn MoTiV -hankkeen tietosuojaehdot";
+
+/*message: For the European MoTiV project research on travel time, this app collects anonymised data on:
+ 1. Your trips (time, location and transport used)
+ 2. Your expressed preferences and searches within the app*/
+/*Fuzzy*/
+"GRPD_Description" = "Tämä sovellus kerää MoTiV -tutkimushankkeelle anonymisoitua tietoa: \\n\n1. Matkoistasi (aika, paikka ja matkatapa) \\n\n2. Sovelluksessa tekemistäsi valinnoista ja hauista";
+
+/*message: MoTiV privacy policy is compliant with EU GDPR. Read More*/
+"GRPD_Read_Policy" = "MoTiV -hanke noudattaa EU:n tietosuoja-asetusta. Lue lisää";
+
+/*rating prefered modes of transport message: Improves my fitness*/
+"Improves_My_Fitness" = "Kehittää kuntoani";
+
+/*splash screen start now button message*/
+"Log_In" = "Jo rekisteröitynyt? Avaa tästä";
+
+/*login with google button message*/
+"Log_In_With_Google" = "Kirjaudu Googlella";
+
+/*message: Male*/
+"Male" = "Mies";
+
+/*message: No worries! Enter your email address below and we will send you a email to reset your password.*/
+"No_Worries_Message" = "Ei hätää! Anna sähköpostiosoitteesi niin lähetämme sinulle sähköpostiviestin, jolla voit uusia salasanasi.";
+
+/*rating prefered modes of transport message: Not Enjoying*/
+"Not_Enjoying" = "Ei mukavaa";
+
+/*%@ not filled*/
+"Not_Filled" = "%@ puuttuu";
+
+/*rating prefered modes of transport message: Not Productive*/
+"Not_Productive" = "Ei tehokasta";
+
+/*message: NOW YOU!*/
+"Now_You" = "SINUN VUOROSI!";
+
+/*message: Ok cool*/
+"Ok_Cool" = "Ok hyvä";
+
+/*password message*/
+"Password" = "salasana";
+
+/*register button message*/
+"Passwords_Dont_Match" = "Rekisteröidy";
+
+/*title for the first onboarding pages message: Permissions*/
+"Permissions" = "Käyttöoikeudet";
+
+/*message: Private Motirized*/
+"Private_Motirized" = "Auto jne.";
+
+/*message: Proceed to Enjoyment*/
+"Proceed_To_Enjoyment" = "Jatka Mukavuus-osioon";
+
+/*message: Proceed to Fitness*/
+"Proceed_To_Fitness" = "Jatka Liikunta-osioon";
+
+/*proceed to productivity button message: Proceed to Productivity*/
+"Proceed_To_Productivity" = "Jatka Tehokkuus-osioon";
+
+/*rating prefered modes of transport message: Productive*/
+"Productive" = "Tehokasta";
+
+/*message: Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…*/
+"Productivity_Worthwhile_Description_Score" = "Käytä matka-aikaa saadaksesi asioita hoidettua, ei vain töitä tai opintoja vaan myös omia tai kodin tai perheen asioita...";
+
+/*message: I used my  trip to get stuff done!*/
+/*Fuzzy*/
+"Productivity_Worthwhile_High_Score" = "Hoidan asioita matkalla";
+
+/*message: I don’t work when I travel*/
+/*Fuzzy*/
+"Productivity_Worthwhile_Low_Score" = "En hoida asioita matkalla";
+
+/*message: How important are the travel time worthwhileness elements for you, when you travel?*/
+"Rate_Worthwhileness_Screen_Title" = "Kuinka tärkeitä matka-ajan hyödyllisyyden osa-alueet ovat sinulle?";
+
+/*message: How much enjoyment do you get from your your travel time by:*/
+"Rating_Prefered_Mot_Enj_Title" = "Kuinka mukavaa matkustaminen on näillä kulkumuodoilla:";
+
+/*message: How does your travel time contribute to your fitness when you travel by:*/
+"Rating_Prefered_Mot_Fit_Title" = "Miten matka-aika kehittää kuntoasi näillä kulkumuodoilla:";
+
+/*message: How productive are you when you travel by:*/
+"Rating_Prefered_Mot_Prod_Title" = "Kuinka tehokasta matka-aikasi on näillä kulkumuodoilla:";
+
+/*register button message*/
+"Register" = "Rekisteröidy";
+
+/*message: Which modes of transport do you use regularly?*/
+"Regualr_Modes_Of_Transport_Title" = "Mitä kulkumuotoja käytät säännöllisesti?";
+
+/*Reset Password*/
+"Reset_Password" = "Uusi salasana";
+
+/*message: Check out $@ for more information*/
+/*Fuzzy*/
+"Second_Onboarding_Screen_Help_Reseach_Check_Out_Site" = "Katso lisätietoja: %@";
+
+/*message: With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.*/
+"Second_Onboarding_Screen_Help_Reseach_Description" = "Antamiesi tietojen avulla Woorti auttaa tutkijoita, liikkumispalveluiden tarjoajia ja viranomaisia ympäri Eurooppaa kehittämään parempia liikkumisratkaisuita.";
+
+/*The message for this text was incorrect, the real message in English is: Help research for better transport
+ When possible please retranslate this message.*/
+"Second_Onboarding_Screen_Help_Reseach_Title" = "Auta tutkijoita kehittämään liikkumisesta parempaa";
+
+/*sign in button message*/
+"Sign_In" = "Kirjaudu";
+
+/*splash screen start now button message*/
+"Start_Now" = "Aloita";
+
+/*message: While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.*/
+"Third_Onboarding_Screen_Description" = "Jotkut opiskelevat tai tekevät matkustaessaan töitä, kun taas toisista on mukavaa rentoutua. Toisille matkustaminen on mahdollisuus saada liikuntaa tai aloittaa päivä musiikkia kuunnellen.";
+
+/*error shown to the user when registering with a already signed in email account*/
+"User_Already_Signed_In" = "Näyttää siltä, että %@ on jo rekisteröitynyt. Haluatko kirjautua?";
+
+/*title that appears on the top of the login page*/
+"Welcome_Back" = "Mitä haluaisit tehdä?";
+
+/*title for the first onboarding page message: What is a worthwhile trip*/
+"What_Is_A_Worthwhile_Trip" = "Mikä on hyödyllinen matka";
+
+/*message: What is your age?*/
+"What_Is_Your_Age" = "Mikä on ikäsi?";
+
+/*message: What is your name?*/
+"What_Is_Your_Name" = "Mikä on nimesi?";
+
+/*message: Where do you live?*/
+"Where_Do_You_Live" = "Missä maassa asut?";
+
+/*you've got mail!*/
+"Youve_Got_Mail" = "sinulle on postia!";
+"No_Ongoing_Trip_To_Show" = "Ei käynnissä olevaa matkaa";
+"Your_Trip" = "Matkasi";
+"Click_On_The_Marker_To_Split_The_Trip" = "Paina merkkiä jakaaksesi matkan";
+
+/*Translated "boarding" as "check-in" since the Finnish words are different for ships and airplanes (and usually not used in the case of airplanes)*/
+"Security_Boarding_Process" = "Turvallisuus ja matkaselvitys";
+"Other_Activity" = "Muu tekeminen";
+"Cycling" = "Pyöräily";
+"Riding" = "Ajaminen sinänsä";
+"Skating" = "Lautailu sinänsä";
+"Driving" = "Ajaminen sinänsä";
+"Running" = "Juokseminen sinänsä";
+
+/*message: Please wait while Woorti searches for local studies*/
+"Wait_While_Searching_Local_Studies" = "Odota, Woorti hakee kampanjoita tältä alueelta";
+
+/*message: There are these studies going near you. Which one(s) do you want to contribute with data to?*/
+"Studies_Title" = "Haluatko osallistua seuraaviin tällä alueella käynnissä oleviin kampanjoihin?";
+"Menu" = "Valikko";
+"Set_Home" = "Aseta kotiosoite";
+"Set_Work" = "Aseta työosoite";
+"Change_Photo" = "Vaihda kuva";
+"Name" = "Nimi";
+
+/*Translated "to get trips faster" as "to speed up reporting on trips"*/
+"Define_Home_Location" = "Ilmoita kotiosoitteesi";
+"Define_Work_Location" = "Ilmoita työosoitteesi";
+"Edit" = "Valmis";
+"Educational_Background" = "Opiskelutausta";
+"Activities" = "Mitä tein matkan aikana";
+"While_You_Ride" = "Matkustuskokemus";
+"Ability_To_Do_What_I_Wanted" = "Mahdollisuus tehdä mitä halusin";
+"Simplicity_Difficulty_Of_The_Route" = "Reitin helppous/vaikeus";
+"Schedule_Reliability" = "Aikataulun luotettavuus";
+"Security_And_Safety" = "Turvallisuus";
+"Space_Onboard_For_Lugagge_Pram_Bicycle" = "Tilaa matkatavaroille/rattaille/pyörälle tms.";
+"Ability_To_Take_Pets_Along" = "Mahdollisuus ottaa lemmikki mukaan";
+"Payment_And_Tickets" = "Maksaminen ja liput";
+
+/*Translated "Access" as "Moving" which means all kinds of physical mobility*/
+"Convenient_Access_Lifts_Boarding" = "Kulkemisen helppous (hissit, nousu yms.)";
+
+/*Translated as "Route planners/navigators"*/
+"Route_Planning_Navigation_Tools" = "Reittioppaat/navigaattorit";
+
+/*Translated as "Route information and signs"*/
+"Information_And_Signs" = "Reittitiedot ja viitoitus";
+
+/*Translated as "Check-in and security" (see earlier comments on boarding)*/
+"Checkin_Security_And_Boarding" = "Matkaselvitys ja turvallisuus";
+"Crowdedness_Seating" = "Ruuhkaisuus/istuinten saatavuus";
+"Internet_Connectivity" = "Internetyhteydet";
+"Ability_To_Do_The_Things_I_Want" = "Mahdollisuus tehdä mitä haluan";
+"Charging_Opportunity" = "Latausmahdollisuudet";
+"Car_Bike_Parking_At_Transfer_Point" = "Auton/pyörän pysäköinti vaihtopaikassa";
+"Vehicle_Ride_Smoothness" = "Kulkuneuvon ajon tasaisuus";
+"Seating_Quality_Personal_Space" = "Istuinten laatu/oma tila";
+"Other_People" = "Muut ihmiset";
+"Air_Quality_Temperature" = "Ilman laatu/lämpötila";
+"General_Atmosphere_Design" = "Yleinen tunnelma/design";
+"Road_Path_Availability_And_Safety" = "Tien/kulkureitin olemassaolo ja turvallisuus";
+"Accessibility_Escalators_Lifts_Ramps_Stairs_Etc" = "Saavutettavuus (liukuportaat, hissit, luiskat, portaat yms.)";
+"Ability_To_Carry_Bags_Luggage_Etc" = "Mahdollisuus kantaa laukkuja, matkatavaroita tms.";
+"Ability_To_Take_Kids_Or_Pets_Along" = "Mahdollisuus kuljettaa lapsia tai lemmikkejä";
+"Benches_Toilets_Etc" = "Penkit, WC-tilat yms.";
+"Facilities_Shower_Lockers" = "Huoltotilat (suihkut, vaatekaapit)";
+"Parking_At_End_Points" = "Pysäköinti päätepisteissä";
+"Road_Path_Quality" = "Tien/kulkureitin laatu";
+
+/*Translated "directness" as "straightness/shortness"*/
+"Road_Path_Directness" = "Tien/kulkureitin suoruus/lyhyys";
+"Air_Quality" = "Ilmanlaatu";
+"Lighting_Visibility" = "Valoisuus/näkyvyys";
+"Cars_Other_Vehicles" = "Autot/muut kulkuneuvot";
+"Space_For_Luggage_Pram_Bicycle_Etc" = "Tilaa matkatavaroille/rattaille/pyörälle tms.";
+"Road_Quality_Vehicle_Ride_Smoothness" = "Tien laatu/kulkuneuvon ajon tasaisuus";
+"Vehicle_Quality" = "Kulkuneuvon laatu";
+"Seat_Comfort" = "Istuimen mukavuus";
+"Other_Passengers" = "Muut matkustajat";
+"Other_Cars_Vehicles" = "Muut autot/kulkuneuvot";
+
+/*Button text on second onboarding page*/
+"Lets_Get_Started" = "Aloitetaan";
+
+/*Report issue*/
+"Thank_You_For_Submitting_This_Issue" = "Kiitos ilmoituksestasi. Vahvista ilmoitus tai jatka seuraavaan palautteeseen.";
+"Confirm_And_Leave" = "Vahvista ja lopeta";
+"Confirm_And_Submit_More" = "Vahvista ja tee uusi ilmoitus";
+
+/*Fuzzy*/
+"Where_City" = "%@: asuinpaikkasi (kaupunki tai seutu)?";
+"OtherCountry" = "Muu maa";
+"OtherCity" = "Tarkempi paikkakunta";
+"Sign_Up_Error" = "Virhe rekisteröitymisessä";
+"Sign_Up" = "Rekisteröidy";
+
+/*Literal translation didn't lead to an understandable sentence, so this is now translated as "How important is it for you to use your travel time to the following things?"*/
+"How_Important_Are_The_Following_Factors" = "Kuinka tärkeää sinulle on käyttää matka-aikaasi seuraaviin asioihin?";
+"Modes_Of_Transport" = "Kulkutavat";
+"Help_Research_For_Better_Transport" = "Auta kehittämään liikkumisesta parempaa";
+"Already_Signed_Up_Log_In_Here" = "Oletko jo rekisteröitynyt? Kirjaudu täällä";
+"Welcome" = "Tervetuloa";
+"Refresh_Surveys" = "Päivitä kyselyt";
+
+/*This string has the text for the data regarding Activities (e.g., for the walk itself) and *not* the walking mode of transport*/
+"The_Walk_Itself" = "Kävely";
+"Education_Highshool" = "Lukio";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Education_Basic" = "Peruskoulu";
+"Education_University" = "Yliopisto";
+
+/*Ocupation options*/
+"Occupation" = "Työssäkäynti";
+"Ocupation_Student" = "Opiskelija";
+"Ocupation_Schedule_Worker" = "Kokoaikatyö";
+"Ocupation_Flexible_worker" = "Osa-aikatyö";
+"Ocupation_Selfemployed" = "Itsensä työllistävä";
+"Ocupation_Seeking_Work" = "Työnhakija";
+"Ocupation_Inactive" = "Eläkeläinen";
+"Ocupation_Maternity" = "Vanhempainvapaalla";
+"Ocupation_Military" = "Ase-/siviilipalvelus";
+
+/*Marital status*/
+"Marital_Status" = "Siviilisääty";
+"Marital_Single" = "Naimaton";
+"Marital_Married" = "Naimisissa";
+
+/*What is this definition? doesn't seem official*/
+"Matital_Significant_Other" = "Muu parisuhde";
+"Marital_Divorced" = "Eronnut";
+"Marital_Widowed" = "Leski";
+"Driver_License" = "Ajokortti";
+"Household_Yearly_Income" = "Kotitalouden vuositulot (netto)";
+"Number_People_Household" = "Kotitalouden henkilömäärä";
+"Number_Children_household" = "Kotitalouden lapsimäärä";
+"Number_Cars_Household" = "Kotitalouden automäärä";
+"Nationality" = "Kansallisuus";
+
+/*TODO NEW STRING*/
+"No_Trips_Text" = "Tällä sivulla näet matkasi ja voit antaa niistä lisätietoja. Tule takaisin kun olet tehnyt matkan... \\n\nWoorti yrittää tunnistaa kaikki matkasi, mutta jos haluat varmistaa että ne näkyvät, paina yllä olevaa nappia aloittaessasi matkan... \\n\nVarmista vielä, että GPS on päällä.";
+
+/*Dashboard*/
+/*you have spent %@ travelling a distance of %@ in %@.*/
+"You_Have_Spent_Complete" = "olet käyttänyt %@ kulkeaksesi yhteensä %@ matkan alueella %@.";
+"In_Total_You_Spent_Calories" = "Olet kuluttanut yhteensä %@.";
+"And_This_Counted_Carbon_Footprint" = "Tämä on %@ ekologisesti kestävästä liikkumisen hiilijalanjäljestäsi koko vuodelle.";
+"Your_Trips_Overall_Percentage_Worthwhile" = "Matka-ajastasi %@ on ollut hyödyllistä.";
+"While_Traveling_Activities" = "Olet käyttänyt matka-ajastasi %@ toimintaan %@.";
+"Do_You_Want_To_Set_This_Location_Home" = "Haluatko asettaa matkan loppupisteen kotiosoitteeksesi?";
+"Do_You_Want_To_Set_This_Location_Work" = "Haluatko asettaa matkan loppupisteen työosoitteeksesi?";
+"Privacy_Policy" = "Tietosuojaseloste";
+
+/*day*/
+"Day" = "vuorokautena";
+
+/*3 days*/
+"Days_3" = "3 päivänä";
+
+/*week*/
+"Week" = "viikkona";
+
+/*month*/
+"Month" = "kuukautena";
+
+/*year*/
+"Year" = "vuotena";
+
+/*era*/
+"Era" = "aikakautena";
+
+/*worthwhile*/
+"Worthwhile" = "Hyödyllistä";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Other_Activities" = "Muut toiminnat";
+
+/*Marital status*/
+"Household_Marital" = "Siviilisääty";
+"Household_Years_Residence" = "Montako vuotta olet asunut maassa (Suomessa)";
+"Household_Labour_Status" = "Pääasiallinen toiminta";
+"Labour_Student" = "Opiskelija";
+"Labour_Employed_Full_Time" = "Kokopäivätyö";
+"Labour_Employed_Part_Time" = "Osa-aikatyö";
+"Labour_Unemployed" = "Työtön";
+"Years_Residence_Less_Than_One" = "Alle 1";
+"Years_Residence_One_To_Five" = "1 - 5";
+"Years_Residence_More_Than_Five" = "Yli 5";
+"Walk_For_Distance" = "Kävelyä %@";
+"Household" = "Kotitalous";
+"Total_Points" = "Pisteitä yhteensä";
+"Todays_Travel_Report" = "Olet kulkenut päivässä";
+
+/*link to page with privacy policy specific to each language*/
+/*Fuzzy*/
+"Url_Privacy_Policy" = "https://motivproject.eu/data-collection/data-protection/finland.html";
+
+/*%@ questions*/
+"N_Questions" = "%@ kysymystä";
+
+/*New survey*/
+"New_Survey" = "Uusi kysely";
+
+/*Minutes more*/
+"Minutes_More" = "minuuttia";
+
+/*Minutes less*/
+"Minutes_Less" = "minuuttia vähemmän";
+
+/*Kilometers more*/
+"Km_More" = "kilometriä";
+
+/*Kilometers less*/
+"Km_Less" = "km vähemmän";
+
+/*Trip validation*/
+"Trip_Validation" = "Matkan vahvistaminen";
+
+/*Latest story*/
+"Latest_Story" = "Viimeisin kertomus";
+"Household_Data" = "Kotitalouden tiedot";
+
+/*new text for battery warning pop up in mytrips (so that people are remembered to disable battery optimizations that undermine the app working in background)*/
+/*battery warning popup text*/
+"Alert_Battery_Content" = "Huomioi virrankulutus asetukset";
+
+/*"In the last" start message of DashBoard, Please use sentence that fits any number of days*/
+/*Dashboard*/
+"In_The_Last" = "Viime";
+
+/*stories*/
+"story_1_title_chiaras_new_train_ride" = "Siirin junamatka";
+"story_1_text_chiaras_train_ride" = "Siiri, hänen miehensä ja heidän kaksi lastaan muuttivat vastikään keskustasta kaupungin laidalle. Hän vie lapset päiväkotiin pyörällä ja matkustaa sitten asemalle, josta pääsee junalla keskustaan 25 minuutissa. Tämä oli iso muutos työmatkoihin, eikä Siiri oikein tykännyt siitä, että hän käyttäisi niihin enemmän aikaa. Mutta hän alkoi pitää junamatkoista. Istuessaan itsekseen hän saattoi rentoutua ja tehdä jotain, mitä hän ei muuten tekisi.\n\n\nSiiri alkoi käyttää junamatkaa kirjan lukemiseen. Mutta pian hän huomasi, että 25 minuuttia kerrallaan ei riittänyt tarinaan uppoutumiseen.\n\n\nHän kokeili seuraavaksi lehtien lukemista, mutta koska hän piti eniten pitkistä ja syvällisistä artikkeleista, sama ongelma toistui jälleen.\n\n\nNiinpä hän vietti matkansa Facebookissa. Se veikin hänet mukaansa niin, että hän oli usein vähällä ajaa oman asemansa ohi. Siiri päätti, että sykettä nostava somettaminen ei ollut paras tapa aloittaa päivää.\n\n\nLopulta hän kokeili jotain, mikä osoittautui toimivaksi. Hän ajatteli opetella uuden kielen, jolla voisi tehdä vaikutuksen töissä. Hän pystyi jokaisen junamatkan aikana tekemään kaksi tai kolme oppituntia kielenopiskelusovelluksessa. Näin hän oppi vähitellen, mutta vääjäämättömästi kieltä niin paljon, että pääsi yllättämään työkaverinsa aina uusilla ja pidemmillä vuorosanoilla.\n\n\nSiiri löysi siis parhaan tavan käyttää aikaa juuri omassa elämäntilanteessaan.\n\n\nEntä sinä? Mikä olisi sinulle paras tapa käyttää matka-aikaasi?\n";
+"story_2_title_the_best_way_to_get_great_ideas_while_moving_p1" = "Paras tapa saada hienoja ideoita liikkuessa";
+"story_2_text_the_best_way_to_get_great_ideas_while_moving_p1" = "Oletko huomannut, että joitain asioita tehdessä päähäsi juolahtaa helpommin uusia mielenkiintoisia ideoita? Kun häneltä kysyttiin mikä oli päivän tehokkain osa, Teslan perustaja Elon Musk vastasi: \"kun olen suihkussa\". Eikä hän ole ainoa, sillä todella monet kertovat että parhaat ajatukset tulevat suihkussa!\n\n\nEntä kun liikumme? Onko joku hetki erityisen tehokas?\n\n\nItse asiasa eräs tapa liikkua paikasta toiseen on erityisen hyvä jos haluat päätyä uusiin ideoihin. Useat kuuluisuudet ovat mitä ilmeisimmin huomanneet tämän ja omaksuneet sen tavakseen liikkua halutessaan saada hyviä ajatuksia.\n\n\nVinkki: jotkut heistä, kuten Beethoven, Dickens ja Darwin elivät aikana, jolloin ei vielä ollut moottoriajoneuvoja...\n\n\nToinen vinkki: tämä liikkumismuoto aktivoi aivoja.\n\n\nMitä veikkaat? Tarkista huomisen tarinasta... :)";
+"story_3_title_the_best_way_to_get_great_ideas_while_moving_p2" = "Paras tapa saada hienoja ideoita liikkuessa - osa 2";
+"story_3_text_the_best_way_to_get_great_ideas_while_moving_p2" = "Mikä siis on se liikkumismuoto, jota edellisessä tarinassa esitellyt kuuluisuudet käyttivät saadakseen parempia ideoita?\n\n\nKävely!\n\n\nJuuri niin. Esimerkiksi Steve Jobs lähti yksin kävelylle Applen toimiston ympäristöön vain voidakseen ajatella paremmin. Hän myös piti kokouksia ihmisten kanssa kävellessään. Kokoushuoneen sijaan hän kutsui heidät kävelylle.\n\n\nOnko tälle joku tieteellinen selitys, vai onko kyse sattumasta?\n\n\nOn olemassa tutkimuksia, joiden mukaan jotkut aivojen osat aktivoituvat kun ihminen kävelee. Koululaisilla tehty tutkimus osoitti, että lapsilla, jotka tulivat aamulla kouluun kävellen, oli kokeissa paljon aktiivisemmat aivot kuin niillä jotka tuotiin autolla.\n\n\nVoidakseen saada ajatuksia aivojen ei tietenkään pidä altistua ympäristön häiriötekijöille joihin pitää kiinnittää huomiota, kuten esteet, liikenne tai liian kova melu. Kaupungit joissa on hyvä kävellä ovat myös hyviä paikkoja hienojen ajatusten synnyttämiseen!\n\n\nKannustaakseen kävellen tehtäviä kokouksia jollakin oli mainio ajatus (jonka hän sai varmaankin kävellessä tai suihkussa, eikö vain): Voisi tehdä sovelluksen joka kertoo mitkä reitit kaupungissa ovat erityisen hyviä kävelykokouksille. Tämän sovelluksen nimi on Weeting ja siinä on kävelykokousreittejä useisiin kaupunkeihin Alankomaissa.\n\n\nKuinka helppoa ajattelu on sinun kävelyreiteilläsi?";
+"story_4_title_the_7_shades_of_pedros_cycling_time" = "Petrin 7 pyöräilytarinaa";
+"story_4_text_the_7_shades_of_pedros_cycling_time" = "1. Petri teki sen kannanottona. Hän alkoi pyöräillä töihin siihen aikaan, kun se ei vielä ollut muodikasta. Jalankulkijat ihmettelivät joka säällä keskustassa autojen seassa pyöräilevää kummajaista. Autoilijat eivät tuntuneet osaavan hyviä tapoja, tai edes liikennesääntöjä.\n\n\nPetrin mielestä ihmisten pitäisi voida käyttää pyörää kaikkeen liikkumiseen kaupungilla, ja hän olikin esimerkillään luomassa uutta pyöräilykulttuuria.\n\n\nHän halusi myös todistaa, että pyöräily on nopeaa. Siksi hän alkoi käyttää nopeampia reittejä vaikka niissä oli paljon liikennettä, vain viiden minuutin säästön tähden. Mitä nopeampi, sitä parempi.\n\n\n2. Jossakin vaiheessa Petristä alkoi tuntua, että hänen ei tarvitse todistella mitään. Hän alkoi huomata matkoihin liittyvän stressin ja hikoilun. Itse asiassa kesti kokonaisen vuoden, ennen kuin hän oppi ajamaan hitaammin. Hän alkoi pyöräillä rennosti ja rauhallisempia reittejä, kuin hollantilaiset.\n\n\n3. Perheen kasvaessa Petri vei lapset päiväkotiin ja kouluun ennen 35 minuutin matkaa töihin. Ainoa vaihtoehto olisi ollut auto, ja häntä alkoi tympiä vaihtoehtojen puute. \"Kaipaan aikaa kun sain mennä julkisilla ja rentoutua\". Niinpä hän alkoi taas käyttää julkisia aina kun ei tarvinnut viedä tai hakea lapsia.\n\n\n4. Kun puoliso hoiti lasten kuljetukset, Petri pääsi taas paremmin nauttimaan pyöräilystä omilla ehdoillaan, mutta hänestä tuntui edelleen, että aikaa meni hukkaan. Hän oli ehtinyt tottua ajattelemaan ja lukemaan bussissa matkustaessaan.\n\n\n5. Eräänä päivänä ruokaa tehdessään Petri päätti kuunnella podcastia. Hän huomasi, että se oli varsin mukavaa. Hän saattoi oppia asioita ja kuunnella ihmisten tarinoita. Hän alkoi nauttia ruoanlaittoajasta.\n\n\nKesti taas vuoden päivät, kunnes hän tajusi että hän voisi tehdä samaa vakituisilla pyörämatkoillaan. Reiteistä tuli entistäkin hitaampia ja pidempiä. Jokainen viisi minuuttia lisää pyöräilyä oli viisi minuuttia aikaa kuunnella podcasteja.\n\n\n6. Myöhemmin Petri vaihtoi työpaikkaa ja alkoi tehdä etätöitä kotoa käsin. Hänen vyötärönsä alkoi pyöristyä, kun 45 minuutin pyörämatkat töihin ja takaisin loppuivat. Peiliin katsoessaan hänen oli myönnettävä, että nimenomaan tuo hyötyliikunta oli pitänyt hänet hyvässä kunnossa. Siitä lähtien hän pyrki hyödyntämään jokaisen tilaisuuden kulkeakseen pyörällä.\n\n\n7. Petrin pyöräilyaika jatkoi kehittymistä. Lasten kasvaessa hän huomasi, että yhteiset koulumatkat olivat parhaita hetkiä hänen elämässään. Lapsista oli mukavaa kulkea yhdessä, kysellä maailman asioista ja kertoa koulupäivän tapahtumista. Tämä teki hänen pyöräilyyn käyttämästään ajasta arvokkaampaa kuin mikään muu.\n\n";
+"story_5_title_stopping_or_not_stopping_in_a_moving_walkway" = "Pitäisikö kuljetushihnalla pysähtyä vai ei?";
+"story_5_text_stopping_or_not_stopping_in_a_moving_walkway" = "Oletko huomannut, että jotkut pysähtyvät rullaportaissa tai kuljetushihnoilla, kun taas toiset jatkavat kävelemistä?\n\n\nMikä mahtaa olla syynä tähän erilaiseen käyttäytymiseen?\n\n\nPitäisikö sinun mielestäsi ihmisten kävellä vai seisoa?\n\n\nJos vastaus tuntuu itsestäänselvältä, mieti uudestaan. Asia ei ole välttämättä ihan niin yksinkertainen.\n\n\nSeuraavalla kerralla kun satut olemaan kuljetushinalla esim. satamassa tai lentokentällä, yritä tarkkailla ihmisiä, jotka kävelevät tai seisovat. Jo pelkästään katsomalla saatat saada hyviä vihjeitä siitä, miksi he toimivat eri tavalla. Ja jos jatkat kuvittelemista, saatat päätyä tutkimusmatkalle heidän elämäntarinaansa. Aika mielenkiintoista!\n\n\nPitäisikö siis kuljetushihnalla pysähtyä vai ei? Lue täältä koko tarina: https://motivproject.eu/news/detail/stopping-or-not-stopping-in-a-moving-walkway.html\n";
+"story_6_title_virtual_travel_time" = "Virtuaalinen matka-aika";
+"story_6_text_virtual_travel_time" = "Oletko kuullut \"virtuaalisesta matka-ajasta\"?\n\n\nEi, kyse ei ole virtuaalitodellisuudessa tehdyistä matkoista, vaan jostain konkreettisemmasta.\n\n\nKuinka paljon aikaa sinulta tarkalleen kuluu matkaan pisteestä A pisteeseen B? Sanoisit varmaankin, että se on tietty matka-aikani.\n\n\nTietystä näkökulmasta katsottuna se ei ole. Oikeastaan se saattaa olla paljon muutakin...\n\n\nAjattelepa tätä: mennäksesi pisteestä A pisteeseen B sinun pitää luultavasti käyttää rahaa tavalla tai toisella. Autossa on käyttökustannuksia ja arvonalenemaa. Joukkoliikenteessä tarvitaan lippu. Mutta kävelykin kuluttaa kenkiä ja vaatii energiaa, jota saadaan ruoasta.\n\n\nMutta mitä tekemistä rahalla on matka-ajan suhteen?\n\n\nMiten saat rahaa? Sinun (Tai jonkun muun) on ensin ansaittava se, ja siihen menee yleensä aikaa. Siten matka-aikasi ei ole vain matkustamiseen käytettyä aikaa, vaan myös matkustamiseen tarvittavan rahan ansaitsemiseen käytettyä aikaa.\n\n\nOtetaan esimerkiksi auto, jonka kaikki kulut ovat 350 euroa kuussa. Voit laskea työtunnit, jotka tarvitaan tuon kustannuksen kattamiseksi (verojen jälkeen) ja lisätä sen kuukaudessa matkustamiseen käytettyyn aikaan. Tämä on virtuaalinen matka-aikasi.\n\n\nToisaalta joku voisi sanoa, että työnteko ei ole ajanhukkaa, koska työ on niin mukavaa. Samaa voisi ehkä sanoa myös matkoista töihin ja takaisin. Asia alkaa kieltämättä mennä monimutkaiseksi...\n\n\nKerro mitä mieltä sinä olet!\n\n\nhttps://www.facebook.com/MotivProject.eu/ \n \n\nhttps://twitter.com/MoTiV_Project";
+
+/*new string in mobility coach*/
+/*mobility coach*/
+"Your_Mobility_Journey" = "Kertomuksia liikkumisesta";
+
+/*new string to translate in home module*/
+/*home module*/
+"You_have_trips_to_validate" = "Sinulla on vahvistettavia matkoja";
+
+/*(story) Coming tomorrow*/
+"Coming_Tomorrow" = "Tulossa huomenna";
+
+/*Story (1, 2, 3, 4...)*/
+"Story" = "Kertomus %@";
+
+/*profile and settings*/
+"Marital_Partnership" = "Rekisteröity parisuhde";
+
+/*profile and settings */
+"Labour_Pensioner" = "Eläkeläinen";
+
+/*Notification shown when a trip has started */
+"Trip_Has_Started_At" = "Matka alkoi %@";
+
+/*Notification shown when a trip has ended*/
+"Trip_Has_Ended_At" = "Matka loppui %@";
+"Trip_Has_Ended" = "Matka loppui!";
+"engagement_notification_1_title" = "\"Woorti tallensi ensimmäisen matkasi!\"";
+"engagement_notification_1_content" = "\"Avaa sovellus ja kerro siitä!\"";
+"engagement_notification_2_title" = "Sinulla on kertomus luettavana";
+"engagement_notification_2_content" = "Jos luet sen tänään, saat huomenna uuden kertomuksen";
+"engagement_notification_3_title" = "Uusi kertomus odottaa!";
+"engagement_notification_3_content" = "\"Muista raportoida viimeisin matkasi.\"";
+"Language_Changed_Popup_Content" = "Käynnistä sovellus uudelleen viimeistelläksesi tämän vaiheen";
+"Language_Changed_Popup_Title" = "Kieli vaihdettu! ";
+
+/*Predictability of travel time*/
+"Predictability_Of_Travel_Time" = "Matka-ajan ennustettavuus";
+"Urban_Scenery_Atmosphere" = "Kaupunkinäkymät ja ilmapiiri";
+"While_You_Are_There" = "Paikalla ollessasi";
+"Begin" = "Aloita";
+"engagement_notification_4_title" = "Oletko tarkistanut liikkumistietojasi?";
+"engagement_notification_4_content" = "Katso tästä liikkumistietojasi";
+"engagement_notification_5_title" = "Matka-ajan hyödyllisyytesi on nyt %@.";
+"engagement_notification_5_content" = "Oletko huomannut miten se vaihtelee eri matkoillasi";
+"engagement_notification_6_title" = "Raportoi viimeisin matkasi.";
+"engagement_notification_6_content" = "Syötä liikkumistietojasi ja tarkista niiden tilanne.";
+"engagement_notification_7_title" = "%@ minuuttia";
+"engagement_notification_7_content" = "on aika, jonka käytit liikkumiseen viime viikolla";
+"engagement_notification_8_title" = "Autathan meitä tutkimaan matka-aikaa.";
+"engagement_notification_8_content" = "Kiitos kun raportoit matkojasi. Paina tästä.";
+"engagement_notification_9_title" = "Raportoi viimeisin matkasi.";
+"engagement_notification_9_content" = "Syötä liikkumistietojasi ja tarkista niiden tilanne.";
+
+/*when referencing campaigns*/
+"Campaigns" = "Kampanjat";
+
+/*Welcome to your trips board, %NAME_USER%@ !*/
+"Welcome_To_Your_Trips_Board_Username" = "Tervetuloa katsomaan matkatietojasi, %@ !";
+
+/*You have X trips left to report in the last 3 days*/
+"You_Have_X_Trips_Left_3_Days" = "Sinulla on %@ matkaa raportoitavana kolmelta viime päivältä";
+
+/*These are the trips you have made! Reporting on them helps our research, and allows you to monitor your travel time. After reporting each trip, find out your travel time worthwhileness statistics in the Dashboard! Press the ‘!’ mark to report.*/
+"These_Are_The_Trips_You_Have_Made" = "Tässä ovat tekemäsi matkat! Antamalla niistä lisätietoja autat tutkimustamme ja voit samalla seurata, miten käytät matka-aikaasi. Kun olet raportoinut matkan, sen tiedot lisätään matkatiedot-sivulle. Paina ‘!’ merkkiä raportoidaksesi matkan.";
+
+/*Now that you have a reported trip, you can check your first travel time statistics in the Dashboard.*/
+"Now_That_You_Have_A_Reported_Trip_Popup_Text" = "Nyt kun olet raportoinut matkan, voit seurata antamiasi tietoja liikkumistiedot-sivulla.";
+
+/*Go to dashboard*/
+"Go_To_Dashboard" = "Mene liikkumistiedot-sivulle";
+
+/*Report trips*/
+"Report_Trips" = "Raportoithan matkoja";
+
+/*This is your Dashboard. It shows how worthwhile your travel time is.  For your trip stats to appear here, report your trips*/
+"This_Is_Your_Dashboard_Popup_Text" = "Tässä ovat liikkumistietosi. Ne näyttävät kuinka hyödyllistä matka-aikasi on. \\n\nSinun pitää raportoida matkojasi, jotta niiden tiedot näkyisivät täällä.";
+
+/*See dashboard*/
+"See_Dashboard" = "Katso liikkumistietojasi";
+
+/*profile and settings*/
+"Campaign_Scores" = "Kampanjapisteet";
+
+/*when iOS user is redirected and asked to authorize GPS in phone settings after denying permissions in On-boarding*/
+"GPS_Link_Phone_Settings" = "Asetukset";
+
+/*when iOS user is asked to authorize GPS in phone settings and selects back to dismiss this dialogue*/
+"GPS_Go_Back" = "Takaisin";
+
+/*Days*/
+"Days" = "Päivää";
+
+/*trips*/
+"Trips" = "Matkaa";
+
+/*Issue form*/
+"Issue_Form" = "Ilmoitus ongelmasta";
+
+/*Thank you for reporting an issue*/
+"Thank_You_For_Reporting_An_Issue" = "Kiitos kun ilmoitit ongelmasta";
+
+/*Submit log*/
+"Submit_Log" = "Tallenna lokitiedot";
+
+/*Send log*/
+"Send_Log" = "Lähetä lokitiedot";
+
+/*No log needed for this issue. Skip.*/
+"No_Log_Needed_For_This_Issue_Skip" = "Tähän ilmoitukseen ei tarvita lokitietoja. Ohita.";
+
+/*Targets & Rewards*/
+"Targets_And_Rewards" = "Tavoitteet & Palkinnot";
+
+/*Tasks*/
+"Tasks" = "Tehtävät";
+
+/*To analise the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.*/
+"To_Analyse_This_Issue" = "Voidaksemme analysoida ongelmaa haluaisimme saada lokitietoja sovelluksen toiminnasta. Pyydämme ystävällisesti sinua lähettämään sovelluksen tekemän sähköpostin. Jos haluat, voit lisätä ruutukaappauksia tai kuvata ongelmaa tarkemmin sähköpostissa.";
+
+/*points*/
+"Points" = "Pisteet";
+
+/*Progress (Reward progress)*/
+"Progress" = "Edistyminen";
+
+/*%@ days left*/
+"days_left_reward" = "%@ päivää jäljellä";
+
+/*user registration*/
+"Password_Length_Message" = "Salasanan on oltava 6-16 merkkiä pitkä\n\n";
+
+/*Onboarding*/
+"How_Productive_Are_You" = "Kuinka tehokas olet";
+
+/*Woorti is running in the background*/
+"Woorti_Is_Running" = "Woorti on käynnissä taustalla";
+
+/*Continue*/
+"Continue" = "Jatka";
+
+/*Hurray!!!*/
+"Hurray" = "Hurraa!!!";
+
+/*You have completed your target for NAME_REWARD!*/
+"You_Have_Completed_Your_Target" = "Olet suorittanut tavoitteesi %@ !";
+
+/*Keep reporting your trips to monitor your stats to see your evolution and help this research */
+"Keep_Reporting_Your_Trips_Reward_Completed_Popup" = "Jatka matkojesi raportointia nähdäksesi matkatietojasi ja etenemistäsi sekä auttaaksesi tutkimusta";
+
+/*Woorti just detected that you started a trip*/
+"Woorti_Just_Detected_Start_Trip" = "Woorti havaitsi juuri, että aloitit matkan";
+
+/*Your  trip has ended.\nYou can now report about it in Woorti*/
+"Your_Trip_As_Ended" = "Matkasi on päättynyt.\\nVoit nyt raportoida sen Woortissa";
+
+/*Onboarding*/
+"Onboarding_Successful" = "Perehdytys on suoritettu onnistuneesti";
+
+/*Trip validation tutorial*/
+"Trip_Validation_Tutorial" = "Opastus matkojen vahvistamisesta";
+
+/*Onboarding*/
+"Onboarding_Duplicated" = "Perehdytys on jo suoritettu. Kirjaudutaan sisään.";
+
+/*Onboarding*/
+"Onboarding_Error" = "Virhe perehdytyksessä. Yritä suorittaa se uudelleen.";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Attempt" = "Yritetään lähettää matkaraporttia.";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Successful" = "Matkaraportti lähetetty.";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Not_Submitted" = "Matkaraporttia ei lähetetty - yritä yhteyttä myöhemmin.";
+
+/*You can now report about it in Woorti*/
+"You_Can_Now_Report_About_It_In_Woorti" = "Voit nyt raportoida siitä Woortissa.";
+
+/*Complete until dd/mm/yyyy*/
+"Complete_Until" = "Suoritettu %@ asti";
+
+/*You have a new survey (notification)*/
+"You_Have_A_New_Survey" = "Sinulla on uusi kysely.";
+
+/*Fill it in and earn %@ points. (notification -> fill survey)*/
+"Fill_It_And_Earn_XX_Points" = "Täytä se saadaksesi %@ pistettä";
+
+/*Is your phone blocking trip detection?*/
+"Is_Your_Phone_Blocking_Trip_Detection" = "Estääkö puhelimesi matkojen tunnistamisen?";
+
+/*Woorti gives you 25 points for each additional information item you fill in your profile.*/
+"Woorti_Gives_You_Points_For_Each_Info" = "Woorti antaa sinulle 25 pistettä jokaisesta käyttäjätiedoissa täyttämästäsi lisätiedosta.";
+
+/*If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.*/
+"If_Thats_The_Case_Fortunately_There_Is_Solution" = "Siinä tapauksessa ratkaisua ei valitettavasti ole. Katso puhelinmalliasi koskevat ohjees painamalla alla olevaa nappia.";
+
+/*Enable app activity*/
+"Enable_App_Activity" = "Salli sovelluksen toiminta";
+
+/*Do not show again*/
+"Do_Not_Show_Again" = "Älä näytä uudestaan";
+
+/*If your trips are frequently not being recorded, your phone might be blocking this app’s activity.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded" = "Jos matkojasi jää jatkuvasti tunnistamatta, puhelimesi saattaa estää tämän sovelluksen toimintaa.";
+
+/*Tell us more about yourself*/
+"Tell_Us_More_About_Yourself" = "Kerro lisää itsestäsi";
+
+/*Your data is anonymised.*/
+"Your_Data_Is_Anonymised" = "Tietosi on anonymisoitu.";
+
+/*Fill in profile*/
+"Fill_In_Profile" = "Täytä käyttäjätietosi";
+
+/*Later*/
+"Later" = "Myöhemmin";
+
+/*Point all time*/
+"Points_All_Time" = "Pisteitä koko ajalta";
+
+/*Days with trips all time*/
+"Days_All_Time" = "Matkapäiviä koko ajalta";
+
+/*Trips all time*/
+"Trips_All_Time" = "Matkoja koko ajalta";
+
+/*temporary text without link to battery optimization site not endorsed by motiv.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded_No_Link_To_Site" = "Jos matkojasi jää usein tunnistamatta, puhelimesi saattaa estää sovelluksen toimintaa. Tarkista Androidin akun optimointiasetukset mahdollistaaksesi Woortin toiminnan.";
+
+/*Dashboard_You*/
+"Dashboard_You" = "Sinä";
+
+/*Dashboard_Community*/
+"Dashboard_Community" = "Ryhmä";
+
+/*Dashboard_Citizens*/
+"Dashboard_Citizens" = "Kaikki";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Onboarding" = "Nämä tulokset kuvastavat joko oletustietoja tai tietoja jotka annoit sovellukselle aluksi rekisteröityessäsi, kulkutapakohtaisesti. Voit milloin tahansa vaihtaa käytettyjä tietoja sovelluksen asetuksissa.";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Leg_Info_Recorded" = "Nämä tulokset kuvastavat hyödyllisyysarviota niiden matkojen osista, jotka raportoit sovelluksella.";
+
+/*Dashboard*/
+"Dashboard_Your_Whole_Trips" = "Kaikki matkasi";
+
+/*Dashboard*/
+"Dashboard_Your_Reported_Legs" = "Ilmoittamasi matkan osat";
+
+/*Dashboard*/
+"Time_Spent_In_Travel" = "Matka-aika";
+
+/*Dashboard*/
+"Travelled_Distance" = "Kuljettu matka";
+
+/*Dashboard*/
+"CO2_Emissions" = "Hiilidioksidipäästöt";
+
+/*Dashboard*/
+"Calories" = "Kalorit";
+
+/*Dashboard*/
+"The_Community_Trips" = "Ryhmän matkat";
+
+/*Dashboard*/
+"The_Community_Validated_Legs" = "Ryhmän vahvistetut matkan osat";
+
+/*Dashboard*/
+"Compared_To_Your_Scores" = "(verrattuna omiin tietoihisi)";
+
+/*Dashboard*/
+"Worthwhileness" = "Hyödyllisyys";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Title" = "\"Hei siellä!\"";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_1" = "Raportoi %@ tunnistettua matkaa viime ";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_2" = "nähdäksesi matkatietosi kaikista matkoista.";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Report_Trips" = "RAPORTOI MATKOJA";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_See_Dashboard" = "KATSO MATKATIETOJASI";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Text" = "Joskus matkoja ei tunnisteta kunnolla. Muokataksesi matkan rakennetta paina yllä olevaa ikonia jakaaksesi, yhdistääksesi tai poistaaksesi matkoja tai niiden osia.";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Button" = "SELVÄ!";
+
+/*Home module travel report*/
+"Seven_Day_Travel_Report" = "7 päivän matkaraportti";
+
+/*Home (travel report link to Dashboard)*/
+"Learn_More" = "Lisätietoja";
+
+/*please retranslate to make clear statistics are average calories per day. thank you. LV.*/
+/*Dashboard*/
+"In_Total_Users_Spent_Calories" = "Ryhmän käyttäjät ovat käyttäneet keskimäärin %@ päivässä.";
+
+/*Dashboard*/
+"And_This_Counted_Carbon_Footprint_Users" = "Ryhmä on käyttänyt keskimäärin %@ kestävästä hiilijalanjäljestään.";
+
+/*People from "campaign/city/country" on average have spent "3 min more/less" travelling a distance of "3km more/less" than you per day.*/
+"People_From_Place_Have_Spent_On_Average" = "Ihmiset alueella %@ ovat käyttäneet päivässä keskimäärin %@ matkustaakseen %@ matkan kuin sinä.";
+
+/*"3 km more"*/
+"Number_Km_More" = "%@ km pidemmän";
+
+/*"3 km less"*/
+"Number_Km_Less" = "%@ km lyhyemmän";
+
+/*"3 min more"*/
+"Number_Min_More" = "%@ min enemmän";
+
+/*"3 min less"*/
+"Number_Min_Less" = "%@ min vähemmän";
+
+/*Dashboard*/
+"Community_Trips_Overall_Percentage_Worthwhile" = "Ryhmän matkojen hyödyllisyys (sinun tietoihisi verrattuna)";
+
+/*These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.*/
+"Dashboard_Worthwhileness_Popup_Text" = "Nämä tulokset kuvastavat joko oletustietoja tai tietoja jotka annoit sovellukselle aluksi rekisteröityessäsi, kulkutapakohtaisesti. Voit milloin tahansa vaihtaa käytettyjä tietoja sovelluksen asetuksissa.";
+
+/*What is the carbon budget?*/
+"What_Is_The_Carbon_Budget" = "Mikä on hiilibudjetti?";
+
+/*The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle.  A person’s yearly mobility carbon budget is 500kg*/
+"The_Carbon_Budget_Is" = "Hiilibudjetti on yhden kestäviä elintapoja noudattavan henkilön aiheuttama määrä hiilidioksidipäästöjä. \\n \\n Liikkumisen hiilibudjetti on 500kg.";
+
+/*City/Region*/
+"City_Region" = "Kaupunki/alue";
+
+/*You*/
+"You" = "Sinä";
+
+/*should translate according to "Min per user per day"*/
+/*Average minutes*/
+"Avg_Minutes" = "Min/hlö/päivä";
+
+/*please retranslate following "Km per user per day", because we are showing daily averages per individual (average) user of the community.*/
+/*Average kilometers*/
+"Avg_Kilometers" = "Km/hlö/päivä";
+
+/*need to translate according to "Kg CO2 per user per day"*/
+/*Average kilograms*/
+"Avg_Kilograms" = "Kg CO2/hlö/päivä";
+
+/*need to retranslate for "Calories per user per day"*/
+/*Average calories*/
+"Avg_Calories" = "Kaloria/hlö/päivä";
+
+/*Hours*/
+"Hours" = "Tuntia";
+
+/*Dashboard - unable to show some global stats (e.g. always disconnected)*/
+"Unable_Show_Stats" = "Ryhmän matkatietoja ei voitu ladata.";
+
+/*CO2 budget popu*/
+"CO2_Budget_Example" = "500kg vastaa yhdensuuntakaista lentomatkaa Kreikkaan tai Turkkiin, tai 1500 kmautomatkaa.";
+
+/*CO2 budget popup - no need to translate*/
+"CO2_Budget_Link_URL" = "https://motivproject.eu/data-collection/woorti-app-faqs.html";
+
+/*CO2 budget popup*/
+"CO2_Budget_Link_Text" = "Lisätietoja";
+
+/*worthwhileness - travel wasted rating of trip*/
+"Travel_Time_Wasted_Question_Text_Second_Paragraph" = "Huom. matkaan käyttämäsi aika, ei määränpäässä käyttämäsi aika";
+
+/*Onboarding and login*/
+"Failed_To_Connect_Check_Connectivity_Error" = "Yhteys ei onnistunut, tarkista internet-yhteytesi.";
+
+/*"Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding."*/
+"Onboarding_Warning_Permissions_Denied_Retry" = "Käyttäjä ei myöntänyt pyydettyjä lupia. Sovellus tarvitse näitä ja verkkoyhteyttä perehdytyksen suorittamiseksi. Yritä uudelleen ja viimeistele perehdytys.";
+
+/*"In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information."*/
+"Onboarding_Dialog_Box_Ask_Location_Storage_Permissions" = "Jotta sovellus toimisi kunnolla, sinun pitää antaa sille pääsy sijaintitietoosi ja matkojesi tallentamiseksi ja lukemiseksi ulkoisesta muistista.";
+
+/*You have no trips*/
+"You_Have_No_Trips" = "Sinulla ei ole matkoja";
+
+/*You must choose at least one trip to delete*/
+"You_Must_Choose_One_Trip_To_Delete" = "Valitse ainakin yksi poistettava matka";
+
+/*Trip/s deleted successfully!*/
+"Trips_Deleted_Successfuly" = "Matka poistettu";
+
+/*You must choose at least one leg to delete*/
+"You_Must_Choose_One_Leg_To_Delete" = "Valitse ainakin yksi poistettava matkan osa";
+
+/*You cannot delete all the trip's legs*/
+"You_Cannot_Delete_All_Trips_Legs" = "Et voi poistaa kaikkia matkan osia";
+
+/*You must choose consecutive legs to delete*/
+"You_Must_Choose_Consecutive_Legs_To_Delete" = "Valitse poistettavaksi peräkkäisiä matkan osia";
+
+/*You must choose at least two legs to merge*/
+"You_Must_Choose_Two_Legs_To_Merge" = "Valitse ainakin kaksi matkan osaa yhdistettäväksi";
+
+/*You must choose consecutive legs to merge*/
+"You_Must_Choose_Consecutive_Legs_To_Merge" = "Valitse yhdistettäväksi peräkkäisiä matkan osia";
+
+/*The leg you are trying to split is too small to be split*/
+"The_Leg_Is_Too_Small_To_Be_Split" = "Matkan osa jota yrität jakaa on liian pieni jaettavaksi";
+
+/*Error splitting leg*/
+"Error_Splitting_Leg" = "Virhe matkan osan jakamisessa";
+
+/*Trips_Merged_Successfully*/
+"Trips_Merged_Successfully" = "Matkat yhdistetty!";
+
+/*Trip splitted successfully!*/
+"Trip_Splitted_Successfully" = "Matka jaettu!";
+
+/*"Please choose another leg/transfer other than the last"*/
+"Please_Choose_Other_Leg_Transfer_Not_Last" = "Valitse joku muu matkan osa kuin viimeinen";
+
+/*"Please choose a leg/transfer to split"*/
+"Please_Choose_Leg_Transfer_To_Split" = "Valitse jaettava matkan osa";
+
+/*"You must choose consecutive trips to merge"*/
+"You_Must_Choose_Consecutive_Trips_To_Merge" = "Valitse yhdistettäväksi peräkkäisiä matkoja";
+
+/*"You must choose at least two legs to merge"*/
+"You_Must_Choose_Two_Trips_To_Merge" = "Valitse ainakin kaksi matkan osaa yhdistettäväksi";

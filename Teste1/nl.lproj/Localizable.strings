@@ -1,0 +1,1075 @@
+
+/*Drawer titles*/
+"Drawer_Title_Home" = "Home";
+"Drawer_Title_Route_Planner" = "Routeplanner";
+"Drawer_Title_My_Trips" = "Mijn trips";
+"Drawer_Title_Dashboard" = "Dashbord";
+"Drawer_Title_Mobility_Coach" = "Mobiliteitscoach";
+"Drawer_Title_Profile" = "Profiel";
+"Drawer_Title_Settings" = "Profiel & instellingen";
+"Drawer_Title_Report_Issue" = "Meld een probleem";
+"Drawer_Title_Finish_Log_Out" = "Uitloggen";
+"login_what_is_email_address" = "Wat is je e-mail-adres?";
+"login_enter_your_password" = "Geef je paswoord in.";
+
+/*Profile and settings options*/
+"Edit_Profile" = "Wijzig profiel.";
+"Set_Home_And_Work" = "Geef je thuis- en werkadres in.";
+"Demographic_Info" = "Demografische gegevens";
+"Worthwhileness_Settings" = "Waardevolheidsinstellingen";
+"Tutorials" = "Zelfstudie";
+"Transport_Preferences" = "Transportvoorkeuren";
+
+/*<string name="APP_PERMISSIONS">App permissions</string>*/
+"App_Language" = "Taal";
+"Change_Password" = "Verander paswoord";
+"Feedback" = "Feedback";
+"Log_Out" = "Log uit.";
+
+/*Education labels*/
+"Education_8th_Grade" = "Lagere school";
+"Education_Some_Highschool" = "Lager middelbaar";
+"Education_Highschool" = "Middelbaar Onderwijs";
+"Education_Some_College" = "Universiteit of hogeschool, zonder diploma";
+"Education_Training" = "Technische opleiding";
+"Education_Bachelor" = "Bachelor";
+"Education_Master" = "Master";
+"Education_Professional" = "Beroepsopleiding";
+"Education_Doctorate" = "Doctorandus";
+"Education_Associate" = "Associate degree";
+"Education_No_Schooling" = "Geen opleiding";
+
+/*Demographic option*/
+"Demographic_Option_General" = "Algemeen";
+
+/*<string name="DEMOGRAPHIC_OPTION_HOUSEHOLD_DATA">Household data</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_CAPABILITIES">Mobility capabilities</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_PREFERENCES">Mobility preferences</string>
+ <string name="DEMOGRAPHIC_OPTION_EXPERIENCE_FACTORS">Experience factors</string>
+ General suboptions*/
+"Age" = "Leeftijd";
+
+/*message: Gender*/
+"Gender" = "Geslacht";
+"Education" = "Opleidingsniveau";
+"Country" = "Land";
+"City" = "Stad";
+
+/*Tutorial options*/
+"Tutorial_Option_What_Is_Worthwhileness" = "Wat is waardevol";
+
+/*Productivity*/
+"Productivity_Percentage" = "Productiviteit %@";
+"Mind_Percentage" = "Plezier %@";
+"Body_Percentage" = "Fitheid %@";
+
+/*Main menu options
+ <string name="NEW_INTERFACE_TEXT">New interface</string>
+ My trips module*/
+"My_Trips" = "Mijn trajecten";
+"Start_Trip" = "Start traject";
+"End_Trip" = "Eindig traject";
+"Trip_Being_Recorded" = "Er wordt momenteel een traject opgenomen.";
+
+/*Edit trips*/
+"Select_Trips_To_Merge" = "Selecteer hieronder trajecten om samen te voegen.";
+"Confirm_Trips_To_Merge" = "Bevestig de geselecteerde trajecten om samen te voegen.";
+"Select_Trips_To_Split" = "Selecteer de trajecten in de onderstaande lijst om uit te splitsen.";
+"Move_The_Map_To_Split" = "Beweeg de kaart om het traject te splitsen.";
+"Select_Trips_To_Delete" = "Selecteer trajecten uit de onderstaande lijst om te wissen";
+"Split" = "Splits";
+"Merge" = "Voeg samen";
+"Delete" = "Verwijder";
+"Select_Legs_To_Split" = "Selecteer deeltrajecten of overstappen van de onderstaande lijst om te splitsen";
+"Move_The_Map_To_Split_The_Leg" = "Beweeg de kaart om het splitspunt de bepalen.";
+"Edited" = "Bewerkt";
+"Select_Legs_To_Merge" = "Selecteer deeltrajecten of overstappen van de onderstaande lijst om samen te voegen";
+"Confirm_The_Legs_To_Merge" = "Bevestig deeltrajecten of overstappen van de onderstaande lijst om samen te voegen.";
+"Rate_Your_Edited_Trips" = "Beoordeel ";
+"Select_Legs_To_Delete" = "Selecteer deeltrajecten om te wissen.";
+"Confirm_The_Legs_To_delete" = "Bevestig het wissen van deze deeltrajecten.";
+
+/*Leg validation*/
+"Validated" = "Gevalideerd";
+"How_Did_You_Travel" = "Met welk vervoersmiddel heb je gereisd?";
+
+/*message: Public Transport*/
+"Public_Transport" = "Openbaar vervoer";
+"Active_Semi_Active" = "Fysiek actief";
+"Private_Motorised" = "Eigen auto";
+"Not_Sure" = "Niet zeker";
+"Lousy" = "Belabberd";
+"Overall_Feel_About_Trip" = "Hoe beleefde je deze reistijd?";
+"Great" = "Fantastisch";
+"Travel_Time_Wasted_Min_Text" = "Alle tijd was verspild";
+"Travel_Time_Wasted_Question_Text" = "Was je reis verspilde tijd of waardevol?";
+"Travel_Time_Wasted_Max_Text" = "De volledige tijd was waardevol";
+
+/*please update translation from new english text*/
+"Which_Factors_Most_Contributed" = "Welke factor(en) zorgden ervoor dat je reistijd verspild (-) dan wel waardevol (+) was?";
+"Unfold_All_That_Apply" = "Vouw uit en duid alles aan wat van toepassing is";
+
+/*Factors*/
+"Infrastructure_And_Services" = "Infrastructuur en diensten";
+"Comfort_And_Pleasantness" = "Comfort en plezier";
+"Getting_There" = "Er geraken";
+"Tables" = "Tabellen";
+"Toilets" = "Toiletten";
+"Food_Drink_Allowed" = "Eten/drinken toegestaan";
+"Food_Drink_Available" = "Eten/drinken verkrijgbaar";
+"Shopping_Retail" = "Winkelen";
+"Entertainment" = "Amusement";
+"Noise_Level" = "Geluidsniveau";
+"Cleanliness" = "Netheid";
+"Scenery" = "Natuur en omgeving";
+"Todays_Weather" = "Weer";
+"Privacy" = "Privacy";
+"Traffic_Signals_Crossings" = "Verkeerslichten/ slagbomen";
+"Crowding_Congestion" = "Veel mensen/ file";
+"Traffic_Congestion_Delays" = "Files/ vertragingen";
+"Others_Comments" = "Andere/ commentaar";
+
+/*Activities*/
+"What_Did_You_Do_And_Value" = "Wat exact vond je waardevol dat je kon doen?";
+"Driving_Cycling_Walking" = "Rijden/ Fietsen/ Stappen";
+"Relaxing_Sleeping" = "Ontspannen of slapen";
+"Browsing_Social_Media" = "Internetten of social media";
+"Reading_Writing_Paper" = "Lezen/ Schrijven (papier)";
+"Reading_Writing_Device" = "Lezen/ Schrijven (scherm)";
+"Listening_To_Audio" = "Luisteren naar muziek, podcast...";
+"Walking_Video_Gaming" = "Video kijken of spelletjes spelen";
+"Talking_Including_Phone" = "Praten (ook aan de telefoon)";
+"Accompanying_Someone" = "Iemand vergezellen";
+"Eating_Drinking" = "Eten/ drinken";
+"Personal_Caring" = "Zelfzorg";
+"Thinking" = "Nadenken";
+
+/*Value this part of the trip*/
+"What_Value_Take_From_Part" = "Wat vond je waardevol aan de tijd die je besteedde in dit deel van je trip?";
+"Paid_Work" = "Betaald werk";
+"Personal_Tasks" = "Persoonlijke taken";
+
+/*message: Enjoyment*/
+"Enjoyment" = "Plezier";
+
+/*message: Fitness*/
+"Fitness" = "Sport";
+"None" = "Geen";
+"Some" = "Een beetje";
+"High" = "Veel";
+
+/*Thinking about trip as a whole*/
+"Thinking_About_Your_Trip_Title" = "Had je deze reistijd liever anders besteed, aan...?";
+
+/*message: Productivity*/
+"Productivity" = "Productiviteit";
+"Anything_Else_Like_To_Share" = "Iets anders dat je nog wil delen?";
+
+/*message: I would like to share...*/
+"Would_Like_To_Share" = "Ik zou willen delen dat...";
+"Today" = "Vandaag";
+"Yesterday" = "Gisteren";
+"Validate_Your_Trip" = "Nieuwe reis gedetecteerd! Valideer je reis om %@ punten te verdienen!";
+"What_Was_Purpose" = "Wat was het doel van je reis?";
+"Mark_All_That_Apply" = "Duid alles aan wat van toepassing is.";
+
+/*Trip purposes*/
+"Work" = "Werk";
+"School_Education" = "School/ opleiding";
+"Home" = "Home";
+"Everyday_Shopping" = "Winkelen";
+"Business_Trip" = "Zakenreis";
+"Leisure_Hobby" = "Vrije tijd/ hobby";
+"Pick_Up_Drop_Off" = "Iemand ophalen/ afzetten ";
+"Personal_Tasks_Errands" = "Persoonlijke taken/ boodschappen";
+"Trip_Itself" = "Reis zelf";
+
+/*message: Other*/
+"Other" = "Andere";
+"Arrive_At_Fixed_Time" = "Moest je op een vast uur aankomen?";
+"How_Often_Make_This_Trip" = "Hoe vaak maak je deze reis?";
+"Regularly" = "Geregeld";
+"Occasionally" = "Af en toe";
+"First_Time" = "Eerste keer";
+"Select_Part_Of_Trip_Feedback" = "Selecteer een deel van je reis om verdere feedback over te geven";
+
+/*<string name="objective_other_hint">Where you travelled and why</string>*/
+"Confirm_Modes_Of_Your_Trips" = "Bevestig je vervoersmodi";
+
+/*message: Transfer*/
+"Transfer" = "Overstap";
+"Auto_Detected" = "Auto-gedetecteerd";
+
+/*message: were you %@ ?*/
+"Were_You_Walking_Or_Running" = "Was je aan het %@?";
+
+/*message: Did you go by %@ ?*/
+"Did_You_Go_The_Mode" = "Reisde je per %@ ?";
+
+/*modes of transport*/
+"Walking" = "Te voet";
+"Jogging_Running" = "Aan het joggen/ lopen";
+"Bicycle" = "Met de fiets (niet elektrisch)";
+"Car_Driver" = "Auto (als bestuurder)";
+"Bus_Trolley_Bus" = "Bus/ Trolley Bus";
+"Tram" = "Tram";
+"Metro" = "Metro";
+"Urban_Train" = "Stadstrein";
+"Regional_Intercity_Train" = "Regionale/ Intercity trein";
+"Ferry_Boat" = "Ferry/ Boot";
+"Motorcycle" = "Moto/ Motorfiets";
+"Moped" = "Moped";
+"Electric_Bike" = "Elektrische fiets";
+"Bike_Sharing" = "Deelfiets";
+"Car_Passenger" = "Auto (als passagier)";
+"Taxi_Ride_Hailing" = "Taxi";
+"Car_Sharing_Rental_Driver" = "Auto (deel- of huurauto, als bestuurder)";
+"Car_Sharing_Rental_Passenger" = "Auto (deel- of huurauto, als passagier)";
+"car_pooling" = "Carpooling";
+"Plane" = "Vliegtuig";
+"high_speed_train" = "Hogesnelheidstrein/ TGV";
+"Coach_Long_Distance_Bus" = "Lange-afstands-autobus";
+"Micro_Scooter" = "Micro scooter";
+"Skate" = "Skateboard";
+"Electric_Wheelchair_Cart" = "Elektrische rolstoel";
+"Wheelchair" = "Rolstoel";
+"Cargo_Bike" = "Cargofiets/ bakfiets";
+"Other_Public_Transport" = "Ander openbaar vervoer";
+"Other_Active_Semi_Active" = "Ander actief/ semi-actief vervoer";
+"Other_Private_Motorised" = "Ander eigen gemotoriseerd vervoer";
+
+/*Misc*/
+"Yes" = "Ja";
+"No" = "Nee";
+"Save" = "Bewaar";
+"Confirm_All" = "Bevestig alles";
+
+/*message text of \"Next\" button message: Next*/
+"Next" = "Volgende";
+"Done" = "Klaar";
+"End" = "Einde";
+
+/*Factors Wasted Time*/
+"Skip" = "Sla over";
+
+/*title for the info pages message: A Little About You*/
+"A_Little_About_You" = "Meer over jou";
+
+/*message: Active/Semi-active*/
+"Active_Semi_active" = "Actief/ semi-actief";
+
+/*message: Thanks! To record your trips we need your permission to let Woorti access to your location at all times.
+ 
+ It should not excessively consume your battery.*/
+"Ask_location_permission_String" = "Bedankt! Om je reizen/ trips op te nemen hebben we jouw toestemming nodig om je locatie altijd te kennen. ('Altijd' in de instelling locatievoorzieningen)\n\n";
+
+/*message: Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.*/
+"Ask_location_permission_String_when_user_has_denied" = "Sorry! Maar opdat Woorti kan werken moet je echt 'Altijd' instellen bij de instelling Locatievoorzieningen.";
+
+/*message: Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us!
+ 
+ To do this we need to be able to send you notifications*/
+"Ask_notification_permission_String" = "Tot slot graag nog enkele vragen over hoe je reist en je trips ervaart. Je beleving is heel erg belangrijk voor ons onderzoek! Om dit te doen, moeten we je meldingen kunnen sturen.";
+
+/*message: BACK TO LOGIN*/
+"Back_To_Login" = "Terug naar Login";
+
+/*change language screen title message: Change Language*/
+"Change_Language" = "Verander taal";
+
+/*message: Correct exams*/
+"Correct_Exams" = "Verbeter examens";
+
+/*title for the first onboarding pages message: Data Protection*/
+"Data_Protection" = "Privacy en gegevensbescherming";
+
+/*placeholder for password when registering only*/
+"Didnt_sign_up_yet" = "Paswoord vergeten?";
+
+/*rating prefered modes of transport message: Doesn't improve my fitness*/
+"Doesnt_Improve_My_Fitness" = "Verbetert mijn conditie niet";
+
+/*email message*/
+"Email" = "e-mail";
+
+/*message shown when clcicking to reset a password message: If %@ has an account with Woorti, you will be receiving an email to reset your password*/
+"Email_Has_Been_Sent" = "e-mail verzonden";
+
+/*rating prefered modes of transport message: Enjoying*/
+"Enjoying" = "Genieten";
+
+/*message: Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…*/
+"Enjoyment_Worthwhile_Description_Score" = "Relaxen of plezier maken, tijd nemen om naar muziek te luisteren, rusten of mediteren, social media, naar de omgeving kijken...";
+
+/*message: When I travel,
+ I chill*/
+"Enjoyment_Worthwhile_High_Score" = "Wanneer ik reis, chill ik";
+
+/*placeholder for email in login/register*/
+"Enter_Your_Email_Address" = "Vul je e-mail-adres in";
+
+/*name Placeholder message: Enter your name*/
+"Enter_Your_Name" = "Vul je naam in";
+
+/*placeholder for password in login/register*/
+"Enter_Your_Password" = "Vul je paswoord in";
+
+/*placeholder for password when registering only*/
+"Enter_Your_Password_Again" = "Vul je paswoord nog eens in";
+
+/*error shown to the user when log in failed*/
+"Error_Log_In" = "Foutmelding. Probeer nog eens of reet je paswoord.";
+
+/*message: Female*/
+"Female" = "Vrouw";
+
+/*message: Did you know that a person spends about 2 years of her whole life commuting?
+ 
+ Woorti will help you explore your travel time!*/
+/*Fuzzy*/
+"First_Onboarding_Screen_Welcome_Description_Text" = "Wist jij dat een gemiddeld persoon ongeveer twee jaar van zijn of haar leven aan pendelen besteedt?\nWoorti zal je helpen jouw reistijd te ontdekken!";
+
+/*message: Your travel time is an important part of your life!*/
+"First_Onboarding_Screen_Welcome_Title" = "Je reistijd is een belangrijk deel van je leven!";
+
+/*message: message: Travelling is not at all relaxing*/
+"FitnesEnjoyment_Worthwhile_Low_Scores" = "Onderweg zijn is helemaal niet ontspannend.";
+
+/*message: When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.*/
+"Fitness_Worthwhile_Description_Score" = "Als je wandelt, fietst op zelfs loopt als je onderweg bent, doe je aan sport en onderhoud je je conditie .";
+
+/*message: Travel time is a great way to feel the burn*/
+"Fitness_Worthwhile_High_Score" = "Onderweg zijn is een geweldige gelegenheid om zware fysieke inspanningen te leveren.";
+
+/*message: Exercise is in the gym/field*/
+"Fitness_Worthwhile_Low_Score" = "Sporten doe ik wel in de fitness of sportclub.";
+
+/*Forgot Password*/
+"Forgot_Password" = "Paswoord vergeten";
+
+/*placeholder for password when registering only*/
+"Forgot_Your_Password" = "Paswoord vergeten?";
+
+/*message: Everyone defines what is a worthwhile travel time in his or her different way.
+ 
+ Let's see what that means to you!*/
+"Fourth_Onboarding_Screen_Description" = "Iedereen definieert 'waardevolle' reistijd op zijn of haar manier. Laat ons ontdekken wat het voor jou betekent!";
+
+/*message: I accept MoTiV data protection conditions*/
+"GRPD_Accept" = "Ik aanvaard de MoTiV databeschermingsvoorwaarden.";
+
+/*message: For the European MoTiV project research on travel time, this app collects anonymised data on:
+ 1. Your trips (time, location and transport used)
+ 2. Your expressed preferences and searches within the app*/
+"GRPD_Description" = "Voor het Europese MoTiV-onderzoeksproject over de kwaliteit van reistijd, verzamelt deze app geanonimiseerde data over:\n1. Jouw reizen/ trips (tijd, locatie en vervoerswijze)\n2. Je voorkeuren en evaluatie van jouw verplaatsingen binnen de App.";
+
+/*message: MoTiV privacy policy is compliant with EU GDPR. Read More*/
+"GRPD_Read_Policy" = "MoTiV privacybeleid is conform EU GDPR. Lees meer";
+
+/*rating prefered modes of transport message: Improves my fitness*/
+"Improves_My_Fitness" = "Verbetert mijn conditie";
+
+/*splash screen start now button message*/
+"Log_In" = "Log in";
+
+/*login with google button message*/
+"Log_In_With_Google" = "Log in met Google";
+
+/*message: Male*/
+"Male" = "Man";
+
+/*message: No worries! Enter your email address below and we will send you a email to reset your password.*/
+"No_Worries_Message" = "Geen zorgen! Vul je e-mail-adres in en jee sturen je een reset-mail.";
+
+/*rating prefered modes of transport message: Not Enjoying*/
+"Not_Enjoying" = "Niet aan het genieten";
+
+/*%@ not filled*/
+"Not_Filled" = "%@ niet gevuld";
+
+/*rating prefered modes of transport message: Not Productive*/
+"Not_Productive" = "Niet productief";
+
+/*message: NOW YOU!*/
+"Now_You" = "NU JIJ!";
+
+/*message: Ok cool*/
+"Ok_Cool" = "OK, cool!";
+
+/*password message*/
+"Password" = "Paswoord";
+
+/*register button message*/
+"Passwords_Dont_Match" = "Paswoorden komen niet overeen";
+
+/*title for the first onboarding pages message: Permissions*/
+"Permissions" = "Toestemmingen";
+
+/*message: Private Motirized*/
+"Private_Motirized" = "Privé gemotoriseerd";
+
+/*message: Proceed to Enjoyment*/
+"Proceed_To_Enjoyment" = "Ga verder naar Plezier";
+
+/*message: Proceed to Fitness*/
+"Proceed_To_Fitness" = "Ga verder naar Conditie";
+
+/*proceed to productivity button message: Proceed to Productivity*/
+"Proceed_To_Productivity" = "Ga verder naar Productiviteit";
+
+/*rating prefered modes of transport message: Productive*/
+"Productive" = "Productief";
+
+/*message: Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…*/
+"Productivity_Worthwhile_Description_Score" = "Reistijd gebruiken om dingen af te werken, niet alleen voor het werk of studie, maar ook persoonlijke dingen zoals huishoudelijke of familiale zaken...";
+
+/*message: I used my  trip to get stuff done!*/
+"Productivity_Worthwhile_High_Score" = "Ik heb mijn tripje gebruikt om dingen gedaan te krijgen!";
+
+/*message: I don’t work when I travel*/
+"Productivity_Worthwhile_Low_Score" = "Ik werk niet als ik onderweg ben.";
+
+/*message: How important are the travel time worthwhileness elements for you, when you travel?*/
+"Rate_Worthwhileness_Screen_Title" = "Hoe belangrijk is het voor jou dat je reis waardevol, nuttig kan besteed worden?";
+
+/*message: How much enjoyment do you get from your your travel time by:*/
+"Rating_Prefered_Mot_Enj_Title" = "Hoeveel ontspanning krijg je tijdens je reistijd als je onderweg bent met:";
+
+/*message: How does your travel time contribute to your fitness when you travel by:*/
+"Rating_Prefered_Mot_Fit_Title" = "Hoe draagt je reistijd bij aan jouw conditie als je onderweg bent met:";
+
+/*message: How productive are you when you travel by:*/
+"Rating_Prefered_Mot_Prod_Title" = "Hoe productief ben je als je onderweg bent met:";
+
+/*register button message*/
+"Register" = "Registreer";
+
+/*message: Which modes of transport do you use regularly?*/
+"Regualr_Modes_Of_Transport_Title" = "Welke vervoerswijzen gebruik jij regelmatig?";
+
+/*Reset Password*/
+"Reset_Password" = "Reset je paswoord";
+
+/*message: Check out $@ for more information*/
+"Second_Onboarding_Screen_Help_Reseach_Check_Out_Site" = "Check hier %@ voor meer informatie";
+
+/*message: With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.*/
+"Second_Onboarding_Screen_Help_Reseach_Description" = "Met de informatie die jij ons bezorgt, zal Woorti kennisverzamelen voor betere vervoersoplossingen en die delen met onderzoekers, vervoersmaatschappijen en lokale overheden in heel Europa.";
+
+/*The message for this text was incorrect, the real message in English is: Help research for better transport
+ When possible please retranslate this message.*/
+"Second_Onboarding_Screen_Help_Reseach_Title" = "Help het onderzoek naar beter vervoer";
+
+/*sign in button message*/
+"Sign_In" = "Teken in";
+
+/*splash screen start now button message*/
+"Start_Now" = "Start nu";
+
+/*message: While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.*/
+"Third_Onboarding_Screen_Description" = "Sommigen vinden het leuk om onderweg te werken of te studeren, anderen ontspannen graag en laten alles even los. Nog anderen benutten de gelegenheid om aan hun conditie te werken. Sommigen vliegen in hun dag met muziek.";
+
+/*error shown to the user when registering with a already signed in email account*/
+"User_Already_Signed_In" = "Het lijkt erop dat %@ je al een profiel hebt. Inloggen?";
+
+/*title that appears on the top of the login page*/
+"Welcome_Back" = "Welkom terug";
+
+/*title for the first onboarding page message: What is a worthwhile trip*/
+"What_Is_A_Worthwhile_Trip" = "Wat is een waardevolle trip/ reis?";
+
+/*message: What is your age?*/
+"What_Is_Your_Age" = "Wat is je leeftijd?";
+
+/*message: What is your name?*/
+"What_Is_Your_Name" = "Wat is je naam?";
+
+/*message: Where do you live?*/
+"Where_Do_You_Live" = "Waar woon je?";
+
+/*you've got mail!*/
+"Youve_Got_Mail" = "Je hebt mail!";
+"No_Ongoing_Trip_To_Show" = "Geen lopend reistraject om te tonen.";
+"Your_Trip" = "Jouw reistraject";
+"Click_On_The_Marker_To_Split_The_Trip" = "Klik op de marker om op te splitsen.";
+"Security_Boarding_Process" = "Veiligheid en inchecken";
+"Other_Activity" = "Andere activiteit";
+"Cycling" = "Het fietsen op zich";
+"Riding" = "Het rijden op zich";
+"Skating" = "Het skaten op zich";
+"Driving" = "Het rijden op zich";
+"Running" = "Het rennen op zich";
+
+/*message: Please wait while Woorti searches for local studies*/
+"Wait_While_Searching_Local_Studies" = "Even wachten terwijl Woorti zoekt naar lokale studies";
+
+/*message: There are these studies going near you. Which one(s) do you want to contribute with data to?*/
+"Studies_Title" = "Dit zijn lopende onderzoeken dicht bij jou. Aan welke wil jij graag data bijdragen?";
+"Menu" = "Menu";
+"Set_Home" = "Stel thuisadres in";
+"Set_Work" = "Stel werkadres in";
+"Change_Photo" = "Verander de foto";
+"Name" = "Naam";
+"Define_Home_Location" = "Definieer de locatie van jou thuis om sneller reistrajecten vast te leggen.";
+"Define_Work_Location" = "Definieer de locatie van jouw werk om sneller reistrajecten vast te leggen.";
+"Edit" = "Verander";
+"Educational_Background" = "Opleiding";
+"Activities" = "Activiteiten";
+"While_You_Ride" = "Onderweg";
+"Ability_To_Do_What_I_Wanted" = "De mogelijkheid om onderweg te doen wat ik wil ";
+"Simplicity_Difficulty_Of_The_Route" = "De eenvoud/ ingewikkeldheid van de route";
+"Schedule_Reliability" = "Betrouwbaarheid van de duur van mij reistraject";
+"Security_And_Safety" = "Veiligheid";
+"Space_Onboard_For_Lugagge_Pram_Bicycle" = "Plaats voor bagage/ buggy/ fiets etc.";
+"Ability_To_Take_Pets_Along" = "Mogelijkheid om huisdieren mee te nemen";
+"Payment_And_Tickets" = "Betaling en tickets";
+"Convenient_Access_Lifts_Boarding" = "Goede toegankelijkheid (liften, in- en uitstappen etc)";
+"Route_Planning_Navigation_Tools" = "Routeplanning en navigartiemogelijkheden";
+"Information_And_Signs" = "Informatie en borden";
+"Checkin_Security_And_Boarding" = "Check-in, veiligheid en instapprocedures";
+"Crowdedness_Seating" = "Drukte/ beschikbaarheid van zitplaatsen";
+"Internet_Connectivity" = "Internetverbinding";
+"Ability_To_Do_The_Things_I_Want" = "Mogelijkheid om te doen wat ik wil onderweg";
+"Charging_Opportunity" = "Mogelijkheid om batterij op te laden";
+"Car_Bike_Parking_At_Transfer_Point" = "Auto/ Fietsparking op overstappunt";
+"Vehicle_Ride_Smoothness" = "Zacht en comfortabel rijden met dit voertuig";
+"Seating_Quality_Personal_Space" = "Kwaliteit van de zitplaats/ persoonlijke ruimte";
+"Other_People" = "Andere mensen";
+"Air_Quality_Temperature" = "Luchtkwaliteit/ temperatuur";
+"General_Atmosphere_Design" = "Algemene atmosfeer/ ontwerp";
+"Road_Path_Availability_And_Safety" = "Weg/ pad-beschikbaarheid en veiligheid";
+"Accessibility_Escalators_Lifts_Ramps_Stairs_Etc" = "Goede toegankelijkheid (liften etc)";
+"Ability_To_Carry_Bags_Luggage_Etc" = "Mogelijkheid om zakken en koffers te dragen";
+"Ability_To_Take_Kids_Or_Pets_Along" = "Mogelijkheid om kinderen of huisdieren mee te nemen";
+"Benches_Toilets_Etc" = "Toiletten etc";
+"Facilities_Shower_Lockers" = "Faciliteiten (douche, lockers...)";
+"Parking_At_End_Points" = "parking op de bestemming";
+"Road_Path_Quality" = "Kwaliteit van de weg/ het pad";
+"Road_Path_Directness" = "Directe verbinding van de weg/ het pad";
+"Air_Quality" = "Luchtkwaliteit";
+"Lighting_Visibility" = "Verlichting/ zichtbaarheid";
+"Cars_Other_Vehicles" = "Auto's/ andere voertuigen";
+"Space_For_Luggage_Pram_Bicycle_Etc" = "Plaats voor bagage/ buggy/ fiets etc";
+"Road_Quality_Vehicle_Ride_Smoothness" = "Kwaliteit van het wegdek/ zacht rijden met het voertuig";
+"Vehicle_Quality" = "Kwaliteit van het voertuig";
+"Seat_Comfort" = "Comfort van de zitplaatsen";
+"Other_Passengers" = "Andere passagiers";
+"Other_Cars_Vehicles" = "Andere auto's/ voertuigen";
+
+/*Button text on second onboarding page*/
+"Lets_Get_Started" = "Laat ons eraan beginnen!";
+
+/*Report issue*/
+"Thank_You_For_Submitting_This_Issue" = "Dank je om dit probleem te melden. Bevestig deze melding of meld nog een probleem.";
+"Confirm_And_Leave" = "Bevestig en ga weg";
+"Confirm_And_Submit_More" = "Bevestig en meld nog een probleem";
+"Where_City" = "Waar in %@?";
+"OtherCountry" = "Ander land";
+"OtherCity" = "Andere stad";
+"Sign_Up_Error" = "Aanmeldingsfout";
+"Sign_Up" = "Meld aan";
+"How_Important_Are_The_Following_Factors" = "Hoe belangrijk zijn volgende factoren voor jou terwijl je onderweg bent:";
+"Modes_Of_Transport" = "Vervoerswijzen";
+"Help_Research_For_Better_Transport" = "Help onderzoek voor beter vervoer";
+"Already_Signed_Up_Log_In_Here" = "Heb je al een profiel? Log dan hier in.";
+"Welcome" = "Welkom";
+"Refresh_Surveys" = "Ververs";
+
+/*This string has the text for the data regarding Activities (e.g., for the walk itself) and *not* the walking mode of transport*/
+"The_Walk_Itself" = "Het stappen op zich";
+"Education_Highshool" = "Middelbaar onderwijs";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Education_Basic" = "Lager onderwijs";
+"Education_University" = "Universiteit";
+
+/*Ocupation options*/
+"Occupation" = "Beroep";
+"Ocupation_Student" = "Student";
+"Ocupation_Schedule_Worker" = "Voltijds werkend";
+"Ocupation_Flexible_worker" = "Deeltijds werkend";
+"Ocupation_Selfemployed" = "Zelfstandige/ freelancer";
+"Ocupation_Seeking_Work" = "Werkzoekend";
+"Ocupation_Inactive" = "Inactief/ gepensioneerd";
+"Ocupation_Maternity" = "Met moederschaps-/ vaderschapsverlof";
+"Ocupation_Military" = "In militaire dienst";
+
+/*Marital status*/
+"Marital_Status" = "Burgerlijke status";
+"Marital_Single" = "Single";
+"Marital_Married" = "Getrouwd";
+"Matital_Significant_Other" = "Partner";
+"Marital_Divorced" = "Gescheiden";
+"Marital_Widowed" = "Weduwe/ weduwnaar";
+"Driver_License" = "Rijbewijs";
+"Household_Yearly_Income" = "Jaarlijks netto inkomen";
+"Number_People_Household" = "Aantal mensen in het gezin";
+"Number_Children_household" = "Aantal kinderen in het gezin";
+"Number_Cars_Household" = "Aantal auto's in het gezin";
+"Nationality" = "Nationaliteit";
+
+/*TODO NEW STRING*/
+"No_Trips_Text" = "Op dit scherm zullen jouw reistrajecten verschijnen, en zal je ze een waardering kunnen geven. Kom na een traject terug naar hier.\nWoorti probeert geen enkele van jouw reistrajecten te missen, maar als je zéker wil zijn dat ze opgenomen worden, duw dan zelf op 'start'.\nZorg dat je GPS opstaat.";
+
+/*Dashboard*/
+/*you have spent %@ travelling a distance of %@ in %@.*/
+"You_Have_Spent_Complete" = "Je bent %@ onderweg geweest en je legde een afstand af van %@ in %@.\n";
+"In_Total_You_Spent_Calories" = "Je hebt in totaal %@ calorieën verbrand.\n";
+"And_This_Counted_Carbon_Footprint" = "En dit telt voor %@ van je voetafdruk.";
+"Your_Trips_Overall_Percentage_Worthwhile" = "Je trajecten waren %@ waardevol.\n";
+"While_Traveling_Activities" = "Terwijl je onderweg was, heb je %@ van je tijd besteed aan %@.\n";
+"Do_You_Want_To_Set_This_Location_Home" = "Wil je deze bestemming instellen als je thuisadres?";
+"Do_You_Want_To_Set_This_Location_Work" = "Wil je deze bestemming instellen als je werkadres?";
+"Privacy_Policy" = "Privacybeleid";
+
+/*day*/
+"Day" = "Dag";
+
+/*3 days*/
+"Days_3" = "3 dagen";
+
+/*week*/
+"Week" = "Week";
+
+/*month*/
+"Month" = "Maand";
+
+/*year*/
+"Year" = "Jaar";
+
+/*era*/
+"Era" = "Eeuw";
+
+/*worthwhile*/
+"Worthwhile" = "Waardevol";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Other_Activities" = "Andere activiteiten";
+
+/*Marital status*/
+"Household_Marital" = "Burgerlijke status";
+"Household_Years_Residence" = "Hoeveel jaren woon je al in dit land";
+"Household_Labour_Status" = "Werkstatus";
+"Labour_Student" = "Student";
+"Labour_Employed_Full_Time" = "Voltijds werkend";
+"Labour_Employed_Part_Time" = "Deeltijds werkend";
+"Labour_Unemployed" = "Werkloos";
+"Years_Residence_Less_Than_One" = "Minder dan 1";
+"Years_Residence_One_To_Five" = "1 tot 5";
+"Years_Residence_More_Than_Five" = "Meer dan 5";
+"Walk_For_Distance" = "%@ aan het wandelen";
+"Household" = "Gezin";
+"Total_Points" = "Totaal aantal punten";
+"Todays_Travel_Report" = "Reisrapport van vandaag";
+
+/*link to page with privacy policy specific to each language*/
+/*Fuzzy*/
+"Url_Privacy_Policy" = "https://motivproject.eu/data-collection/data-protection/belgium.html";
+
+/*%@ questions*/
+"N_Questions" = "%@ vragen";
+
+/*New survey*/
+"New_Survey" = "Nieuwe vraag";
+
+/*Minutes more*/
+"Minutes_More" = "minuten meer";
+
+/*Minutes less*/
+"Minutes_Less" = "minuten minder";
+
+/*Kilometers more*/
+"Km_More" = "km meer";
+
+/*Kilometers less*/
+"Km_Less" = "km minder";
+
+/*Trip validation*/
+"Trip_Validation" = "Reistraject validatie";
+
+/*Latest story*/
+"Latest_Story" = "Nieuwste verhaal";
+"Household_Data" = "Gezinsgegevens";
+
+/*new text for battery warning pop up in mytrips (so that people are remembered to disable battery optimizations that undermine the app working in background)*/
+/*battery warning popup text*/
+"Alert_Battery_Content" = "Woorti werkt in de achtergrond als er reistrajecten worden opgenomen. Zorg dat er geen batterijbesparende instellingen aanslaan, om te vermijden dat de App zichzelf uitschakelt.";
+
+/*"In the last" start message of DashBoard, Please use sentence that fits any number of days*/
+/*Dashboard*/
+"In_The_Last" = "in het laatste";
+
+/*stories*/
+"story_1_title_chiaras_new_train_ride" = "Chiara's nieuwe treinrit";
+"story_1_text_chiaras_train_ride" = "Chiara verhuisde onlangs met haar man en twee kinderen naar de Brusselse rand. Ze brengt haar kinderen naar school met de bakfiets en rijdt dan verder naar het station, waar ze op de trein stapt, om 25 minuten later aan te komen in het centrum. Chiara moet nu beduidend langer pendelen en was daar in eerste instantie niet zo gelukkig mee, maar ondertussen geniet ze van haar tijd in de trein. Ze kan nu ontspannen en dingen doen waar ze anders niet toe zou komen.\n\nZe begon deze tijd te benutten om een boek te lezen. Na een tijdje echter voelde ze dat 25 minuten niet genoeg was om echt in het verhaal te komen.\n\nDan probeerde ze een magazine te lezen, maar omdat ze houdt van lange en diepgaande artikels, bleef hetzelfde probleem bestaan.\n\nDan begon ze gewoon wat Facebook te checken. Ze ging zo op in de inhoud dat ze soms bijna vergat af te stappen. Chiara besliste dat de dag starten met Facebook niet het beste was voor haar hart en brein.\n\nUiteindelijk vond ze iets wat wel werkte. Omdat ze verhuisd waren naar een plaats waar Nederlands wordt gesproken, vond ze dat ze de taal moest leren. Met een taalles-App, bleek de treinrit voldoende om twee, drie lesjes te leren. Het gaf haar ook het juiste leerritme om een taal te leren: elke dag een beetje, langzaam aan elke dag een beetje beter kunnen praten met de mensen in haar buurt.\n\nDe beste keuze voor Chiara was iets te vinden dat zowel overeenkwam met de beschikbare tijd als iets dat ze wilde doen in deze levensfase.\n\nEn jij? Wat is de beste keuze tijdens jouw reistijd?";
+"story_2_title_the_best_way_to_get_great_ideas_while_moving_p1" = "De beste manier om onderweg geweldige ideeën te krijgen ";
+"story_2_text_the_best_way_to_get_great_ideas_while_moving_p1" = "Zijn er activiteiten waarbij er makkelijker nieuwe ideeën in je opkomen? Elon Musk antwoordde op de vraag 'Wat is het meest productieve deel van jouw dag': 'Als ik in de douche sta'. Hij is niet de enige: veel mensen geven aan dat veel van hun beste ideeën in de douche opkomen!\n\nZou dat ook kunnen gebeuren wanneer we onderweg zijn? Zijn er momenten die dan het meest productief zijn?\n\nEigenlijk blijkt onderweg zijn zeer geschikt om op nieuwe ideeën te komen. Verschillende grote denkers blijken dit voordeel te hebben ontdekt, dat als ze in beweging zijn, ze dan beter kunnen nadenken over iets.\n\nHint: sommigen van hen, zoals Beethoven, Dickens en Darwin, leefden op een plek zonder gemotoriseerde voertuigen.\n\nNog een hint: het is een vorm van beweging die het brein activeert.\n\nRaad jij het? Check het in het verhaal van morgen... :)";
+"story_3_title_the_best_way_to_get_great_ideas_while_moving_p2" = "De beste manier om onderweg geweldige ideeën te krijgen ";
+"story_3_text_the_best_way_to_get_great_ideas_while_moving_p2" = "Dus, welke vorm van beweging van de grote denkers uit het vorige verhaal zorgde voor goede ideeën?\n\nWandelen!\n\nJa, Steve Jobs bijvoorbeeld deed eenzame wandelingen op het Apple-domein in Palo Alto, gewoon om beter te kunnen denken. Hij deed ook wandel-vergaderingen: in plaats van een vergaderlokaal, nam hij hen mee voor een wandeling.\n\nIs er hier een wetenschappelijke uitleg voor, of was dat gewoon willekeurig?\n\nWel, er zijn studies die aantonen dat wanneer mensen wandelen, er bepaalde delen van het brein worden geactiveerd. Een studie met schoolkinderen toonde aan dat wanneer kinderen op school aankwamen, hun brein veel actiever was als ze te voet waren gekomen dan met de auto.\n\nNatuurlijk mag er iet teveel afleiding zijn tijdens een wandeling, om het brein optimaal te kunnen laten ideeën spuien. Verkeer, lawaai, obstakels... Steden die ontworpen zijn met betere voorwaarden om te wandelen zijn betere steden om op grootse ideeën te komen!\n\nOm productieve wandelmeetings te bevorderen, had iemand een geweldig idee (misschien in de douche gekregen, wie weet!): Een App te bouwen die wandelroutes uitstippelde die zeer geschikt waren voor wandelmeetings. De App heet Weeting en bevat verschillende vergaderwandelroutes in Nederland.\n\nHoe goed zijn jouw wandelroutes om na te denken?";
+"story_4_title_the_7_shades_of_pedros_cycling_time" = "De zeven tinten van Pedro's fietstijd";
+"story_4_text_the_7_shades_of_pedros_cycling_time" = "Voor Pedro was het aanhankelijken statement. Hij begon naar z'n werk te fietsen in de tijd dat dat in Lissabon nog iets heel vreemd was. Oude mannen riepen hem toe 'Komaan fietser, komaan', alsof het de Ronde van Frankrijk was. Autobestuurders toeterden 'Uit de weg!'\n\n";
+"story_5_title_stopping_or_not_stopping_in_a_moving_walkway" = "Stoppen of niet, op een bewegend wandelpad?";
+"story_5_text_stopping_or_not_stopping_in_a_moving_walkway" = "Have you noticed that some people stop in moving walkways or stairways, while others keep walking?  \n \n\nWhat do you think is the reason for this distinct behaviour? \n \n\nDo you prefer when other people walk, or when they stand? \n \n\nIf the answer that came into your head seems straight obvious, think again. It might not be that simple. \n \n\nNext time you go on a moving walkway, try observing people that either walk or stand. Just by looking at them, you might get pretty good hints about the why. If you keep imagining, you might also have a journey into what might be their whole story. It’s fun! \n \n\nStopping, or not stopping, in a moving walkway? Read our full story here (English only):\n\nhttps://motivproject.eu/news/detail/stopping-or-not-stopping-in-a-moving-walkway.html\n";
+"story_6_title_virtual_travel_time" = "Virtuele reistijd";
+"story_6_text_virtual_travel_time" = "Have you heard of the “virtual travel time”? \n \n\nNo, it’s not about travelling in virtual reality. It’s something more concrete. \n \n\nHow much time do you exactly take travelling from point A to point B? You’ll probably say: well it’s my journey time, of course! \n \n\nWell, from a certain perspective, it isn’t. It might even actually be much more than that… \n \n\nThink about it: to travel from point A to point B, you probably had to spend some money. If you’re travelling by car, that is all the costs associated to riding and possessing a car. If you’re going by public transport, that’s the cost of your ticket. Even if you’re walking, you’re at least wearing your shoes, and you’ll end up having to replace them more quickly. \n \n\nBut what does money have to do with travel time? \n \n\nTo obtain money, you (or someone else for you) has to work to gain it, and working takes time. So, the time of your travel is not only the time you spend travelling, it’s also the time you spend earning the money necessary for travelling. \n \n\nFor example, take a car. On average a car costs, all expenses included, 350 euros a month. The amount of work that you have to put in monthly to pay that car, add it to your travel time of the trips for that month. That’s your virtual travel time. \n \n\nIf you're fortunate, you might say that working is not loss of time, because you love working. And you might also say the same about travelling to work, maybe. Yes, that makes the issue even more complicated. \n \n\nHow fo you see it? Share your thoughts with us :-)\n \nhttps://www.facebook.com/MotivProject.eu/ \n\nhttps://twitter.com/MoTiV_Project\n";
+
+/*new string in mobility coach*/
+/*mobility coach*/
+"Your_Mobility_Journey" = "Verhalen en lessen";
+
+/*new string to translate in home module*/
+/*home module*/
+"You_have_trips_to_validate" = "Je hebt reistrajecten om te valideren.";
+
+/*(story) Coming tomorrow*/
+"Coming_Tomorrow" = "Morgen";
+
+/*Story (1, 2, 3, 4...)*/
+"Story" = "Verhaal %@";
+
+/*profile and settings*/
+"Marital_Partnership" = "Geregistreerd partnerschap";
+
+/*profile and settings */
+"Labour_Pensioner" = "Gepensioneerd";
+
+/*Notification shown when a trip has started */
+"Trip_Has_Started_At" = "Traject gestart om %@";
+
+/*Notification shown when a trip has ended*/
+"Trip_Has_Ended_At" = "Traject gestopt om %@";
+"Trip_Has_Ended" = "Traject afgelopen!";
+"engagement_notification_1_title" = "Woorti heeft net je eerste reistraject opgenomen!";
+"engagement_notification_1_content" = "Open de App en vertel erover! ";
+"engagement_notification_2_title" = "Je hebt een verhaal om te lezen.";
+"engagement_notification_2_content" = "Als je het vandaag leest, kan je morgen nog één lezen.";
+"engagement_notification_3_title" = "Er is een nieuw verhaal!";
+"engagement_notification_3_content" = "Denk eraan je laatste traject te waarderen";
+"Language_Changed_Popup_Content" = "Start de App opnieuw om dit proces te vervolledigen.";
+"Language_Changed_Popup_Title" = "Taal veranderd";
+
+/*Predictability of travel time*/
+"Predictability_Of_Travel_Time" = "Voorspelbaarheid van reistijd";
+"Urban_Scenery_Atmosphere" = "Stedelijke omgeving en atmosfeer";
+"While_You_Are_There" = "Terwijl je daar bent";
+"Begin" = "Begin";
+"engagement_notification_4_title" = "Heb je je reistijdstatistieken al gecheckt?";
+"engagement_notification_4_content" = "Tap om je dashboard te zien.";
+"engagement_notification_5_title" = "Je reistijd-waardevolheid tot nu toe is %@";
+"engagement_notification_5_content" = "Heb je opgemerkt hoe het varieert met de trips die je maakt?";
+"engagement_notification_6_title" = "Rapporteer je laatste traject.";
+"engagement_notification_6_content" = "Vul je data in en check je statistieken.";
+"engagement_notification_7_title" = "%@ minuten";
+"engagement_notification_7_content" = "is de tijd die je deze week onderweg bent geweest";
+"engagement_notification_8_title" = "Blijf reistijdkwaliteitsonderzoek steunen.";
+"engagement_notification_8_content" = "Dank je om je trajecten door te geven! Tap hier.";
+"engagement_notification_9_title" = "Rapporteer je laatste traject.";
+"engagement_notification_9_content" = "Vul je data in en check je statistieken.";
+
+/*when referencing campaigns*/
+"Campaigns" = "Campagnes";
+
+/*Welcome to your trips board, %NAME_USER% !*/
+"Welcome_To_Your_Trips_Board_Username" = "Welkom bij je trajecten-overzicht, %@!";
+
+/*You have X trips left to report in the last 3 days*/
+"You_Have_X_Trips_Left_3_Days" = "Je hebt %@ trips om te waarderen in de laatste 3 dagen.";
+
+/*These are the trips you have made! Reporting on them helps our research, and allows you to monitor your travel time. After reporting each trip, find out your travel time worthwhileness statistics in the Dashboard! Press the ‘!’ mark to report.*/
+"These_Are_The_Trips_You_Have_Made" = "Dit zijn de trajecten die je hebt afgelegd! Ze valideren op kwaliteit helpt ons onderzoek, en helpt jou je reistijd te monitoren. Na elk traject kan je je 'reistijdwaardevolheid'-statistieken in het Dashboard bekijken. Tap op '!' om te valideren.";
+
+/*Now that you have a reported trip, you can check your first travel time statistics in the Dashboard.*/
+"Now_That_You_Have_A_Reported_Trip_Popup_Text" = "Nu dat je een gevalideerd traject hebt, kan je je eerste reistijdstatistieken checken in het Dashboard.";
+
+/*Go to dashboard*/
+"Go_To_Dashboard" = "Ga naar dashboard";
+
+/*Report trips*/
+"Report_Trips" = "Valideer trajecten";
+
+/*This is your Dashboard. It shows how worthwhile your travel time is.  For your trip stats to appear here, report your trips*/
+"This_Is_Your_Dashboard_Popup_Text" = "Dit is je Dashboard. Het toons hoe waardevol jij jouw reistijd vindt. \nWil je dat jouw statistieken hier verschijnen, valideer dan je trajecten.";
+
+/*See dashboard*/
+"See_Dashboard" = "Zie dashboard.";
+
+/*profile and settings*/
+"Campaign_Scores" = "Campagnescores";
+
+/*when iOS user is redirected and asked to authorize GPS in phone settings after denying permissions in On-boarding*/
+"GPS_Link_Phone_Settings" = "Instellingen";
+
+/*when iOS user is asked to authorize GPS in phone settings and selects back to dismiss this dialogue*/
+"GPS_Go_Back" = "Terug";
+
+/*Days*/
+"Days" = "Dagen";
+
+/*trips*/
+"Trips" = "Trajecten";
+
+/*Issue form*/
+"Issue_Form" = "Probleemmeldingsformulier";
+
+/*Thank you for reporting an issue*/
+"Thank_You_For_Reporting_An_Issue" = "Bedankt om een probleem te melden!";
+
+/*Submit log*/
+"Submit_Log" = "Invul-logboek";
+
+/*Send log*/
+"Send_Log" = "Verzend logboek";
+
+/*No log needed for this issue. Skip.*/
+"No_Log_Needed_For_This_Issue_Skip" = "Geen registratie nodig voor dit probleem. Sla over.";
+
+/*Targets & Rewards*/
+"Targets_And_Rewards" = "Doelen & beloningen";
+
+/*Tasks*/
+"Tasks" = "Taken";
+
+/*To analise the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.*/
+"To_Analyse_This_Issue" = "To analyse the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.";
+
+/*points*/
+"Points" = "Punten";
+
+/*Progress (Reward progress)*/
+"Progress" = "Voortgang";
+
+/*%1$s days left*/
+"days_left_reward" = "%@ dagen over";
+
+/*user registration*/
+"Password_Length_Message" = "Maak een paswoord tussen 6 en 16 karakters.";
+
+/*Onboarding*/
+"How_Productive_Are_You" = "How productive are you";
+
+/*Woorti is running in the background*/
+"Woorti_Is_Running" = "Woorti is running in the background";
+
+/*Continue*/
+"Continue" = "Continue";
+
+/*Hurray!!!*/
+"Hurray" = "Hurray!!!";
+
+/*You have completed your target for NAME_REWARD!*/
+"You_Have_Completed_Your_Target" = "You have completed your target for %@ !";
+
+/*Keep reporting your trips to monitor your stats to see your evolution and help this research */
+"Keep_Reporting_Your_Trips_Reward_Completed_Popup" = "Keep reporting your trips to monitor your stats to see your evolution and help this research";
+
+/*Woorti just detected that you started a trip*/
+"Woorti_Just_Detected_Start_Trip" = "Woorti just detected that you started a trip";
+
+/*Your  trip has ended.\nYou can now report about it in Woorti*/
+"Your_Trip_As_Ended" = "Your trip has ended";
+
+/*Onboarding*/
+"Onboarding_Successful" = "Onboarding Successfully Completed";
+
+/*Trip validation tutorial*/
+"Trip_Validation_Tutorial" = "Trip validation tutorial";
+
+/*Onboarding*/
+"Onboarding_Duplicated" = "Onboarding was already completed before. Logging in.";
+
+/*Onboarding*/
+"Onboarding_Error" = "An error has occurred during Onboarding. Please try completing Onboarding again.";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Attempt" = "Attempting to submit trip information";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Successful" = "Trip information submitted successfully";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Not_Submitted" = "Trip not submitted - reconnect later";
+
+/*You can now report about it in Woorti*/
+"You_Can_Now_Report_About_It_In_Woorti" = "You can now report about it in Woorti";
+
+/*Complete until dd/mm/yyyy*/
+"Complete_Until" = "Complete until %@";
+
+/*You have a new survey (notification)*/
+"You_Have_A_New_Survey" = "You have a new survey.";
+
+/*Fill it in and earn %@ points. (notification -> fill survey)*/
+"Fill_It_And_Earn_XX_Points" = "Fill it in and earn %@ points";
+
+/*Is your phone blocking trip detection?*/
+"Is_Your_Phone_Blocking_Trip_Detection" = "Is your phone blocking trip detection?";
+
+/*Woorti gives you 25 points for each additional information item you fill in your profile.*/
+"Woorti_Gives_You_Points_For_Each_Info" = "Woorti gives you 25 points for each additional information item you fill in your profile.";
+
+/*If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.*/
+"If_Thats_The_Case_Fortunately_There_Is_Solution" = "If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.";
+
+/*Enable app activity*/
+"Enable_App_Activity" = "Enable app activity";
+
+/*Do not show again*/
+"Do_Not_Show_Again" = "Do not show again";
+
+/*If your trips are frequently not being recorded, your phone might be blocking this app’s activity.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded" = "If your trips are frequently not being recorded, your phone might be blocking this app’s activity.";
+
+/*Tell us more about yourself*/
+"Tell_Us_More_About_Yourself" = "Tell us more about yourself";
+
+/*Your data is anonymised.*/
+"Your_Data_Is_Anonymised" = "Jouw data worden geanonimiseerd";
+
+/*Fill in profile*/
+"Fill_In_Profile" = "Vul profiel in";
+
+/*Later*/
+"Later" = "Later";
+
+/*Point all time*/
+"Points_All_Time" = "Alle punten";
+
+/*Days with trips all time*/
+"Days_All_Time" = "Alle dagen met trajecten";
+
+/*Trips all time*/
+"Trips_All_Time" = "Alle trajecten";
+
+/*temporary text without link to battery optimization site not endorsed by motiv.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded_No_Link_To_Site" = "If your trips are frequently not being recorded, your phone might be blocking this app’s activity. Check your battery optimization settings in Android to unblock Woorti.";
+
+/*Dashboard_You*/
+"Dashboard_You" = "Jij";
+
+/*Dashboard_Community*/
+"Dashboard_Community" = "Community";
+
+/*Dashboard_Citizens*/
+"Dashboard_Citizens" = "Citizens";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Onboarding" = "These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Leg_Info_Recorded" = "Deze resultaten tonen hoe waardevol jij jouw deeltrajecten vindt van de reis waarover je rapporteert.";
+
+/*Dashboard*/
+"Dashboard_Your_Whole_Trips" = "Your whole trips";
+
+/*Dashboard*/
+"Dashboard_Your_Reported_Legs" = "Je gerapporteerde deeltrajecten";
+
+/*Dashboard*/
+"Time_Spent_In_Travel" = "Time Spent in Travel";
+
+/*Dashboard*/
+"Travelled_Distance" = "Travelled Distance";
+
+/*Dashboard*/
+"CO2_Emissions" = "CO2 Emissions";
+
+/*Dashboard*/
+"Calories" = "CO2-uitstoot";
+
+/*Dashboard*/
+"The_Community_Trips" = "The community's trips";
+
+/*Dashboard*/
+"The_Community_Validated_Legs" = "De deeltrajecten van de community";
+
+/*Dashboard*/
+"Compared_To_Your_Scores" = "(compared to your scores)";
+
+/*Dashboard*/
+"Worthwhileness" = "Waardevolheid";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Title" = "Hallo reiziger!";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_1" = "Report your %@ detected trips in the last ";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_2" = "to see your complete real stats in the dashboard.";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Report_Trips" = "REPORT TRIPS";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_See_Dashboard" = "SEE DASHBOARD";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Text" = "Uitzonderlijk gebeurt het dat een traject niet perfect wordt gedetecteerd. Om je reis op te delen in deeltrajecten of delen te wissen, klik hier.";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Button" = "Begrepen!";
+
+/*Home module travel report*/
+"Seven_Day_Travel_Report" = "7-day travel report";
+
+/*Home (travel report link to Dashboard)*/
+"Learn_More" = "Meer hierover";
+
+/*Dashboard*/
+"In_Total_Users_Spent_Calories" = "On average, users in the community have burned %@.";
+
+/*Dashboard*/
+"And_This_Counted_Carbon_Footprint_Users" = "On average, the community spent %@ of their sustainable carbon footprint.";
+
+/*People from "campaign/city/country" on average have spent "3 min more/less" travelling a distance of "3km more/less" than you per day.*/
+"People_From_Place_Have_Spent_On_Average" = "People from %@ on average have spent %@ travelling a distance of %@ than you, per day.";
+
+/*"3 km more"*/
+"Number_Km_More" = "%@ km more";
+
+/*"3 km less"*/
+"Number_Km_Less" = "%@ km less";
+
+/*"3 min more"*/
+"Number_Min_More" = "%@ min more";
+
+/*"3 min less"*/
+"Number_Min_Less" = "%@ min less";
+
+/*Dashboard*/
+"Community_Trips_Overall_Percentage_Worthwhile" = "The community's trips worthwhileness (compared to your scores)";
+
+/*These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.*/
+"Dashboard_Worthwhileness_Popup_Text" = "These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.";
+
+/*What is the carbon budget?*/
+"What_Is_The_Carbon_Budget" = "What is the carbon budget?";
+
+/*The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle.  A person’s yearly mobility carbon budget is 500kg*/
+"The_Carbon_Budget_Is" = "The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle. \\n \\n A person’s yearly mobility carbon budget is 500kg";
+
+/*City/Region*/
+"City_Region" = "Stad/ regio";
+
+/*You*/
+"You" = "Jij";
+
+/*Average minutes*/
+"Avg_Minutes" = "Min per day";
+
+/*Average kilometers*/
+"Avg_Kilometers" = "Km per day";
+
+/*Average kilograms*/
+"Avg_Kilograms" = "Kg CO2 per day";
+
+/*Average calories*/
+"Avg_Calories" = "Calories per day";
+
+/*Hours*/
+"Hours" = "Uren";
+
+/*Dashboard - unable to show some global stats (e.g. always disconnected)*/
+"Unable_Show_Stats" = "Unable to retrieve community statistics.";

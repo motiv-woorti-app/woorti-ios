@@ -1,0 +1,114 @@
+
+/* Class = "UILabel"; text = "Train"; ObjectID = "1p2-1v-y3O"; */
+"1p2-1v-y3O.text" = "Train";
+
+/* Class = "UILabel"; text = "Bicycle"; ObjectID = "3BJ-CB-Ogn"; */
+"3BJ-CB-Ogn.text" = "Bicycle";
+
+/* Class = "UILabel"; text = "Trip Start Date"; ObjectID = "3oe-4M-M8n"; */
+"3oe-4M-M8n.text" = "Trip Start Date";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6eM-cF-1S1"; */
+"6eM-cF-1S1.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Send Confirmed Trips To Server"; ObjectID = "8R6-mx-flQ"; */
+"8R6-mx-flQ.normalTitle" = "Send Confirmed Trips To Server";
+
+/* Class = "UILabel"; text = "Subway"; ObjectID = "8ll-xv-S31"; */
+"8ll-xv-S31.text" = "Subway";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "94B-sh-DSK"; */
+"94B-sh-DSK.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Bkj-PK-OKQ"; */
+"Bkj-PK-OKQ.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Bus"; ObjectID = "CJr-4Y-9hK"; */
+"CJr-4Y-9hK.text" = "Bus";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "Dkk-ml-t7y"; */
+"Dkk-ml-t7y.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Start Running Transport Detecttion"; ObjectID = "Dw3-b5-y7j"; */
+"Dw3-b5-y7j.normalTitle" = "Start Running Transport Detecttion";
+
+/* Class = "UIButton"; normalTitle = "Confirm Trip"; ObjectID = "ERp-r4-Gbc"; */
+"ERp-r4-Gbc.normalTitle" = "Confirm Trip";
+
+/* Class = "UILabel"; text = "Ferry"; ObjectID = "FCE-Ah-xQ7"; */
+"FCE-Ah-xQ7.text" = "Ferry";
+
+/* Class = "UIButton"; normalTitle = "Invoke RouteRank"; ObjectID = "GFc-zt-fPc"; */
+"GFc-zt-fPc.normalTitle" = "Invoke RouteRank";
+
+/* Class = "UIButton"; normalTitle = "Weather"; ObjectID = "GGh-vh-Xq5"; */
+"GGh-vh-Xq5.normalTitle" = "Weather";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "K4L-fG-mti"; */
+"K4L-fG-mti.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Tram"; ObjectID = "LgM-nN-EA8"; */
+"LgM-nN-EA8.text" = "Tram";
+
+/* Class = "UILabel"; text = "Walking"; ObjectID = "MIf-kJ-kVw"; */
+"MIf-kJ-kVw.text" = "Walking";
+
+/* Class = "UILabel"; text = "Version and Buid"; ObjectID = "OAB-5a-6hH"; */
+"OAB-5a-6hH.text" = "Version and Buid";
+
+/* Class = "UIButton"; normalTitle = "Delete all sent trips"; ObjectID = "PbB-2e-rEU"; */
+"PbB-2e-rEU.normalTitle" = "Delete all sent trips";
+
+/* Class = "UIButton"; normalTitle = "View Trips"; ObjectID = "Ptn-wO-Caw"; */
+"Ptn-wO-Caw.normalTitle" = "View Trips";
+
+/* Class = "UIButton"; normalTitle = "Go To Main Screen"; ObjectID = "QUA-8X-Ym1"; */
+"QUA-8X-Ym1.normalTitle" = "Go To Main Screen";
+
+/* Class = "UILabel"; text = "Running"; ObjectID = "TS2-MH-z9z"; */
+"TS2-MH-z9z.text" = "Running";
+
+/* Class = "UIButton"; normalTitle = "To"; ObjectID = "X9a-y9-dsj"; */
+"X9a-y9-dsj.normalTitle" = "To";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "aRk-qA-k2p"; */
+"aRk-qA-k2p.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Submit Survey"; ObjectID = "h3J-24-NGO"; */
+"h3J-24-NGO.normalTitle" = "Submit Survey";
+
+/* Class = "UIButton"; normalTitle = "From"; ObjectID = "iT1-5h-wwy"; */
+"iT1-5h-wwy.normalTitle" = "From";
+
+/* Class = "UIButton"; normalTitle = "SignIn"; ObjectID = "jmO-9v-sOu"; */
+"jmO-9v-sOu.normalTitle" = "SignIn";
+
+/* Class = "UIButton"; normalTitle = "Change Mode of Transport"; ObjectID = "ox7-2t-yhX"; */
+"ox7-2t-yhX.normalTitle" = "Change Mode of Transport";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pZa-Ri-77r"; */
+"pZa-Ri-77r.text" = "Label";
+
+/* Class = "UILabel"; text = "Car"; ObjectID = "pbM-Np-r8c"; */
+"pbM-Np-r8c.text" = "Car";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qFy-EZ-YhB"; */
+"qFy-EZ-YhB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Confirm or Change the Transport Used"; ObjectID = "ra0-sg-zdx"; */
+"ra0-sg-zdx.normalTitle" = "Confirm or Change the Transport Used";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tLH-Qu-87f"; */
+"tLH-Qu-87f.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Your Full Trips"; ObjectID = "tir-0n-gkv"; */
+"tir-0n-gkv.title" = "Your Full Trips";
+
+/* Class = "UIButton"; normalTitle = "Finish and Log Out"; ObjectID = "uj6-jW-gC4"; */
+"uj6-jW-gC4.normalTitle" = "Finish and Log Out";
+
+/* Class = "UIButton"; normalTitle = "surveys to fill"; ObjectID = "vfr-Lc-vxN"; */
+"vfr-Lc-vxN.normalTitle" = "surveys to fill";
+
+/* Class = "UILabel"; text = "Plane"; ObjectID = "wtI-L4-5Hf"; */
+"wtI-L4-5Hf.text" = "Plane";

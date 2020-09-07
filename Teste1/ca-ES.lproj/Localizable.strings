@@ -1,0 +1,1153 @@
+
+/*Drawer titles*/
+"Drawer_Title_Home" = "Inici";
+"Drawer_Title_Route_Planner" = "Planificador de ruta";
+"Drawer_Title_My_Trips" = "Els meus viatges";
+"Drawer_Title_Dashboard" = "Tauler de control";
+"Drawer_Title_Mobility_Coach" = "Assessor de mobilitat";
+"Drawer_Title_Profile" = "Perfil";
+"Drawer_Title_Settings" = "Perfil i configuració";
+"Drawer_Title_Report_Issue" = "Informa d'un problema";
+"Drawer_Title_Finish_Log_Out" = "Final de sessió";
+"login_what_is_email_address" = "Quin és el teu correu electrònic?";
+"login_enter_your_password" = "Escriu la teva contrasenya";
+
+/*Profile and settings options*/
+"Edit_Profile" = "Editar perfil";
+"Set_Home_And_Work" = "Establir casa i llocs de treball";
+"Demographic_Info" = "Informació demogràfica";
+"Worthwhileness_Settings" = "Configuració de mobilitat";
+"Tutorials" = "Tutorials";
+"Transport_Preferences" = "Preferències de transport";
+
+/*<string name="APP_PERMISSIONS">App permissions</string>*/
+"App_Language" = "Idioma de l'app";
+"Change_Password" = "Canviar contrasenya";
+"Feedback" = "Comentaris";
+"Log_Out" = "Tancar sessió";
+
+/*Education labels*/
+"Education_8th_Grade" = "Fins a 2n ESO";
+"Education_Some_Highschool" = "3r ESO a 1r batxillerat";
+"Education_Highschool" = "Educació secundària";
+"Education_Some_College" = "Algunes assignatures a la facultat, sense títol";
+"Education_Training" = "Formació tècnica/professional";
+"Education_Bachelor" = "Títol de grau";
+"Education_Master" = "Títol de màster";
+"Education_Professional" = "Títol professional";
+"Education_Doctorate" = "Títol de doctorat";
+"Education_Associate" = "Diplomat";
+"Education_No_Schooling" = "Cap escolarització institucional";
+
+/*Demographic option*/
+"Demographic_Option_General" = "General ";
+
+/*<string name="DEMOGRAPHIC_OPTION_HOUSEHOLD_DATA">Household data</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_CAPABILITIES">Mobility capabilities</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_PREFERENCES">Mobility preferences</string>
+ <string name="DEMOGRAPHIC_OPTION_EXPERIENCE_FACTORS">Experience factors</string>
+ General suboptions*/
+"Age" = "Edat";
+
+/*message: Gender*/
+"Gender" = "Sexe";
+"Education" = "Educació";
+"Country" = "País";
+"City" = "Ciutat";
+
+/*Tutorial options*/
+"Tutorial_Option_What_Is_Worthwhileness" = "Què és la utilitat";
+
+/*Productivity*/
+"Productivity_Percentage" = "Productivitat %@";
+"Mind_Percentage" = "Entreteniment %@";
+"Body_Percentage" = "Mantenir-se en forma %@";
+
+/*Main menu options
+ <string name="NEW_INTERFACE_TEXT">New interface</string>
+ My trips module*/
+"My_Trips" = "Els meus viatges";
+"Start_Trip" = "Començar viatge";
+"End_Trip" = "Acabar viatge";
+"Trip_Being_Recorded" = "S'està enregistrant un viatge";
+
+/*Edit trips*/
+"Select_Trips_To_Merge" = "Selecciona viatges de la llista per combinar-los";
+"Confirm_Trips_To_Merge" = "Confirma que vols combinar els viatges seleccionats";
+"Select_Trips_To_Split" = "Selecciona viatges de la llista per dividir-los";
+"Move_The_Map_To_Split" = "Mou el mapa per dividir el viatge";
+"Select_Trips_To_Delete" = "Selecciona viatges de la llista per eliminar-los";
+"Split" = "Dividir";
+"Merge" = "Combinar";
+"Delete" = "Eliminar";
+"Select_Legs_To_Split" = "Selecciona trams i/o transbordaments de la llista per dividir-los";
+"Move_The_Map_To_Split_The_Leg" = "Mou el mapa per definir el punt de divisió";
+"Edited" = "Editat";
+"Select_Legs_To_Merge" = "Selecciona trams i/o transbordaments de la llista per combinar-los";
+"Confirm_The_Legs_To_Merge" = "Confirma que vols combinar els trams i/o transbordaments seleccionats";
+"Rate_Your_Edited_Trips" = "Puntua els viatges editats";
+"Select_Legs_To_Delete" = "Selecciona trams per eliminar-los";
+"Confirm_The_Legs_To_delete" = "Confirma que vols eliminar els trams i/o transbordaments seleccionats";
+
+/*Leg validation*/
+"Validated" = "Validat";
+"How_Did_You_Travel" = "Com has viatjat?";
+
+/*message: Public Transport*/
+"Public_Transport" = "Transport públic";
+"Active_Semi_Active" = "Actiu/semiactiu";
+"Private_Motorised" = "Transport privat amb motor";
+"Not_Sure" = "No n'estic segur";
+"Lousy" = "Fatal";
+"Overall_Feel_About_Trip" = "Com t'has sentit durant el viatge?";
+"Great" = "Fantàstic";
+"Travel_Time_Wasted_Min_Text" = "Una pèrdua de temps";
+"Travel_Time_Wasted_Question_Text" = "Has aprofitat el temps de viatge o el consideres malgastat?";
+"Travel_Time_Wasted_Max_Text" = "L'he aprofitat";
+
+/*please update translation from new english text*/
+"Which_Factors_Most_Contributed" = "Quins factor/s han fet que pensessis «pèrdua de temps» (-) o «útil» (+)?";
+"Unfold_All_That_Apply" = "Desplega i marca tot el que calgui";
+
+/*Factors*/
+"Infrastructure_And_Services" = "Infraestructura i serveis";
+"Comfort_And_Pleasantness" = "Confort i comoditat";
+"Getting_There" = "Com arribar-hi";
+"Tables" = "Taules";
+"Toilets" = "Lavabos";
+"Food_Drink_Allowed" = "Es pot menjar/beure";
+"Food_Drink_Available" = "Es pot aconseguir menjar/beguda";
+"Shopping_Retail" = "Botigues/comerços";
+"Entertainment" = "Entreteniment";
+"Noise_Level" = "Nivell de soroll";
+"Cleanliness" = "Neteja";
+"Scenery" = "Paisatge";
+"Todays_Weather" = "Temps d'avui";
+"Privacy" = "Privadesa";
+"Traffic_Signals_Crossings" = "Senyals de trànsit/encreuaments";
+"Crowding_Congestion" = "Aglomeració/congestió";
+"Traffic_Congestion_Delays" = "Congestió de trànsit/retards";
+"Others_Comments" = "Altres/comentaris";
+
+/*Activities*/
+"What_Did_You_Do_And_Value" = "Exactament, què has valorat poder fer?";
+"Driving_Cycling_Walking" = "Conduir/anar en bici/caminar";
+"Relaxing_Sleeping" = "Relaxar-me o dormir";
+"Browsing_Social_Media" = "Navegar o fer servir xarxes socials";
+"Reading_Writing_Paper" = "Llegir/escriure (en paper)";
+"Reading_Writing_Device" = "Llegir/escriure (en un dispositiu)";
+"Listening_To_Audio" = "Escoltar àudio";
+"Walking_Video_Gaming" = "Veure vídeos o jugar a videojocs";
+"Talking_Including_Phone" = "Parlar (també per telèfon)";
+"Accompanying_Someone" = "Acompanyar algú";
+"Eating_Drinking" = "Menjar/beure";
+"Personal_Caring" = "Cura personal";
+"Thinking" = "Pensar";
+
+/*Value this part of the trip*/
+"What_Value_Take_From_Part" = "Quin valor has obtingut del teu temps en aquesta part del viatge?";
+"Paid_Work" = "Treball remunerat";
+"Personal_Tasks" = "Tasques personals";
+
+/*message: Enjoyment*/
+"Enjoyment" = "Plaer";
+
+/*message: Fitness*/
+"Fitness" = "Mantenir-me en forma";
+"None" = "Gens";
+"Some" = "Una mica";
+"High" = "Molt";
+
+/*Thinking about trip as a whole*/
+"Thinking_About_Your_Trip_Title" = "Hauries preferit fer servir el teu temps de viatge per...?";
+
+/*message: Productivity*/
+"Productivity" = "Productivitat";
+"Anything_Else_Like_To_Share" = "Vols compartir res més?";
+
+/*message: I would like to share...*/
+"Would_Like_To_Share" = "M'agradaria compartir...";
+"Today" = "Avui";
+"Yesterday" = "Ahir";
+"Validate_Your_Trip" = "Nou viatge detectat! Valida el teu viatge i guanya %@ punts!";
+"What_Was_Purpose" = "Quin ha estat el motiu del teu viatge?";
+"Mark_All_That_Apply" = "Marca tot el que calgui";
+
+/*Trip purposes*/
+"Work" = "Feina";
+"School_Education" = "Escola/educació";
+"Home" = "Casa";
+"Everyday_Shopping" = "Compres de cada dia";
+"Business_Trip" = "Viatge de negocis";
+"Leisure_Hobby" = "Oci/afició";
+"Pick_Up_Drop_Off" = "Recollir/deixar algú";
+"Personal_Tasks_Errands" = "Tasques personals/encàrrecs";
+"Trip_Itself" = "El viatge mateix";
+
+/*message: Other*/
+"Other" = "Altres";
+"Arrive_At_Fixed_Time" = "Havies d'arribar en un moment concret?";
+"How_Often_Make_This_Trip" = "Cada quant fas aquest viatge?";
+"Regularly" = "Habitualment";
+"Occasionally" = "De vegades";
+"First_Time" = "Primera vegada";
+"Select_Part_Of_Trip_Feedback" = "Selecciona una part del teu viatge per afegir comentaris";
+
+/*<string name="objective_other_hint">Where you travelled and why</string>*/
+"Confirm_Modes_Of_Your_Trips" = "Confirma els tipus de transport utilitzats en el viatge";
+
+/*message: Transfer*/
+"Transfer" = "Transbordament";
+"Auto_Detected" = "Autodetectat";
+
+/*message: were you %@ ?*/
+"Were_You_Walking_Or_Running" = "Has estat %@ ?";
+
+/*message: Did you go by %@ ?*/
+"Did_You_Go_The_Mode" = "Hi has anat en %@ ?";
+
+/*modes of transport*/
+"Walking" = "Caminant";
+"Jogging_Running" = "Córrer";
+"Bicycle" = "Bicicleta";
+"Car_Driver" = "Cotxe (conductor)";
+"Bus_Trolley_Bus" = "Autobús/troleibús";
+"Tram" = "Tramvia";
+"Metro" = "Metro";
+"Urban_Train" = "Tren";
+"Regional_Intercity_Train" = "Tren regional/interurbà";
+"Ferry_Boat" = "Ferri/vaixell";
+"Motorcycle" = "Motocicleta";
+"Moped" = "Ciclomotor";
+"Electric_Bike" = "Bici elèctrica";
+"Bike_Sharing" = "Bici compartida";
+"Car_Passenger" = "Cotxe (passatger)";
+"Taxi_Ride_Hailing" = "Taxi/servei de transport";
+"Car_Sharing_Rental_Driver" = "Cotxe d'intercanvi/de lloguer\n(conductor)";
+"Car_Sharing_Rental_Passenger" = "Cotxe d'intercanvi/de lloguer\n(passatger)";
+"car_pooling" = "Cotxe compartit";
+"Plane" = "Avió";
+"high_speed_train" = "Tren d'alta velocitat";
+"Coach_Long_Distance_Bus" = "Autocar\nAutobús de llarga distància";
+"Micro_Scooter" = "Patinet";
+"Skate" = "Monopatí";
+"Electric_Wheelchair_Cart" = "Cadira de rodes elèctrica/motoritzada";
+"Wheelchair" = "Cadira de rodes";
+"Cargo_Bike" = "Bici de càrrega";
+"Other_Public_Transport" = "Altre transport públic";
+"Other_Active_Semi_Active" = "Altre actiu/semiactiu";
+"Other_Private_Motorised" = "Altre transport privat amb motor";
+
+/*Misc*/
+"Yes" = "Sí";
+"No" = "No";
+"Save" = "Desar";
+"Confirm_All" = "Confirmar-ho tot";
+
+/*message text of \"Next\" button message: Next*/
+"Next" = "Següent";
+"Done" = "Fet";
+"End" = "Fi";
+
+/*Factors Wasted Time*/
+"Skip" = "Saltar";
+
+/*title for the info pages message: A Little About You*/
+"A_Little_About_You" = "Una mica sobre tu";
+
+/*message: Active/Semi-active*/
+"Active_Semi_active" = "Actiu/semiactiu";
+
+/*message: Thanks! To record your trips we need your permission to let Woorti access to your location at all times.
+ 
+ It should not excessively consume your battery.*/
+"Ask_location_permission_String" = "Gràcies! Per enregistrar els teus viatges necessitem el teu permís perquè Woorti accedeixi a la teva ubicació en tot moment.\n\n \n\nL'hem dissenyat perquè no consumeixi gaire bateria.";
+
+/*message: Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.*/
+"Ask_location_permission_String_when_user_has_denied" = "Ens sap greu! Perquè Woorti funcioni bé, hem de poder accedir a la teva ubicació en tot moment.";
+
+/*message: Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us!
+ 
+ To do this we need to be able to send you notifications*/
+"Ask_notification_permission_String" = "Finalment, et farem preguntes sobre les teves experiències mentre viatges. La teva opinió ens importa molt! Per fer-ho, hem de poder-te enviar notificacions.";
+
+/*message: BACK TO LOGIN*/
+"Back_To_Login" = "TORNA A L'INICI DE SESSIÓ";
+
+/*change language screen title message: Change Language*/
+"Change_Language" = "Canviar idioma";
+
+/*message: Correct exams*/
+"Correct_Exams" = "Corregir_exàmens";
+
+/*title for the first onboarding pages message: Data Protection*/
+"Data_Protection" = "Privadesa i protecció de dades";
+
+/*placeholder for password when registering only*/
+"Didnt_sign_up_yet" = "Has oblidat la contrasenya?";
+
+/*rating prefered modes of transport message: Doesn't improve my fitness*/
+"Doesnt_Improve_My_Fitness" = "No m'ajuda a mantenir-me en forma";
+
+/*email message*/
+"Email" = "correu electrònic";
+
+/*message shown when clcicking to reset a password message: If %@ has an account with Woorti, you will be receiving an email to reset your password*/
+"Email_Has_Been_Sent" = "Correu electrònic enviat";
+
+/*rating prefered modes of transport message: Enjoying*/
+"Enjoying" = "Gaudir";
+
+/*message: Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…*/
+"Enjoyment_Worthwhile_Description_Score" = "Relaxar-me o divertir-me; dedicar temps a escoltar música, descansar o meditar; estar actiu a les xarxes socials; observar els voltants...";
+
+/*message: When I travel,
+ I chill*/
+"Enjoyment_Worthwhile_High_Score" = "Quan viatjo,\nem relaxo";
+
+/*placeholder for email in login/register*/
+"Enter_Your_Email_Address" = "Escriu el correu electrònic";
+
+/*name Placeholder message: Enter your name*/
+"Enter_Your_Name" = "Escriu el teu nom";
+
+/*placeholder for password in login/register*/
+"Enter_Your_Password" = "Escriu la contrasenya";
+
+/*placeholder for password when registering only*/
+"Enter_Your_Password_Again" = "Torna a escriure la contrasenya";
+
+/*error shown to the user when log in failed*/
+"Error_Log_In" = "Hi ha hagut un error d'inici de sessió. Torna-ho a provar o restableix la contrasenya.";
+
+/*message: Female*/
+"Female" = "Dona";
+
+/*message: Did you know that a person spends about 2 years of her whole life commuting?
+ 
+ Woorti will help you explore your travel time!*/
+/*Fuzzy*/
+"First_Onboarding_Screen_Welcome_Description_Text" = "Sabies que una persona passa uns 2 anys de tota la seva vida viatjant a la feina?\n\nWoorti t'ajuda a explorar el teu temps de viatge!";
+
+/*message: Your travel time is an important part of your life!*/
+"First_Onboarding_Screen_Welcome_Title" = "El temps de viatge és una part important de la teva vida!";
+
+/*message: message: Travelling is not at all relaxing*/
+"FitnesEnjoyment_Worthwhile_Low_Scores" = "Viatjar no és gens relaxant";
+
+/*message: When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.*/
+"Fitness_Worthwhile_Description_Score" = "Quan camines, vas en bici o fins i tot corres durant els teus viatges, fas exercici i et mantens en forma.";
+
+/*message: Travel time is a great way to feel the burn*/
+"Fitness_Worthwhile_High_Score" = "El temps de viatge és una bona manera de fer exercici";
+
+/*message: Exercise is in the gym/field*/
+"Fitness_Worthwhile_Low_Score" = "S'ha de fer exercici al gimnàs/camp";
+
+/*Forgot Password*/
+"Forgot_Password" = "He oblidat la contrasenya";
+
+/*placeholder for password when registering only*/
+"Forgot_Your_Password" = "Has oblidat la contrasenya?";
+
+/*message: Everyone defines what is a worthwhile travel time in his or her different way.
+ 
+ Let's see what that means to you!*/
+"Fourth_Onboarding_Screen_Description" = "Cadascú defineix la \"utilitat\" del temps de viatge a la seva manera.\n\nVejam què vol dir per a tu!";
+
+/*message: I accept MoTiV data protection conditions*/
+"GRPD_Accept" = "Accepto les condicions de protecció de dades de MoTiV";
+
+/*message: For the European MoTiV project research on travel time, this app collects anonymised data on:
+ 1. Your trips (time, location and transport used)
+ 2. Your expressed preferences and searches within the app*/
+"GRPD_Description" = "Per al projecte de recerca europeu MoTiV sobre el temps de viatge, aquesta app recopila dades anonimitzades sobre: \n\n1. Els teus viatges (temps, ubicació i transport que fas servir) \n\n2. Les preferències que has expressat i les cerques dins l'app";
+
+/*message: MoTiV privacy policy is compliant with EU GDPR. Read More*/
+"GRPD_Read_Policy" = "La política de privadesa de MoTiV compleix l'RGPD de la UE. Més informació";
+
+/*rating prefered modes of transport message: Improves my fitness*/
+"Improves_My_Fitness" = "M'ajuda a mantenir-me en forma";
+
+/*splash screen start now button message*/
+"Log_In" = "Torna a iniciar sessió";
+
+/*login with google button message*/
+"Log_In_With_Google" = "Iniciar sessió amb Google";
+
+/*message: Male*/
+"Male" = "Home";
+
+/*message: No worries! Enter your email address below and we will send you a email to reset your password.*/
+"No_Worries_Message" = "Cap problema! Escriu la teva adreça i t'enviarem un correu electrònic per restablir la contrasenya.";
+
+/*rating prefered modes of transport message: Not Enjoying*/
+"Not_Enjoying" = "No en gaudeixo";
+
+/*%@ not filled*/
+"Not_Filled" = "%@ no completat";
+
+/*rating prefered modes of transport message: Not Productive*/
+"Not_Productive" = "No productiu";
+
+/*message: NOW YOU!*/
+"Now_You" = "ARA TU!";
+
+/*message: Ok cool*/
+"Ok_Cool" = "Bé";
+
+/*password message*/
+"Password" = "contrasenya";
+
+/*register button message*/
+"Passwords_Dont_Match" = "Registra't";
+
+/*title for the first onboarding pages message: Permissions*/
+"Permissions" = "Permisos";
+
+/*message: Private Motirized*/
+"Private_Motirized" = "Transport privat amb motor";
+
+/*message: Proceed to Enjoyment*/
+"Proceed_To_Enjoyment" = "Ves a «Plaer»";
+
+/*message: Proceed to Fitness*/
+"Proceed_To_Fitness" = "Ves a «Mantenir-se en forma»";
+
+/*proceed to productivity button message: Proceed to Productivity*/
+"Proceed_To_Productivity" = "Ves a «Productivitat»";
+
+/*rating prefered modes of transport message: Productive*/
+"Productive" = "Productiu";
+
+/*message: Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…*/
+"Productivity_Worthwhile_Description_Score" = "Aprofito el temps de viatge per fer tasques, no només de feina i estudis, sinó també de temes personals com ara la casa, la família, etc.";
+
+/*message: I used my  trip to get stuff done!*/
+"Productivity_Worthwhile_High_Score" = "He aprofitat el viatge per fer tasques!";
+
+/*message: I don’t work when I travel*/
+"Productivity_Worthwhile_Low_Score" = "No treballo quan viatjo";
+
+/*message: How important are the travel time worthwhileness elements for you, when you travel?*/
+"Rate_Worthwhileness_Screen_Title" = "Quan viatges, quina importància tenen per a tu aquests elements útils?";
+
+/*message: How much enjoyment do you get from your your travel time by:*/
+"Rating_Prefered_Mot_Enj_Title" = "Quant plaer obtens del teu viatge quan:";
+
+/*message: How does your travel time contribute to your fitness when you travel by:*/
+"Rating_Prefered_Mot_Fit_Title" = "Com contribueix el teu viatge a mantenir-te en forma quan viatges en:";
+
+/*message: How productive are you when you travel by:*/
+"Rating_Prefered_Mot_Prod_Title" = "Com de productiu ets quan viatges en:";
+
+/*register button message*/
+"Register" = "Registra't";
+
+/*message: Which modes of transport do you use regularly?*/
+"Regualr_Modes_Of_Transport_Title" = "Quins tipus de transport fas servir habitualment?";
+
+/*Reset Password*/
+"Reset_Password" = "Restablir contrasenya";
+
+/*message: Check out $@ for more information*/
+"Second_Onboarding_Screen_Help_Reseach_Check_Out_Site" = "Consulta %@ per a més informació";
+
+/*message: With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.*/
+"Second_Onboarding_Screen_Help_Reseach_Description" = "Amb la informació que ens facilitis, Woorti recollirà dades per millorar les solucions de transport i les compartirà amb investigadors, operadors de transport i autoritats locals europees.";
+
+/*The message for this text was incorrect, the real message in English is: Help research for better transport
+ When possible please retranslate this message.*/
+"Second_Onboarding_Screen_Help_Reseach_Title" = "Ajuda'ns a millorar els sistemes de transport";
+
+/*sign in button message*/
+"Sign_In" = "Registra't";
+
+/*splash screen start now button message*/
+"Start_Now" = "Ets nou? Comença";
+
+/*message: While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.*/
+"Third_Onboarding_Screen_Description" = "A alguns els agrada treballar o estudiar quan viatgen, però altres prefereixen relaxar-se i desconnectar. Altres fins i tot ho aprofiten per fer exercici. Alguns comencen el dia amb música.";
+
+/*error shown to the user when registering with a already signed in email account*/
+"User_Already_Signed_In" = "Sembla que %@ ja està registrat. Vols iniciar la sessió?";
+
+/*title that appears on the top of the login page*/
+"Welcome_Back" = "Hola de nou";
+
+/*title for the first onboarding page message: What is a worthwhile trip*/
+"What_Is_A_Worthwhile_Trip" = "Què és un viatge ben aprofitat?";
+
+/*message: What is your age?*/
+"What_Is_Your_Age" = "Quants anys tens?";
+
+/*message: What is your name?*/
+"What_Is_Your_Name" = "Com et dius?";
+
+/*message: Where do you live?*/
+"Where_Do_You_Live" = "On vius?";
+
+/*you've got mail!*/
+"Youve_Got_Mail" = "Tens un correu!";
+"No_Ongoing_Trip_To_Show" = "Cap viatge en marxa per mostrar";
+"Your_Trip" = "El teu viatge";
+"Click_On_The_Marker_To_Split_The_Trip" = "Toca el marcador per dividir el viatge";
+"Security_Boarding_Process" = "Seguretat i procés d'embarcament";
+"Other_Activity" = "Altres activitats";
+"Cycling" = "Anar en bicicleta";
+"Riding" = "El fet de viatjar";
+"Skating" = "El fet d'anar en monopatí";
+"Driving" = "El fet de conduir";
+"Running" = "El fet de córrer";
+
+/*message: Please wait while Woorti searches for local studies*/
+"Wait_While_Searching_Local_Studies" = "Espera mentre Woorti cerca estudis locals";
+
+/*message: There are these studies going near you. Which one(s) do you want to contribute with data to?*/
+"Studies_Title" = "Aquests estudis s'estan fent a prop teu. A quins vols contribuir amb les teves dades?";
+"Menu" = "Menú\n";
+"Set_Home" = "Establir casa";
+"Set_Work" = "Establir feina";
+"Change_Photo" = "Canviar la foto";
+"Name" = "Nom";
+"Define_Home_Location" = "Estableix la ubicació de casa teva per accedir més ràpid als viatges";
+"Define_Work_Location" = "Estableix la ubicació de la teva feina per accedir més ràpid als viatges";
+"Edit" = "Editar";
+"Educational_Background" = "Estudis";
+"Activities" = "Activitats";
+"While_You_Ride" = "Mentre viatges";
+"Ability_To_Do_What_I_Wanted" = "Poder fer el que volia mentre viatjava";
+"Simplicity_Difficulty_Of_The_Route" = "Facilitat/dificultat de la ruta";
+"Schedule_Reliability" = "Fiabilitat dels horaris";
+"Security_And_Safety" = "Confiança i seguretat ";
+"Space_Onboard_For_Lugagge_Pram_Bicycle" = "Espai a bord per portar equipatge/carret/bicicleta/etc.";
+"Ability_To_Take_Pets_Along" = "Possibilitat de viatjar amb mascotes";
+"Payment_And_Tickets" = "Pagament i bitllets";
+"Convenient_Access_Lifts_Boarding" = "Accessos còmodes (ascensors, embarcament)";
+"Route_Planning_Navigation_Tools" = "Planificació de la ruta/eines de navegació";
+"Information_And_Signs" = "Informació i senyals";
+"Checkin_Security_And_Boarding" = "Facturació, seguretat i embarcament";
+"Crowdedness_Seating" = "Aglomeracions/seients";
+"Internet_Connectivity" = "Connectivitat a internet";
+"Ability_To_Do_The_Things_I_Want" = "Posibilitat de fer les coses que vull";
+"Charging_Opportunity" = "Possibilitat de recarregar";
+"Car_Bike_Parking_At_Transfer_Point" = "Aparcament de cotxes/bicis al punt de transbordament";
+"Vehicle_Ride_Smoothness" = "Facilitat de conducció";
+"Seating_Quality_Personal_Space" = "Qualitat dels seients/espai personal";
+"Other_People" = "Altres persones";
+"Air_Quality_Temperature" = "Qualitat de l'aire/temperatura";
+"General_Atmosphere_Design" = "Atmosfera general/disseny";
+"Road_Path_Availability_And_Safety" = "Disponibilitat i seguretat de la carretera/camí";
+"Accessibility_Escalators_Lifts_Ramps_Stairs_Etc" = "Accessibilitat (escales mecàniques, ascensors, rampes, escales, etc.)";
+"Ability_To_Carry_Bags_Luggage_Etc" = "Possibilitat de transportar bosses, equipatge, etc.";
+"Ability_To_Take_Kids_Or_Pets_Along" = "Possibilitat de viatjar amb nens o mascotes";
+"Benches_Toilets_Etc" = "Bancs/lavabos/etc.";
+"Facilities_Shower_Lockers" = "Instal·lacions (dutxes, taquilles)";
+"Parking_At_End_Points" = "Aparcaments a la destinació";
+"Road_Path_Quality" = "Qualitat de la carretera/camí";
+"Road_Path_Directness" = "Carretera/camí directe";
+"Air_Quality" = "Qualitat de l'aire";
+"Lighting_Visibility" = "Il·luminació/visibilitat";
+"Cars_Other_Vehicles" = "Cotxes/altres vehicles";
+"Space_For_Luggage_Pram_Bicycle_Etc" = "Espai per a equipatge/carret/bicicleta/etc.";
+"Road_Quality_Vehicle_Ride_Smoothness" = "Qualitat de la carretera/facilitat de la conducció";
+"Vehicle_Quality" = "Qualitat del vehicle";
+"Seat_Comfort" = "Comoditat del seient";
+"Other_Passengers" = "Altres passatgers";
+"Other_Cars_Vehicles" = "Altres cotxes/vehicles";
+
+/*Button text on second onboarding page*/
+"Lets_Get_Started" = "Comencem!";
+
+/*Report issue*/
+"Thank_You_For_Submitting_This_Issue" = "Gràcies per notificar aquest problema. Confirma l'enviament o notifica un altre problema";
+"Confirm_And_Leave" = "Confirmar i sortir";
+"Confirm_And_Submit_More" = "Confirmar i enviar-ne més";
+"Where_City" = "A quina part de %@?";
+"OtherCountry" = "Altre país";
+"OtherCity" = "Altra ciutat";
+"Sign_Up_Error" = "Error de registre";
+"Sign_Up" = "Registrar-se";
+"How_Important_Are_The_Following_Factors" = "Quina importància dones a aquests factors respecte del teu temps quan viatges?";
+"Modes_Of_Transport" = "Tipus de transport";
+"Help_Research_For_Better_Transport" = "Ajuda a la recerca per millorar el transport";
+"Already_Signed_Up_Log_In_Here" = "Ja estàs registrat? Inicia la sessió aquí";
+"Welcome" = "Benvingut";
+"Refresh_Surveys" = "Refresca la pàgina";
+
+/*This string has the text for the data regarding Activities (e.g., for the walk itself) and *not* the walking mode of transport*/
+"The_Walk_Itself" = "El fet de caminar";
+"Education_Highshool" = "Institut";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Education_Basic" = "Educació primària";
+"Education_University" = "Universitat";
+
+/*Ocupation options*/
+"Occupation" = "Ocupació";
+"Ocupation_Student" = "Estudiant";
+"Ocupation_Schedule_Worker" = "Treballador a temps complert";
+"Ocupation_Flexible_worker" = "Trebalador a temps parcial";
+"Ocupation_Selfemployed" = "Autònom";
+"Ocupation_Seeking_Work" = "Buscant feina";
+"Ocupation_Inactive" = "Inactiu/Jubilat";
+"Ocupation_Maternity" = "Baixa de materinitat/paternitat";
+"Ocupation_Military" = "Servei militar";
+
+/*Marital status*/
+"Marital_Status" = "Estat civil";
+"Marital_Single" = "Solter/a";
+"Marital_Married" = "Casat/a";
+"Matital_Significant_Other" = "En parella";
+"Marital_Divorced" = "Divorciat/da";
+"Marital_Widowed" = "Vidu/a";
+"Driver_License" = "Carnet de conduir";
+"Household_Yearly_Income" = "Renta anual neta";
+"Number_People_Household" = "Número de persones a la llar familiar";
+"Number_Children_household" = "Número nens a la llar familiar";
+"Number_Cars_Household" = "Número de cotxes a la llar familiar";
+"Nationality" = "Nacionalitat";
+
+/*TODO NEW STRING*/
+"No_Trips_Text" = "Aquesta pantalla és on apareixeran els teus viatges i des d'on avaluar-los. Torna  aquí després de fer un viatge ... n\\\nWoorti intenta no perdre's cap viatge, però per assegurar-te que quedin gravats, pots enregistrar-los manualment pulsant el botó \"Començar viatge\" ... n\\\nAssegura't de tenir el GPS activat.";
+
+/*Dashboard*/
+/*you have spent %@ travelling a distance of %@ in %@.*/
+"You_Have_Spent_Complete" = "has passat %@ viatjant una distancia de %@ en %@.";
+"In_Total_You_Spent_Calories" = "en total has gastat %@.";
+"And_This_Counted_Carbon_Footprint" = "I això ha representat el %@ de la teva petjada ecològica.";
+"Your_Trips_Overall_Percentage_Worthwhile" = "Els teus viatges han estat %@ aprofitats";
+"While_Traveling_Activities" = "Mentre viatjaves %@ del teu temps el vas ocupar en %@";
+"Do_You_Want_To_Set_This_Location_Home" = "Vols guardar aquesta localitzacó com la teva adreça de casa?";
+"Do_You_Want_To_Set_This_Location_Work" = "Vols guardar aquesta localitzacó com la teva adreça de feina?";
+"Privacy_Policy" = "Política de privacitat";
+
+/*day*/
+"Day" = "Dia";
+
+/*3 days*/
+"Days_3" = "3 dies";
+
+/*week*/
+"Week" = "Setmana";
+
+/*month*/
+"Month" = "Mes";
+
+/*year*/
+"Year" = "Any";
+
+/*era*/
+"Era" = "Era";
+
+/*worthwhile*/
+"Worthwhile" = "Gratificant";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Other_Activities" = "Altres activitats";
+
+/*Marital status*/
+"Household_Marital" = "Estat civil";
+"Household_Years_Residence" = "Anys de residència al país";
+"Household_Labour_Status" = "Situació laboral";
+"Labour_Student" = "Estudiant";
+"Labour_Employed_Full_Time" = "Empleat a temps complert";
+"Labour_Employed_Part_Time" = "Empleat a temps parcial";
+"Labour_Unemployed" = "Desocupat";
+"Years_Residence_Less_Than_One" = "Menys de 1";
+"Years_Residence_One_To_Five" = "De 1 a 5";
+"Years_Residence_More_Than_Five" = "Més de 5";
+"Walk_For_Distance" = "Camina %@";
+"Household" = "Llar familiar";
+"Total_Points" = "Punts totals";
+"Todays_Travel_Report" = "Informe de viatge";
+
+/*link to page with privacy policy specific to each language*/
+/*Fuzzy*/
+"Url_Privacy_Policy" = "https://motivproject.eu/data-collection/data-protection/catalonia.html";
+
+/*%@ questions*/
+"N_Questions" = "%@ preguntes";
+
+/*New survey*/
+"New_Survey" = "Nova enquesta";
+
+/*I don't really understand that string in the travel report - minutes more and minutes less. Why minutes less when travelling, it is not the number or minutes / km that you travel?*/
+/*Minutes more*/
+"Minutes_More" = "minuts més";
+
+/*I don't really understand that string in the travel report - minutes more and minutes less. Why minutes less when travelling, it is not the number or minutes / km that you travel?*/
+/*Minutes less*/
+"Minutes_Less" = "minuts menys";
+
+/*Kilometers more*/
+"Km_More" = "Km més";
+
+/*Kilometers less*/
+"Km_Less" = "Km menys";
+
+/*Trip validation*/
+"Trip_Validation" = "Validació de viatge";
+
+/*Latest story*/
+"Latest_Story" = "Últim relat";
+"Household_Data" = "Dades de renta";
+
+/*new text for battery warning pop up in mytrips (so that people are remembered to disable battery optimizations that undermine the app working in background)*/
+/*battery warning popup text*/
+"Alert_Battery_Content" = "Woorti opera en segon pla mentre grava viatjes. Assegura't de desactivar en el teu telèfon les opcions de optimització de bateria o baix consum a Ajustos per evitar que l'aplicació deixi de funcionar.";
+
+/*"In the last" start message of DashBoard, Please use sentence that fits any number of days*/
+/*Dashboard*/
+"In_The_Last" = "En els últims";
+
+/*stories*/
+"story_1_title_chiaras_new_train_ride" = "El nou viatge en tren de la Chiara";
+"story_1_text_chiaras_train_ride" = "La Chiara, el seu marit i els seus dos fills s'han mudat fa poc del centre als afores de Brussel·les. La Chiara porta els nens a la guarderia i a l'escola en una bici de càrrega, i després va fins a l'estació de tren, on agafa un tren que triga 25 minuts per arribar a la seva feina, al centre de la ciutat. Aquest ha estat un gran canvi en els seus desplaçaments, i al principi no li agradava gaire haver de dedicar més temps del seu dia a viatjar, però va començar a gaudir del temps que passava al tren. Seient tota sola, podia relaxar-se i fer coses que, si no, no faria.  \n \n\nLa Chiara va començar a aprofitar aquest temps per llegir llibres. Però, després d'un cert temps, es va adonar que aquests 25 minuts que durava el trajecte no eren suficients per endinsar-se en la història. \n \n Aleshores va intentar llegir revistes, però com que li agraden els articles llargs i detallats, es va trobar amb el mateix problema. \n \n\nAixí que va començar a connectar-se a Facebook i veure què hi passava. Es quedava tan absorta pels continguts, que de vegades gairebé s'oblidava de baixar a la seva parada. La Chiara va decidir que accelerar el cervell i el cor d'aquella manera no era el millor per començar el dia. \n \n\nAixí que, finalment, va provar una cosa que li va funcionar. Com que s'ha mudat a una zona de parla neerlandesa, li ve de gust aprendre la llengua. Gràcies a una aplicació d'aprenentatge de llengües, el temps que passa al tren és suficient per fer dues o tres lliçons a cada trajecte. Això també li aporta el ritme necessari per aprendre una llengua: una mica cada dia, i això fa que a poc a poc tingui una connexió cada cop millor amb els veïns del seu nou barri. \n \n \n\nEl millor per a la Chiara va ser aprofitar el temps que tenia i fer el que li venia de gust en aquesta etapa de la seva vida. \n \n \n I per a tu? Què és el millor per al teu temps de viatge?";
+"story_2_title_the_best_way_to_get_great_ideas_while_moving_p1" = "La millor manera de tenir grans idees mentre et mous";
+"story_2_text_the_best_way_to_get_great_ideas_while_moving_p1" = "T'has adonat que algunes activitats fan que se t'acudeixin idees noves i interessants més fàcilment? Quan li van preguntar quina era la part més productiva del seu dia, Elon Musk va contestar: «Quan em dutxo». No és l'únic. Moltes persones expliquen que algunes de les millors idees se'ls acudeixen quan s'estan dutxant! \n \n\nI què passa quan ens movem? Hi ha algun moment que acostumi a ser especialment productiu? \n \n\nDe fet, hi ha una manera de desplaçar-se que sembla que és particularment bona per aconseguir noves idees. Sembla que molts pensadors brillants coneixien aquest avantatge i es movien d'aquesta manera deliberadament quan volien tenir millors idees sobre algun tema. \n \n\nPista: alguns d'ells, com ara Beethoven, Dickens i Darwin, vivien quan encara no hi havia vehicles motoritzats... \n \n\nPista 2: És una manera de moure's que activa el cervell. \n \n\nQuè creus que és? Fixa't en la història de demà... :)";
+"story_3_title_the_best_way_to_get_great_ideas_while_moving_p2" = "La millor manera de tenir grans idees mentre et mous, part 2";
+"story_3_text_the_best_way_to_get_great_ideas_while_moving_p2" = "Així doncs, quina és la manera de moure's que els pensadors de la història anterior feien servir per tenir millors idees? \n \n\nCaminar! \n \n\nSí! Steve Jobs, per exemple, feia passejos tot sol al voltant de les oficines d'Apple a Palo Alto només per pensar millor. També es reunia amb gent d'aquesta manera. En lloc d'anar a un despatx, se n'anaven a fer un volt. \n \n\nHi ha alguna explicació científica per a tot això, o són simplement fenòmens aleatoris? \n \n\nBé, hi ha estudis que demostren que, mentre caminem, hi ha parts del cervell que se'ns activen més. Un estudi amb nens en edat escolar va demostrar que els nens que arribaven al matí per fer un examen tenien el cervell molt més actiu si havien arribat caminant que si els havien portat en cotxe. \n \n\nÉs clar que, perquè el cervell estigui lliure per pensar en idees mentre caminem, sembla important que no hi hagi pertorbacions ambientals que t'obliguin a parar atenció a on vas, com ara obstacles, trànsit o massa soroll. Les ciutats dissenyades amb millors condicions per caminar són ciutats millors per generar grans idees! \n \n\nPer promoure reunions productives mentre es camina, algú va tenir una idea brillant (potser la va tenir mentre es dutxava o caminava, no ho sabem!): Crear una aplicació que mostri recorreguts a la ciutat que siguin especialment adequats per fer reunions caminant. Aquesta aplicació es diu Weeting i té recorreguts per fer reunions caminant en diverses ciutats dels Països Baixos. \n \n\nI com de bons són els llocs per on tu camines per pensar?";
+"story_4_title_the_7_shades_of_pedros_cycling_time" = "Les set fases de Pedro i la seva bicicleta";
+"story_4_text_the_7_shades_of_pedros_cycling_time" = "\n        1. Per al Pedro era una declaració de principis. Va començar a anar en bici a la feina quan encara era una cosa molt estranya a Lisboa. Mentre anava en bici, alguns homes grans li cridaven: «VA, CICLISTA! ÀNIMS!» com si participés en el Tour. Alguns conductors tocaven el clàxon i li cridaven: «VES-TE'N DE LA CARRETERA!». \n \n\nCreia que la gent hauria de poder moure's per la ciutat en bici, i va ser l'heroi pioner que va servir d'exemple per a les futures generacions de ciclistes urbans. \n \n\nTambé volia demostrar que anar en bici és ràpid, així que va començar a fer servir camins més ràpids fins i tot si hi havia molt de trànsit, encara que només fos per guanyar cinc minuts. Com més ràpid, millor. \n \n\n2. Quan l'efecte de la declaració de principis es va esvair, va començar a adonar-se de la part estressant i del sobreesforç que de vegades feia. Estava tan acostumat a pedalar al màxim que va necessitar un any per acostumar-se a anar a un ritme més lent. Va començar a apreciar la manera relaxada d'anar en bici, a l'estil holandès. Va tornar a triar les rutes més tranquil·les. \n \n\n3. Quan va tenir fills, els portava a la guarderia i a l'escola abans de començar un trajecte de 35 minuts fins a la feina. L'única alternativa que tenia era el cotxe, i es va començar a cansar de no tenir opcions. «Trobo a faltar quan podia anar en metro i relaxar-me». Així que agafava el metro sempre que no havia de portar els nens. \n \n\n4. Alguns dies la seva dona es podia encarregar de portar els nens, i aleshores va recuperar part del plaer d'anar en bici, tot i que encara sentia que no feia servir el temps de manera productiva. S'havia acostumat a fer servir el temps que passava al transport públic per pensar i llegir. \n \n\n5. Un dia, mentre feia el sopar, el Pedro va decidir escoltar un podcast. Li va encantar i li va fer pensar en com això havia millorat el seu temps a la cuina. Aprenia coses i escoltava històries d'altres persones. Va començar a gaudir quan cuinava. \n \n\nVa necessitar un altre any per entendre que podia fer el mateix durant els seus trajectes en bici rutinaris. Els seus trajectes en bici es van tornar més lents i llargs. Cada cinc minuts més en bici eren cinc minuts més de poder gaudir d'un podcast. \n \n\n6. Més endavant, el Pedro va canviar de feina i va començar a treballar des de casa. De cop li va créixer la panxa, perquè havia deixat de fer el trajecte fins a la feina, que en aquell moment era de 45 minuts. Després de veure com li havia crescut la panxa, el Pedro es va adonar que anar a la feina en bici tots aquells anys l'havia mantingut en forma. Va començar a aprofitar cada oportunitat (com ara anar a reunions) per anar en bicicleta. \n \n\n7. Però el temps que passava anant en bici encara havia de millorar més. A mesura que els seus fills creixien, es va adonar que el temps que passava portant-los a l'escola era un dels millors moments de la seva vida. Els seus fills li demostraven que els encantava anar amb ell, li feien moltíssimes preguntes i li explicaven les últimes notícies de l'escola. Això feia que el seu temps en bici fos més valuós que les altres coses. \n\n\n\n";
+"story_5_title_stopping_or_not_stopping_in_a_moving_walkway" = "Aturar-se o no aturar-se en un passadís mòbil?";
+"story_5_text_stopping_or_not_stopping_in_a_moving_walkway" = "T'has adonat que hi ha persones que s'aturen en un passadís mòbil o en escales mecàniques, mentre que d'altres continuen caminant?  \n \n\nQuin creus que és el motiu d'aquest comportament tan diferent? \n \n\nPrefereixes que la gent camini o que s'aturi? \n \n\nSi la resposta que se t'ha acudit et sembla molt evident, torna-hi a pensar. Potser no és tan senzill. \n \n\nLa pròxima vegada que siguis en un passadís mòbil, prova d'observar la gent que camina o s'atura. Simplement mirant-los, potser podries aconseguir bones pistes sobre per què ho fan. Si hi continues pensant, potser fins i tot t'endinsaràs en quina pot ser la seva història. És divertit! \n \n\nAturar-se o no aturar-se en un passadís mòbil? Llegeix la història sencera aquí: https://motivproject.eu/news/detail/stopping-or-not-stopping-in-a-moving-walkway.html\n\n";
+"story_6_title_virtual_travel_time" = "Temps de viatge virtual";
+"story_6_text_virtual_travel_time" = "Has sentit a parlar del «temps de viatge virtual»? \n \n\nNo, no és viatjar fent servir realitat virtual. És una cosa més concreta. \n \n\nQuant de temps necessites exactament per anar des del punt A fins al punt B? Segurament diràs: és el meu temps de viatge, és clar! \n \n\nBé, doncs des d'un cert punt de vista, no ho és. Fins i tot podria ser molt més que això... \n \n\nPensa-hi: per anar des del punt A fins al punt B, segurament hauràs de gastar diners. Si viatges en cotxe, són tots els costos associats a tenir un cotxe i conduir-lo. I si vas en transport públic, és el que val el bitllet. Fins i tot si camines, portes unes sabates, i això farà que te n'hagis de comprar unes de noves més aviat. \n \n\nPerò què tenen a veure els diners amb el temps de viatge? \n \n\nCom guanyes diners? Cal treballar per guanyar-ne. I treballar et pren temps. Així doncs, el temps de viatge no és només el temps que passes viatjant, també és el temps que passes guanyant els diners que necessites per viatjar. \n \n\nPer exemple, fixem-nos en un cotxe. De mitjana un cotxe costa, amb totes les despeses incloses, 350 euros al mes. La quantitat de feina que has de fer en un mes per pagar el cotxe, l'has d'afegir al temps de viatge dels trajectes que facis aquell mes. Aquest és el teu temps de viatge virtual. \n \n\nSi tens sort, potser diràs que per a tu treballar no és una pèrdua de temps, perquè t'encanta treballar. I potser també diràs el mateix sobre el temps que passes anant a treballar. Sí, això fa que aquest tema sigui encara més complicat. \n \n\nExplica'ns què en penses! \n \n\nhttps://www.facebook.com/MotivProject.eu/ \n \n\nhttps://twitter.com/MoTiV_Project\n\n";
+
+/*new string in mobility coach*/
+/*mobility coach*/
+"Your_Mobility_Journey" = "Relats i lliçons";
+
+/*new string to translate in home module*/
+/*home module*/
+"You_have_trips_to_validate" = "Tens viatges per validar";
+
+/*(story) Coming tomorrow*/
+"Coming_Tomorrow" = "Pròximament";
+
+/*Story (1, 2, 3, 4...)*/
+"Story" = "Relat %@";
+
+/*profile and settings*/
+"Marital_Partnership" = "Parella de fet";
+
+/*profile and settings */
+"Labour_Pensioner" = "Jubilat";
+
+/*Notification shown when a trip has started */
+"Trip_Has_Started_At" = "Un viatge ha començat %@";
+
+/*Notification shown when a trip has ended*/
+"Trip_Has_Ended_At" = "Un viatge ha finalitzat %@";
+"Trip_Has_Ended" = "Viatge finalitzat!";
+"engagement_notification_1_title" = "Woorti ha enregistrat el teu primer viatge";
+"engagement_notification_1_content" = "Obre l'app i valida'l!";
+"engagement_notification_2_title" = "Tens un nou relat per llegir.";
+"engagement_notification_2_content" = "Si el llegeixes avui demà en tindràs un altre disponible.";
+"engagement_notification_3_title" = "Un nou relat està disponible!";
+"engagement_notification_3_content" = "I recorda de validar el teu últim viatge.";
+"Language_Changed_Popup_Content" = "Si us plau reinicia l'app per completar aquest procediment.";
+"Language_Changed_Popup_Title" = "Idioma canviat!";
+
+/*Predictability of travel time*/
+"Predictability_Of_Travel_Time" = "Estimació acurada del temps de viatge";
+"Urban_Scenery_Atmosphere" = "Paisatge i atmosfera";
+"While_You_Are_There" = "Mentre viatges";
+"Begin" = "Comença";
+"engagement_notification_4_title" = "Has vist el teu informe de viatge?";
+"engagement_notification_4_content" = "Pulsa aquí per veure el teu tauler de control.";
+"engagement_notification_5_title" = "El valor del teu temps de viatge de moment és de %@.";
+"engagement_notification_5_content" = "Has vist com va variant depenent dels teus viatges?";
+"engagement_notification_6_title" = "Avalua el teu últim viatge.";
+"engagement_notification_6_content" = "Enregistra els teus viatges i consulta les teves estadístiques.";
+"engagement_notification_7_title" = "%@ minuts.";
+"engagement_notification_7_content" = "és el temps de viatge que has passat viatjant la setmana passada.";
+"engagement_notification_8_title" = "Si us plau, continua'ns ajudant en la nostra investigació.";
+"engagement_notification_8_content" = "Gràcies per avaluar els teus viatges. Pulsa aquí.";
+"engagement_notification_9_title" = "Avalua el teu últim viatge.";
+"engagement_notification_9_content" = "Enregistra els teus viatges i consulta les teves estadístiques.";
+
+/*when referencing campaigns*/
+"Campaigns" = "Campanyes";
+
+/*Where this string will go?*/
+/*Welcome to your trips board, %NAME_USER%@ !*/
+"Welcome_To_Your_Trips_Board_Username" = "Benvingut/da al tauler d'enregistrament de viatges, %@ !";
+
+/*You have X trips left to report in the last 3 days*/
+"You_Have_X_Trips_Left_3_Days" = "Tens %@ viatges per avaluar dels últims 3 dies.";
+
+/*These are the trips you have made! Reporting on them helps our research, and allows you to monitor your travel time. After reporting each trip, find out your travel time worthwhileness statistics in the Dashboard! Press the ‘!’ mark to report.*/
+"These_Are_The_Trips_You_Have_Made" = "Aquí pots veure els viatges que has fet! Avaluant-los ajudes a la recerca europea i et permet comprendre com valores el teu temps de viatge. Després d'avaluar els teus viatges, descobreix les teves estadístiques al tauler de control. Prem \"!\" per avaluar un viatge.";
+
+/*Now that you have a reported trip, you can check your first travel time statistics in the Dashboard.*/
+"Now_That_You_Have_A_Reported_Trip_Popup_Text" = "Ara que has avaluat un viatge, pots veure les teves estadístiques al tauler de control.";
+
+/*Go to dashboard*/
+"Go_To_Dashboard" = "Vés al tauler de control";
+
+/*Report trips*/
+/*Fuzzy*/
+"Report_Trips" = "Avalua el teus viatges";
+
+/*This is your Dashboard. It shows how worthwhile your travel time is.  For your trip stats to appear here, report your trips*/
+"This_Is_Your_Dashboard_Popup_Text" = "Estàs al tauler de control. Aquí podràs veure el valor del teu temps de viatge. \\n Perque les teves estadístiques apareguin aquí, avalua els teus viatges.";
+
+/*See dashboard*/
+"See_Dashboard" = "Veure panell de control";
+
+/*profile and settings*/
+"Campaign_Scores" = "Punts de la campanya";
+
+/*when iOS user is redirected and asked to authorize GPS in phone settings after denying permissions in On-boarding*/
+"GPS_Link_Phone_Settings" = "Configuració";
+
+/*when iOS user is asked to authorize GPS in phone settings and selects back to dismiss this dialogue*/
+"GPS_Go_Back" = "Tornar";
+
+/*Days*/
+"Days" = "Dies";
+
+/*trips*/
+"Trips" = "Viatges";
+
+/*Issue form*/
+"Issue_Form" = "Reporta un problema";
+
+/*Thank you for reporting an issue*/
+"Thank_You_For_Reporting_An_Issue" = "Gràcies per reportar un problema!";
+
+/*Submit log*/
+"Submit_Log" = "Envia un registre";
+
+/*Send log*/
+"Send_Log" = "Envia";
+
+/*No log needed for this issue. Skip.*/
+"No_Log_Needed_For_This_Issue_Skip" = "No cal enviar el registre d'activitat per aquest problema. Ometre. ";
+
+/*Targets & Rewards*/
+"Targets_And_Rewards" = "Reptes i premis";
+
+/*Tasks*/
+"Tasks" = "Tasques";
+
+/*To analise the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.*/
+"To_Analyse_This_Issue" = "Per analitzar el problema, ens agradaria rebre les últimes dades de l’activitat de l’aplicació. Envia'ns el correu electrònic que es generarà. Si ho desitges, també ens pots adjuntar captures de pantalla o una descripció més detallada del problema per correu electrònic.";
+
+/*points*/
+"Points" = "Punts";
+
+/*Progress (Reward progress)*/
+"Progress" = "Progrés";
+
+/*%@ days left*/
+"days_left_reward" = "Et falten %@ dies";
+
+/*user registration*/
+"Password_Length_Message" = "Si us plau, entra una contrasenya d'entre 6 i 16 caracters ";
+
+/*Onboarding*/
+"How_Productive_Are_You" = "Com de productiu ets";
+
+/*Woorti is running in the background*/
+"Woorti_Is_Running" = "Woorti està funcionant en segon pla";
+
+/*Continue*/
+"Continue" = "Continua";
+
+/*Hurray!!!*/
+"Hurray" = "Visca!";
+
+/*You have completed your target for NAME_REWARD!*/
+"You_Have_Completed_Your_Target" = "Has completat el teu objectiu en un %@!";
+
+/*Keep reporting your trips to monitor your stats to see your evolution and help this research */
+"Keep_Reporting_Your_Trips_Reward_Completed_Popup" = "Segueix informant dels teus viatges per a continuar monitoritzant les teves estadístiques i ajudar a aquesta investigació ";
+
+/*Woorti just detected that you started a trip*/
+"Woorti_Just_Detected_Start_Trip" = "Woorti ha detectat que has iniciat un viatge";
+
+/*Your  trip has ended.\nYou can now report about it in Woorti*/
+"Your_Trip_As_Ended" = "El teu viatge ha finalitzat\\ Ara pots informar a Woorti";
+
+/*Onboarding*/
+"Onboarding_Successful" = "Registre completat amb èxit";
+
+/*Trip validation tutorial*/
+"Trip_Validation_Tutorial" = "Manual de validació de viatges";
+
+/*Onboarding*/
+"Onboarding_Duplicated" = "El registre ja s'havia completat. Inicia sessió";
+
+/*Onboarding*/
+"Onboarding_Error" = "Hi ha hagut un error durant el registre. Si us plau intenta registrar-te de nou";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Attempt" = "Intentant enviar dades del viatge";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Successful" = "Informació del viatge enviada amb èxit";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Not_Submitted" = "Viatge no enviat - Connecteu-vos més tard";
+
+/*You can now report about it in Woorti*/
+"You_Can_Now_Report_About_It_In_Woorti" = "Tu pots informar-ne a Woorti";
+
+/*Complete until dd/mm/yyyy*/
+"Complete_Until" = "Completa fins a %@";
+
+/*You have a new survey (notification)*/
+"You_Have_A_New_Survey" = "Tens una nova enquesta";
+
+/*Fill it in and earn %@ points. (notification -> fill survey)*/
+"Fill_It_And_Earn_XX_Points" = "Ompliu-la i guanyeu %@ punts";
+
+/*Is your phone blocking trip detection?*/
+"Is_Your_Phone_Blocking_Trip_Detection" = "El vostre telèfon bloqueja la detecció del viatge?";
+
+/*Woorti gives you 25 points for each additional information item you fill in your profile.*/
+"Woorti_Gives_You_Points_For_Each_Info" = "Woorti us dóna 25 punts per cada element d'informació addicional que ompliu al vostre perfil";
+
+/*If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.*/
+"If_Thats_The_Case_Fortunately_There_Is_Solution" = "Si aquest és el cas, per sort té solució. Obtingueu les instruccions de la vostra marca de telèfon prement el següent botó";
+
+/*Enable app activity*/
+"Enable_App_Activity" = "Habilitar l'activitat de l'aplicació";
+
+/*Do not show again*/
+"Do_Not_Show_Again" = "No mostrar una altra vegada";
+
+/*If your trips are frequently not being recorded, your phone might be blocking this app’s activity.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded" = "Si els teus viatges sovint no es registren és possible que el seu telèfon estigui bloquejant l'activitat de l'aplicació";
+
+/*Tell us more about yourself*/
+"Tell_Us_More_About_Yourself" = "Explica'ns més sobre tu";
+
+/*Your data is anonymised.*/
+"Your_Data_Is_Anonymised" = "Les teves dades són anònimes";
+
+/*Fill in profile*/
+"Fill_In_Profile" = "Omple el perfil";
+
+/*Later*/
+"Later" = "Més tard";
+
+/*Point all time*/
+"Points_All_Time" = "Punts";
+
+/*Days with trips all time*/
+"Days_All_Time" = "Dies amb viatges";
+
+/*Trips all time*/
+"Trips_All_Time" = "Viatges\n";
+
+/*temporary text without link to battery optimization site not endorsed by motiv.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded_No_Link_To_Site" = "Si els seus viatges sovint no es registren és probable que el seu telèfon estigui bloquejant l'activitat de l'aplicació. Comprova la configuració d'optimització de la bateria en Android per desbloquejar Woorti";
+
+/*Dashboard_You*/
+"Dashboard_You" = "Tu";
+
+/*Dashboard_Community*/
+"Dashboard_Community" = "Comunitat\n";
+
+/*Dashboard_Citizens*/
+"Dashboard_Citizens" = "Ciutadans";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Onboarding" = "Aquests resultats mostren puntuacions predeterminades o les puntuacions que heu indicat en el registre, per tipus de transport. Pots canviar les puntuacions aplicables a la configuració de l'aplicació";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Leg_Info_Recorded" = "Aquests resultats mostren la valoració de les etapes del viatge que heu marcat a l'informar sobre el viatge";
+
+/*Dashboard*/
+"Dashboard_Your_Whole_Trips" = "Tots els teus viatges";
+
+/*Dashboard*/
+"Dashboard_Your_Reported_Legs" = "Les etapes registrades";
+
+/*Dashboard*/
+"Time_Spent_In_Travel" = "Temps gastat durant el viatge";
+
+/*Dashboard*/
+"Travelled_Distance" = "Distància recorreguda";
+
+/*Dashboard*/
+"CO2_Emissions" = "Emissions de CO2";
+
+/*Dashboard*/
+"Calories" = "Calories";
+
+/*Dashboard*/
+"The_Community_Trips" = "Els viatges de la comunitat";
+
+/*Dashboard*/
+"The_Community_Validated_Legs" = "Les etapes validades de la comunitat";
+
+/*Dashboard*/
+"Compared_To_Your_Scores" = "(en comparació a la teva puntuació)";
+
+/*Dashboard*/
+"Worthwhileness" = "Utilitat";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Title" = "¡Hola!";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_1" = "Informa els seus%@ de viatges detectats en l'últim ";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_2" = "per veure les teves estadístiques reals completes en l'escriptori";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Report_Trips" = "VIATGES REPORTATS";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_See_Dashboard" = "VEURE ESCRIPTORI";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Text" = "Ocasionalment, els viatges poden ser detectats incorrectament. Per editar l'estructura del viatge, prem la icona representada a dalt per dividir, fusionar o elimiar viatges o trams de viatge";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Button" = "HO TINC!";
+
+/*Home module travel report*/
+"Seven_Day_Travel_Report" = "Informe de viatge de 7 dies";
+
+/*Home (travel report link to Dashboard)*/
+"Learn_More" = "Aprèn més";
+
+/*please retranslate to make clear statistics are average calories per day. thank you. LV.*/
+/*Dashboard*/
+"In_Total_Users_Spent_Calories" = "De mitjana, per dia, els usuaris de la comunitat han cremat %@";
+
+/*Dashboard*/
+"And_This_Counted_Carbon_Footprint_Users" = "De mitjana, la comunitat va gastar %@ de la seva petjada de carboni sostenible";
+
+/*People from "campaign/city/country" on average have spent "3 min more/less" travelling a distance of "3km more/less" than you per day.*/
+"People_From_Place_Have_Spent_On_Average" = "Les persones de %@ en mitjana han passat %@ viatjant una distància de %@ que vostè, per dia";
+
+/*"3 km more"*/
+"Number_Km_More" = "%@ km més";
+
+/*"3 km less"*/
+"Number_Km_Less" = "%@ km menys";
+
+/*"3 min more"*/
+"Number_Min_More" = "%@ minuts més";
+
+/*"3 min less"*/
+"Number_Min_Less" = "%@ minuts menys";
+
+/*Dashboard*/
+"Community_Trips_Overall_Percentage_Worthwhile" = "Valoració dels viatges de la comunitat (en comparació a la teva puntuació)";
+
+/*These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.*/
+"Dashboard_Worthwhileness_Popup_Text" = "Aquests resultats mostren les puntuacions predeterminades o les puntuacions que han indicat en el registre, per tipus de transport. Pot canviar la puntuació aplicable en la Configuració de l'aplicació";
+
+/*What is the carbon budget?*/
+"What_Is_The_Carbon_Budget" = "Què és el pressupost de carboni?";
+
+/*The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle.  A person’s yearly mobility carbon budget is 500kg*/
+"The_Carbon_Budget_Is" = "El pressupost de carboni és la quanitat de CO2 que pot emetre's per persona per un estil de vida sostenible. \\n  \\n el pressupost anual de carboni de mobilitat d'una persona és de 500 kg";
+
+/*City/Region*/
+"City_Region" = "Ciutat/Regió";
+
+/*You*/
+"You" = "Tu";
+
+/*should translate according to "Min per user per day"*/
+/*Average minutes*/
+"Avg_Minutes" = "Minuts per usuari i per dia";
+
+/*please retranslate following "Km per user per day", because we are showing daily averages per individual (average) user of the community.*/
+/*Average kilometers*/
+"Avg_Kilometers" = "Km per usuari i per dia";
+
+/*need to translate according to "Kg CO2 per user per day"*/
+/*Average kilograms*/
+"Avg_Kilograms" = "Kg de Co2 per usuari per dia";
+
+/*need to retranslate for "Calories per user per day"*/
+/*Average calories*/
+"Avg_Calories" = "Calories per usuari per dia";
+
+/*Hours*/
+"Hours" = "Hores";
+
+/*Dashboard - unable to show some global stats (e.g. always disconnected)*/
+"Unable_Show_Stats" = "No es poden recuperar les estadístiques de la comunitat";
+
+/*CO2 budget popu*/
+"CO2_Budget_Example" = "500kg equivalen a un vol d'anada i tornada entre Brussel·les i Madrid, o 1500km recorreguts en cotxe";
+
+/*CO2 budget popup - no need to translate*/
+"CO2_Budget_Link_URL" = "https://motivproject.eu/data-collection/woorti-app-faqs.html";
+
+/*CO2 budget popup*/
+"CO2_Budget_Link_Text" = "Veure més";
+
+/*worthwhileness - travel wasted rating of trip*/
+"Travel_Time_Wasted_Question_Text_Second_Paragraph" = "Es refereix al teu temps de viatge, no a l'hora de destí";
+
+/*Onboarding and login*/
+"Failed_To_Connect_Check_Connectivity_Error" = "Error en la connexió. Si us plau comprova la connexió a Internet";
+
+/*"Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding."*/
+"Onboarding_Warning_Permissions_Denied_Retry" = "Els permisos sol·licitats han estat denegats per l'usuari. L'aplicació necessita els permisos i connexió a la xarxa per completar el registre. Si us plau, torna-ho a provar i completa el registre";
+
+/*"In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information."*/
+"Onboarding_Dialog_Box_Ask_Location_Storage_Permissions" = "Perquè l'aplicació funcioni correctament, has de permetre l'accés a la informació d'ubicació per a registrar viatges i llegir/escriure fitxers des de/fins a emmagatzematge extern per gestionar la informació del viatge";
+
+/*You have no trips*/
+"You_Have_No_Trips" = "No tens viatges";
+
+/*You must choose at least one trip to delete*/
+"You_Must_Choose_One_Trip_To_Delete" = "Has d'escollir com a mínim un viatge per poder eliminar-lo";
+
+/*Trip/s deleted successfully!*/
+"Trips_Deleted_Successfuly" = "Viatge/s eliminats amb èxit!";
+
+/*You must choose at least one leg to delete*/
+"You_Must_Choose_One_Leg_To_Delete" = "Has d'escollir com a mínim un tram per eliminar-lo";
+
+/*You cannot delete all the trip's legs*/
+"You_Cannot_Delete_All_Trips_Legs" = "No pots eliminar tots els trams dels viatges";
+
+/*You must choose consecutive legs to delete*/
+"You_Must_Choose_Consecutive_Legs_To_Delete" = "Has d'escollir trams consecutius per eliminar-los";
+
+/*You must choose at least two legs to merge*/
+"You_Must_Choose_Two_Legs_To_Merge" = "Has d'escollir almenys dos trams per combinar-los";
+
+/*You must choose consecutive legs to merge*/
+"You_Must_Choose_Consecutive_Legs_To_Merge" = "Has d'escollir trams consecutius per a poder combinar-los";
+
+/*The leg you are trying to split is too small to be split*/
+"The_Leg_Is_Too_Small_To_Be_Split" = "El tram que estàs intentant dividir és massa curt";
+
+/*Error splitting leg*/
+"Error_Splitting_Leg" = "Error al dividir el tram";
+
+/*Trips_Merged_Successfully*/
+"Trips_Merged_Successfully" = "Viatges combinats amb èxit!";
+
+/*Trip splitted successfully!*/
+"Trip_Splitted_Successfully" = "Viatge dividit amb èxit!";
+
+/*"Please choose another leg/transfer other than the last"*/
+"Please_Choose_Other_Leg_Transfer_Not_Last" = "Si us plau, escull un tram/transbordament diferent a l'últim";
+
+/*"Please choose a leg/transfer to split"*/
+"Please_Choose_Leg_Transfer_To_Split" = "Si us plau, escull un tram/transbordament per dividir";
+
+/*"You must choose consecutive trips to merge"*/
+"You_Must_Choose_Consecutive_Trips_To_Merge" = "Has d'escollir viatges consecutius per a combinar-los";
+
+/*"You must choose at least two legs to merge"*/
+"You_Must_Choose_Two_Trips_To_Merge" = "Has d'escollir almenys dos trams per a poder combinar-los";

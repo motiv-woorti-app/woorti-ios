@@ -1,0 +1,96 @@
+--- --- --- --- --- --- RawDataDetection.swift ML Details
+
+// The classifier was trained in Python, using the ML algorithms defined in scikit-learn library. To be used on Android and iOS, the resulting 
+// classifier was exported using 2 different formats, one for each operating system. 
+
+// To be used in the Woorti app running on Android, the classifier was exported to the PMML format using the JPMML library. The JPMML library 
+// allows to export the model to PMML format and to execute this model in Java that is then used in Android. 
+
+// To be used in the woorti app running on iOS, the classifier was exported to the Core ML model format. The Core ML framework allows to export and // use the ML models on iOS devices. With JPMML and Core ML, it was possible to create the ML model in scikit-learn and then use that model on the 
+// Android and iOS operating systems.
+
+// [Paper] This work is partially described in peer-reviewed scientific publication, as for reference in publications when used in other works:
+// edgeTrans - Edge transport mode detection. P. Ferreira, C. Zavgorodnii, L. Veiga. 
+// Pervasive and Mobile Computing, vol. 69(2020), 101268, ISSN 1574-1192, Elsevier. 
+// https://doi.org/10.1016/j.pmcj.2020.101268
+
+// Ln 42: RawDataDetection is responsible for analysing a sequence of segments with transport mode identified by the classifier,
+// and that ultimately identifies a sequence of legs in a trip and corresponding modes of transports.
+
+// Ln 85: func GeneratePotentialLegs(strongSegments: [Segments], 
+// inputs: [MLInputMetadata], intervalStart: Int = -1, intervalFinish: Int = -1) -> [Segments] {
+// Step 4 of post-processing phase. Given a list of strong segments, identifies the most likely 
+// transport mode of sub-sequence between 2 strong segments.
+    
+// Ln 133: func TripEvaluation(inputs: [MLInputMetadata]) -> [Segments] {
+// Triggers the analysis of accumulated segments as depicted in [Paper 3.5.2 Post-processing phase]. 
+// As a result returns a list of identified legs and corresponding transport modes.
+// Ln 144: Step 1-3 of Post-processing phase.
+// Ln 149: Step 4 of Post-processing phase.
+// Ln 195: Step 5 of Post-processing phase.
+
+// Ln 269: func identifyStillSegments(potentialLegs: [Segments], mergeFilters: [mergeFiltersEnum: Int], 
+// inputs: [MLInputMetadata]) -> [(Int, [Segments])] {
+// Identify segments whose transport mode is Still.
+   
+// Ln 331: func mergeConsecutiveLegs(potentialLegs: [Segments]) -> [Segments] {
+// Merge 2 consecutive potential legs (PL) that have the same transport mode into 1 potential leg.
+// illustration: ...PL1_PL2... -> ...PL... (PL1, PL2 and PL have the same transport mode).
+
+// Ln 359: func mergePotentialLegs(potentialLegs: [Segments], inputs: [MLInputMetadata], 
+// mergeFilters: [mergeFiltersEnum: Int], isWalkingLevel: Bool) -> [Segments] {
+// Step 5 of post processing phase as depicted in [Paper 3.5.2]. Identification of small, noisy sub-segments and potential 
+// merging with large sub-sequences.
+// Orders the potential legs by probability and then iterates over ordered legs and checks if there are small sub-sequences that can be merged.
+// The ordering allows to prioritize the legs that have higher probability to merge a small sub-sequence before another leg 
+// with lower probability gets a chance to merge it first.
+// For each leg, whenever is possible, left and right side are verified for potential small sub-sequences.
+// isWalkingLevel indicates if merges are done for walking potential legs (step 1 of Post-processing phase) or still potential legs (step 3).
+
+// Ln 398: func checkMergesRight(index2Check: Int, potentialLegs: [Segments], inputs: [MLInputMetadata], 
+// mergeFilters: [mergeFiltersEnum: Int], isWalkingLevel: Bool) -> ([Segments], Bool){
+// Auxiliar method used by mergePotentialLegs() to check the right side of potential legs for existance of small sub-sequences.
+
+// Ln 445: func CheckMergesBetween(right: Int, mid: Int, left: Int, potentialLegs: [Segments], 
+// inputs: [MLInputMetadata], mergeFilters: [mergeFiltersEnum: Int], isWalkingLevel: Bool) -> ([Segments], Bool) {
+// Auxiliar method used by checkMergesRight() and checkMergesLeft() to check the for existance of small sub-sequences between 2 potential legs.
+
+// Ln 476: func mergeThree(right: Int, mid: Int, left: Int, potentialLegs: [Segments], inputs: [MLInputMetadata]) -> [Segments] {
+// Auxiliar method used to merge 2 potential legs (PL) which have the same transport mode with
+// small sub-sequence (SSS) in between resulting in a single potential leg with 1 transport mode (i.e., the small sub-sequence 
+// in between is absorbed by its bigger neighbors).
+// illustration: ...PL1_SSS_PL2... -> ...PL... (PL1, PL2, PL have the same transport mode).
+
+// Ln 489: func mergeRightTwo(index: Int, potentialLegs: [Segments], inputs: [MLInputMetadata]) -> [Segments] {
+// Auxiliar method used to merge 1 potential leg (PL) with small sub-sequence (SSS) on the right side resulting in a 
+// single potential leg with 1 transport mode (i.e., the small sub-sequence is absorbed by its bigger neighbor).
+// illustration: ...PL1_SSS -> ...PL (PL1, PL have the same transport mode).
+
+// Ln 500: func mergeLeftTwo(index: Int, potentialLegs: [Segments], inputs: [MLInputMetadata]) -> [Segments] {
+// Auxiliar method used to merge 1 potential leg (PL) with small sub-sequence (SSS) on the left side resulting in a 
+// single potential leg with 1 transport mode (i.e., the small sub-sequence is absorbed by its bigger neighbor).
+// illustration: SSS_PL1... -> PL... (PL1, PL have the same transport mode).
+
+// Ln 513: func checkMergesLeft(index2Check: Int, potentialLegs: [Segments], inputs: [MLInputMetadata], 
+// mergeFilters: [mergeFiltersEnum: Int], isWalkingLevel: Bool) -> ([Segments], Bool){
+// Auxiliar method used by mergePotentialLegs() to check the left side of potential legs for existance of small sub-sequences.
+
+// Ln 557: func orderPotentialLegs(potentialLegs: [Segments]) -> [(Int, Int)] {
+// Order potential legs by probability.
+
+// Ln 616: func MergeCandidates(strongSegments:  [Segments], candidatesPerStrong: [Int: [Segments]], inputs: [MLInputMetadata]) -> [Segments] {
+// Step 2 of post-processing phase. Merging strong segments (characterized by having high probability)
+// with candidade sub-sequences (same transport mode, but reduced probability) using the formula defined in step 2.
+
+// Ln 693: func legSeparation(inputs: [MLInputMetadata]) -> [Segments] {
+// Step 1-3 of Post-processing phase as depicted in [Paper 3.5.2]. 
+// Identification of strong segments and corresponding merge with candidate sub-sequences for walking and still modes.
+// Ln 694: identification of strong segments.
+// Ln 767: step 3 of Post-processing phase, identification of still sub-sequences.
+
+// Ln 796: static func timeInsegmentsNumber(seconds: Int) -> Int {
+// Given a number in seconds, returns the number of corresponding segments.
+
+// Ln 800: func SegmentsIdentification(inputs: [MLInputMetadata], strongMinProb: Double, 
+// mode: Int64, firstIndex: Int = 0, lastIndex: Int = -1) -> [Segments] {
+// Identifies potential legs based on given values of probability.

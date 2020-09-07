@@ -1,0 +1,1107 @@
+
+/*Drawer titles*/
+"Drawer_Title_Home" = "Početna";
+"Drawer_Title_Route_Planner" = "Planer ruta";
+"Drawer_Title_My_Trips" = "Moja putovanja";
+"Drawer_Title_Dashboard" = "Nadzorna ploča";
+"Drawer_Title_Mobility_Coach" = "Voditelj putovanja";
+"Drawer_Title_Profile" = "Profil";
+"Drawer_Title_Settings" = "Profil i postavke";
+"Drawer_Title_Report_Issue" = "Prijava problema";
+"Drawer_Title_Finish_Log_Out" = "Odlogiranvanje";
+"login_what_is_email_address" = "Vaša e-mail adresa?";
+"login_enter_your_password" = "Unesite svoju lozinku";
+
+/*Profile and settings options*/
+"Edit_Profile" = "Uređivanje profila";
+"Set_Home_And_Work" = "Unošenje adrese stanovanja i posla";
+"Demographic_Info" = "Demografske informacije";
+"Worthwhileness_Settings" = "Postavke vrijednosti utrošenog vremena";
+"Tutorials" = "Vodič";
+"Transport_Preferences" = "Poželjni oblici prometovanja";
+
+/*<string name="APP_PERMISSIONS">App permissions</string>*/
+"App_Language" = "Jezik aplikacije";
+"Change_Password" = "Promjena lozinke";
+"Feedback" = "Povratne informacije";
+"Log_Out" = "Odlogiravanje";
+
+/*Education labels*/
+"Education_8th_Grade" = "Do 8. razreda";
+
+/*How old are you in the 9th to 1st grade? :) This is not translatable to Croatian*/
+"Education_Some_Highschool" = "Srednja škola";
+"Education_Highschool" = "Maturant_ica";
+"Education_Some_College" = "Pohađanje fakulteta, bez diplome";
+"Education_Training" = "Stručno zvanje";
+"Education_Bachelor" = "Završen dodiplomski studij";
+"Education_Master" = "Završen diplomski studij";
+"Education_Professional" = "Profesor_ica";
+"Education_Doctorate" = "Doktor_ica znanosti";
+"Education_Associate" = "Suradničko zvanje";
+"Education_No_Schooling" = "Bez škole";
+
+/*Demographic option*/
+"Demographic_Option_General" = "Opće";
+
+/*<string name="DEMOGRAPHIC_OPTION_HOUSEHOLD_DATA">Household data</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_CAPABILITIES">Mobility capabilities</string>
+ <string name="DEMOGRAPHIC_OPTION_MOBILITY_PREFERENCES">Mobility preferences</string>
+ <string name="DEMOGRAPHIC_OPTION_EXPERIENCE_FACTORS">Experience factors</string>
+ General suboptions*/
+"Age" = "Dob";
+
+/*message: Gender*/
+"Gender" = "Spol";
+"Education" = "Obrazovanje";
+"Country" = "Država";
+"City" = "Grad";
+
+/*Tutorial options*/
+"Tutorial_Option_What_Is_Worthwhileness" = "Što je vrijednost utrošenog vremena";
+
+/*Productivity*/
+"Productivity_Percentage" = "Produktivnost %@";
+"Mind_Percentage" = "Uživanje %@";
+"Body_Percentage" = "Tjelesna sprema %@";
+
+/*Main menu options
+ <string name="NEW_INTERFACE_TEXT">New interface</string>
+ My trips module*/
+"My_Trips" = "Moja putovanja";
+"Start_Trip" = "Početak putovanja";
+"End_Trip" = "Kraj putovanja";
+"Trip_Being_Recorded" = "Putovanje se upravo bilježi";
+
+/*Edit trips*/
+"Select_Trips_To_Merge" = "Odabir putovanja koje želite spojiti";
+"Confirm_Trips_To_Merge" = "Potvrdite putovanja koja želite spojiti";
+"Select_Trips_To_Split" = "Odaberite putovanja koja želite razdvojiti";
+"Move_The_Map_To_Split" = "Pomaknite kartu za razdvajanje putovanja";
+"Select_Trips_To_Delete" = "Odaberite putovanja koja želite izbrisati";
+"Split" = "Razdvoji";
+"Merge" = "Spoji";
+"Delete" = "Izbriši";
+"Select_Legs_To_Split" = "Odabir dijelova putovanja i presjedanja za razdvajanje";
+"Move_The_Map_To_Split_The_Leg" = "Pomaknite kartu za razdvajanje putovanja";
+"Edited" = "Uređeno";
+"Select_Legs_To_Merge" = "Odabir dijelova putovanja ili presjedanja za spajanje";
+"Confirm_The_Legs_To_Merge" = "Potvrdite odabrane dijelove putovanja ili presjedanja za spajanje";
+"Rate_Your_Edited_Trips" = "Ocijenite uređena putovanja";
+"Select_Legs_To_Delete" = "Odaberite dijelove putovanja za brisanje";
+"Confirm_The_Legs_To_delete" = "Potvrdite brisanje dijelova putovanja ili presjedanja";
+
+/*Leg validation*/
+"Validated" = "Potvrđeno";
+"How_Did_You_Travel" = "Kako ste putovali?";
+
+/*message: Public Transport*/
+"Public_Transport" = "Javni prijevoz";
+"Active_Semi_Active" = "Aktivno/Poluaktivno";
+"Private_Motorised" = "Osobni, motorizirani";
+"Not_Sure" = "Nisam siguran_a";
+"Lousy" = "Loše";
+"Overall_Feel_About_Trip" = "Sveukupno, kako ste se osjećali u vezi ovog putovanja?";
+"Great" = "Odlično";
+"Travel_Time_Wasted_Min_Text" = "Uzalud utrošeno vrijeme";
+"Travel_Time_Wasted_Question_Text" = "Je li vrijeme Vašeg putovanja bilo uzalud ili vrijedno utrošeno?";
+"Travel_Time_Wasted_Max_Text" = "Svo vrijeme bilo je vrijedno utrošeno";
+
+/*please update translation from new english text*/
+"Which_Factors_Most_Contributed" = "Zbog čega je Vaše vrijeme bilo uzaludno (-) ili vrijedno (+) utrošeno?";
+"Unfold_All_That_Apply" = "Otvorite i označite sve što odgovara";
+
+/*Factors*/
+"Infrastructure_And_Services" = "Infrastruktura i usluga";
+"Comfort_And_Pleasantness" = "Udobnost i ugodnost";
+"Getting_There" = "Dolazak";
+"Tables" = "Tablice";
+"Toilets" = "WC";
+"Food_Drink_Allowed" = "Dopuštena hrana i piće";
+"Food_Drink_Available" = "Dostupna hrana i piće";
+"Shopping_Retail" = "Kupovina/maloprodaja";
+"Entertainment" = "Zabava";
+"Noise_Level" = "Razina buke";
+"Cleanliness" = "Čistoća";
+"Scenery" = "Priroda i mir";
+"Todays_Weather" = "Vremenske prilike";
+"Privacy" = "Privatnost";
+"Traffic_Signals_Crossings" = "Prometni znakovi i raskršća";
+"Crowding_Congestion" = "Gužva/zagušenje";
+"Traffic_Congestion_Delays" = "Prometno zagušenje/kašnjenja";
+"Others_Comments" = "Drugi/komentari";
+
+/*Activities*/
+"What_Did_You_Do_And_Value" = "Što ste točno radili što je vrijedno?";
+"Driving_Cycling_Walking" = "Vožnja/bicikliranje/hodanje";
+"Relaxing_Sleeping" = "Opuštanje ili spavanje";
+"Browsing_Social_Media" = "Pregledavanje društvenih mreža";
+"Reading_Writing_Paper" = "Čitanje / pisanje (papirnato)";
+"Reading_Writing_Device" = "Čitanje / pisanje (na uređaju)";
+"Listening_To_Audio" = "Slušanje audio zvuka";
+"Walking_Video_Gaming" = "Gledanje videa";
+"Talking_Including_Phone" = "Razgovaranje (uključujući telefonsko)";
+"Accompanying_Someone" = "Ispraćanje nekoga";
+"Eating_Drinking" = "Jesti / piti";
+"Personal_Caring" = "Osobna njega";
+"Thinking" = "Razmišljanje";
+
+/*Value this part of the trip*/
+"What_Value_Take_From_Part" = "Što je bilo vrijedno u ovom dijelu putovanja?";
+"Paid_Work" = "Plaćeni posao";
+"Personal_Tasks" = "Privatne obaveze";
+
+/*message: Enjoyment*/
+"Enjoyment" = "Uživanje";
+
+/*message: Fitness*/
+"Fitness" = "Tjelesna aktivnost";
+"None" = "Ništa";
+"Some" = "Ponešto";
+"High" = "Visoko";
+
+/*Thinking about trip as a whole*/
+"Thinking_About_Your_Trip_Title" = "Jeste li htjeli vaše vrijeme prometovanja koristiti za ... ?";
+
+/*message: Productivity*/
+"Productivity" = "Produktivnost";
+"Anything_Else_Like_To_Share" = "Nešto drugo što biste htjeli podijeliti?";
+
+/*message: I would like to share...*/
+"Would_Like_To_Share" = "Htio_htjela bih podijeliti...";
+"Today" = "Danas";
+"Yesterday" = "Jučer";
+"Validate_Your_Trip" = "Zabilježeno je novo putovanje! Potvrdite svoje putovanje kako biste zaradili %@ bodova!";
+"What_Was_Purpose" = "Koja je bila svrha vašeg putovanja?";
+"Mark_All_That_Apply" = "Označite sve što odgovara";
+
+/*Trip purposes*/
+"Work" = "Posao";
+"School_Education" = "Škola / edukacija";
+"Home" = "Kuća";
+"Everyday_Shopping" = "Svakodnevna kupovina";
+"Business_Trip" = "Poslovni put";
+"Leisure_Hobby" = "Odmor / hobi";
+"Pick_Up_Drop_Off" = "Prevesti nekoga";
+"Personal_Tasks_Errands" = "Privatne obaveze / zadaci";
+"Trip_Itself" = "Put sam po sebi";
+
+/*message: Other*/
+"Other" = "Drugo";
+"Arrive_At_Fixed_Time" = "Jeste li morali stići u točno određeno vrijeme?";
+"How_Often_Make_This_Trip" = "Koliko često radite ovo putovanje?";
+"Regularly" = "Često";
+"Occasionally" = "Povremeno";
+"First_Time" = "Prvi put";
+"Select_Part_Of_Trip_Feedback" = "Odaberite dio putovanja zbog daljnjih objašnjenja";
+
+/*<string name="objective_other_hint">Where you travelled and why</string>*/
+"Confirm_Modes_Of_Your_Trips" = "Potvrdite načine putovanja";
+
+/*message: Transfer*/
+"Transfer" = "Promjena načina putovanja";
+"Auto_Detected" = "Automatski određeno";
+
+/*message: were you %@ ?*/
+"Were_You_Walking_Or_Running" = "Jeste li %@ ?";
+
+/*message: Did you go by %@ ?*/
+"Did_You_Go_The_Mode" = "Jeste li se kretali %@ ?";
+
+/*modes of transport*/
+"Walking" = "Hodanjem";
+"Jogging_Running" = "Džogiranjem/trčanjem";
+"Bicycle" = "Biciklom";
+"Car_Driver" = "Automobilom";
+"Bus_Trolley_Bus" = "Autobusom";
+"Tram" = "Travajem";
+"Metro" = "Metroom";
+"Urban_Train" = "Gradskim vlakom";
+"Regional_Intercity_Train" = "Međugradskim vlakom";
+"Ferry_Boat" = "Trajektom / brodom";
+"Motorcycle" = "Motorom";
+"Moped" = "Mopedom";
+"Electric_Bike" = "Električnim biciklom";
+"Bike_Sharing" = "Javnim biciklom";
+"Car_Passenger" = "Automobilom kao putnik";
+"Taxi_Ride_Hailing" = "Taksijem";
+"Car_Sharing_Rental_Driver" = "Iznajmljenim automobilom (vozač)";
+"Car_Sharing_Rental_Passenger" = "Iznajmljenim automobilom (putnik)";
+"car_pooling" = "Dijeljenjem automobila";
+"Plane" = "Avionom";
+"high_speed_train" = "Brzim vlakom";
+"Coach_Long_Distance_Bus" = "Autobusom (duga udaljenost)";
+"Micro_Scooter" = "Skuterom";
+"Skate" = "Skateboardom";
+"Electric_Wheelchair_Cart" = "Električnim kolicima";
+"Wheelchair" = "Kolicima";
+"Cargo_Bike" = "Teretnim biciklom";
+"Other_Public_Transport" = "Drugim javnim prijevozom";
+"Other_Active_Semi_Active" = "Drugim aktivnim/poluaktivnim prijevozom";
+"Other_Private_Motorised" = "Drugim osobnim prijevozom";
+
+/*Misc*/
+"Yes" = "Da";
+"No" = "Ne";
+"Save" = "Spremi";
+"Confirm_All" = "Potvrdi sve";
+
+/*message text of \"Next\" button message: Next*/
+"Next" = "Sljedeće";
+"Done" = "Gotovo";
+"End" = "Kraj";
+
+/*Factors Wasted Time*/
+"Skip" = "Preskoči";
+
+/*title for the info pages message: A Little About You*/
+"A_Little_About_You" = "Malo o vama";
+
+/*message: Active/Semi-active*/
+"Active_Semi_active" = "Aktivno/poluaktivno";
+
+/*message: Thanks! To record your trips we need your permission to let Woorti access to your location at all times.
+ 
+ It should not excessively consume your battery.*/
+"Ask_location_permission_String" = "Hvala! Za bilježenje vaših putovanja potrebno nam je vaše dopuštenje da Woorti u svakom trenutku može pristupiti vašoj lokaciji.\n\n \n\nIzradili smo aplikaciju tako da ne troši pretjerano bateriju.";
+
+/*message: Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.*/
+"Ask_location_permission_String_when_user_has_denied" = "Oprostite! Kako bi Woorti ispravno funkcionirao, uistinu je potrebno uvijek omogućiti pristup vašoj lokaciji.";
+
+/*message: Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us!
+ 
+ To do this we need to be able to send you notifications*/
+"Ask_notification_permission_String" = "Naposljetku, postavit ćemo vam pitanja o vašim iskustvima dok putujete. Vaše mišljenje doista nam je važno! Kako bismo to mogli, moramo vam moći slati obavijesti.";
+
+/*message: BACK TO LOGIN*/
+"Back_To_Login" = "Natrag na ulogiravanje";
+
+/*change language screen title message: Change Language*/
+"Change_Language" = "Promjena jezika";
+
+/*message: Correct exams*/
+"Correct_Exams" = "Ispravak_pregled";
+
+/*title for the first onboarding pages message: Data Protection*/
+"Data_Protection" = "Privatnost i zaštita podataka";
+
+/*placeholder for password when registering only*/
+"Didnt_sign_up_yet" = "Zaboravili ste lozinku?";
+
+/*rating prefered modes of transport message: Doesn't improve my fitness*/
+"Doesnt_Improve_My_Fitness" = "Ne poboljšava moju tjelesnu spremu";
+
+/*email message*/
+"Email" = "e-mail";
+
+/*message shown when clcicking to reset a password message: If %@ has an account with Woorti, you will be receiving an email to reset your password*/
+"Email_Has_Been_Sent" = "E-mail je poslan";
+
+/*rating prefered modes of transport message: Enjoying*/
+"Enjoying" = "Uživanje";
+
+/*message: Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…*/
+"Enjoyment_Worthwhile_Description_Score" = "Opuštanje ili zabava; korištenje vremena za slušanje glazbe, odmor ili meditaciju; pregledavanje društvenih mreža; promatranje okoline...";
+
+/*message: When I travel,
+ I chill*/
+"Enjoyment_Worthwhile_High_Score" = "Kada putujem, opuštam se";
+
+/*placeholder for email in login/register*/
+"Enter_Your_Email_Address" = "Unesite svoj e-mail";
+
+/*name Placeholder message: Enter your name*/
+"Enter_Your_Name" = "Unesite svoje ime";
+
+/*placeholder for password in login/register*/
+"Enter_Your_Password" = "Unesite svoju lozinku";
+
+/*placeholder for password when registering only*/
+"Enter_Your_Password_Again" = "Ponovno unesite svoju lozinku";
+
+/*error shown to the user when log in failed*/
+"Error_Log_In" = "Došlo je do pogreške prilikom ulogiravanja. Pokušajte ponovno ili promijenite lozinku.";
+
+/*message: Female*/
+"Female" = "Žensko";
+
+/*message: Did you know that a person spends about 2 years of her whole life commuting?
+ 
+ Woorti will help you explore your travel time!*/
+/*Fuzzy*/
+"First_Onboarding_Screen_Welcome_Description_Text" = "Jeste li znali da osoba troši oko 2 godine života na prometovanje?\n\nWoorti će Vam pomoći istražiti Vaše vrijeme utošeno na prometovanje!";
+
+/*message: Your travel time is an important part of your life!*/
+"First_Onboarding_Screen_Welcome_Title" = "Vrijeme putovanja važan je dio Vašeg života!";
+
+/*message: message: Travelling is not at all relaxing*/
+"FitnesEnjoyment_Worthwhile_Low_Scores" = "Putovanje uopće nije opuštajuće";
+
+/*message: When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.*/
+"Fitness_Worthwhile_Description_Score" = "Dok hodate, biciklirate ili čak trčite, vježbate i održavate tjelesnu spremu.";
+
+/*message: Travel time is a great way to feel the burn*/
+"Fitness_Worthwhile_High_Score" = "Vrijeme putovanja odlično je za jačanje mišića";
+
+/*message: Exercise is in the gym/field*/
+"Fitness_Worthwhile_Low_Score" = "Vježba se u teretani/prirodi";
+
+/*Forgot Password*/
+"Forgot_Password" = "Zaboravljena lozinka";
+
+/*placeholder for password when registering only*/
+"Forgot_Your_Password" = "Jeste li zabravili lozinku?";
+
+/*message: Everyone defines what is a worthwhile travel time in his or her different way.
+ 
+ Let's see what that means to you!*/
+"Fourth_Onboarding_Screen_Description" = "Svatko drugačije definira što je vrijedno utrošeno vrijeme na putovanje.\n\nPogledajmo što to znači za Vas!";
+
+/*message: I accept MoTiV data protection conditions*/
+"GRPD_Accept" = "Prihvaćam uvjete zaštite podataka MoTiV-a";
+
+/*message: For the European MoTiV project research on travel time, this app collects anonymised data on:
+ 1. Your trips (time, location and transport used)
+ 2. Your expressed preferences and searches within the app*/
+"GRPD_Description" = "Za potrebe istraživanja o vremenu utrošenom na putovanje u sklopu europskog projekta MoTiV, ova aplikacija prikuplja sljedeće podatke:\n\n1. Vaša putovanja (vrijeme, lokacija i način prometovanja)\n\n2. Vaše prijavljene preferecije i pretrage unutar aplikacije";
+
+/*message: MoTiV privacy policy is compliant with EU GDPR. Read More*/
+"GRPD_Read_Policy" = "Pravila o privatnosti MoTiV projekta su u skladu s EU odredbama GDPR-a. Pročitajte više";
+
+/*rating prefered modes of transport message: Improves my fitness*/
+"Improves_My_Fitness" = "Poboljšava moju tjelesnu spremu";
+
+/*splash screen start now button message*/
+"Log_In" = "Ulogiravanje";
+
+/*login with google button message*/
+"Log_In_With_Google" = "Ulogiravanje putem Google-a";
+
+/*message: Male*/
+"Male" = "Muško";
+
+/*message: No worries! Enter your email address below and we will send you a email to reset your password.*/
+"No_Worries_Message" = "Bez brige! Unesite svoj e-mail i poslat ćemo Vam obavijest za promjenu lozinke.";
+
+/*rating prefered modes of transport message: Not Enjoying*/
+"Not_Enjoying" = "Ne uživam";
+
+/*%@ not filled*/
+"Not_Filled" = "%@ nije ispunjeno";
+
+/*rating prefered modes of transport message: Not Productive*/
+"Not_Productive" = "Nije produktivno";
+
+/*message: NOW YOU!*/
+"Now_You" = "SADA VI!";
+
+/*message: Ok cool*/
+"Ok_Cool" = "Ok super";
+
+/*password message*/
+"Password" = "Lozinka";
+
+/*register button message*/
+"Passwords_Dont_Match" = "Registracija";
+
+/*title for the first onboarding pages message: Permissions*/
+"Permissions" = "Dopuštenja";
+
+/*message: Private Motirized*/
+"Private_Motirized" = "Osobno, motorizirano";
+
+/*message: Proceed to Enjoyment*/
+"Proceed_To_Enjoyment" = "Nastavi na Uživanje";
+
+/*message: Proceed to Fitness*/
+"Proceed_To_Fitness" = "Nastavi na Tjelesnu aktivnost";
+
+/*proceed to productivity button message: Proceed to Productivity*/
+"Proceed_To_Productivity" = "Nastavi na Produktivnost";
+
+/*rating prefered modes of transport message: Productive*/
+"Productive" = "Produktivno";
+
+/*message: Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…*/
+"Productivity_Worthwhile_Description_Score" = "Koristiti vrijeme putovanja za obavljanje stvari, ne samo za posao ili učenje, nego i za osobne zadatke kao što su upravljanje kućnim ili obiteljskim obavezama ...";
+
+/*message: I used my  trip to get stuff done!*/
+"Productivity_Worthwhile_High_Score" = "Koristiom putovanja za obavljanje stvari!";
+
+/*message: I don’t work when I travel*/
+"Productivity_Worthwhile_Low_Score" = "Ne radim dok putujem";
+
+/*message: How important are the travel time worthwhileness elements for you, when you travel?*/
+"Rate_Worthwhileness_Screen_Title" = "Koliko su za vas važni elementi vrijednosti vremena utrošenog na prometovanje, kada putujete?";
+
+/*message: How much enjoyment do you get from your your travel time by:*/
+"Rating_Prefered_Mot_Enj_Title" = "Koliko uživate za vrijeme putovanja dok prometujete:";
+
+/*message: How does your travel time contribute to your fitness when you travel by:*/
+"Rating_Prefered_Mot_Fit_Title" = "Kako vrijeme putovanja doprinosi vašoj tjelesnoj spremi dok putujete:";
+
+/*message: How productive are you when you travel by:*/
+"Rating_Prefered_Mot_Prod_Title" = "Koliko ste produktivni dok putujete:";
+
+/*register button message*/
+"Register" = "Registracija";
+
+/*message: Which modes of transport do you use regularly?*/
+"Regualr_Modes_Of_Transport_Title" = "Koje načine putovanja često koristite?";
+
+/*Reset Password*/
+"Reset_Password" = "Promjena lozinke";
+
+/*message: Check out $@ for more information*/
+"Second_Onboarding_Screen_Help_Reseach_Check_Out_Site" = "Provjerite %@ za više informacija.";
+
+/*message: With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.*/
+"Second_Onboarding_Screen_Help_Reseach_Description" = "Pomoću informacija koje pružate, Woorti će prikupiti znanja za bolja prometna rješenja i podijeliti ih s istraživačima, prijevoznicima i lokalnim vlastima diljem Europe.";
+
+/*The message for this text was incorrect, the real message in English is: Help research for better transport
+ When possible please retranslate this message.*/
+"Second_Onboarding_Screen_Help_Reseach_Title" = "Pomognite istraživanju za bolji promet";
+
+/*sign in button message*/
+"Sign_In" = "Ulogiravanje";
+
+/*splash screen start now button message*/
+"Start_Now" = "Započni";
+
+/*message: While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.*/
+"Third_Onboarding_Screen_Description" = "Dok neki vole učiti ili raditi dok putuju, drugi se vole opustiti i isključiti. Neki koriste mogućnost vježbanja, a drugi započinju dan glazbom.";
+
+/*error shown to the user when registering with a already signed in email account*/
+"User_Already_Signed_In" = "Čini se kako ste se %@ već prije ulogirali. Hoćemo li Vas ulogirati?";
+
+/*title that appears on the top of the login page*/
+"Welcome_Back" = "Dobrodošli natrag";
+
+/*title for the first onboarding page message: What is a worthwhile trip*/
+"What_Is_A_Worthwhile_Trip" = "Što je prometovanje vrijedno utrošenog vremena?";
+
+/*message: What is your age?*/
+"What_Is_Your_Age" = "Koja je Vaša dob?";
+
+/*message: What is your name?*/
+"What_Is_Your_Name" = "Vaše ime?";
+
+/*message: Where do you live?*/
+"Where_Do_You_Live" = "Gdje živite?";
+
+/*you've got mail!*/
+"Youve_Got_Mail" = "Imate e-mail!";
+"No_Ongoing_Trip_To_Show" = "Nema trenutačnih putovanja za prikaz";
+"Your_Trip" = "Vaše putovanje";
+"Click_On_The_Marker_To_Split_The_Trip" = "Kliknite na oznaku za razdvojanje putovanja";
+"Security_Boarding_Process" = "Sigurnost i postupak ukrcavanja";
+"Other_Activity" = "Druge aktivnosti";
+"Cycling" = "Bicikliranje samo po sebi";
+
+/*what's the difference between cycling and riding?*/
+"Riding" = "Vožnja sama po sebi";
+"Skating" = "Skejtanje samo po sebi";
+"Driving" = "Vožnja sama po sebi";
+"Running" = "Trčanje samo po sebi";
+
+/*message: Please wait while Woorti searches for local studies*/
+"Wait_While_Searching_Local_Studies" = "Molimo, pričekajte dok Woorti pretraži lokalne studije";
+
+/*message: There are these studies going near you. Which one(s) do you want to contribute with data to?*/
+"Studies_Title" = "Ove studije se provode blizu vas. Kojima želite doprinijeti svojim podacima?";
+"Menu" = "Menu";
+"Set_Home" = "Odredite dom";
+"Set_Work" = "Odredite radno mjesto";
+"Change_Photo" = "Promijenite fotografiju";
+"Name" = "Ime";
+"Define_Home_Location" = "Odredite lokaciju svojeg doma kako biste brže dobili svoja putovanja";
+"Define_Work_Location" = "Odredite lokaciju svojeg radnog mjesta kako biste brže dobili svoja putovanja";
+"Edit" = "Uredi";
+"Educational_Background" = "Obrazovanje";
+"Activities" = "Aktivnosti";
+"While_You_Ride" = "Dok se krećete";
+"Ability_To_Do_What_I_Wanted" = "Mogućnost da radim što želim tijekom putovanja";
+"Simplicity_Difficulty_Of_The_Route" = "Jednostavnost/složenost rute";
+"Schedule_Reliability" = "Pouzdanost vremena prometovanja";
+"Security_And_Safety" = "Sigurnost";
+"Space_Onboard_For_Lugagge_Pram_Bicycle" = "Prostor za prtljagu/kolica/bicikl itd.";
+"Ability_To_Take_Pets_Along" = "Mogućnost da se povede dijete ili kućni ljubimac";
+"Payment_And_Tickets" = "Plaćanje i karte";
+"Convenient_Access_Lifts_Boarding" = "Dobra pristupačnost (dizalo, ukrcavanje, itd.)";
+"Route_Planning_Navigation_Tools" = "Planiranje rute/alati za navigaciju";
+"Information_And_Signs" = "Informacije i znakovi";
+"Checkin_Security_And_Boarding" = "Prijava (check-in), sigurnost i ukrcavanje";
+"Crowdedness_Seating" = "Gužva/sjedenje";
+"Internet_Connectivity" = "Pristup internetu";
+"Ability_To_Do_The_Things_I_Want" = "Mogućnost da radim što želim";
+"Charging_Opportunity" = "Mogućnost punjenja";
+"Car_Bike_Parking_At_Transfer_Point" = "Parking za automobil/bicikl na mjestu presjedanja";
+"Vehicle_Ride_Smoothness" = "Lakoća vožnje vozila";
+"Seating_Quality_Personal_Space" = "Kvaliteta sjedenja/osobni prostor";
+"Other_People" = "Drugi ljudi";
+"Air_Quality_Temperature" = "Kvaliteta zraka/temperatura";
+"General_Atmosphere_Design" = "Gradski krajolik i atmosfera";
+"Road_Path_Availability_And_Safety" = "Pristupačnost i sigurnost cesta/puteva";
+"Accessibility_Escalators_Lifts_Ramps_Stairs_Etc" = "Dobra pristupačnost (dizala, rampe, itd.)";
+"Ability_To_Carry_Bags_Luggage_Etc" = "Mogućnost unošenja torbi, prtljage itd.";
+"Ability_To_Take_Kids_Or_Pets_Along" = "Mogućnost vođenja djece ili kućnih ljubimaca";
+"Benches_Toilets_Etc" = "Klupe/WC itd.";
+"Facilities_Shower_Lockers" = "Sadržaji (tuš, ormarići)";
+"Parking_At_End_Points" = "Parking na krajnjoj destinaciji";
+"Road_Path_Quality" = "Kvaliteta ceste/puta";
+"Road_Path_Directness" = "Izravnost ceste/puta";
+"Air_Quality" = "Kvaliteta zraka";
+"Lighting_Visibility" = "Osvijetljenost/vidljivost";
+"Cars_Other_Vehicles" = "Automobili/druga vozila";
+"Space_For_Luggage_Pram_Bicycle_Etc" = "Prostor za prtljagu/kolica/bicikl itd.";
+"Road_Quality_Vehicle_Ride_Smoothness" = "Kvaliteta ceste/lakoća vožnje";
+"Vehicle_Quality" = "Kvaliteta vozila";
+"Seat_Comfort" = "Udobnost sjedala";
+"Other_Passengers" = "Drugi putnici";
+"Other_Cars_Vehicles" = "Drugi automobili/vozila";
+
+/*Button text on second onboarding page*/
+"Lets_Get_Started" = "Započnimo";
+
+/*Report issue*/
+"Thank_You_For_Submitting_This_Issue" = "Zahvaljujemo što ste prijavili problem. Potvrdite slanje ili nastavite s drugim problemom";
+"Confirm_And_Leave" = "Potvrdite i izađite";
+"Confirm_And_Submit_More" = "Potvrdite i prijavite još";
+"Where_City" = "Gdje u %@?";
+"OtherCountry" = "Druga zemlja";
+"OtherCity" = "Drugi grad";
+"Sign_Up_Error" = "Greška u prijavi";
+"Sign_Up" = "Prijava";
+"How_Important_Are_The_Following_Factors" = "Koliko su vam važni sljedeći čimbenici s obzirom na vrijeme dok putujete.";
+"Modes_Of_Transport" = "Načini prijevoza";
+"Help_Research_For_Better_Transport" = "Doprinesite istraživanju za bolji promet";
+"Already_Signed_Up_Log_In_Here" = "Već ste se prijavili? Ulogirajte se ovdje";
+"Welcome" = "Dobro došli";
+"Refresh_Surveys" = "Osvježite upitnike";
+
+/*This string has the text for the data regarding Activities (e.g., for the walk itself) and *not* the walking mode of transport*/
+"The_Walk_Itself" = "Hodanje samo po sebi";
+"Education_Highshool" = "Srednja škola";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Education_Basic" = "Osnovno";
+"Education_University" = "Fakultet";
+
+/*Ocupation options*/
+"Occupation" = "Zanimanje";
+"Ocupation_Student" = "Student_ica";
+"Ocupation_Schedule_Worker" = "Radnik_ca na puno radno vrijeme";
+"Ocupation_Flexible_worker" = "Radnik_ca na nepuno radno vrijeme";
+"Ocupation_Selfemployed" = "Samozaposlen_a / freelancer";
+"Ocupation_Seeking_Work" = "Tražim posao";
+"Ocupation_Inactive" = "Nezaposlen_a / u mirovini";
+"Ocupation_Maternity" = "Roditeljski dopust";
+"Ocupation_Military" = "Vojni / civilni rok";
+
+/*Marital status*/
+"Marital_Status" = "Bračni status";
+"Marital_Single" = "Sam_a";
+"Marital_Married" = "U braku";
+"Matital_Significant_Other" = "U vezi";
+"Marital_Divorced" = "Razveden_a";
+"Marital_Widowed" = "Udovac_ica";
+"Driver_License" = "Vozačka dozvola B kategorije";
+"Household_Yearly_Income" = "Godišnji prihod kućanstva";
+"Number_People_Household" = "Broj članova kućanstva";
+"Number_Children_household" = "Broje djece u kućanstvu";
+"Number_Cars_Household" = "Broj automobila u kućanstvu";
+"Nationality" = "Državljanstvo";
+
+/*TODO NEW STRING*/
+"No_Trips_Text" = "Na ovom se zaslonu pojavljuju vaša putovanja gdje ćete moći izvještavati o njima. Vratite se ovdje nakon putovanja ... \\ n\nWoorti pokušava ne propustiti niti jedno putovanje, ali ako želite biti sigurni da su snimljena, samo pritisnite gumb iznad na početku vašeg putovanja ... \\ n\nObavezno uključite svoj GPS.";
+
+/*Dashboard*/
+/*you have spent %@ travelling a distance of %@ in %@.*/
+"You_Have_Spent_Complete" = "Potrošili ste %@ putujući na udaljenosti %@ na %@.";
+"In_Total_You_Spent_Calories" = "Ukupno, potrošili ste %@.";
+"And_This_Counted_Carbon_Footprint" = "A to se računa za %@ vašeg održivog ugljičnog otiska.";
+"Your_Trips_Overall_Percentage_Worthwhile" = "Vaša putovanja bila su ukupno %@ utrošena.";
+"While_Traveling_Activities" = "Dok ste putovali, %@ vašeg vremena utrošeno je na %@.";
+"Do_You_Want_To_Set_This_Location_Home" = "Želite li označiti ovu lokaciju kao Vašu kućnu adresu?";
+"Do_You_Want_To_Set_This_Location_Work" = "Želite li označiti ovu lokaciju kao adresu Vašeg radnog mjesta?";
+"Privacy_Policy" = "Politika privatnosti";
+
+/*day*/
+"Day" = "Dan";
+
+/*3 days*/
+"Days_3" = "3 dana";
+
+/*week*/
+"Week" = "Tjedan";
+
+/*month*/
+"Month" = "Mjesec";
+
+/*year*/
+"Year" = "Godina";
+
+/*era*/
+"Era" = "Era";
+
+/*worthwhile*/
+"Worthwhile" = "Vrijedno";
+
+/*TODO new strings
+ New education strings according to specs*/
+"Other_Activities" = "Druge aktivnosti";
+
+/*Marital status*/
+"Household_Marital" = "Bračni status";
+"Household_Years_Residence" = "Godine boravka u ovoj zemlji";
+"Household_Labour_Status" = "Radni status";
+"Labour_Student" = "Student_ica";
+"Labour_Employed_Full_Time" = "Zaposlen_a na puno radno vrijeme";
+"Labour_Employed_Part_Time" = "Zaposlen_a na nepuno radno vrijeme";
+"Labour_Unemployed" = "Nezaposlen_a";
+"Years_Residence_Less_Than_One" = "Manje od 1";
+"Years_Residence_One_To_Five" = "1 do 5";
+"Years_Residence_More_Than_Five" = "Više od 5";
+"Walk_For_Distance" = "Hodanje %@";
+"Household" = "Kućanstvo";
+"Total_Points" = "Ukupno bodova";
+"Todays_Travel_Report" = "Današnji izvještaj prometovanja";
+
+/*link to page with privacy policy specific to each language*/
+/*Fuzzy*/
+"Url_Privacy_Policy" = "https://motivproject.eu/data-collection/data-protection/croatia.html";
+
+/*%@ questions*/
+"N_Questions" = "%@ pitanja";
+
+/*New survey*/
+"New_Survey" = "Novi upitnik";
+
+/*Minutes more*/
+"Minutes_More" = "Minuta više";
+
+/*Minutes less*/
+"Minutes_Less" = "Minuta manje";
+
+/*Kilometers more*/
+"Km_More" = "km više";
+
+/*Kilometers less*/
+"Km_Less" = "km manje";
+
+/*Trip validation*/
+"Trip_Validation" = "Potvrda putovanja";
+
+/*Latest story*/
+"Latest_Story" = "Posljednja priča";
+"Household_Data" = "Podaci o kućanstvu";
+
+/*new text for battery warning pop up in mytrips (so that people are remembered to disable battery optimizations that undermine the app working in background)*/
+/*battery warning popup text*/
+"Alert_Battery_Content" = "Woorti radi u pozadini tijekom bilježenja putovanja. Svakako onemogućite u svom telefonu bilo koju postavku optimizacije baterije ili načina rada s niskim napajanjem u vezi s aplikacijom Woorti, kako biste izbjegli isključivanje aplikacije.";
+
+/*"In the last" start message of DashBoard, Please use sentence that fits any number of days*/
+/*Dashboard*/
+"In_The_Last" = "U posljednjoj";
+
+/*stories*/
+"story_1_title_chiaras_new_train_ride" = "Klarina nova vožnja vlakom";
+"story_1_text_chiaras_train_ride" = "Klara, njezin suprug i njihovo dvoje djece nedavno su se preselili iz centra u predgrađe Bruxellesa. Odvodi djecu u vrtić i školu teretnim biciklom, a zatim odlazi na željezničku stanicu te se 25 minuta vozi vlakom do središta grada. To je velika promjena u njezinom prometovanju, nije bila sretna što je više vremena provodi na putu na posao, ali je počela uživati u vremenu u vlaku. Sjedeći sama, mogla se opustiti i raditi nešto novo.\n\nKlara je počela koristiti ovo vrijeme za čitanje knjige. No, nakon nekog vremena, činilo joj se kako 25 minuta nije dovoljno za koncentriranje na priču koju čita.\n\nPotom je pokušala čitati časopis, no pojavio se isti problem jer voli čitati duge i opširne članke.\n\nPočela je provjeravati što se događa na Facebooku. Sadržaj ju je toliko privukao da je ponekad umalo zaboravila sići na stanici. Klara je odlučila da joj takav stres nije dobar početak dana.\n\nNapokon, pokušala je nešto što je uspjelo. Budući da su se preselili u nizozemsko govorno područje, odlučila je učiti jezik. Vrijeme provedeno u vlaku bilo je dovoljno za dvije ili tri lekcije u svakoj vožnji, koristeći aplikaciju za učenje jezika. Također, ovo joj daje pravilni ritam za učenje jezika: svaki dan pomalo, dovodeći do jače povezanosti s ljudima u njezinom novom susjedstvu.\n\nKlarina najbolja odluka rezultat je povezanosti količine vremena koju ima i onoga što želi raditi u ovom trenutku svog života.\n\nŠto je s vama? Koja bi bila vaša najbolja odluka za vrijedno utrošeno vrijeme putovanja?";
+"story_2_title_the_best_way_to_get_great_ideas_while_moving_p1" = "Najbolje za smišljanje novih ideja dok se krećemo";
+"story_2_text_the_best_way_to_get_great_ideas_while_moving_p1" = "Jeste li primjetili aktivnosti u kojima lakše dobivate zanimljive ideje? O svom najproduktivnijem dijelu dana, Elon Musk je u intervjuu odgovorio: \"Dok se tuširam\". On nije jedini! Mnogi ljudi kažu kako im najbolje ideje padaju na pamet dok se tuširaju!\n\nŠto s je vremenom koje provodimo dok putujemo? Postoji li poseban trenutak koji je ljudima pogotovo produktivan?\n\nZapravo, postoji oblik putovanja s jednog mjesta do drugog koji se čini pogotovo dobar ako se želite izgubiti u novim idejama. Nekoliko sjajnih mislilaca otkrilo je tu prednost i namjerno se kretalo tim načinom putovanja kad su željeli bolje razmišljati o nečemu.\n \n\nTrag 1: neki od njih, poput Beethovena, Dickensa i Darwina, živjeli su u vrijeme bez motornih vozila...\n \n\nTrag 2: Radi se o obliku putovanja koji aktivira mozak.\n \n\nŠto mislite? Provjerite u sutrašnjoj priči ... :)";
+"story_3_title_the_best_way_to_get_great_ideas_while_moving_p2" = "Najbolje za smišljanje novih ideja dok prometujemo - 2. dio";
+"story_3_text_the_best_way_to_get_great_ideas_while_moving_p2" = "Dakle, koji je oblik putovanja koji su svi sjajni mislioci iz prethodne priče koristili kako bi imali bolje ideje?\n\nHodanje!\n\nSteve Jobs je, na primjer, sam hodao oko Appleovog ureda u Palo Altu kako bi bolje razmišljao. Na taj način održavao je i sastanke s kolegama. Umjesto u prostoriju za sastanke, vodio ih je u šetnje.\n\nNo, postoji li za ovo neko znanstveno objašnjenje ili su ovo samo slučajne pojave?\n\nNaime, postoje istraživanja koja pokazuju kako se ljudima, dok hodaju, aktiviraju pojedini dijelovi mozga. Istraživanje školske djece pokazalo je da je djeci, koja su ujutro na ispit došla pješice, mozak aktivniji od onih koji su došli automobilom. \n\nNaravno, da bi mozak bio slobodan i otvoren za nove ideje tijekom hodanja važno je da ne postoje velike okolinske smetnje koje vas navode da obratite pažnju kuda idete, poput prepreka, prometa ili previše buke. Gradovi s boljim uvjetima za hodanje dobri su za proizvodnju sjajnih ideja!\n\nOsoba koja je htjela promovirati hodanje za sastanke imala je sjajnu ideju (možda se tuširala ili hodala, stvarno ne znamo!): Izraditi mobilnu aplikaciju koja određuje puteve u gradu pogodne za hodajuće sastanke. Ta aplikacija zove se Weeting i ima mnogo ruta za hodajuće sastanke u nekoliko gradova Nizozemske.\n\nKoliko su vaši putevi dobri za razmišljanje?";
+"story_4_title_the_7_shades_of_pedros_cycling_time" = "7 nijansi Pedrovog vremena bicikliranja";
+"story_4_text_the_7_shades_of_pedros_cycling_time" = "1. Pedro je htio izraziti stav. Počeo je biciklirati na posao u vrijeme kada je još uvijek bilo nešto doista čudno u Lisabonu. Dok je prolazio, starci na ulici vikali su mu: \"AJMO, BICIKLIST, AJMO\", kao da je na utrci. Vozači automobila trubili su mu \"MIČI SE SA CESTE\".\n\nSmatrao je kako bi građani trebali moći koristiti bicikl za kretanje gradom i osjećao se kao junak koji je dao primjer budućim generacijama koje će biciklirati.\nTakođer, htio je dokazati kako je biciklom kretanje brže pa je počeo birati brže rute, čak i ako je bio gust promet, samo da bi uštedio 5 minuta. Što mu je manje vremena trebalo, tim bolje.\n\n2. Kako je utjecaj njegovih pokušaja slabio, počeo je sve više primjećivati stresnu stranu svog ponašanja i znojenje. Stoga je odlučio usporiti tempo. No, bio je toliko naviknut na snažno pedaliranje, da mu je trebalo godinu dana da se privikne na vožnju sporijim tempom. Počeo je cijeniti nizozemski stil, opušteno  bicikliranje. Opet je počeo birati mirnije rute.\n\n3. Nakon što je postao otac, svoju djecu prvo je vozio u vrtić i školu, a onda biciklirao 35 minuta do svog posla. Jedina alternativa biciklu bio je automobil, što za njega nije bila opcija, i bilo mu je dosta što nema izbora. \"Nedostaje mi kad sam mogao ići podzemnom željeznicom i opustiti se\". I tako je Pedro počeo koristiti podzemnu željeznicu, kada god nije morao voziti djecu.\n\n4. Kada je njegova supruga opet mogla nekoliko dana tjedno voziti djecu, bicikliranje mu je postalo neobavezno pa je ponovno počeo uživati u vožnji! No, činilo mi se da neproduktivno troši svoje vrijeme. Naviknuo se na to da svoje vrijeme vozeći se javnim prijevozom koristi za razmišljanje i čitanje.\n\n5. Jednog dana, dok je kuhao večeru, Pedro je odlučio slušati podcast. Svidjelo mu se i pomislio kako je to uljepšalo vrijeme potrošeno na kuhanje. Učio bi razne stvari i slušao priče drugih ljudi. Počeo je uživati u kuhanju.\n\nNakon toga, trebalo mu je još godinu dana kako bi shvatio da bi mogao činiti isto za vrijeme vožnje biciklom. S podcastima su njegove biciklističke rute postajale još sporije i dugotrajnije. Svakih 5 minuta vožnje više značilo je i 5 minuta više uživanja u podcastu.\n\n6. Kasnije je Pedro promijenio posao i počeo raditi od kuće. Njegov trbuh iznenada se povećao, budući da je prestao biciklirati, sada već 45 minuta, na posao. Gledajući svoj veliki trbuh, Pedro je shvatio kako mu je vožnja biciklom proteklih godina godila. Počeo je iskorištavati svaku priliku, poput odlaska na sastanke, za bicikliranje.\n\n7. No, vrijeme njegovog bicikliranja još više će se poboljšati. Kako su njegova djeca odrastala, shvatio je da je putovanje s njima u školu jedan najboljih trenutaka njegova života. Djeca su pokazala da vole voziti s njim, postavljala su mnoštvo pitanja i pričala mu o najnovijim vijestima iz škole. Zbog toga je njegovo vrijeme bicikliranja bilo vrijednije nego bilo što drugo.\n";
+"story_5_title_stopping_or_not_stopping_in_a_moving_walkway" = "Zaustaviti se na pješačkoj stazi ili ne";
+"story_5_text_stopping_or_not_stopping_in_a_moving_walkway" = "Jeste li primijetili kako neki stoje na pokretnim stepenicama, dok se drugi nastave penjati njima?\n \n\nŠto mislite, koji je razlog takvom ponašanju?\n \n\nJe li vam draže kada drugi ljudi hodaju ili kada stoje?\n \n\nAko vam se odgovor čini očitim, razmislite ponovo. Možda to i nije tako jednostavno.\n \n\nSljedeći put kada se krećete pokretnim stepenicama, pokušajte promatrati ljude koji ili stoje ili se penju. Samo gledajući ih, mogli biste dobiti zanimljive ideje o tome zašto se kreću ili ne. Ako nastavite zamišljati, možda smislite što bi mogla biti cijela njihova priča. Zabavno je!\n \n\nStajati ili kretati se na pokretnim stepenicama? Pročitajte cijelu našu priču ovdje (samo na engleskom):\n\nhttps://motivproject.eu/news/detail/stopping-or-not-stopping-in-a-moving-walkway.html";
+"story_6_title_virtual_travel_time" = "Virtualno vrijeme prometovanja";
+"story_6_text_virtual_travel_time" = "Jeste li čuli za \"virtualno vrijeme putovanja\"?\n\nNe, ne radi se o putovanju u virtualnoj stvarnosti. Radi se o nečem konkretnom.\n\nKoliko vremena točno provedete putujući s točke A do točke B? Vjerojatno biste odgovorili: pa to je samo vrijeme provedeno u putovanju, naravno!\n\nNaime, iz jednog gledišta, to nije sasvim točno. Možda se radi o i nečemu više od samo vremena provedenog putujući.\n\nRazmislite: putujući od točke A do točke B, vjerojatno ste potrošili nešto novaca. Ako putujete automobilom, potrošili ste novac koji je povezan i uz kretanje i uz posjedovanje automobila. Ako se krećete javnim prijevozom, potrošili ste novac za kartu. Čak i ako pješačite, barem nosite svoju obuću, koju ćete morati i promijeniti s vremena na vrijeme.\n\nNo, kakve veze ima novac s vremenom koje je utrošeno na putovanje?\n\nKako biste pridobili novac, vi (ili netko za vas) mora raditi, a rad izizskuje vrijeme. Stoga, vaše vrijeme putovanja nije samo vrijeme koje ste utrošili na kretanje, nego i vrijeme koje utrošite na novac koji je nužan za samo putovanje.\n\nPrimjerice, putovanje automobilom. U prosjeku automobil košta, sa svim troškovima, oko 2500 kn mjesečno. Količinu rada koju morate mjesečno uložiti kako biste platili taj automobil, pridodajte mjesečno vrijeme utrošeno na putovanje. To je vaše virtualno vrijeme putovanja.\n\nAko imate sreće, možda vaš posao nije gubitak vremena, jer volite raditi. Također, možda isto vrijedi i za vaše vrijeme utrošeno na putovanje. Ovje se stvari kompliciraju.\n\nKako bismo to mogli sagledati? Podijelite s nama vaše misli :)\n\nhttps://www.facebook.com/MotivProject.eu/ \n\nhttps://twitter.com/MoTiV_Project";
+
+/*new string in mobility coach*/
+/*mobility coach*/
+"Your_Mobility_Journey" = "Vaše putovanje";
+
+/*new string to translate in home module*/
+/*home module*/
+"You_have_trips_to_validate" = "Imate putovanja za potvrditi";
+
+/*(story) Coming tomorrow*/
+"Coming_Tomorrow" = "Stiže sutra";
+
+/*Story (1, 2, 3, 4...)*/
+"Story" = "Priča %@";
+
+/*profile and settings*/
+"Marital_Partnership" = "Životno partnerstvo";
+
+/*profile and settings */
+"Labour_Pensioner" = "Umirovljenik_ca";
+
+/*Notification shown when a trip has started */
+"Trip_Has_Started_At" = "Putovanje je počelo u %@";
+
+/*Notification shown when a trip has ended*/
+"Trip_Has_Ended_At" = "Putovanje je završilo u %@";
+"Trip_Has_Ended" = "Putovanje je završilo!";
+"engagement_notification_1_title" = "Woorti je upravo zabilježio vaše prvo putovanje.";
+"engagement_notification_1_content" = "Otvorite aplikaciju i ispričajte svojem putovanju!";
+"engagement_notification_2_title" = "Stigla je nova priča za pročitati.";
+"engagement_notification_2_content" = "Ako je pročitate danas, sutra će se otključati nova.";
+"engagement_notification_3_title" = "Još jedna priča je objavljena!";
+"engagement_notification_3_content" = "I ne zaboravite prijaviti svoje posljednje putovanje.";
+"Language_Changed_Popup_Content" = "Molimo, restartajte aplikaciju za završetak ovog procesa.";
+"Language_Changed_Popup_Title" = "Jezik promijenjen!";
+
+/*Predictability of travel time*/
+"Predictability_Of_Travel_Time" = "Procjena vremena putovanja.";
+"Urban_Scenery_Atmosphere" = "Gradski krajolik i atmosfera";
+"While_You_Are_There" = "Dok ste tamo";
+"Begin" = "Započni";
+"engagement_notification_4_title" = "Jeste li provjerili statistiku svog vremena putovanja?";
+"engagement_notification_4_content" = "Kliknite kako biste vidjeli svoju nadzornu ploču.";
+"engagement_notification_5_title" = "Vrijednost vašeg vremena putovanja do sada je %@.";
+"engagement_notification_5_content" = "Jeste li primjetili kako se mijenja po putovanjima";
+"engagement_notification_6_title" = "Prijavite svoje posljednje putovanje.";
+"engagement_notification_6_content" = "Prijavite svoje podatke i provjerite svoju statistiku.";
+"engagement_notification_7_title" = "%@ min";
+"engagement_notification_7_content" = "je vrijeme koje ste potrošili na putovanje protekli tjedan";
+"engagement_notification_8_title" = "Nastavite pomagati u istraživanju.";
+"engagement_notification_8_content" = "Hvala na prijavi putovanja. Kliknite ovdje.";
+"engagement_notification_9_title" = "Prijavite svoje posljednje putovanje.";
+"engagement_notification_9_content" = "Prijavite svoje podatke i provjerite svoju statistiku.";
+
+/*when referencing campaigns*/
+"Campaigns" = "Kampanje";
+
+/*Welcome to your trips board, %NAME_USER% !*/
+"Welcome_To_Your_Trips_Board_Username" = "Dobrodošli u svoja putovanja, %@ !";
+
+/*You have X trips left to report in the last 3 days*/
+"You_Have_X_Trips_Left_3_Days" = "Imate još %@ putovanja za prijaviti u protekla 3 dana";
+
+/*These are the trips you have made! Reporting on them helps our research, and allows you to monitor your travel time. After reporting each trip, find out your travel time worthwhileness statistics in the Dashboard! Press the ‘!’ mark to report.*/
+"These_Are_The_Trips_You_Have_Made" = "Ovo su putovanja koja ste napravili! Vaše izvještavanje o njima pomaže u našem istraživanju, i dopušta vam nadzor vašeg vremena putovanja. Nakon prijave pojedinačnog putovanja, otkrijte statistiku vrijednost vašeg vremena putovanja u nadzornoj ploči! Kliknite na ‘!' za prijavu.";
+
+/*Now that you have a reported trip, you can check your first travel time statistics in the Dashboard.*/
+"Now_That_You_Have_A_Reported_Trip_Popup_Text" = "Nakon što ste prijavili svoje putovanje, u nadzornoj ploči možete provjeriti vaše prve statističke podatke o putovanju.";
+
+/*Go to dashboard*/
+"Go_To_Dashboard" = "Idi na nadzornu ploču";
+
+/*Report trips*/
+"Report_Trips" = "Prijavi putovanja";
+
+/*This is your Dashboard. It shows how worthwhile your travel time is.  For your trip stats to appear here, report your trips*/
+"This_Is_Your_Dashboard_Popup_Text" = "Ovo je vaša nadzorna ploča. Ona prikazuje koliko je vrijedno vaše vrijeme putovanja. \\n\nKako bi se podaci prikazali ovdje, prijavite vaša putovanja";
+
+/*See dashboard*/
+"See_Dashboard" = "Vidi nadzornu ploču";
+
+/*profile and settings*/
+"Campaign_Scores" = "Rezultati kampanje";
+
+/*when iOS user is redirected and asked to authorize GPS in phone settings after denying permissions in On-boarding*/
+"GPS_Link_Phone_Settings" = "Postavke";
+
+/*when iOS user is asked to authorize GPS in phone settings and selects back to dismiss this dialogue*/
+"GPS_Go_Back" = "Natrag";
+
+/*Days*/
+"Days" = "Dani";
+
+/*trips*/
+"Trips" = "Putovanja";
+
+/*Is this a form to report problems?*/
+/*Issue form*/
+"Issue_Form" = "Obrazac prijave problema";
+
+/*Thank you for reporting an issue*/
+"Thank_You_For_Reporting_An_Issue" = "Zahvaljujemo što ste prijavili problem";
+
+/*Submit log*/
+"Submit_Log" = "Prijavi zabilješku";
+
+/*Send log*/
+"Send_Log" = "Pošalji zabilješku";
+
+/*No log needed for this issue. Skip.*/
+"No_Log_Needed_For_This_Issue_Skip" = "Za ovaj problem nije potrebna zabilješka. Preskoči.";
+
+/*I need more context for targets*/
+/*Targets & Rewards*/
+"Targets_And_Rewards" = "Ciljevi & nagrade";
+
+/*Tasks*/
+"Tasks" = "Zadaci";
+
+/*To analise the issue, we would like to receive a log with information of the app activity. Please send the email that will be generated. If you like, you can also attach printscreens or a longer description of the issue to the email.*/
+"To_Analyse_This_Issue" = "Kako bismo analizirali problem, htjeli bismo zaprimiti vaše zabilješke o informacijama vezano uz rad aplikacije. Molimo pošaljite e-mail koji će biti generiran. Ako želite, možete priložiti snimku zaslona ili duži opis problem putem e-maila.";
+
+/*Acquired points for reporting trips?*/
+/*points*/
+"Points" = "Bodovi";
+
+/*Progress (Reward progress)*/
+"Progress" = "Napredak";
+
+/*%@ days left*/
+"days_left_reward" = "Preostalo dana: %@";
+
+/*user registration*/
+"Password_Length_Message" = "Molimo postavite lozinku sa 6 do 16 znakova.";
+
+/*Onboarding*/
+"How_Productive_Are_You" = "Koliko ste produktivni";
+
+/*Woorti is running in the background*/
+"Woorti_Is_Running" = "Woorti radi u pozadini";
+
+/*Continue*/
+"Continue" = "Nastavi";
+
+/*Hurray!!!*/
+"Hurray" = "Hura!!!";
+
+/*You have completed your target for NAME_REWARD!*/
+"You_Have_Completed_Your_Target" = "Dostigli ste svoj cilj za %@ !";
+
+/*Keep reporting your trips to monitor your stats to see your evolution and help this research */
+"Keep_Reporting_Your_Trips_Reward_Completed_Popup" = "Nastavite prijavljivati vaša putovanja kako biste nadzirali vaše podatke i vidjeli vaš napredak te pomoć u istraživanju";
+
+/*Woorti just detected that you started a trip*/
+"Woorti_Just_Detected_Start_Trip" = "Woorti je upravo otkrio da ste započeli putovanje";
+
+/*Your  trip has ended.\nYou can now report about it in Woorti*/
+"Your_Trip_As_Ended" = "Vaše putovanje je završeno";
+
+/*Onboarding*/
+"Onboarding_Successful" = "Prijava uspješno završena";
+
+/*Trip validation tutorial*/
+"Trip_Validation_Tutorial" = "Vodič za prijavu putovana";
+
+/*Onboarding*/
+"Onboarding_Duplicated" = "Prijava je već ranije uspješno završena. Ulogiravanje.";
+
+/*Onboarding*/
+"Onboarding_Error" = "Došlo je do pogreške prilikom prijave. Molimo pokušajte dovršiti prijavu ponovno.";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Attempt" = "Pokušaj prijave informacija o putovanju";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Successful" = "Informacije o putovanju su uspješno prijavljene";
+
+/*Trip submission notifications (in background communication)*/
+"Trip_Submission_Not_Submitted" = "Putovanje nije prijavljeno - pokušajte kasnije";
+
+/*You can now report about it in Woorti*/
+"You_Can_Now_Report_About_It_In_Woorti" = "Sada možete prijaviti kroz Woorti";
+
+/*Complete until dd/mm/yyyy*/
+"Complete_Until" = "Dovršeno do %@";
+
+/*You have a new survey (notification)*/
+"You_Have_A_New_Survey" = "Imate novi upitnik";
+
+/*Fill it in and earn %@ points. (notification -> fill survey)*/
+"Fill_It_And_Earn_XX_Points" = "Ispunite ga i zaradite%@ bodova";
+
+/*Is your phone blocking trip detection?*/
+"Is_Your_Phone_Blocking_Trip_Detection" = "Blokira li vaš telefon bilježenje putovanja?";
+
+/*Woorti gives you 25 points for each additional information item you fill in your profile.*/
+"Woorti_Gives_You_Points_For_Each_Info" = "Woorti vam daje 25 bodova za svaku dodatnu informaciju koju ispunite u vašem profilu.";
+
+/*If that is the case, fortunately there is a solution. Get the instructions for your phone brand by pressing  the button below.*/
+"If_Thats_The_Case_Fortunately_There_Is_Solution" = "Ako je tako, srećom postoji rješenje. Dohvatite upute za vaš tip telefona tako da kliknete na ikonu ispod.";
+
+/*Enable app activity*/
+"Enable_App_Activity" = "Omogući rad aplikacije";
+
+/*Do not show again*/
+"Do_Not_Show_Again" = "Više ne prikazuj";
+
+/*If your trips are frequently not being recorded, your phone might be blocking this app’s activity.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded" = "Ako se vaša putovanja često ne bilježe, možda vaš telefon blokira rad aplikacije.";
+
+/*Tell us more about yourself*/
+"Tell_Us_More_About_Yourself" = "Recite nam više o sebi";
+
+/*Your data is anonymised.*/
+"Your_Data_Is_Anonymised" = "Vaši podaci su anonimizirani.";
+
+/*Fill in profile*/
+"Fill_In_Profile" = "Ispunite vaš profil";
+
+/*Later*/
+"Later" = "Kasnije";
+
+/*Point all time*/
+"Points_All_Time" = "Bodovi ukupno";
+
+/*Days with trips all time*/
+"Days_All_Time" = "Dani s putovanjima ukupno";
+
+/*Trips all time*/
+"Trips_All_Time" = "Putovanja ukupno";
+
+/*temporary text without link to battery optimization site not endorsed by motiv.*/
+"If_Your_Trips_Are_Frequently_Not_Being_Recorded_No_Link_To_Site" = "Ako se vaša putovanja često ne bilježe, možda vaš telefon blokira rad aplikacije. Provjerite postavke optimizacije baterije kako biste odblokirali Woorti.";
+
+/*Dashboard_You*/
+"Dashboard_You" = "Vi";
+
+/*Dashboard_Community*/
+"Dashboard_Community" = "Zajednica";
+
+/*Dashboard_Citizens*/
+"Dashboard_Citizens" = "Građani_ke";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Onboarding" = "Ovi podaci odražavaju ili zadane rezultate ili rezultate koje ste naveli prilikom prijave u aplikaciju, po načinu prijevoza. Uvijek možete promijeniti odgovarajuće rezultate u postavkama aplikacije.";
+
+/*Dashboard*/
+"Dashboard_Balloon_Text_Worthwhile_From_Leg_Info_Recorded" = "Ovi podaci odražavaju procjenu vrijednosti dijelova putovanja koja ste odabrali za izvještavanje.";
+
+/*Dashboard*/
+"Dashboard_Your_Whole_Trips" = "Vaša putovanja ukupno";
+
+/*Dashboard*/
+"Dashboard_Your_Reported_Legs" = "Vaši prijavljeni dijelovi putovanja";
+
+/*Dashboard*/
+"Time_Spent_In_Travel" = "Vrijeme utrošeno na putovanje";
+
+/*Dashboard*/
+"Travelled_Distance" = "Duljina putovanja";
+
+/*Dashboard*/
+"CO2_Emissions" = "Emisija CO2";
+
+/*Dashboard*/
+"Calories" = "Kalorije";
+
+/*Dashboard*/
+"The_Community_Trips" = "Putovanja zajednice";
+
+/*Dashboard*/
+"The_Community_Validated_Legs" = "Prijavljeni dijelovi putovanja zajednice";
+
+/*Dashboard*/
+"Compared_To_Your_Scores" = "(usporedivši s vašim rezultatima)";
+
+/*Dashboard*/
+"Worthwhileness" = "Vrijednost utrošenog vremena";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Title" = "\"Pozdrav!\"";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_1" = "Prijavi svoja %@ zabilježena putovanja u posljednjih ";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Text_Part_2" = "kako biste vidjeli ukupne stvarne podatke u nadzornoj ploči.";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_Report_Trips" = "PRIJAVI PUTOVANJA";
+
+/*Dashboard*/
+"Pop_Up_Hey_There_Unreported_Trips_See_Dashboard" = "VIDI NADZORNU PLOČU";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Text" = "Ponekad, putovanja mogu biti netočno zabilježena. Kako biste uredili vaše putovanje, kliknite na ikonu iznad razdvajanja, spajanja ili brisanja putovanja ili dijelova putovanja.";
+
+/*MyTrips*/
+"Pop_Up_Split_Merge_Delete_Button" = "SHVAĆAM!";
+
+/*Home module travel report*/
+"Seven_Day_Travel_Report" = "tjedni izvještaj putovanja";
+
+/*Home (travel report link to Dashboard)*/
+"Learn_More" = "Saznaj više";
+
+/*Dashboard*/
+"In_Total_Users_Spent_Calories" = "U prosjeku, korisnici u zajednici sagorili su %@.";
+
+/*Dashboard*/
+"And_This_Counted_Carbon_Footprint_Users" = "U prosjeku, korisnici u zajednici potrošili su %@ svojeg održivog ugljičnog otiska.";
+
+/*People from "campaign/city/country" on average have spent "3 min more/less" travelling a distance of "3km more/less" than you per day.*/
+"People_From_Place_Have_Spent_On_Average" = "Ljudi iz %@, u prosjeku, dnevno su potrošili %@ putujući na udaljenosti od %@, u odnosu na vas.";
+
+/*"3 km more"*/
+"Number_Km_More" = "%@ km više";
+
+/*"3 km less"*/
+"Number_Km_Less" = "%@ km manje";
+
+/*"3 min more"*/
+"Number_Min_More" = "%@ min više";
+
+/*"3 min less"*/
+"Number_Min_Less" = "%@ min manje";
+
+/*Dashboard*/
+"Community_Trips_Overall_Percentage_Worthwhile" = "Vrijednost vremena utrošenog na putovanje u zajednici (usporedvši s vašim rezultatima)";
+
+/*These results reflect either default scores or the scores you have stated in the onboarding, per mode of transport . You may always change the applicable scores in the app’s Settings.*/
+"Dashboard_Worthwhileness_Popup_Text" = "Ovi podaci odražavaju ili unaprijed zadane rezultate ili rezultate koje ste naveli prilikom prijave u aplikaciju, po načinu putovanja. Uvijek možete promjeniti odgovarajuće rezultate u postavkama aplikacije.";
+
+/*What is the carbon budget?*/
+"What_Is_The_Carbon_Budget" = "Koja je vaša zaliha ugljika?";
+
+/*The carbon budget is the amount of CO2 that can be emitted per person for a sustainable lifestyle.  A person’s yearly mobility carbon budget is 500kg*/
+"The_Carbon_Budget_Is" = "Zaliha ugljika je količina CO2 koja može biti ispuštena po osobi u održivom životnom stilu. \\n \\n Po osobi, godišnja zaliha ugljika uslijed putovanja je 500kg.";
+
+/*City/Region*/
+"City_Region" = "Grad/županija";
+
+/*You*/
+"You" = "Vi";
+
+/*should translate according to "Min per user per day"*/
+/*Average minutes*/
+"Avg_Minutes" = "Minute tijekom dana";
+
+/*please retranslate following "Km per user per day", because we are showing daily averages per individual (average) user of the community.*/
+/*Average kilometers*/
+"Avg_Kilometers" = "Kilometri tijekom dana";
+
+/*need to translate according to "Kg CO2 per user per day"*/
+/*Average kilograms*/
+"Avg_Kilograms" = "Kg CO2 tijekom dana";
+
+/*need to retranslate for "Calories per user per day"*/
+/*Average calories*/
+"Avg_Calories" = "Kalorije tijekom dana";
+
+/*Hours*/
+"Hours" = "Sati";
+
+/*Dashboard - unable to show some global stats (e.g. always disconnected)*/
+"Unable_Show_Stats" = "Nemoguće je dohvatiti podatke o zajednici.";
+
+/*CO2 budget popu*/
+"CO2_Budget_Example" = "500 kg je jednako povratnom letu između Brisela i Madrida, odnosno 1500 km prevoženim automobilom.";
+
+/*CO2 budget popup - no need to translate*/
+"CO2_Budget_Link_URL" = "https://motivproject.eu/data-collection/woorti-app-faqs.html";
+
+/*CO2 budget popup*/
+"CO2_Budget_Link_Text" = "Vidi više";
+
+/*worthwhileness - travel wasted rating of trip*/
+"Travel_Time_Wasted_Question_Text_Second_Paragraph" = "Provjerite svoje vrijeme provedeno na putovanju, a ne vrijeme bivanja na odredištu.";
+
+/*Onboarding and login*/
+"Failed_To_Connect_Check_Connectivity_Error" = "";
+
+/*"Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding."*/
+"Onboarding_Warning_Permissions_Denied_Retry" = "Requested permissions denied by the user. The app requires these and network connectivity to complete the onboarding. Please retry and complete the onboarding.";
+
+/*"In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information."*/
+"Onboarding_Dialog_Box_Ask_Location_Storage_Permissions" = "In order for the app to work properly, you must allow it to access location information to record trips and read/write files from/to external storage to manage trip information.";

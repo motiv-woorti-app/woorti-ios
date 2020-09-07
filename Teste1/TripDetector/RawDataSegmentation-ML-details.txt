@@ -1,0 +1,56 @@
+--- --- --- --- --- --- RawDataSegmentation.swift ML Details
+
+// The classifier was trained in Python, using the ML algorithms defined in scikit-learn library. To be used on Android and iOS, the resulting 
+// classifier was exported using 2 different formats, one for each operating system. 
+
+// To be used in the Woorti app running on Android, the classifier was exported to the PMML format using the JPMML library. The JPMML library 
+// allows to export the model to PMML format and to execute this model in Java that is then used in Android. 
+
+// To be used in the woorti app running on iOS, the classifier was exported to the Core ML model format. The Core ML framework allows to export and // use the ML models on iOS devices. With JPMML and Core ML, it was possible to create the ML model in scikit-learn and then use that model on the 
+// Android and iOS operating systems.
+
+// [Paper] This work is partially described in peer-reviewed scientific publication, as for reference in publications when used in other works:
+// edgeTrans - Edge transport mode detection. P. Ferreira, C. Zavgorodnii, L. Veiga. 
+// Pervasive and Mobile Computing, vol. 69(2020), 101268, ISSN 1574-1192, Elsevier. 
+// https://doi.org/10.1016/j.pmcj.2020.101268
+
+// Ln 41: RawDataSegmentation is used to process raw gps and acceleration data into features used by classification algorithm.
+// New data (locations and accelerations) are continuously being inserted into corresponding arrays while they belong to the same segment.
+// If a new data doesn't belong to the current segment:
+// 1. All previously accumulated data is used to calculate segment features.
+// 2. This segment is evaluated and the corresponding result is stored in DawDataDetection instance.
+// 3. All locations and accelerations of evaluated segment are removed (except for the overlapping data that also belongs to the next segment).
+// 4. New data is inserted into corresponding array.
+
+// Ln 223: func newTestLocation(ua: UserLocation) {
+// Inserts a new GPS point entry into corresponding array of locations.
+// Triggers the segment procession if location belongs to the next segment.
+
+// Ln 264: func newTestAcceleration(ua: UserAcceleration) {
+// Inserts a new acceleration entry into corresponding array of accelerations.
+// Triggers the segment procession if accelerationData belongs to the next segment.
+
+// Ln 302: private func processSegment() {
+// Process the raw data of a segment. Raw data is used to calculate features of the segment that are used by 
+// ML model to determine the transport mode of the segment.
+// It is expected that locations and accelerations arrays contain data corresponding to the same segment.
+// At the end all locations and accelerations that do not belong to the next segment are removed from corresponding arrays.
+// Ln 303: calculate segment features based on raw data.
+// Ln 340: remove data that doesn't belong to next segment.
+
+// Ln 467: func estimateAvgSpeed() -> Double? {
+// Estimates the average speed between 2 GPS points as depicted in [Paper 3.6]. 
+// Used to estimate the speed of segments without any location based on a location from previous future segments.
+
+// Ln 537: private func calcNewEntry() -> MLAlgorithmInput {
+// Calculates all the features of a segment.
+
+// Ln 589: func ProcessAccelerations(accels: [Double], sumAccels: Double) -> 
+// (Double,Double,Double,Double,Double,Double,Double,Double,Double) {
+// Calculates acceleration specific features of a segment.
+
+// Ln 654: func processPoints(points: [UserLocation] ,overlapLimit: Double, firstPointIsLastBeforeOverlap: Bool) -> ProcessedPoints {
+// Calculates locations specific features of a segment.
+
+// Ln 806: func simpleDistance(lat1: Double, lon1: Double, lat2: Double, lon2: Double) -> Double {
+// Distance between 2 points, considering spherical nature of Earth.

@@ -1,0 +1,21 @@
+--- --- --- --- --- --- ModelProcessor.swift ML Details
+
+// The classifier was trained in Python, using the ML algorithms defined in scikit-learn library. To be used on Android and iOS, the resulting 
+// classifier was exported using 2 different formats, one for each operating system. 
+
+// To be used in the Woorti app running on Android, the classifier was exported to the PMML format using the JPMML library. The JPMML library 
+// allows to export the model to PMML format and to execute this model in Java that is then used in Android. 
+
+// To be used in the woorti app running on iOS, the classifier was exported to the Core ML model format. The Core ML framework allows to export and // use the ML models on iOS devices. With JPMML and Core ML, it was possible to create the ML model in scikit-learn and then use that model on the 
+// Android and iOS operating systems.
+
+// [Paper] This work is partially described in peer-reviewed scientific publication, as for reference in publications when used in other works:
+// edgeTrans - Edge transport mode detection. P. Ferreira, C. Zavgorodnii, L. Veiga. 
+// Pervasive and Mobile Computing, vol. 69(2020), 101268, ISSN 1574-1192, Elsevier. 
+// https://doi.org/10.1016/j.pmcj.2020.101268
+
+// Ln 38: ModelProcess uses Apples CoreML library to load the model and perform evaluations.
+
+// Ln 48: func classifyData(inputMetadata: MLInputMetadata){
+// Identification of transport mode of a segment based on corresponding list of features as depicted in [Paper 3.5.1, Fig 2]. 
+

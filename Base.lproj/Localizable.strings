@@ -1,0 +1,543 @@
+
+/*Drawer titles*/
+"Drawer_Title_Home" = "Home";
+"Drawer_Title_Route_Planner" = "Route Planner";
+"Drawer_Title_My_Trips" = "My trips";
+"Drawer_Title_Dashboard" = "Dashboard";
+"Drawer_Title_Mobility_Coach" = "Mobility Coach";
+"Drawer_Title_Profile" = "Profile";
+"Drawer_Title_Settings" = "Profile and Settings";
+"Drawer_Title_Report_Issue" = "Report issue";
+"Drawer_Title_Finish_Log_Out" = "Finish and logout";
+"login_what_is_email_address" = "What is you email address?";
+"login_enter_your_password" = "Enter your password?";
+
+/*Profile and settings options*/
+"Edit_Profile" = "Edit profile";
+"Set_Home_And_Work" = "Set home and work places";
+"Demographic_Info" = "Demographic information";
+"Worthwhileness_Settings" = "Worthwhileness settings";
+"Tutorials" = "Tutorials";
+"Transport_Preferences" = "Transport preferences";
+
+/*<string name="APP_PERMISSIONS">App permissions</string>*/
+"App_Language" = "App language";
+"Change_Password" = "Change password";
+"Feedback" = "Feedback";
+"Log_Out" = "Log out";
+
+/*Education labels*/
+"Education_8th_Grade" = "Nursery school to 8th grade";
+"Education_Some_Highschool" = "Some high school, no diploma";
+"Education_Highshool" = "High school graduate, diploma or the equivalent (for example: GED)";
+"Education_Some_College" = "Some college credit, no degree";
+"Education_Training" = "Trade/technical/vocational training";
+"Education_Bachelor" = "Bachelor’s degree";
+"Education_Master" = "Master’s degree";
+"Education_Professional" = "Professional degree";
+"Education_Doctorate" = "Doctorate degree";
+"Education_Associate" = "Associate degree";
+"Education_No_Schooling" = "No Institutional Schooling";
+
+/*Demographic option*/
+"Demographic_Option_General" = "General";
+
+/*<string name="DEMOGRAPHIC_OPTION_HOUSEHOLD_DATA">Household data</string>
+<string name="DEMOGRAPHIC_OPTION_MOBILITY_CAPABILITIES">Mobility capabilities</string>
+<string name="DEMOGRAPHIC_OPTION_MOBILITY_PREFERENCES">Mobility preferences</string>
+<string name="DEMOGRAPHIC_OPTION_EXPERIENCE_FACTORS">Experience factors</string>
+ General suboptions*/
+"Age" = "Age";
+
+/*message: Gender*/
+"Gender" = "Gender";
+"Education" = "Education";
+"Country" = "Country";
+"City" = "City";
+
+/*Tutorial options*/
+"Tutorial_Option_What_Is_Worthwhileness" = "What is worthwhileness";
+
+/*Productivity*/
+"Productivity_Percentage" = "Productivity %1$s%%";
+"Mind_Percentage" = "Enjoyment %1$s%%";
+"Body_Percentage" = "Fitness %1$s%%";
+
+/*Main menu options
+<string name="NEW_INTERFACE_TEXT">New interface</string>
+ My trips module*/
+"My_Trips" = "<u>My Trips</u>";
+"Start_Trip" = "Start trip";
+"End_Trip" = "End trip";
+"Trip_Being_Recorded" = "A trip is being recorded now";
+
+/*Edit trips*/
+"Select_Trips_To_Merge" = "Select trips from the list below to merge";
+"Confirm_Trips_To_Merge" = "Confirm the selected trips to merge";
+"Select_Trips_To_Split" = "Select trips from the list below to split";
+"Move_The_Map_To_Split" = "Move the map to split trip";
+"Select_Trips_To_Delete" = "Select trips from the list below to delete";
+"Split" = "Split";
+"Merge" = "Merge";
+"Delete" = "Delete";
+"Select_Legs_To_Split" = "Select legs and/or transfers from the list below to split";
+"Move_The_Map_To_Split_The_Leg" = "Move the map to split the leg";
+"Edited" = "Edited";
+"Select_Legs_To_Merge" = "Select legs and/or transfers from the list below to merge";
+"Confirm_The_Legs_To_Merge" = "Confirm the selected legs and/or transfers to merge";
+"Rate_Your_Edited_Trips" = "Rate your edited trips";
+"Select_Legs_To_Delete" = "Select legs to delete";
+"Confirm_The_Legs_To_delete" = "Confirm the selected legs and/or transfers to delete";
+
+/*Leg validation*/
+"Validated" = "Validated";
+"How_Did_You_Travel" = "How did you travel?";
+
+/*message: Public Transport*/
+"Public_Transport" = "Public Transport";
+"Active_Semi_Active" = "Active/Semi-active";
+"Private_Motorised" = "Private Motorised";
+"Not_Sure" = "<u>Not Sure</u>";
+"Lousy" = "Lousy";
+"Overall_Feel_About_Trip" = "Overall, how did you feel about this trip?";
+"Great" = "Great";
+"Travel_Time_Wasted_Min_Text" = "All time was wasted";
+"Travel_Time_Wasted_Question_Text" = "How much of your travel time do you feel as wasted?";
+"Travel_Time_Wasted_Max_Text" = "All time was worthwhile";
+"Which_Factors_Most_Contributed" = "Which factor(s) most contributed to your time feeling Wasted (-) and/or Worthwhile (+)?";
+"Unfold_All_That_Apply" = "Unfold and mark all that apply";
+
+/*Factors*/
+"Infrastructure_And_Services" = "Infrastructure and services";
+"Comfort_And_Pleasantness" = "Comfort and pleasantness";
+"Getting_There" = "Getting there";
+"Crowdedness_Seating_Availability" = "Crowdedness/seating availability";
+"Silent_Area" = "Silent area";
+"Tables" = "Tables";
+"Toilets" = "Toilets";
+"Wifi" = "Wifi";
+"Power_Sockets_USB_Charging" = "Power sockets/USB charging";
+"Food_Drink_Allowed" = "Food/drink allowed";
+"Food_Drink_Available" = "Food/drink available";
+"Shopping_Retail" = "Shopping/retail";
+"Entertainment" = "Entertainment";
+"Pavement_Road_Smoothness" = "Pavement/road smoothness";
+"Lighting" = "Lighting";
+"Vehicle_Stability_Motion_Sickness" = "Vehicle stability/Motion sickness";
+"Seat_Comfort_Personal_Space" = "Seat comfort /personal space";
+"Noise_Level" = "Noise level";
+"Cleanliness" = "Cleanliness";
+"Air_Ventilation_Smell_Temperature" = "Air ventilation/smell/temperature";
+"General_Ambiance_Design" = "General ambiance/design";
+"Scenery" = "Scenery";
+"Fellow_Passengers" = "Fellow passengers";
+"Todays_Weather" = "Today’s weather";
+"Noise" = "Noise";
+"Air_Quality_Pollution" = "Air quality/pollution";
+"Audio_Radio_Music_Podcast" = "Audio (radio, music, podcast)";
+"Ability_To_Make_Phone_Calls" = "Ability to make phone calls";
+"Ability_Eat_Drink" = "Ability to eat and drink";
+"USB_Charging" = "USB charging";
+"Privacy" = "Privacy";
+"SeatComfort" = "Seat comfort";
+"Climate_Control" = "Climate control";
+"Vehicle_Parking_Origin" = "Vehicle parking at origin";
+"Info_Signage_Finding" = "Information/signage/finding your way";
+"Access_Infrastructures" = "Access infrastructure (escalators, lifts)";
+"CheckIn_Process" = "Check-in process";
+"Space_Onboard_Bicycle_Wheelchair" = "Space onboard for bicycle/wheelchair";
+"Ability_Transport_Stuff" = "Ability to transport stuff";
+"Arriving_On_Time" = "Arriving on time";
+"Ability_Take_Kids_Pets" = "Ability to take kids , pets…";
+"Floor_Road_Facilities" = "Floor/road facilities";
+"Roda_Signage_Layout_Design" = "Road signage/layout/design";
+"Traffic_Signals_Crossings" = "Traffic signals/crossings";
+"Crowding_Congestion" = "Crowding/congestion";
+"Predictability_Arrival_Time" = "Predictability of arrival time";
+"Parking_Destination" = "Parking at destination";
+"Facilities_Destination_Showers_Lockers" = "Facilities at destination (shower, lockers)";
+"Traffic_Signals" = "Traffic signals";
+"Traffic_Congestion_Delays" = "Traffic congestion/delays";
+"Safety" = "Safety";
+"Security" = "Security";
+"Others_Comments" = "Others/comments";
+
+/*Activities*/
+"What_Did_You_Do_And_Value" = "What exactly did you do and value?";
+"Driving_Cycling_Walking" = "Driving/ Cycling/ Walking";
+"Relaxing_Sleeping" = "Relaxing or sleeping";
+"Browsing_Social_Media" = "Browsing or social media";
+"Reading_Writing_Paper" = "Reading / writing (paper)";
+"Reading_Writing_Device" = "Reading / writing (device)";
+"Listening_To_Audio" = "Listening to audio";
+"Walking_Video_Gaming" = "Watching video or gaming";
+"Talking_Including_Phone" = "Talking (including phone)";
+"Accompanying_Someone" = "Accompanying someone";
+"Eating_Drinking" = "Eating / drinking";
+"Personal_Caring" = "Personal caring";
+"Thinking" = "Thinking";
+
+/*Value this part of the trip*/
+"What_Value_Take_From_Part" = "What value did you take from your time on this part of the trip?";
+"Paid_Work" = "Paid work";
+"Personal_Tasks" = "Personal tasks";
+
+/*message: Enjoyment*/
+"Enjoyment" = "Enjoyment";
+
+/*message: Fitness*/
+"Fitness" = "Fitness";
+"None" = "None";
+"Some" = "Some";
+"High" = "High";
+
+/*Thinking about trip as a whole*/
+"Thinking_About_Your_Trip_Title" = "Thinking about your trip as a whole, would you have liked to use your travel time for...";
+
+/*message: Productivity*/
+"Productivity" = "Productivity";
+"Anything_Else_Like_To_Share" = "Anything else you'd like to share?";
+
+/*message: I would like to share...*/
+"Would_Like_To_Share" = "I would like to share...";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+"Validate_Your_Trip" = "New trip detected! Validate your trip to earn %d points!";
+"What_Was_Purpose" = "What was the purpose of your trip?";
+"Mark_All_That_Apply" = "Mark all that apply";
+
+/*Trip purposes*/
+"Work" = "Work";
+"School_Education" = "School/Education";
+"Home" = "Home";
+"Everyday_Shopping" = "Everyday Shopping";
+"Business_Trip" = "Business Trip";
+"Leisure_Hobby" = "Leisure/Hobby";
+"Pick_Up_Drop_Off" = "Pick-up/Drop-off Someone";
+"Personal_Tasks_Errands" = "Personal Tasks/Errand";
+"Trip_Itself" = "Trip Itself";
+
+/*message: Other*/
+"Other" = "Other";
+"Arrive_At_Fixed_Time" = "Did you have to arrive at a fixed time?";
+"How_Often_Make_This_Trip" = "How often do you make this trip?";
+"Regularly" = "Regularly";
+"Occasionally" = "Occasionally";
+"First_Time" = "First Time";
+"Select_Part_Of_Trip_Feedback" = "Select one part of your trip for further feedback";
+
+/*<string name="objective_other_hint">Where you travelled and why</string>*/
+"Confirm_Modes_Of_Your_Trips" = "Confirm the modes of your trips";
+
+/*message: Transfer*/
+"Transfer" = "Transfer";
+"Auto_Detected" = "Auto-detected";
+
+/*message: were you %@ ?*/
+"Were_You_Walking_Or_Running" = "Were you %s ?";
+
+/*message: Did you go by %@ ?*/
+"Did_You_Go_The_Mode" = "Did you go by %s ?";
+
+/*modes of transport*/
+"Walking" = "Walking";
+"Jogging_Running" = "Jogging/Running";
+"Bicycle" = "Bicycle";
+"Car_Driver" = "Car (Driver)";
+"Bus_Trolley_Bus" = "Bus/Trolley Bus";
+"Tram" = "Tram";
+"Metro" = "Metro";
+"Urban_Train" = "Train";
+"Regional_Intercity_Train" = "Regional/Intercity Train";
+"Ferry_Boat" = "Ferry/Boat";
+"Motorcycle" = "Motorcycle";
+"Moped" = "Moped";
+"Electric_Bike" = "Electric Bike";
+"Bike_Sharing" = "Bike Sharing";
+"Car_Passenger" = "Car (Passenger)";
+"Taxi_Ride_Hailing" = "Taxi/Ride Hailing";
+"Car_Sharing_Rental_Driver" = "Car Sharing/Rental\n(Driver)";
+"Car_Sharing_Rental_Passenger" = "Car Sharing/Rental\n(Passenger)";
+"car_pooling" = "Car Pooling";
+"Plane" = "Airplane";
+"high_speed_train" = "High-Speed Train";
+"Coach_Long_Distance_Bus" = "Coach\nLong-distance Bus";
+"Micro_Scooter" = "Micro Scooter";
+"Skate" = "Skate";
+"Electric_Wheelchair_Cart" = "Electric Wheelchair/Cart";
+"Wheelchair" = "Wheelchair";
+"Cargo_Bike" = "Cargo Bike";
+"Other_Public_Transport" = "Other Public Transport";
+"Other_Active_Semi_Active" = "Other Active/Semi-active";
+"Other_Private_Motorised" = "Other Private Motorised";
+
+/*Misc*/
+"Yes" = "Yes";
+"No" = "No";
+"Save" = "Save";
+"Confirm_All" = "Confirm all";
+
+/*message text of \"Next\" button message: Next*/
+"Next" = "Next";
+"Done" = "Done";
+"End" = "End";
+
+/*Factors Wasted Time*/
+"Skip" = "<u>Skip</u>";
+
+/*title for the info pages message: A Little About You*/
+"A_Little_About_You" = "A Little About You";
+
+/*message: Active/Semi-active*/
+"Active_Semi_active" = "Active/Semi-active";
+
+/*Text that appears on the screen when asking for locaiton permission*/
+"Ask location permission String" = "Thanks! To record your trips we need your permission to let Woorti access to your location at all times.\n\nIt should not excessively consume your battery.";
+
+/*Text that appears on the screen when asking for location permission whent he user said not allow*/
+"Ask location permission String when user has denied" = "Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.";
+
+/*Text that appears on the screen when asking for motion manager permission*/
+"Ask motion permission String" = "Thanks! To do this we need your access to your accelerometer";
+
+/*Text that appears on the screen when asking for notification permission*/
+"Ask notification permission String" = "Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us! \n\n To do this we need to be able to send you notifications";
+
+/*message: Thanks! To record your trips we need your permission to let Woorti access to your location at all times.
+
+It should not excessively consume your battery.*/
+"Ask_location_permission_String" = "Thanks! To record your trips we need your permission to let Woorti access to your location at all times.\n\nIt should not excessively consume your battery.";
+
+/*message: Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.*/
+"Ask_location_permission_String_when_user_has_denied" = "Sorry! For Woorti to function properly we really need that you allow it to access your location at all times.";
+
+/*message: Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us! 
+
+ To do this we need to be able to send you notifications*/
+"Ask_notification_permission_String" = "Lastly, we will be asking you questions regarding your experiences as you travel. Your opinion really matters to us! \n\n To do this we need to be able to send you notifications";
+
+/*message: BACK TO LOGIN*/
+"Back_To_Login" = "BACK TO LOGIN";
+
+/*change language screen title message: Change Language*/
+"Change_Language" = "Change Language";
+
+/*message: Correct exams*/
+"Correct_Exams" = "Correct_Exams";
+
+/*title for the first onboarding pages message: Data Protection*/
+"Data_Protection" = "Data Protection";
+
+/*A temporary description on the home page*/
+"Default Home Page" = "Default Home Page";
+
+/*placeholder for password when registering only*/
+"Didnt_sign_up_yet" = "Forgot your Password?";
+
+/*rating prefered modes of transport message: Doesn't improve my fitness*/
+"Doesnt_Improve_My_Fitness" = "Doesn't improve my fitness";
+
+/*email message*/
+"Email" = "email";
+
+/*message shown when clcicking to reset a password message: If %@ has an account with Woorti, you will be receiving an email to reset your password*/
+"Email_Has_Been_Sent" = "Email_Has_Been_Sent";
+
+/*rating prefered modes of transport message: Enjoying*/
+"Enjoying" = "Enjoying";
+
+/*message: Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…*/
+"Enjoyment_Worthwhile_Description_Score" = "Relaxing or having fun; taking time to listen to music, rest or meditate; engaging in social media; observing the surroundings…";
+
+/*message: When I travel, 
+I chill*/
+"Enjoyment_Worthwhile_High_Score" = "When I travel, \nI chill";
+
+/*placeholder for email in login/register*/
+"Enter_Your_Email_Address" = "Enter your email address";
+
+/*name Placeholder message: Enter your name*/
+"Enter_Your_Name" = "Enter your name";
+
+/*placeholder for password in login/register*/
+"Enter_Your_Password" = "Enter your password";
+
+/*placeholder for password when registering only*/
+"Enter_Your_Password_Again" = "Enter your password Again";
+
+/*error shown to the user when log in failed*/
+"Error_Log_In" = "There was an error in loggin in. Please try again or reset your password.";
+
+/*message: Female*/
+"Female" = "Female";
+
+/*message: Did you know that a person spends about 2 years of her whole life commuting?
+
+Woorti will help you explore your travel time!*/
+"First_Onboarding_Screen_Welcome_Description_Text" = "Did you know that a person spends about 2 years of her whole life commuting?\n\nWoorti will help you explore your travel time!";
+
+/*message: Your travel time is an important part of your life!*/
+"First_Onboarding_Screen_Welcome_Title" = "Your travel time is an important part of your life!";
+
+/*message: message: Travelling is not at all relaxing*/
+"FitnesEnjoyment_Worthwhile_Low_Scores" = "message: Travelling is not at all relaxing";
+
+/*message: When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.*/
+"Fitness_Worthwhile_Description_Score" = "When you walk, cycle, or even run on your travels, you’re getting exercise and staying in shape.";
+
+/*message: Travel time is a great way to feel the burn*/
+"Fitness_Worthwhile_High_Score" = "Travel time is a great way to feel the burn";
+
+/*message: Exercise is in the gym/field*/
+"Fitness_Worthwhile_Low_Score" = "Exercise is in the gym/field";
+
+/*Forgot Password*/
+"Forgot_Password" = "you've got mail!";
+
+/*placeholder for password when registering only*/
+"Forgot_Your_Password" = "Forgot your Password?";
+
+/*message: Everyone defines what is a worthwhile travel time in his or her different way.
+
+Let's see what that means to you!*/
+"Fourth_Onboarding_Screen_Description" = "Everyone defines what is a worthwhile travel time in his or her different way.\n\nLet's see what that means to you!";
+
+/*message: I accept MoTiV data protection conditions*/
+"GRPD_Accept" = "I accept MoTiV data protection conditions";
+
+/*message: For the European MoTiV project research on travel time, this app collects anonymised data on:
+1. Your trips (time, location and transport used)
+2. Your expressed preferences and searches within the app*/
+"GRPD_Description" = "For the European MoTiV project research on travel time, this app collects anonymised data on:\n1. Your trips (time, location and transport used)\n2. Your expressed preferences and searches within the app";
+
+/*message: MoTiV privacy policy is compliant with EU GDPR. Read More*/
+"GRPD_Read_Policy" = "MoTiV privacy policy is compliant with EU GDPR. Read More";
+
+/*rating prefered modes of transport message: Improves my fitness*/
+"Improves_My_Fitness" = "Improves my fitness";
+
+/*Button text on second onboarding page*/
+"Lets get started" = "Lets get started";
+
+/*splash screen start now button message*/
+"Log_In" = "Log In";
+
+/*login with google button message*/
+"Log_In_With_Google" = "Log in with Google";
+
+/*message: Male*/
+"Male" = "Male";
+
+/*message: No worries! Enter your email address below and we will send you a email to reset your password.*/
+"No_Worries_Message" = "No worries! Enter your email address below and we will send you a email to reset your password.";
+
+/*rating prefered modes of transport message: Not Enjoying*/
+"Not_Enjoying" = "Not Enjoying";
+
+/*%@ not filled*/
+"Not_Filled" = "%@ not filled";
+
+/*rating prefered modes of transport message: Not Productive*/
+"Not_Productive" = "Not Productive";
+
+/*message: NOW YOU!*/
+"Now_You" = "NOW YOU!";
+
+/*Permission next button*/
+"Ok cool" = "Ok cool";
+
+/*message: Ok cool*/
+"Ok_Cool" = "Ok cool";
+
+/*password message*/
+"Password" = "password";
+
+/*register button message*/
+"Passwords_Dont_Match" = "Register";
+
+/*title for the first onboarding pages message: Permissions*/
+"Permissions" = "Permissions";
+
+/*message: Private Motirized*/
+"Private_Motirized" = "Private Motirized";
+
+/*message: Proceed to Enjoyment*/
+"Proceed_To_Enjoyment" = "Proceed to Enjoyment";
+
+/*message: Proceed to Fitness*/
+"Proceed_To_Fitness" = "Proceed to Fitness";
+
+/*proceed to productivity button message: Proceed to Productivity*/
+"Proceed_To_Productivity" = "Proceed to Productivity";
+
+/*rating prefered modes of transport message: Productive*/
+"Productive" = "Productive";
+
+/*message: Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…*/
+"Productivity_Worthwhile_Description_Score" = "Using travel time to get things done, not only for work or study, but also personal things like managing home or family stuff…";
+
+/*message: I used my  trip to get stuff done!*/
+"Productivity_Worthwhile_High_Score" = "I used my  trip to get stuff done!";
+
+/*message: I don’t work when I travel*/
+"Productivity_Worthwhile_Low_Score" = "I don’t work when I travel";
+
+/*message: How important are the travel time worthwhileness elements for you, when you travel?*/
+"Rate_Worthwhileness_Screen_Title" = "How important are the travel time worthwhileness elements for you, when you travel?";
+
+/*message: How much enjoyment do you get from your your travel time by:*/
+"Rating_Prefered_Mot_Enj_Title" = "How much enjoyment do you get from your your travel time by:";
+
+/*message: How does your travel time contribute to your fitness when you travel by:*/
+"Rating_Prefered_Mot_Fit_Title" = "How does your travel time contribute to your fitness when you travel by:";
+
+/*message: How productive are you when you travel by:*/
+"Rating_Prefered_Mot_Prod_Title" = "How productive are you when you travel by:";
+
+/*register button message*/
+"Register" = "Register";
+
+/*message: Which modes of transport do you use regularly?*/
+"Regualr_Modes_Of_Transport_Title" = "Which modes of transport do you use regularly?";
+
+/*Reset Password*/
+"Reset_Password" = "Reset Password";
+
+/*message: Check out $@ for more information*/
+"Second_Onboarding_Screen_Help_Reseach_Check_Out_Site" = "Check out $@ for more information";
+
+/*message: With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.*/
+"Second_Onboarding_Screen_Help_Reseach_Description" = "With the information you provide, Woorti will gather knowledge for better transport solutions and share it with researchers, transport operators and local authorities around Europe.";
+
+/*didn't sign up yet message in the login page*/
+"Second_Onboarding_Screen_Help_Reseach_Title" = "Didn't sign-up yet? Press here";
+
+/*sign in button message*/
+"Sign_In" = "Sign In";
+
+/*splash screen start now button message*/
+"Start_Now" = "Start Now";
+
+/*message: While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.*/
+"Third_Onboarding_Screen_Description" = "While some like to study or work when they travel, others like to relax and disconnect. Some take the opportunity to exercise. While others jumpstart their day with music.";
+
+/*error shown to the user when registering with a already signed in email account*/
+"User_Already_Signed_In" = "It seems that %@ has already signed-in. Shall we log you in?";
+
+/*title that appears on the top of the login page*/
+"Welcome_Back" = "Welcome Back";
+
+/*title for the first onboarding page message: What is a worthwhile trip*/
+"What_Is_A_Worthwhile_Trip" = "What is a worthwhile trip";
+
+/*message: What is your age?*/
+"What_Is_Your_Age" = "What is your age?";
+
+/*message: What is your name?*/
+"What_Is_Your_Name" = "What is your name?";
+
+/*message: Where do you live?*/
+"Where_Do_You_Live" = "Where do you live?";
+
+/*you've got mail!*/
+"Youve_Got_Mail" = "you've got mail!";

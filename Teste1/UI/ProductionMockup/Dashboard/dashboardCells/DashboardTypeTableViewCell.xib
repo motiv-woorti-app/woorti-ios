@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="98" id="KGk-i7-Jjw" customClass="DashboardTypeTableViewCell" customModule="MoTiV" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="262" height="98"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="262" height="97.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="c0S-gi-6S3">
+                        <rect key="frame" x="10" y="5" width="242" height="61.5"/>
+                        <accessibility key="accessibilityConfiguration" label="Type"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.92549019610000005" green="0.75294117650000003" blue="0.54117647059999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ToI-LG-Wul">
+                        <rect key="frame" x="10" y="71.5" width="242" height="21"/>
+                        <accessibility key="accessibilityConfiguration" label="Name"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" red="0.86666666670000003" green="0.51372549020000002" blue="0.18823529410000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="c0S-gi-6S3" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="7yo-ao-lr7"/>
+                    <constraint firstItem="ToI-LG-Wul" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="EsO-iX-Zjc"/>
+                    <constraint firstItem="ToI-LG-Wul" firstAttribute="top" secondItem="c0S-gi-6S3" secondAttribute="bottom" constant="5" id="UeY-oA-bnL"/>
+                    <constraint firstItem="c0S-gi-6S3" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="WEi-go-6Kt"/>
+                    <constraint firstAttribute="bottom" secondItem="ToI-LG-Wul" secondAttribute="bottom" constant="5" id="Y9O-Jk-CA5"/>
+                    <constraint firstAttribute="trailing" secondItem="c0S-gi-6S3" secondAttribute="trailing" constant="10" id="Zhq-dV-g8E"/>
+                    <constraint firstAttribute="trailing" secondItem="ToI-LG-Wul" secondAttribute="trailing" constant="10" id="h9K-OZ-p0x"/>
+                    <constraint firstItem="ToI-LG-Wul" firstAttribute="top" secondItem="c0S-gi-6S3" secondAttribute="bottom" constant="5" id="haF-Rf-ixR"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="NameLabel" destination="ToI-LG-Wul" id="Qmo-Uh-v6P"/>
+                <outlet property="TypeLabel" destination="c0S-gi-6S3" id="E8z-Ww-zpo"/>
+            </connections>
+            <point key="canvasLocation" x="-136.23188405797103" y="170.75892857142856"/>
+        </tableViewCell>
+    </objects>
+</document>
